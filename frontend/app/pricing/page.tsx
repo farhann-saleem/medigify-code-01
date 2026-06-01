@@ -96,10 +96,11 @@ export default function PricingPage() {
               <span className="text-sm font-semibold uppercase tracking-widest text-accent">Pro</span>
             </div>
             <div className="flex items-end gap-1 mt-3">
-              <span className="font-heading text-4xl font-bold text-text-primary">Coming Soon</span>
+              <span className="font-heading text-4xl font-bold text-text-primary">Rs 1500</span>
+              <span className="text-text-secondary mb-1.5">/ month</span>
             </div>
             <p className="text-text-secondary text-sm mt-2">
-              Early access pricing will be announced soon. Sign up to be notified.
+              Everything you need to master your exams.
             </p>
           </div>
 

@@ -64,6 +64,7 @@ export default function Header() {
   const navLinks = [
     { label: 'How It Works', href: '/#how-it-works' },
     { label: 'Features', href: '/#features' },
+    { label: 'Pricing', href: '/pricing' },
     { label: 'Contact Us', href: 'mailto:support@medigify.com' },
   ];
 
@@ -80,13 +81,13 @@ export default function Header() {
           {!isLoggedIn && (
             <nav className="hidden md:flex items-center gap-6" aria-label="Main navigation">
               {navLinks.map((link) => (
-                <a
+                <Link
                   key={link.href}
                   href={link.href}
                   className="text-text-secondary hover:text-text-primary transition-colors duration-150 text-sm font-medium"
                 >
                   {link.label}
-                </a>
+                </Link>
               ))}
             </nav>
           )}
@@ -187,9 +188,9 @@ export default function Header() {
             ) : (
               <>
                 {navLinks.map((link) => (
-                  <a key={link.href} href={link.href} onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">
+                  <Link key={link.href} href={link.href} onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">
                     {link.label}
-                  </a>
+                  </Link>
                 ))}
                 <div className="pt-3 border-t border-border flex gap-3">
                   <Link href="/login" className="w-full" onClick={() => setMobileMenuOpen(false)}>
