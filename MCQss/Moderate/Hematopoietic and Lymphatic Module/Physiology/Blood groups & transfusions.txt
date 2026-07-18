@@ -1,0 +1,56 @@
+Question 1
+Question: Red blood cells:
+A. are biconcave disc-shaped.
+B. are nucleated.
+C. contain blood group antigens on their surface.
+D. hemolyze in hypertonic saline.
+E. lack membrane glycoproteins.
+Correct Option: C
+Explanation:
+Correct (C): Red blood cells contain blood group antigens on their surface, which determine ABO and Rh blood groups.
+Incorrect (A): Mature red blood cells are biconcave disc-shaped, but this is not the best answer because blood group antigens are the defining immunological feature.
+Incorrect (B): Mature human red blood cells are anucleate.
+Incorrect (D): Hypertonic saline causes red blood cells to shrink (crenate), not hemolyze.
+Incorrect (E): Red blood cells possess membrane glycoproteins that carry many blood group antigens.
+Tags: Moderate, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+
+Question 2
+Question: Stored blood plasma has a greater concentration of:
+A. calcium.
+B. potassium.
+C. sodium.
+D. urea.
+E. uric acid.
+Correct Option: B
+Explanation:
+Correct (B): Potassium concentration increases during blood storage because potassium leaks from red blood cells into the plasma.
+Incorrect (A): Calcium does not increase during storage and may decrease due to citrate anticoagulant binding.
+Incorrect (C): Sodium concentration does not significantly increase during storage.
+Incorrect (D): Urea concentration is not significantly altered by blood storage.
+Incorrect (E): Uric acid concentration is not characteristically increased in stored blood plasma.
+Tags: Moderate, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+
+Question 3
+Question: In Rh-negative blood, Rh antibodies are present:
+A. normally in the plasma.
+B. normally on the RBC membrane.
+C. only in persons who have been sensitized by Rh-positive blood.
+D. only in persons with blood group O.
+E. they cannot cross the placenta.
+Correct Option: C
+Explanation:
+Correct (C): Rh antibodies develop only after sensitization by exposure to Rh-positive blood through transfusion or pregnancy.
+Incorrect (A): Rh antibodies are not naturally present in the plasma.
+Incorrect (B): Rh antibodies circulate in plasma and are not normally attached to the RBC membrane.
+Incorrect (D): Rh antibody formation is unrelated to ABO blood group.
+Incorrect (E): Rh IgG antibodies readily cross the placenta.
+Tags: Moderate, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+

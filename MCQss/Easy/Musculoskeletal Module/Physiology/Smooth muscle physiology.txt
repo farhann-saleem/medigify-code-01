@@ -1,0 +1,74 @@
+Question: Action potential with plateau is seen in?
+A. Intestinal smooth muscle fibers
+B. SA node fibers
+C. Skeletal muscle fibers
+D. Ureteric smooth muscle fibers
+E. Uterine smooth muscles
+Correct Option: E
+Explanation:
+
+Correct (E): Uterine smooth muscles exhibit action potentials with a distinct plateau phase, which allows for prolonged periods of contraction during labor.
+
+Incorrect (A): Intestinal smooth muscle fibers typically display spikes or slow-wave potential changes rather than true plateau action potentials.
+
+Incorrect (B): SA node fibers generate pacemaker potentials characterized by a slow prepotential and spontaneous depolarization, lacking a plateau phase.
+
+Incorrect (C): Skeletal muscle fibers exhibit rapid, spiked action potentials lasting only a few milliseconds without any plateau phase.
+
+Incorrect (D): Ureteric smooth muscle fibers generate spike-like action potentials or plateau potentials depending on species, but "Uterine smooth muscles" are the definitive classic example of plateau dynamics in this specific comparison.
+Tags: Easy, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: During smooth muscle contraction, the main source of Ca²⁺ is?
+A. Extracellular fluid
+B. Mitochondria
+C. Sarcoplasmic reticulum
+D. Smooth endoplasmic reticulum
+E. Terminal cisternae
+Correct Option: A
+Explanation:
+
+Correct (A): Extracellular fluid serves as the main source of Ca²⁺ for smooth muscle contraction, entering via voltage-gated or ligand-gated calcium channels.
+
+Incorrect (B): Mitochondria function primarily in metabolic ATP production and do not serve as a primary source of contractile calcium.
+
+Incorrect (C): The sarcoplasmic reticulum is poorly developed in smooth muscle and contributes significantly less calcium than the extracellular pool.
+
+Incorrect (D): Smooth endoplasmic reticulum serves general biosynthetic roles and is not the primary immediate source of calcium ions during excitation.
+
+Incorrect (E): Terminal cisternae are specialized structures of the sarcoplasmic reticulum found in skeletal muscle, not smooth muscle.
+Tags: Easy, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: During smooth muscle contraction, Ca²⁺ primarily binds to?
+A. Actin
+B. Calmodulin
+C. Myosin
+D. Troponin
+E. Tropomyosin
+Correct Option: B
+Explanation:
+
+Correct (B): Calmodulin is the primary regulatory binding partner for calcium ions in smooth muscle, initiating downstream kinase activation.
+
+Incorrect (A): Actin is a thin filament structural component that binds to myosin heads, not directly to calcium ions.
+
+Incorrect (C): Myosin functions as the thick filament motor protein that undergoes phosphorylation, rather than binding directly to initiating calcium ions.
+
+Incorrect (D): Troponin is entirely absent in smooth muscle tissue, making calcium binding to it impossible in this context.
+
+Incorrect (E): Tropomyosin binds along the groove of actin filaments but does not possess calcium-binding properties.
+Tags: Easy, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+

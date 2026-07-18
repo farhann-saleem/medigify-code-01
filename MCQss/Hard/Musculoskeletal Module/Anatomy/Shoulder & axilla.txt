@@ -1,0 +1,36 @@
+
+Question: In difficult labor, undue separation of the neck from the shoulder can cause injury to the:
+A. lateral cord of the brachial plexus
+B. lower trunk of the brachial plexus
+C. medial cord of the brachial plexus
+D. posterior cord of the brachial plexus
+E. upper trunk of the brachial plexus
+Correct Option: E
+Explanation:
+ * **Correct (E):** An increase in the angle between the neck and shoulder stretches or tears the C5 and C6 nerve roots, causing injury to the upper trunk of the brachial plexus (Erb-Duchenne palsy).
+ * **Incorrect (A):** The lateral cord of the brachial plexus is located distally and is not directly tractioned by neck-shoulder traction.
+ * **Incorrect (B):** The lower trunk of the brachial plexus is injured during hyperabduction of the arm, which widens the axillary-humeral angle rather than the neck-shoulder angle.
+ * **Incorrect (C):** The medial cord of the brachial plexus arises from the lower trunk and is unaffected by superior traction.
+ * **Incorrect (D):** The posterior cord of the brachial plexus is deeply situated and formed by posterior divisions, making it less susceptible to isolated superior traction injuries.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Direct attachment of pectoral girdle to trunk is by the following muscles except:
+A. pectoralis major.
+B. pectoralis minor.
+C. subclavius.
+D. trapezius.
+E. the rhomboids.
+Correct Option: A
+Explanation:
+ * Correct (A): The pectoralis major inserts directly onto the lateral lip of the intertubercular sulcus of the humerus, thereby connecting the trunk to the free upper limb rather than attaching the pectoral girdle.
+ * Incorrect (B): The pectoralis minor attaches the coracoid process of the scapula (pectoral girdle) directly to the ribs of the trunk.
+ * Incorrect (C): The subclavius muscle anchors the inferior surface of the clavicle (Anterior pectoral girdle) directly to the first rib.
+ * Incorrect (D): The trapezius inserts onto the clavicle and scapula, directly connecting the posterior pectoral girdle to the axial skeleton.
+ * Incorrect (E): The rhomboids (major and minor) connect the medial border of the scapula directly to the vertebral spinous processes of the trunk.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+

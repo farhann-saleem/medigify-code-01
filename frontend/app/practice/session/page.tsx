@@ -9,12 +9,14 @@ import mcqData from '@/data/mcqs.json';
 import { MCQ, Answer } from '@/lib/types';
 import {
   shuffleArray,
-  filterMCQsBySubjects,
+  filterMCQs,
   calculateAccuracy,
   formatTime,
   getSubjectBreakdown,
   getScoreColor,
   getOptionLabel,
+  getDifficultyLabel,
+  getDifficultyColor,
 } from '@/lib/utils';
 import { usePracticeSession } from '@/hooks/usePracticeSession';
 import { useUserPlan } from '@/hooks/useUserPlan';
@@ -175,10 +177,19 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
                         {q.options[q.correct_option as keyof typeof q.options]}
                       </p>
                     </div>
-                    <div className="mt-3 border-l-2 border-accent bg-bg-primary rounded-r-lg p-3">
-                      <p className="text-xs text-text-secondary leading-relaxed">
-                        {q.explanation}
-                      </p>
+                    <div className="mt-3 border-l-2 border-accent bg-bg-primary rounded-r-lg p-3 space-y-1.5">
+                      {q.explanation[q.correct_option as keyof typeof q.explanation] && (
+                        <p className="text-xs leading-relaxed text-text-secondary">
+                          <span className="font-medium text-success">{getOptionLabel(q.correct_option)}:</span>{' '}
+                          {q.explanation[q.correct_option as keyof typeof q.explanation]}
+                        </p>
+                      )}
+                      {answer.selectedOption !== q.correct_option && q.explanation[answer.selectedOption as keyof typeof q.explanation] && (
+                        <p className="text-xs leading-relaxed text-text-secondary">
+                          <span className="font-medium text-error">{getOptionLabel(answer.selectedOption)}:</span>{' '}
+                          {q.explanation[answer.selectedOption as keyof typeof q.explanation]}
+                        </p>
+                      )}
                     </div>
                   </div>
                 );
@@ -309,11 +320,16 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
         <p className="text-text-primary text-lg leading-relaxed font-medium">
           {currentQuestion.statement}
         </p>
-        {currentQuestion.topic && (
-          <span className="inline-block mt-3 text-xs text-text-secondary bg-bg-primary px-2 py-1 rounded">
-            {currentQuestion.subject} → {currentQuestion.topic}
+        <div className="flex flex-wrap items-center gap-2 mt-3">
+          {currentQuestion.difficulty && (
+            <span className={`inline-flex items-center text-xs font-medium px-2.5 py-1 rounded-full border ${getDifficultyColor(currentQuestion.difficulty).text} ${getDifficultyColor(currentQuestion.difficulty).bg} ${getDifficultyColor(currentQuestion.difficulty).border}`}>
+              {getDifficultyLabel(currentQuestion.difficulty)}
+            </span>
+          )}
+          <span className="inline-flex items-center text-xs text-text-secondary bg-bg-primary border border-border px-2.5 py-1 rounded-full">
+            {currentQuestion.module && `${currentQuestion.module} · `}{currentQuestion.subject}{currentQuestion.topic && ` · ${currentQuestion.topic}`}
           </span>
-        )}
+        </div>
       </div>
 
       {/* Options */}
@@ -385,9 +401,34 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
                 {currentAnswer?.isCorrect ? 'Correct!' : 'Incorrect'}
               </span>
             </div>
-            <p className="text-text-secondary leading-relaxed text-sm">
-              {currentQuestion.explanation}
-            </p>
+            <div className="space-y-2 mt-1">
+              {currentQuestion.explanation[currentQuestion.correct_option as keyof typeof currentQuestion.explanation] && (
+                <div className="flex items-start gap-2">
+                  <CheckCircle2 className="w-4 h-4 text-success shrink-0 mt-0.5" />
+                  <p className="text-text-primary leading-relaxed text-sm">
+                    <span className="font-medium text-success">{getOptionLabel(currentQuestion.correct_option)}:</span>{' '}
+                    {currentQuestion.explanation[currentQuestion.correct_option as keyof typeof currentQuestion.explanation]}
+                  </p>
+                </div>
+              )}
+              {currentAnswer && currentAnswer.selectedOption !== currentQuestion.correct_option &&
+                currentQuestion.explanation[currentAnswer.selectedOption as keyof typeof currentQuestion.explanation] && (
+                <div className="flex items-start gap-2">
+                  <XCircle className="w-4 h-4 text-error shrink-0 mt-0.5" />
+                  <p className="text-text-secondary leading-relaxed text-sm">
+                    <span className="font-medium text-error">{getOptionLabel(currentAnswer.selectedOption)}:</span>{' '}
+                    {currentQuestion.explanation[currentAnswer.selectedOption as keyof typeof currentQuestion.explanation]}
+                  </p>
+                </div>
+              )}
+              {Object.entries(currentQuestion.explanation)
+                .filter(([key]) => key !== currentQuestion.correct_option && key !== currentAnswer?.selectedOption)
+                .map(([key, text]) => (
+                  <p key={key} className="text-text-secondary leading-relaxed text-sm pl-6">
+                    <span className="font-medium">{getOptionLabel(key)}:</span> {text}
+                  </p>
+                ))}
+            </div>
 
             {/* Add to Flashcards */}
             <div className="mt-3 pt-3 border-t border-border flex items-center justify-between">
@@ -439,23 +480,23 @@ function PracticeSessionContent() {
   const { isPro, isLoading: planLoading } = useUserPlan();
 
   const subjectsParam = searchParams.get('subjects') || 'all';
+  const difficultyParam = searchParams.get('difficulty') || 'all';
+  const moduleParam = searchParams.get('module') || 'all';
   const countParam = parseInt(searchParams.get('count') || '10', 10);
 
   const questions = useMemo(() => {
     const allMcqs = mcqData as MCQ[];
-    let filtered: MCQ[];
 
-    if (subjectsParam === 'all') {
-      filtered = allMcqs;
-    } else {
-      const subjects = subjectsParam.split(',');
-      filtered = filterMCQsBySubjects(allMcqs, subjects);
-    }
+    const filtered = filterMCQs(allMcqs, {
+      subjects: subjectsParam === 'all' ? undefined : subjectsParam.split(','),
+      difficulties: difficultyParam === 'all' ? undefined : difficultyParam.split(','),
+      modules: moduleParam === 'all' ? undefined : moduleParam.split(','),
+    });
 
     const shuffled = shuffleArray(filtered);
     const limit = isPro ? countParam : Math.min(countParam, PLAN_LIMITS.free.mcqsPerSubject);
     return shuffled.slice(0, limit);
-  }, [subjectsParam, countParam, isPro]);
+  }, [subjectsParam, difficultyParam, moduleParam, countParam, isPro]);
 
   const sessionKey = useMemo(
     () => questions.map((question) => question.id).join('|'),

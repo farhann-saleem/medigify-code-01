@@ -1,0 +1,629 @@
+Question: Which of the following is not a rotator cuff muscle?
+A. Infraspinatus muscle
+B. Subscapularis muscle
+C. Supraspinatus muscle
+D. Teres major muscle
+E. Teres minor muscle
+Correct Option: D
+Explanation:
+ * Correct (D): Teres major muscle is not part of the rotator cuff; it acts to adduct and medially rotate the humerus but does not form the stabilizing musculotendinous cuff around the glenohumeral joint.
+ * Incorrect (A): Infraspinatus muscle is a true rotator cuff muscle that provides lateral rotation and posterior stability to the shoulder joint.
+ * Incorrect (B): Subscapularis muscle is a rotator cuff muscle located on the anterior surface of the scapula that medially rotates the humerus.
+ * Incorrect (C): Supraspinatus muscle is a rotator cuff muscle responsible for initiating the first 15 degrees of arm abduction.
+ * Incorrect (E): Teres minor muscle is a rotator cuff muscle that assists the infraspinatus in lateral rotation and posterior joint stabilization.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Which of the following group of lymph nodes is not present in the axilla?
+A. Apical group
+B. Central group
+C. Cervical group
+D. Lateral group
+E. Pectoral group
+Correct Option: C
+Explanation:
+ * Correct (C): Cervical group lymph nodes are located in the neck region and do not belong to the anatomical clusters defining the axillary lymphatic system.
+ * Incorrect (A): Apical group nodes are true axillary nodes situated at the apex of the axilla, receiving lymph from all other axillary groups.
+ * Incorrect (B): Central group nodes are embedded in the axillary fat and receive lymph from the lateral, pectoral, and subscapular groups.
+ * Incorrect (D): Lateral group nodes lie along the lateral wall of the axilla, receiving drainage from the upper limb.
+ * Incorrect (E): Pectoral group nodes lie along the lower border of the pectoralis minor, draining the anterior thoracic wall and breast.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The supraspinatus muscle will:
+A. abduct the arm.
+B. adduct the arm.
+C. elevate the scapula.
+D. extend and laterally rotate the arm.
+E. extend and medially rotate the arm.
+Correct Option: A
+Explanation:
+ * Correct (A): abduct the arm. is the primary action of the supraspinatus, specifically initiating the first 0 to 15 degrees of abduction before the deltoid takes over.
+ * Incorrect (B): adduct the arm. is diametrically opposed to the supraspinatus function, which pulls the greater tubercle superiorly to abduct.
+ * Incorrect (C): elevate the scapula. is a functional motion executed by the levator scapulae and trapezius muscles, not the rotator cuff.
+ * Incorrect (D): extend and laterally rotate the arm. describes functions primarily attributed to the teres minor, infraspinatus, and posterior deltoid.
+ * Incorrect (E): extend and medially rotate the arm. is the collective action of the latissimus dorsi and teres major muscles.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The nerve that innervates the trapezius muscle is:
+A. axillary nerve.
+B. medial pectoral nerve.
+C. musculocutaneous nerve.
+D. radial nerve.
+E. spinal accessory nerve.
+Correct Option: E
+Explanation:
+ * Correct (E): spinal accessory nerve. (CN XI) provides the somatic motor innervation to the trapezius muscle, responsible for its motor control.
+ * Incorrect (A): axillary nerve. supplies the deltoid and teres minor muscles, having no distribution to the back musculature.
+ * Incorrect (B): medial pectoral nerve. supplies the pectoralis major and pectoralis minor muscles on the anterior chest wall.
+ * Incorrect (C): musculocutaneous nerve. supplies the flexor muscles of the anterior compartment of the arm.
+ * Incorrect (D): radial nerve. innervates the posterior compartments of the arm and forearm, supplying extensor musculature.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The pectoralis major muscle:
+A. is an abductor of the arm.
+B. is an adductor of the arm.
+C. is a powerful flexor of the forearm.
+D. is innervated by the thoracodorsal nerve.
+E. originates from the lateral third of the clavicle.
+Correct Option: B
+Explanation:
+ * Correct (B): is an adductor of the arm. is a primary mechanical action of the pectoralis major, acting alongside the latissimus dorsi to pull the humerus medially.
+ * Incorrect (A): is an abductor of the arm. is incorrect because the muscle draws the upper limb toward the midline, opposing abduction.
+ * Incorrect (C): is a powerful flexor of the forearm. is incorrect because its insertions allow it to flex the arm at the glenohumeral joint, not the forearm at the elbow.
+ * Incorrect (D): is innervated by the thoracodorsal nerve. is false; it is innervated by the medial and lateral pectoral nerves, while the thoracodorsal nerve supplies the latissimus dorsi.
+ * Incorrect (E): originates from the lateral third of the clavicle. is incorrect because its clavicular head originates from the anterior surface of the medial half of the clavicle.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: This nerve innervates the trapezius?
+A. Axillary nerve
+B. Dorsal scapular nerve
+C. Long thoracic nerve
+D. Medial pectoral nerve
+E. Spinal accessory nerve
+Correct Option: E
+Explanation:
+ * Correct (E): Spinal accessory nerve supplies the trapezius with its motor innervation, allowing actions like elevation, retraction, and rotation of the scapula.
+ * Incorrect (A): Axillary nerve travels through the quadrangular space to supply the deltoid and teres minor.
+ * Incorrect (B): Dorsal scapular nerve runs deep to provide motor innervation to the rhomboids and levator scapulae.
+ * Incorrect (C): Long thoracic nerve descends along the chest wall to innervate the serratus anterior muscle.
+ * Incorrect (D): Medial pectoral nerve passes forward to primarily supply the pectoralis minor and part of the pectoralis major.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Quadrangular space is bounded by the following structures except:
+A. infraspinatus muscle
+B. long head of biceps brachii muscle
+C. surgical neck of humerus
+D. teres major muscle
+E. teres minor muscle
+**Correct Option: A**
+**Explanation:**
+ * **Correct (A):** The infraspinatus muscle is located superior and posterior to the scapula, inserting into the middle facet of the greater tubercle of the humerus, and does not form any boundary of the quadrangular space.
+ * **Incorrect (B):** The long head of biceps brachii muscle is located anteriorly in the arm and is entirely unrelated to the posterior scapular spaces, serving as an absolute distractor from the true medial boundary (the long head of triceps brachii).
+ * **Incorrect (C):** The surgical neck of humerus forms the literal lateral boundary of the quadrangular space.
+ * **Incorrect (D):** The teres major muscle forms the definitive inferior boundary of this anatomical space.
+ * **Incorrect (E):** The teres minor muscle forms the strict superior boundary of the quadrangular space.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The following statements are true about the mammary gland except:
+A. lymphatic drainage is primarily to the axillary lymph nodes
+B. it consists of 15 to 20 lobes
+C. it is a modified sebaceous gland
+D. it is anchored to pectoral fascia by suspensory ligaments
+E. the axillary tail extends into the axilla
+**Correct Option: C**
+**Explanation:**
+ * **Correct (C):** The mammary gland is histologically classified as a modified apocrine sweat gland, not a modified sebaceous gland.
+ * **Incorrect (A):** Approximately 75% of the lymphatic drainage of the breast passes primarily to the axillary lymph nodes.
+ * **Incorrect (B):** The glandular tissue of the breast is anatomically divided into 15 to 20 lobes arranged radially.
+ * **Incorrect (D):** The breast tissue is firmly anchored to the overlying skin and underlying pectoral fascia by suspensory ligaments (of Cooper).
+ * **Incorrect (E):** The axillary tail (of Spence) is a normal anatomical extension that pierces the deep fascia to project into the axilla.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The tendons of the following muscles form the rotator cuff except:
+A. infraspinatus
+B. subscapularis
+C. supraspinatus
+D. teres major
+E. teres minor
+**Correct Option: D**
+**Explanation:**
+ * **Correct (D):** The teres major muscle inserts onto the medial lip of the intertubercular sulcus of the humerus and does not contribute to the fibrous stabilizing rotator cuff.
+ * **Incorrect (A):** The infraspinatus tendon blends with the posterior aspect of the glenohumeral joint capsule to form a vital component of the rotator cuff.
+ * **Incorrect (B):** The subscapularis tendon provides anterior reinforcement to the glenohumeral joint capsule as a rotator cuff muscle.
+ * **Incorrect (C):** The supraspinatus tendon passes superiorly to form the upper element of the rotator cuff, initiating arm abduction.
+ * **Incorrect (E):** The teres minor tendon reinforces the lower posterior aspect of the rotator cuff capsule.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The lymphatic drainage of the breast involve all of the following except:
+A. abdominal lymph nodes
+B. axillary lymph nodes
+C. inguinal lymph nodes
+D. parasternal lymph nodes
+E. posterior intercostals nodes
+**Correct Option: C**
+**Explanation:**
+ * **Correct (C):** The inguinal lymph nodes drain the lower extremities and lower abdominal wall below the umbilicus, having no involvement with the lymphatic drainage of the breast.
+ * **Incorrect (A):** Abdominal lymph nodes (such as phrenic or subdiaphragmatic nodes) receive minor lymphatic pathways from the inferior quadrants of the breast.
+ * **Incorrect (B):** The axillary lymph nodes represent the primary, highly dominant pathway for breast lymphatic clearance.
+ * **Incorrect (D):** The parasternal lymph nodes receive critical drainage pathways from the medial quadrants of the breast.
+ * **Incorrect (E):** The posterior intercostals nodes drain the deep structure and posterior margins of the mammary gland.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The action of the supraspinatus muscle is to:
+A. abduct the arm.
+B. adduct the arm.
+C. laterally rotate the arm.
+D. medially rotate the arm.
+E. medially translate the arm.
+Correct Option: A
+Explanation:
+ * **Correct (A):** The supraspinatus muscle initiates the first 15 degrees of abduction of the arm at the glenohumeral joint before the deltoid takes over.
+ * **Incorrect (B):** Adduct the arm is incorrect because adduction is primarily executed by the latissimus dorsi, pectoralis major, and teres major.
+ * **Incorrect (C):** Laterally rotate the arm is an action principally performed by the infraspinatus and teres minor muscles.
+ * **Incorrect (D):** Medially rotate the arm is an action executed by the subscapularis, teres major, and latissimus dorsi.
+ * **Incorrect (E):** Medially translate the arm is incorrect because the rotator cuff muscles primarily function to compress and stabilize the humeral head within the glenoid cavity rather than translate it medially.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Which of the following nerves innervates the trapezius muscle?
+A. Axillary nerve
+B. Dorsal scapular nerve
+C. Long thoracic nerve
+D. Medial pectoral nerve
+E. Spinal accessory nerve
+Correct Option: E
+Explanation:
+ * **Correct (E):** The spinal accessory nerve (CN XI) provides somatic motor innervation to the trapezius muscle, responsible for elevating, retracting, and rotating the scapula.
+ * **Incorrect (A):** The axillary nerve innervates the deltoid and teres minor muscles.
+ * **Incorrect (B):** The dorsal scapular nerve provides motor innervation to the rhomboids and levator scapulae.
+ * **Incorrect (C):** The long thoracic nerve innervates the serratus anterior muscle.
+ * **Incorrect (D):** The medial pectoral nerve primarily innervates the pectoralis minor and a portion of the pectoralis major.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Muscles attached to the lateral third of the clavicle are the deltoid and the:
+A. pectoralis major.
+B. sternohyoid.
+C. sternomastoid.
+D. subclavius.
+E. trapezius.
+Correct Option: E
+Explanation:
+ * **Correct (E):** The trapezius muscle inserts onto the posterior aspect of the lateral third of the clavicle, mirroring the origin of the deltoid muscle on the anterior aspect.
+ * **Incorrect (A):** The pectoralis major originates from the anterior surface of the medial half of the clavicle.
+ * **Incorrect (B):** The sternohyoid muscle attaches to the posterior surface of the medial end of the clavicle and sternum.
+ * **Incorrect (C):** The sternomastoid muscle attaches to the superior surface of the medial third of the clavicle.
+ * **Incorrect (D):** The subclavius muscle is located inferiorly, inserting into the subclavian groove on the inferior surface of the middle third of the clavicle.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Regarding joints of the upper limb, which of the following joints is less stable but more mobile?
+A. Elbow joint
+B. Hip joint
+C. Knee joint
+D. Shoulder joint
+E. Wrist joint
+Correct Option: D
+Explanation:
+ * **Correct (D):** The shoulder joint (glenohumeral joint) features a shallow glenoid cavity accommodating a large humeral head, which maximizes mobility at the explicit expense of bony stability.
+ * **Incorrect (A):** The elbow joint is a highly stable hinge joint due to the tight interlocking bony configuration between the trochlea of the humerus and the trochlear notch of the ulna.
+ * **Incorrect (B):** The hip joint belongs to the lower limb, not the upper limb, and features high structural stability via a deep acetabular socket.
+ * **Incorrect (C):** The knee joint belongs to the lower limb and relies on robust ligamentous structures that restrict its range of motion compared to the shoulder.
+ * **Incorrect (E):** The wrist joint possesses restricted condyloid planes of movement and is structurally tighter and less mobile than the multi-axial glenohumeral joint.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Regarding the shoulder joint, the rotator cuff muscular support is weaker:
+A. in the anterior direction.
+B. in the inferior direction.
+C. in the lateral direction.
+D. in the posterior direction.
+E. in the superior direction.
+Correct Option: B
+Explanation:
+ * **Correct (B):** The rotator cuff musculature encapsulates the anterior, superior, and posterior aspects of the glenohumeral joint, leaving the inferior direction completely unsupported by tendons.
+ * **Incorrect (A):** In the anterior direction, the shoulder joint is structurally reinforced by the robust subscapularis tendon.
+ * **Incorrect (C):** In the lateral direction, the muscles converge toward their insertions on the humeral tubercles, leaving no structural capsule gap laterally.
+ * **Incorrect (D):** In the posterior direction, the joint receives significant structural reinforcement from the infraspinatus and teres minor tendons.
+ * **Incorrect (E):** In the superior direction, the joint is reinforced by the supraspinatus tendon as well as the coracoacromial arch.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The muscle attached to the medial lip of the bicipital groove of the humerus is the:
+A. pectoralis major.
+B. subscapularis.
+C. teres major.
+D. teres minor.
+E. triceps brachii.
+Correct Option: C
+Explanation:
+ * **Correct (C):** The teres major muscle inserts directly onto the medial lip of the bicipital groove (intertubercular sulcus) of the humerus.
+ * **Incorrect (A):** The pectoralis major muscle inserts onto the lateral lip of the bicipital groove.
+ * **Incorrect (B):** The subscapularis muscle inserts onto the lesser tubercle of the humerus, superior to the medial lip.
+ * **Incorrect (D):** The teres minor muscle inserts onto the lowest facet of the greater tubercle of the humerus.
+ * **Incorrect (E):** The triceps brachii (long head) originates from the infraglenoid tubercle and inserts onto the olecranon process of the ulna, not the bicipital groove.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The inferior boundary of the quadrangular space is formed by the:
+A. humerus.
+B. infraspinatus muscle.
+C. long head of the triceps muscle.
+D. teres major muscle.
+E. teres minor muscle.
+Correct Option: D
+Explanation:
+ * **Correct (D):** The superior border of the teres major muscle defines the precise anatomical inferior boundary of the quadrangular space.
+ * **Incorrect (A):** The surgical neck of the humerus forms the lateral boundary of the quadrangular space.
+ * **Incorrect (B):** The infraspinatus muscle is located superiorly and posteriorly on the scapula and does not form a boundary of this space.
+ * **Incorrect (C):** The long head of the triceps muscle forms the medial boundary of the quadrangular space.
+ * **Incorrect (E):** The inferior border of the teres minor muscle forms the superior boundary of the quadrangular space posteriorly.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Quadrangular space is bounded by the following structures except:
+A. infraspinatus
+B. long head of biceps
+C. subscapularis
+D. surgical neck of humerus
+E. teres minor
+Correct Option: A
+Explanation:
+ * Correct (A): The infraspinatus muscle is located superiorly on the posterior scapula and does not form any boundary of the quadrangular space.
+ * Incorrect (B): The long head of biceps is located in the anterior compartment of the arm and is entirely excluded from the boundaries of this posterior space.
+ * Incorrect (C): The subscapularis muscle forms the anterior boundary of the quadrangular space.
+ * Incorrect (D): The surgical neck of humerus forms the lateral boundary of the quadrangular space.
+ * Incorrect (E): The teres minor muscle forms the superior boundary of the quadrangular space posteriorly.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The following statements are true about the mammary gland except:
+A. it consists of 15 to 20 lobes
+B. it has an axillary tail
+C. it is a modified sebaceous gland
+D. ligaments of cooper anchor it to pectoral fascia
+E. lymphatic drainage is to the axillary lymph nodes
+Correct Option: C
+Explanation:
+ * Correct (C): The mammary gland is anatomically classified as a modified sudoriferous (sweat) gland rather than a modified sebaceous gland.
+ * Incorrect (A): The glandular tissue of the female breast normally consists of 15 to 20 lobes arranged radially.
+ * Incorrect (B): The mammary gland possesses a small extension called the axillary tail (of Spence) that pierces the deep fascia to enter the axilla.
+ * Incorrect (C): The suspensory ligaments of cooper are fibrous bands that anchor the gland securely to the overlying skin and underlying pectoral fascia.
+ * Incorrect (E): The vast majority (approximately 75%) of the lymphatic drainage from the mammary gland passes into the axillary lymph nodes.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The spine of scapula is continued laterally as:
+A. acromion process
+B. coracoid process
+C. infra-glenoid tubercle
+D. supra scapular notch
+E. supra-glenoid tubercle
+Correct Option: A
+Explanation:
+ * Correct (A): The subcutaneous bony spine of scapula runs horizontally across the posterior surface and expands flattened laterally as the acromion process.
+ * Incorrect (B): The coracoid process is a separate, hook-like projection that arises from the superior border of the scapular neck anteriorly.
+ * Incorrect (C): The infra-glenoid tubercle is located on the lateral border of the scapula immediately inferior to the glenoid cavity.
+ * Incorrect (D): The supra scapular notch is an indentation found along the superior border of the scapula, medial to the base of the coracoid process.
+ * Incorrect (E): The supra-glenoid tubercle is a small projection located directly superior to the glenoid cavity on the scapular head.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Which muscles divides the axillary artery into 3 parts:
+A. deltoid
+B. pectoralis major
+C. pectoralis minor
+D. teres major
+E. teres minor
+Correct Option: C
+Explanation:
+ * Correct (C): The pectoralis minor muscle crosses anteriorly over the axillary artery, structurally demarcating it into first (proximal), second (posterior), and third (distal) parts.
+ * Incorrect (A): The deltoid muscle covers the glenohumeral joint laterally and does not cross or divide the axillary artery path.
+ * Incorrect (B): The pectoralis major muscle forms the muscular anterior wall of the axilla but does not serve as the specific anatomical landmark for dividing the artery.
+ * Incorrect (D): The teres major muscle marks the definitive inferior boundary where the axillary artery terminates and transitions into the brachial artery.
+ * Incorrect (E): The teres minor muscle forms part of the posterior axillary wall musculature superior to the teres major but does not segment the artery.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Stabilizer muscles of the shoulder joint include the following EXCEPT:
+A. deltoid
+B. infraspinatus
+C. long head of biceps brachii
+D. supraspinatus
+E. teres minor
+Correct Option: A
+Explanation:
+ * **Correct (A):** The deltoid acts predominantly as a powerful prime mover (abductor) of the arm and tends to displace the humeral head upward rather than operating as a joint stabilizer.
+ * **Incorrect (B):** The infraspinatus stabilizes the glenohumeral joint by pulling the humeral head into the glenoid cavity.
+ * **Incorrect (C):** The long head of biceps brachii travels intracapsularly over the head of the humerus, depressing it and dynamically stabilizing the joint.
+ * **Incorrect (D):** The supraspinatus holds the humeral head in place against the glenoid fossa during initial abduction to prevent upward shearing.
+ * **Incorrect (E):** The teres minor stabilizes the posterior aspect of the joint capsule as a component of the rotator cuff.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The tendon of which muscle passes within the shoulder joint cavity?
+A. Coracobrachialis
+B. Infraspinatus
+C. Long head of biceps brachii
+D. Short head of biceps brachii
+E. Supraspinatus
+Correct Option: C
+Explanation:
+ * **Correct (C):** The tendon of the long head of biceps brachii originates from the supraglenoid tubercle and travels intracapsularly (within the shoulder joint cavity).
+ * **Incorrect (A):** The coracobrachialis muscle originates from the apex of the coracoid process, remaining entirely extra-articular.
+ * **Incorrect (B):** The infraspinatus inserts onto the greater tubercle of the humerus, blending with the outside of the joint capsule without entering the cavity.
+ * **Incorrect (D):** The short head of biceps brachii originates from the coracoid process and descends completely outside the glenohumeral capsule.
+ * **Incorrect (E):** The supraspinatus runs superior to the joint capsule, blending with its external fibrous layer, but remains extra-articular.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Damage to which of the following nerves will lead to a loss of sensation over the deltoid muscle?
+A. Axillary nerve
+B. Median nerve
+C. Musculocutaneous nerve
+D. Radial nerve
+E. Ulnar nerve
+Correct Option: A
+Explanation:
+ * **Correct (A):** The axillary nerve gives off the upper lateral cutaneous nerve of the arm, which supplies skin coverage and sensation over the deltoid muscle.
+ * **Incorrect (B):** The median nerve enters the forearm to provide sensory innervation to the lateral palm and fingers, not the shoulder region.
+ * **Incorrect (C):** The musculocutaneous nerve continues as the lateral cutaneous nerve of the forearm, providing sensation to the lateral forearm skin.
+ * **Incorrect (D):** The radial nerve supplies the posterior cutaneous nerves of the arm and forearm, bypassing the skin over the deltoid muscle.
+ * **Incorrect (E):** The ulnar nerve supplies sensory fields on the medial aspect of the hand and the medial one and a half fingers.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Latissimus dorsi muscle:
+A. elevates the scapula
+B. extends and laterally rotates the arm
+C. extends and medially rotates the arm
+D. extends the vertebral column
+E. flexes and medially rotates the arm
+Correct Option: C
+Explanation:
+ * **Correct (C):** Inserting into the floor of the intertubercular sulcus of the humerus, the latissimus dorsi muscle powerfully extends and medially rotates the arm (as well as adducts it).
+ * **Incorrect (A):** Elevation of the scapula is accomplished by the levator scapulae and trapezius muscles, not the latissimus dorsi.
+ * **Incorrect (B):** The latissimus dorsi acts as a medial rotator of the arm, whereas lateral rotation is performed by muscles like infraspinatus and teres minor.
+ * **Incorrect (D):** The deep intrinsic back muscles (like erector spinae) extend the vertebral column; the latissimus dorsi moves the upper limb.
+ * **Incorrect (E):** The latissimus dorsi is an extensor of the arm, whereas flexion is carried out by muscles like the anterior deltoid and pectoralis major.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Nerve supply to the trapezius is from the:
+A. axillary nerve
+B. dorsal scapular nerve
+C. long thoracic nerve
+D. medial pectoral nerve
+E. spinal accessory nerve
+Correct Option: E
+Explanation:
+ * **Correct (E):** Motor innervation to the trapezius muscle is provided by the spinal accessory nerve (CN XI), while proprioceptive fibers arise from C3 and C4 spinal nerves.
+ * **Incorrect (A):** The axillary nerve supplies motor fibers to the deltoid and teres minor muscles, not the trapezius.
+ * **Incorrect (B):** The dorsal scapular nerve provides motor innervation to the rhomboids and levator scapulae muscles.
+ * **Incorrect (C):** The long thoracic nerve supplies the serratus anterior muscle exclusively.
+ * **Incorrect (D):** The medial pectoral nerve targets the pectoralis major and pectoralis minor muscles.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The tendons of the following muscles form the rotator cuff EXCEPT:
+A. infraspinatus
+B. subscapularis
+C. supraspinatus
+D. teres major
+E. teres minor
+Correct Option: D
+Explanation:
+ * **Correct (D):** The teres major muscle inserts onto the medial lip of the intertubercular sulcus and acts as an adducting prime mover, rather than forming part of the protective rotator cuff.
+ * **Incorrect (A):** The infraspinatus tendon reinforces the posterior aspect of the rotator cuff.
+ * **Incorrect (B):** The subscapularis tendon provides anterior support to the glenohumeral joint as part of the rotator cuff.
+ * **Incorrect (C):** The supraspinatus tendon reinforces the superior aspect of the rotator cuff capsule.
+ * **Incorrect (E):** The teres minor tendon acts along the posteroinferior aspect of the rotator cuff to hold the humeral head steady.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Axillary nerve supplies to:
+A. biceps brachii.
+B. pectoralis major.
+C. subscapularis.
+D. teres major.
+E. teres minor.
+Correct Option: E
+Explanation:
+ * Correct (E): The axillary nerve provides motor innervation exclusively to two muscles: the deltoid and the teres minor.
+ * Incorrect (A): The biceps brachii is situated in the anterior compartment of the arm and is supplied by the musculocutaneous nerve.
+ * Incorrect (B): The pectoralis major receives motor supply from the medial pectoral nerve and lateral pectoral nerve coming off the brachial plexus cords.
+ * Incorrect (C): The subscapularis muscle is innervated by the upper and lower subscapular nerves arising from the posterior cord.
+ * Incorrect (D): The teres major muscle is innervated by the lower subscapular nerve, not the axillary nerve.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Which two structures pass through quadrangular space:
+A. axillary nerve and posterior circumflex humeral artery.
+B. median nerve and axillary artery.
+C. musculocutaneous nerve and posterior circumflex humeral vessels.
+D. radial nerve and anterior circumflex humeral artery.
+E. ulnar nerve and brachial artery.
+Correct Option: A
+Explanation:
+ * Correct (A): The axillary nerve and posterior circumflex humeral artery travel together backwards through the quadrangular space to reach and supply the deltoid region.
+ * Incorrect (B): The median nerve and axillary artery descend through the main axillary sheath anteriorly and do not deviate into the posterior axillary wall spaces.
+ * Incorrect (C): The musculocutaneous nerve pierces the coracobrachialis muscle in the anterior arm compartment and has no passage through the posterior quadrangular space.
+ * Incorrect (D): The radial nerve and profunda brachii artery exit the axilla via the lower triangular space (triangular interval), not the quadrangular space.
+ * Incorrect (E): The ulnar nerve and brachial artery travel along the medial side of the arm toward the anterior cubital fossa and do not enter any posterior scapular spaces.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: Which muscles form the posterior wall of axilla:
+A. pectoralis major, pectoralis minor, and subclavius
+B. subscapularis, latissimus dorsi, and teres major
+C. supraspinatus, infraspinatus, and teres minor
+D. teres major, teres minor, and deltoid
+E. trapezius, rhomboid major, and levator scapulae
+Correct Option: B
+Explanation:
+ * Correct (B): The subscapularis, latissimus dorsi, and teres major muscles structurally align over the anterior aspect of the scapula to form the posterior boundary of the axillary space.
+ * Incorrect (A): The pectoralis major, pectoralis minor, and subclavius muscles are located anteriorly and form the anterior wall of the axilla.
+ * Incorrect (C): The supraspinatus, infraspinatus, and teres minor muscles are located on the posterior aspect of the scapula and contribute to the rotator cuff, not the posterior axillary wall.
+ * Incorrect (D): While the teres major contributes to the posterior wall, the teres minor and deltoid muscles are located superiorly and laterally, and do not form this boundary.
+ * Incorrect (E): The trapezius, rhomboid major, and levator scapulae are extrinsic back muscles that act on the pectoral girdle and reside completely outside the axillary boundaries.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The most common site of fracture of the clavicle is the:
+A. attachment site of the coracoclavicular ligament
+B. attachment site of the sternocleidomastoid muscle
+C. junction of the medial two thirds and the lateral third
+D. lateral one third near the acromioclavicular joint
+E. medial one third near the sternoclavicular joint
+Correct Option: C
+Explanation:
+ * Correct (C): The junction of the medial two thirds and the lateral third is the weakest part of the clavicle because it represents the transition point between the dual curvatures of the bone and lacks muscular reinforcement.
+ * Incorrect (A): The attachment site of the coracoclavicular ligament is located at the lateral third of the bone, which is structurally reinforced by strong ligamentous bindings.
+ * Incorrect (B): The attachment site of the sternocleidomastoid muscle is located at the superior surface of the medial third, which is heavily reinforced and rarely the primary site of fracture.
+ * Incorrect (D): The lateral one third near the acromioclavicular joint accounts for only about 15% of clavicular fractures, making it less common than junctional breaks.
+ * Incorrect (E): The medial one third near the sternoclavicular joint is structurally dense and accounts for the lowest incidence (around 5%) of all clavicle fractures.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The long thoracic nerve innervates which of the following muscles:
+A. latissimus dorsi
+B. pectoralis major
+C. rhomboid major
+D. serratus anterior
+E. subscapularis
+Correct Option: D
+Explanation:
+ * Correct (D): The long thoracic nerve arises from nerve roots C5, C6, and C7 to directly innervate the serratus anterior muscle along the lateral thoracic wall.
+ * Incorrect (A): The latissimus dorsi muscle is innervated exclusively by the thoracodorsal nerve derived from the posterior cord of the brachial plexus.
+ * Incorrect (B): The pectoralis major muscle receives dual innervation from the medial and lateral pectoral nerves.
+ * Incorrect (C): The rhomboid major muscle is innervated by the dorsal scapular nerve, which arises directly from the C5 ventral ramus.
+ * Incorrect (E): The subscapularis muscle is innervated by both the upper and lower subscapular nerves arising from the posterior cord.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The tendons of the following muscles form the rotator cuff EXCEPT the:
+A. infraspinatus
+B. subscapularis
+C. supraspinatus
+D. teres major
+E. teres minor
+Correct Option: D
+Explanation:
+ * Correct (D): The teres major muscle inserts into the medial lip of the intertubercular sulcus of the humerus and does not fuse with the glenohumeral joint capsule to form the protective rotator cuff.
+ * Incorrect (A): The infraspinatus tendon inserts onto the middle facet of the greater tubercle to provide posterior stability to the rotator cuff.
+ * Incorrect (B): The subscapularis tendon inserts onto the lesser tubercle, providing the sole anterior muscular reinforcement to the rotator cuff.
+ * Incorrect (C): The supraspinatus tendon inserts onto the superior facet of the greater tubercle, providing superior stability to the rotator cuff.
+ * Incorrect (E): The teres minor tendon inserts onto the inferior facet of the greater tubercle, offering posteroinferior support to the rotator cuff.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The following statements are true about the mammary gland EXCEPT it:
+A. consists of 15 to 20 lobes
+B. drains lymphatically into the axillary nodes
+C. is a modified sebaceous gland
+D. possesses an axillary tail of Spence
+E. uses suspensory ligaments of Cooper for structural support
+Correct Option: C
+Explanation:
+ * Correct (C): The mammary gland is histologically classified as a highly modified apocrine sweat gland, not a sebaceous gland.
+ * Incorrect (A): The glandular parenchyma of the human breast normally consists of 15 to 20 distinct glandular lobes arranged radially.
+ * Incorrect (B): Approximately 75% of the ipsilateral lymphatic fluid from the mammary gland drains directly into the axillary lymph nodes.
+ * Incorrect (D): The axillary tail of Spence is a normal extension of breast tissue that penetrates the deep fascia into the lower axilla.
+ * Incorrect (E): The suspensory ligaments of Cooper are fibrous bands that extend from the dermis to the deep fascia to structurally support breast tissue.
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+
+
+Question: The pectoralis major muscle:
+A. abducts the arm at the glenohumeral joint
+B. adducts the arm at the glenohumeral joint
+C. inserts into the lesser tubercle of the humerus
+D. is innervated exclusively by the thoracodorsal nerve
+E. originates from the lateral third of the clavicle
+Correct Option: B
+Explanation:
+ * Correct (B): The structural orientation and line of pull of the pectoralis major fibers enable it to act as a powerful adductor and internal rotator of the arm at the glenohumeral joint.
+ * Incorrect (A): The pectoralis major acts to pull the arm toward the midline (adduction), directly opposing the action of abductor muscles like the deltoid.
+ * Incorrect (C): The pectoralis major inserts onto the lateral lip of the intertubercular sulcus (bicipital groove) of the humerus, not the lesser tubercle.
+ * Incorrect (D): The pectoralis major is innervated by both the medial and lateral pectoral nerves; the thoracodorsal nerve innervates the latissimus dorsi.
+ * Incorrect (E): The clavicular head of the pectoralis major originates from the anterior surface of the medial half of the clavicle
+   Tags: Easy, Anatomy, Musculo skeletal module (MSK), Shoulder & Axilla
+
+--------------------------------------------------
+

@@ -1,0 +1,67 @@
+​Question: Choice of anticoagulant in pregnancy:
+A. apixaban.
+B. dabigatran.
+C. heparin.
+D. rivaroxaban.
+E. warfarin.
+Correct Option: C
+Explanation:
+Correct (C): heparin does not cross the placental barrier due to its high molecular weight and negative charge, making it safe for the fetus.
+Incorrect (A): apixaban is a direct oral anticoagulant that lacks adequate safety data in pregnancy and poses potential reproductive risks.
+Incorrect (B): dabigatran is a direct thrombin inhibitor that can cross the placenta and is avoided due to a lack of safety profiles for fetal development.
+Incorrect (D): rivaroxaban is a direct factor Xa inhibitor that can cross the placental barrier and increase the risk of fetal bleeding or teratogenicity.
+Incorrect (E): warfarin crosses the placental barrier and is highly teratogenic, causing fetal warfarin syndrome and CNS abnormalities if administered during the first trimester.
+Tags: Moderate, Physiology, Blood, Hemostasis & Blood Coagulation
+
+--------------------------------------------------
+
+​Question: Platelets become sticky in presence of:
+A. adenosine diphosphate.
+B. epinephrine.
+C. nitric oxide.
+D. serotonin.
+E. thromboxane A2.
+Correct Option: A
+Explanation:
+Correct (A): adenosine diphosphate binds to platelet purinergic receptors, triggering a conformational change in glycoprotein IIb/IIIa that directly causes platelets to aggregate and become sticky.
+Incorrect (B): epinephrine acts as a weak platelet agonist that augments aggregation under physiological stress but is not the primary physiological mediator making platelets sticky.
+Incorrect (C): nitric oxide is a potent vasodilator and inhibitor of platelet activation that keeps platelets unreactive rather than sticky.
+Incorrect (D): serotonin is released from dense granules to promote vasoconstriction and support aggregation, but it is not the primary agent driving the initial sticky transformation.
+Incorrect (E): thromboxane A2 is a potent vasoconstrictor and platelet activator, but adenosine diphosphate acts as the classic primary nucleotide mediator that directly drives platelets to become sticky during initial recruitment.
+Tags: Moderate, Physiology, Blood, Hemostasis & Blood Coagulation
+
+--------------------------------------------------
+
+​Question: Hemophilia A is:
+A. caused by a deficiency of clotting factor VIII.
+B. caused by a deficiency of clotting factor IX.
+C. caused by a deficiency of von Willebrand factor.
+D. characterized by a prolonged bleeding time.
+E. characterized by a prolonged prothrombin time.
+Correct Option: A
+Explanation:
+Correct (A): caused by a deficiency of clotting factor VIII, which disrupts the intrinsic tenase complex of the coagulation cascade.
+Incorrect (B): caused by a deficiency of clotting factor IX describes hemophilia B (Christmas disease) rather than hemophilia A.
+Incorrect (C): caused by a deficiency of von Willebrand factor describes von Willebrand disease, which affects platelet adhesion and factor VIII stability.
+Incorrect (D): characterized by a prolonged bleeding time is incorrect because primary hemostasis remains normal, meaning bleeding time is typically unaltered.
+Incorrect (E): characterized by a prolonged prothrombin time is incorrect because prothrombin time evaluates the extrinsic and common pathways, whereas factor VIII deficiency exclusively prolongs the activated partial thromboplastin time.
+Tags: Moderate, Physiology, Blood, Hemostasis & Blood Coagulation
+
+--------------------------------------------------
+
+​Question: Hemophilia is an example of:
+A. autosomal dominant disorder.
+B. autosomal recessive disorder.
+C. mitochondrial disorder.
+D. X-linked recessive disorder.
+E. Y-linked chromosomal disorder.
+Correct Option: D
+Explanation:
+Correct (D): X-linked recessive disorder, which means the defective clotting factor genes are located on the X chromosome, primarily affecting males who inherit the mutant allele from carrier mothers.
+Incorrect (A): autosomal dominant disorder requires only one mutated gene on a non-sex chromosome to manifest, which does not match the sex-linked inheritance pattern of hemophilia.
+Incorrect (B): autosomal recessive disorder involves mutated genes on non-sex chromosomes requiring two copies for expression, unlike the sex-linked nature of hemophilia.
+Incorrect (C): mitochondrial disorder is inherited exclusively from the mother via mitochondrial DNA, whereas hemophilia involves nuclear genomic DNA on the sex chromosomes.
+Incorrect (E): Y-linked chromosomal disorder involves genes passed exclusively from father to son on the Y chromosome, which is incompatible with the carrier status seen in females for hemophilia.
+Tags: Moderate, Physiology, Blood, Hemostasis & Blood Coagulation
+--------------------------------------------------
+

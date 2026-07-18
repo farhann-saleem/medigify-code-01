@@ -1,0 +1,65 @@
+Question: Local anesthetics cause vasodilation. Their rate and duration of action can be increased & toxicity can be decreased by: 
+Options: 
+a) Administering another vasodilator anesthetic 
+b) Increasing dose of local anesthetic 
+c) Administering vasoconstrictor like epinephrine 
+d) Decreasing dose of that vasodilating anesthetic 
+Correct Option: Ans. Administering vasoconstrictor like epinephrine 
+Explanation: Local anesthetics generally cause vasodilation, which increases their rate of absorption into the bloodstream, thereby shortening their duration and increasing systemic toxicity. Administering a vasoconstrictor like epinephrine is the correct strategy because it restricts local blood flow, keeping the anesthetic at the injection site longer while reducing the risk of systemic side effects.
+ Tags: Moderate, Pharmacology, Block 2, Module 3, Local Anesthetics
+
+--------------------------------------------------
+
+Question: Characteristic properties of local anesthetics include all of the following EXCEPT: Options: 
+a) An increase in membrane refractory period 
+b) Effects on vascular tone 
+c) Blockade of voltage-dependent sodium channels 
+d) Preferential binding to resting channels 
+Correct Option: Ans. Preferential binding to resting channels 
+Explanation: Local anesthetics function by blocking voltage-dependent sodium (Na+) channels on the inner surface of nerve membranes, which prevents the influx of ions necessary for action potential conduction. They exhibit state-dependent blockade, meaning they bind preferentially to channels in their open (activated) or inactivated states, rather than resting channels. Blocking the sodium/potassium pump or calcium channels would not produce the rapid, reversible loss of sensation characteristic of these drugs. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Local Anesthetics
+
+--------------------------------------------------
+
+Question: In general, local anesthetics block which fibers more rapidly: 
+Options: a) Larger & myelinated 
+b) Smaller & myelinated 
+c) Smaller & unmyelinated 
+d) Larger & unmyelinated 
+Correct Option: Ans. Smaller & myelinated 
+Explanation: Smaller and myelinated fibers (such as Type B and delta-Type A fibers) are blocked more rapidly than larger or unmyelinated fibers. This is because the small diameter and the presence of nodes of Ranvier in myelinated nerves allow the anesthetic to reach critical concentrations more quickly. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Local Anesthetics
+
+--------------------------------------------------
+
+Question: Local anesthetics are of two types: esters & amides. If a person is allergic to one ester local anesthetic, what should be done for local anesthesia: 
+Options: a) Try another ester type local anesthetic 
+b) Give amide type local anesthetic 
+c) Enhance dose of ester type local anesthetic 
+d) Reduce dose of ester type local anesthetic 
+Correct Option: Ans. Give amide type local anesthetic 
+Explanation: Local anesthetics are divided into esters and amides; if a patient is allergic to an ester-type agent the safest alternative is to give an amide-type local anesthetic. Tags: Moderate, Pharmacology, Block 2, Module 3, Local Anesthetics
+
+--------------------------------------------------
+
+Question: All of the following factors influence the action of local anesthetics EXCEPT: 
+Options: a) Acetylcholinesterase activity in the region of the injection site 
+b) Dose of local anesthetic injected 
+c) Blood flow through the tissue in which the injection is made 
+d) The use of vasoconstrictors Correct Option: Ans. Acetylcholinesterase activity in the region of the injection site
+ Explanation: Factors like dose and blood flow influence their action, but acetylcholinesterase activity does not, because esters are metabolized by plasma pseudocholinesterase and amides are metabolized in the liver.
+ Tags: Moderate, Pharmacology, Block 2, Module 3, Local Anesthetics
+
+--------------------------------------------------
+
+Question: Systemic side effect of local anesthetic (Lidocaine) is: 
+Options: a) Cardiac arrhythmia 
+b) Hyperglycemia 
+c) Pneumothorax 
+d) Methemoglobinemia 
+Correct Option: Ans. Cardiac arrhythmia 
+Explanation: A major systemic side effect of these drugs, particularly lidocaine, is cardiac arrhythmia, as they can block cardiac sodium channels at high concentrations. Hyperglycemia and pneumothorax are not direct pharmacological side effects of the anesthetic agents themselves. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Local Anesthetics
+
+--------------------------------------------------
+

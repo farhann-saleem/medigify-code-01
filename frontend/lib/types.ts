@@ -6,16 +6,27 @@ export interface MCQOption {
   e?: string;
 }
 
+export interface MCQExplanation {
+  a?: string;
+  b?: string;
+  c?: string;
+  d?: string;
+  e?: string;
+}
+
 export interface MCQ {
   id: string;
   statement: string;
   options: MCQOption;
   correct_option: 'a' | 'b' | 'c' | 'd' | 'e';
-  explanation: string;
+  explanation: MCQExplanation;
   subject: string;
   topic: string | null;
+  tags: string[];
   year: number | null;
   academic_year: number;
+  difficulty: 'easy' | 'moderate' | 'hard';
+  module: string;
 }
 
 export interface Answer {

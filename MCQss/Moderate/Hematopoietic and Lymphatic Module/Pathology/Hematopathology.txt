@@ -1,0 +1,394 @@
+Question: All of the following findings are expected in hemolytic anemia EXCEPT: a. decreased haptoglobin. b. elevated lactate dehydrogenase. c. increased reticulocyte count. d. increased urinary bilirubin. e. normoblastic erythroid hyperplasia. Correct Option: D Explanation:
+● Correct (D): Hemolysis elevates hydrophobic unconjugated bilirubin, which cannot be filtered by the kidneys, making increased urinary bilirubin an impossible finding.
+● Incorrect (A): Decreased haptoglobin is expected because it actively binds free plasma hemoglobin released during intravascular red cell breakdown.
+● Incorrect (B): Elevated lactate dehydrogenase is a classic marker of red cell destruction because this enzyme is highly concentrated inside the erythrocytes.
+● Incorrect (C): Increased reticulocyte count reflects a healthy, compensatory bone marrow response attempting to replace prematurely destroyed red blood cells.
+● Incorrect (E): Normoblastic erythroid hyperplasia is expected as the bone marrow morphologically expands to increase red blood cell production.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: All of the following procedures are useful in distinguishing iron deficiency anemia from β-thalassemia minor EXCEPT: a. hematocrit. b. hemoglobin electrophoresis. c. red cell indices. d. serum ferritin. e. serum iron. Correct Option: A Explanation:
+● Correct (A): Hematocrit measures the proportional volume of red cells to total plasma and falls similarly in both conditions, making it useless for differentiation.
+● Incorrect (B): Hemoglobin electrophoresis isolates elevated HbA2 levels unique to β-thalassemia minor, distinguishing it cleanly from iron deficiency anemia.
+● Incorrect (C): Red cell indices reveal a characteristically higher red blood cell count relative to mild microcytosis in thalassemia minor versus iron deficiency.
+● Incorrect (D): Serum ferritin directly reveals depleted iron reserves in iron deficiency anemia while remaining normal or elevated in β-thalassemia minor.
+● Incorrect (E): Serum iron levels drop significantly below normal limits in iron deficiency anemia but typically remain normal in uncomplicating thalassemia minor.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: A patient with anemia complains of dysphagia. What is the most likely underlying condition? A. Folate deficiency B. Iron deficiency anemia C. Pernicious anemia D. Sideroblastic anemia E. Vitamin B12 deficiency Correct Option: B Explanation:
+● Correct (B): Iron deficiency anemia can present concurrently with upper esophageal webs and dysphagia, a clinical triad known structurally as Plummer-Vinson syndrome.
+● Incorrect (A): Folate deficiency causes macrocytic megaloblastic changes and painful glossitis but does not form structural esophageal webs causing dysphagia.
+● Incorrect (C): Pernicious anemia leads to vitamin B12 malabsorption and systemic macrocytosis but does not produce the anatomical mucosal webs that trigger swallowing difficulties.
+● Incorrect (D): Sideroblastic anemia impairs iron utilization inside the mitochondria but is not clinically associated with post-cricoid esophageal web formations.
+● Incorrect (E): Vitamin B12 deficiency produces prominent neurological defects and macrocytic changes but leaves upper gastrointestinal tract structural anatomy unaffected.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Hemolytic disease of the newborn is most commonly seen in: a. ABO incompatibility. b. Kell incompatibility. c. minor blood group incompatibility. d. Rh incompatibility. e. transfusion incompatibility. Correct Option: D Explanation:
+● Correct (D): Rh incompatibility historically represents the most clinically severe and classic presentation of hemolytic disease of the newborn due to anti-D IgG crosses.
+● Incorrect (A): ABO incompatibility occurs frequently but generally exhibits a much milder clinical course because A and B antigens are expressed extra-erythrocytically.
+● Incorrect (B): Kell incompatibility can cause severe fetal anemia through erythroid precursor suppression, but it occurs much less frequently than Rh isoimmunization.
+● Incorrect (C): Minor blood group incompatibility involving antigens like Duffy or Kidd represents a small, low-incidence subset of maternal-fetal alloimmunization.
+● Incorrect (E): Transfusion incompatibility refers to an adverse iatrogenic reaction occurring during an active transfusion event, rather than maternal-fetal isoimmunization.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Hereditary spherocytosis is accompanied by an increased incidence of: a. cholelithiasis. b. hepatosplenomegaly. c. jaundice. d. leg ulcers. e. splenomegaly. Correct Option: A Explanation:
+● Correct (A): Cholelithiasis occurs at a highly elevated rate in hereditary spherocytosis due to chronic calcium bilirubinate pigment gallstone formation from continuous extravascular hemolysis.
+● Incorrect (B): Hepatosplenomegaly refers to dual organ enlargement, whereas isolated splenomegaly is the primary structural manifestation found in these patients.
+● Incorrect (C): Jaundice is a direct, fluctuating physical clinical sign of elevated bilirubin rather than an associated secondary structural disease complication.
+● Incorrect (D): Leg ulcers are a known vascular complication of sickle cell anemia but are extremely rare in hereditary spherocytosis.
+● Incorrect (E): Splenomegaly is an expected, primary physical examination finding of the disease process itself, rather than a secondary variable complication.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: An example of normocytic normochromic anemia is: a. acute blood loss anemia. b. aplastic anemia. c. anemia of chronic disease. d. hemolytic anemia. e. sickle cell anemia. Correct Option: A Explanation:
+● Correct (A): Acute blood loss anemia leaves the remaining intravascular red cells structurally intact and normal in size and color, yielding a classic normocytic normochromic presentation.
+● Incorrect (B): Aplastic anemia represents stem cell depletion and bone marrow emptiness, which frequently manifests with a mild macrocytic component.
+● Incorrect (C): Anemia of chronic disease shifts towards microcytic hypochromic features in long-standing conditions, losing its pure normocytic classification.
+● Incorrect (D): Hemolytic anemia generates a profound bone marrow reticulocyte surge, which frequently skews the mean cell volume upward into macrocytic ranges.
+● Incorrect (E): Sickle cell anemia features marked structural abnormalities, poikilocytosis, and elevated reticulocytosis that disrupt standard normocytic baseline indices.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which change on deoxygenation produces sickling of RBCs? A. Agglutination B. Dehydration C. Lysis D. Overhydration E. Polymerization Correct Option: E Explanation:
+● Correct (E): Polymerization occurs during deoxygenation as hydrophobic valine residues align to form long, rigid crystalline polymers that distort the erythrocyte membrane.
+● Incorrect (A): Agglutination is an antibody-mediated clumping of red cells seen in immunohematology, completely independent of hemoglobin oxygenation status.
+● Incorrect (B): Dehydration concentrates intracellular hemoglobin S and accelerates sickling kinetics, but it is not the direct physical change that reshapes the cell.
+● Incorrect (C): Lysis is the end-stage destruction of fragile red cells rather than the initial physical conformational alteration triggered by deoxygenation.
+● Incorrect (D): Overhydration expands intracellular volume and reduces hemoglobin concentration, which actually delays or minimizes polymer configuration.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which anemia classically presents with increased serum ferritin and decreased total iron-binding capacity (TIBC)? A. Anemia of chronic disease. B. Aplastic anemia. C. Hemolytic anemia. D. Iron deficiency anemia. E. Megaloblastic anemia. Correct Option: A
+Explanation:
+● Correct (A): Anemia of chronic disease is driven by inflammatory cytokines that increase hepcidin, leading to sequestered iron stores indicated by increased serum ferritin and a compensatory decreased total iron-binding capacity (TIBC).
+● Incorrect (B): Aplastic anemia is a bone marrow failure syndrome that typically presents with normal to elevated iron indices due to low utilization, without a primary inflammatory pattern of decreased total iron-binding capacity (TIBC).
+● Incorrect (C): Hemolytic anemia features elevated iron indices due to cell lysis and recycled hemoglobin, but it does not classically present with a primary inflammatory reduction in decreased total iron-binding capacity (TIBC).
+● Incorrect (D): Iron deficiency anemia presents with depleted iron stores, characteristically showing decreased serum ferritin and increased total iron-binding capacity (TIBC).
+● Incorrect (E): Megaloblastic anemia is caused by impaired DNA synthesis and presents with normal iron homeostasis rather than altered ferritin or decreased total iron-binding capacity (TIBC).
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which of the following is NOT a cause of megaloblastic anemia: A. Hookworm infestation. B. Pregnancy. C. Severe malnutrition. D. Strict vegetarian diet. E. Tropical sprue. Correct Option: A
+Explanation:
+● Correct (A): Hookworm infestation causes chronic gastrointestinal blood loss leading to iron deficiency anemia (microcytic), making it NOT a cause of megaloblastic anemia.
+● Incorrect (B): Pregnancy increases metabolic folate requirements for fetal development and can lead to folate depletion, which is a classic cause of megaloblastic anemia.
+● Incorrect (C): Severe malnutrition causes severe dietary deficiencies of essential cofactors like folate and vitamin B12, acting as a direct cause of megaloblastic anemia.
+● Incorrect (D): A strict vegetarian diet lacks animal-derived foods, leading to a long-term dietary deficiency of vitamin B12, which is a known cause of megaloblastic anemia.
+● Incorrect (E): Tropical sprue causes generalized structural malabsorption in the small intestine, impairing folate and vitamin B12 uptake, which is a well-documented cause of megaloblastic anemia.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: In developed countries, the most common cause of iron deficiency anemia in adult males is: A. Chronic gastrointestinal blood loss. B. Dietary iron deficiency. C. Increased physiological demand. D. Intestinal parasitic infestation. E. Malabsorption syndrome. Correct Option: A
+Explanation:
+● Correct (A): Chronic gastrointestinal blood loss (e.g., from occult GI malignancies or peptic ulcers) is clinically established as the most common cause of iron deficiency anemia in adult males within developed countries.
+● Incorrect (B): Dietary iron deficiency is extremely rare as a primary cause in adult males living in developed nations due to widespread meat consumption and iron-fortified food resources.
+● Incorrect (C): Increased physiological demand is a major cause in growing infants, adolescents, and pregnant females, but it is inapplicable to adult males.
+● Incorrect (D): Intestinal parasitic infestation (such as hookworm) is a prevalent cause of iron deficiency in developing tropical regions, but it is rare in developed countries.
+● Incorrect (E): Malabsorption syndrome (such as celiac disease) can impair iron uptake, but it is statistically less prevalent than chronic gastrointestinal blood loss in adult males.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: The use of antimalarial drugs such as primaquine may trigger: A. G6PD deficiency anemia. B. Immune hemolytic anemia. C. Paroxysmal nocturnal hemoglobinuria. D. Sideroblastic anemia. E. Thalassemia minor. Correct Option: A
+Explanation:
+● Correct (A): Antimalarial drugs such as primaquine generate profound oxidative stress within erythrocytes, which will trigger acute hemolytic anemia in individuals with G6PD deficiency anemia due to their inability to regenerate glutathione.
+● Incorrect (B): Immune hemolytic anemia is caused by autoantibodies or drug-induced antibodies binding to RBC membranes, a distinct mechanism not typically triggered by primaquine oxidative stress.
+● Incorrect (C): Paroxysmal nocturnal hemoglobinuria is caused by an acquired genetic susceptibility to complement-mediated lysis, which is independent of oxidative triggers like antimalarial drugs such as primaquine.
+● Incorrect (D): Sideroblastic anemia involves impaired mitochondrial heme synthesis and ringed sideroblast formation, which is not an acute hemolytic event triggered by antimalarial drugs such as primaquine.
+● Incorrect (E): Thalassemia minor is an inherited quantitative reduction in globin chain synthesis that remains unaffected by oxidative drug exposures like antimalarial drugs such as primaquine.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which of the following is NOT a diagnostic feature of β-thalassemia: A. Evidence that at least one parent has thalassemia minor. B. Hypochromic anemia. C. Raised HbF. D. Reduced HbA. E. Raised serum iron level. Correct Option: E
+Explanation:
+● Correct (E): β-thalassemia is primarily a defect in globin gene transcription and does not inherently cause systemic iron overload in its uncomplicated or minor forms, making a raised serum iron level NOT a diagnostic feature of β-thalassemia.
+● Incorrect (A): Evidence that at least one parent has thalassemia minor is a fundamental diagnostic feature of β-thalassemia due to its strict Mendelian autosomal co-dominant inheritance pattern.
+● Incorrect (B): Hypochromic anemia is a classic diagnostic feature of β-thalassemia resulting from reduced hemoglobin concentration per cell due to impaired beta-globin synthesis.
+● Incorrect (C): Raised HbF is a characteristic diagnostic feature of β-thalassemia as the body increases gamma-globin chain production to compensate for missing beta-chains.
+● Incorrect (D): Reduced HbA is an essential diagnostic feature of β-thalassemia because a lack of beta-globin chains directly limits the assembly of normal adult hemoglobin (α2β2).
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Hemoglobin electrophoresis in a patient with β-thalassemia characteristically shows: A. High HbA. B. High HbA2. C. Low HbA. D. Low HbF. E. Normal Hb synthesis. Correct Option: C
+Explanation:
+● Correct (C): Hemoglobin electrophoresis in a patient with β-thalassemia characteristically shows Low HbA because the mutations directly impair or completely abolish the synthesis of the β-globin chains required to form adult hemoglobin (α2β2).
+● Incorrect (A): High HbA cannot occur in β-thalassemia because the defining pathology of the disease is the reduction or total absence of adult hemoglobin production.
+● Incorrect (B): High HbA2 (α2δ2) is a key diagnostic feature of β-thalassemia minor, but for a broad diagnosis of severe β-thalassemia variations (like major), the absolute hallmark is Low HbA.
+● Incorrect (D): Low HbF is incorrect because β-thalassemia characteristically demonstrates elevated or variable fractions of fetal hemoglobin (α2γ2) as a physiological compensation.
+● Incorrect (E): Normal Hb synthesis is entirely absent in β-thalassemia due to quantitative genetic defects in globin production that skew normal ratios.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Regarding thalassemia minor, which statement is true: A. Is asymptomatic. B. Is associated with severe hemolysis. C. May progress into thalassemia major. D. Requires chronic transfusion therapy. E. Requires iron replacement therapy. Correct Option: A
+Explanation:
+● Correct (A): Thalassemia minor represents a heterozygous carrier state where patients typically maintain sufficient hemoglobin levels, making them clinically asymptomatic except during periods of physical stress.
+● Incorrect (B): Is associated with severe hemolysis is false because thalassemia minor involves only mild, clinically insignificant ineffective erythropoiesis and peripheral breakdown.
+● Incorrect (C): May progress into thalassemia major is genetically impossible because a carrier state cannot spontaneously alter its inherited germline genomic structure into a homozygous state.
+● Incorrect (D): Requires chronic transfusion therapy is incorrect because thalassemia minor does not cause life-threatening anemia, which is a requirement reserved exclusively for thalassemia major.
+● Incorrect (E): Requires iron replacement therapy is a dangerous clinical mistake because iron parameters are normal or elevated, and supplemental iron carries a risk of inducing systemic iatrogenic hemosiderosis.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which of the following pathological states combines a defect in primary hemostatic platelet function with an associated defect in secondary coagulation cascade kinetics:
+A. Bernard-Soulier syndrome.
+B. factor VIII deficiency
+. C. Glanzmann thrombasthenia.
+D. hemophilia A.
+E. von Willebrand disease.
+Correct Option: E
+Explanation:
+● Correct (E): von Willebrand disease uniquely compromises primary hemostasis (impaired platelet adhesion) and secondary coagulation kinetics (due to its role carrying and stabilizing factor VIII).
+● Incorrect (A): Bernard-Soulier syndrome causes an isolated defect in primary hemostatic platelet adhesion via GPIb-IX-V, without directly altering coagulation cascade kinetics.
+● Incorrect (B): factor VIII deficiency selectively impairs secondary hemostasis (the intrinsic pathway) while leaving primary platelet plug formation intact.
+● Incorrect (C): Glanzmann thrombasthenia represents a pure primary hemostatic defect involving GPIIb/IIIa-mediated platelet aggregation.
+● Incorrect (D): hemophilia A is an alternate term for isolated factor VIII deficiency, which does not disrupt initial primary platelet function.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which of the following functional parameters is expected to be increased or exacerbated in advanced parenchymal liver disease:
+A. bleeding tendency.
+B. fibrinolytic activity.
+C. prothrombin time.
+D. thrombin time.
+E. vascular fragility.
+Correct Option: A
+Explanation:
+● Correct (A): bleeding tendency is the overarching functional manifestation that is progressively increased and exacerbated due to multi-lineage clotting factor and platelet deficiencies in advanced parenchymal liver disease.
+● Incorrect (B): fibrinolytic activity may change, but its isolated measurement is not the comprehensive functional parameter describing clinical patient bleeding risk.
+● Incorrect (C): prothrombin time is a specific temporal laboratory test value, not a biological functional parameter of the patient's physical state.
+● Incorrect (D): thrombin time is a restricted, individual clotting assay value rather than a clinical functional parameter.
+● Incorrect (E): vascular fragility relates to structural connective tissue defects, which are not the primary drivers of advanced liver disease coagulopathy.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: Which of the following laboratory alterations represents a classic initial feature of metabolic Vitamin K deficiency:
+A. decreased factor VII activity.
+B. elevated international normalized ratio.
+C. increased prothrombin time.
+D. prolonged clotting time.
+E. reduced prothrombin activity.
+Correct Option: C
+Explanation:
+● Correct (C): increased prothrombin time is the classic, standard diagnostic laboratory manifestation that first signals an initial metabolic Vitamin K deficiency due to the rapid decay of factor VII.
+● Incorrect (A): decreased factor VII activity is the underlying biochemical mechanism, but it is classified as a specific factor assay rather than the classic initial general laboratory profiling parameter.
+● Incorrect (B): elevated international normalized ratio is a calculated derivative of the prothrombin time used for standardization, rather than the raw initial laboratory alteration parameter itself.
+● Incorrect (D): prolonged clotting time is an insensitive, non-specific parameter that fails to catch initial, isolated Vitamin K changes.
+● Incorrect (E): reduced prothrombin activity refers to a specific factor II kinetic measurement rather than the standard screening laboratory parameter used in clinical practices.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: 2. The most common and ultimately lethal extramedullary complication of Multiple Myeloma is:
+A. cardiac amyloidosis.
+B. kidney disease.
+C. liver amyloidosis.
+D. pulmonary amyloidosis.
+E. splenic amyloidosis.
+Correct Option: B
+Explanation:
+● Correct (B): Kidney disease, primarily manifesting as myeloma kidney (cast nephropathy) due to toxic light chain excretion, is the second most common cause of death in multiple myeloma after infection.
+● Incorrect (A): Cardiac amyloidosis occurs in a subset of patients but is less common and less frequently the primary cause of death compared to renal failure.
+● Incorrect (C): Liver amyloidosis rarely leads to organ failure or lethal extramedullary complications in multiple myeloma.
+● Incorrect (D): Pulmonary amyloidosis is an uncommon manifestation that rarely drives the ultimate mortality of the disease.
+● Incorrect (E): Splenic amyloidosis can cause organomegaly but is rarely a life-threatening or lethal complication.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: 4. The clinical diagnosis of Acute Leukemia is traditionally based on:
+A. presence of >30% blast cells in the bone marrow.
+B. presence of BCR-ABL fusion gene.
+C. presence of lymphadenopathy.
+D. presence of Philadelphia chromosome.
+E. history of fever and weakness.
+Correct Option: A
+Explanation:
+● Correct (A): Traditional French-American-British (FAB) criteria define acute leukemia by the presence of >30% blast cells in the bone marrow (though current WHO guidelines have lowered this threshold to 20%).
+● Incorrect (B): The presence of BCR-ABL fusion gene is specifically diagnostic for Chronic Myeloid Leukemia (CML) rather than general acute leukemia.
+● Incorrect (C): Presence of lymphadenopathy is a non-specific physical finding seen in many viral infections and lymphomas, not a definitive diagnostic criterion for acute leukemia.
+● Incorrect (D): The presence of Philadelphia chromosome is the cytogenetic hallmark of CML and only a specific subtype of ALL, not a general baseline requirement for acute leukemia.
+● Incorrect (E): A history of fever and weakness consists of highly non-specific constitutional symptoms that cannot definitively establish a diagnosis of acute leukemia.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: 6. The most common site for the skeletal origin and involvement of Multiple Myeloma is the:
+A. femur.
+B. humerus.
+C. pelvic bones.
+D. skull.
+E. vertebral column.
+Correct Option: E
+Explanation:
+● Correct (E): Multiple Myeloma homes to the active red bone marrow, making the vertebral column the most frequent site of osteolytic lesions and pathological fractures.
+● Incorrect (A): The femur can develop lytic lesions, but it is involved less frequently than the axial skeleton.
+● Incorrect (B): The humerus is a peripheral long bone and is less commonly affected as an initial or primary site compared to the spine.
+● Incorrect (C): Pelvic bones are frequently involved, but their rate of initial osteolytic destruction ranks below that of the vertebral column.
+● Incorrect (D): The skull characteristically displays "punched-out" radiolucent lesions, but it is not the most common overall skeletal site of origin.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: 7. A patient presents with generalized lymphadenopathy and the microscopic identification of Reed–Sternberg cells:
+A. ALL.
+B. AML.
+C. CML.
+D. Hodgkin lymphoma.
+E. Non-Hodgkin lymphoma.
+Correct Option: D
+Explanation:
+● Correct (D): Reed–Sternberg cells (large, multinucleated B cells with prominent "owl-eye" nucleoli) are the diagnostic pathognomonic hallmark of Hodgkin lymphoma.
+● Incorrect (A): ALL presents primarily with bone marrow failure and circulating lymphoblasts, lacking Reed-Sternberg cells.
+● Incorrect (B): AML is characterized by circulating myeloblasts and Auer rods, not Reed-Sternberg cells.
+● Incorrect (C): CML is a myeloproliferative disorder marked by an abundance of mature and maturing granulocytes, without Reed-Sternberg cells.
+● Incorrect (E): Non-Hodgkin lymphoma consists of clonal lymphoid proliferations that lack the characteristic Reed–Sternberg cells.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: 8. Which of the following laboratory or genetic findings is NOT consistent with a diagnosis of Chronic Myeloid Leukemia (CML):
+A. increased basophils.
+B. presence of BCR-ABL gene product.
+C. presence of Philadelphia chromosome.
+D. thrombocytopenia.
+E. thrombocytosis.
+Correct Option: D
+Explanation:
+● Correct (D): Thrombocytopenia is not consistent with the chronic phase of CML, where platelet counts are typically normal or elevated.
+● Incorrect (A): Increased basophils are a classic characteristic feature of CML and help differentiate it from a reactive leukocytosis.
+● Incorrect (B): The presence of BCR-ABL gene product is the definitive molecular driver resulting from the t(9;22) translocation in CML.
+● Incorrect (C): The presence of Philadelphia chromosome is the cytogenetic hallmark found in more than 90-95% of CML patients.
+● Incorrect (E): Thrombocytosis is frequently observed in the chronic phase of CML due to megakaryocytic proliferation alongside granulocytic expansion.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+Question: 10. The Leukocyte Alkaline Phosphatase (LAP) score is characteristically increased in which condition: A. AML.
+B. CLL.
+C. CML.
+D. multiple myeloma.
+E. leukemoid reaction.
+Correct Option: E
+Explanation:
+● Correct (E): A leukemoid reaction is an elevated WBC count mimicking leukemia due to an exaggerated infection/inflammation response, where mature neutrophils contain high levels of alkaline phosphatase, yielding an increased LAP score.
+● Incorrect (A): AML is a neoplastic proliferation of immature myeloid blasts that do not express functional leukocyte alkaline phosphatase.
+● Incorrect (B): CLL is a malignancy of mature B-lymphocytes, which do not carry the leukocyte alkaline phosphatase enzyme found in granulocytes.
+● Incorrect (C): CML is characteristically associated with a low or absent LAP score due to the dysfunctional nature of the malignant granulocytes.
+● Incorrect (D): Multiple myeloma is a plasma cell dyscrasia that does not involve neutrophil enzymes or elevate the LAP score.
+Tags: Moderate, Pathology, Blood Module, Hematopathology
+
+--------------------------------------------------
+
+
+Question 2
+ Question: Which chromosomal translocation is frequently associated with a good prognosis in pediatric B-ALL?
+ A. t(12;21)
+ B. t(14;18)
+ C. t(15;17)
+ D. t(8;14)
+ E. t(9;22)
+ Correct Option: A
+ Explanation:
+ •	Correct (A): t(12;21) produces the ETV6-RUNX1 fusion and is associated with favorable prognosis in pediatric B-cell ALL.
+ •	Incorrect (B): t(14;18) is classically associated with Follicular Lymphoma.
+ •	Incorrect (C): t(15;17) is the hallmark translocation of Acute Promyelocytic Leukemia.
+ •	Incorrect (D): t(8;14) activates MYC and is characteristic of Burkitt Lymphoma.
+ •	Incorrect (E): t(9;22) creates the Philadelphia chromosome and confers a poorer prognosis in ALL.
+ Tags: Moderate, Pathology, Hematopathology, Hematopathology
+
+--------------------------------------------------
+
+
+Question 4
+ Question: A 7-year-old boy presents with abrupt onset of fever, pallor, and easy bruising. Laboratory studies show pancytopenia and numerous blasts in the peripheral smear. The most likely diagnosis is?
+ A. Acute Lymphoblastic Leukemia (ALL)
+ B. Acute Myeloid Leukemia (AML)
+ C. Chronic Lymphocytic Leukemia (CLL)
+ D. Chronic Myeloid Leukemia (CML)
+ E. Hairy Cell Leukemia
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Childhood onset with marrow failure symptoms and circulating blasts is the classic presentation of Acute Lymphoblastic Leukemia.
+ •	Incorrect (B): Acute Myeloid Leukemia can occur in children but is significantly less common than ALL.
+ •	Incorrect (C): Chronic Lymphocytic Leukemia is predominantly a disease of older adults.
+ •	Incorrect (D): Chronic Myeloid Leukemia usually presents with marked leukocytosis rather than pancytopenia with blasts.
+ •	Incorrect (E): Hairy Cell Leukemia occurs almost exclusively in middle-aged and older adults.
+ Tags: Moderate, Pathology, Hematopathology, Hematopathology
+
+--------------------------------------------------
+
+
+Question 6
+ Question: Which chromosomal translocation is frequently associated with a good prognosis in pediatric B-ALL?
+ A. t(12;21)
+ B. t(14;18)
+ C. t(15;17)
+ D. t(8;14)
+ E. t(9;22)
+ Correct Option: A
+ Explanation:
+ •	Correct (A): t(12;21) is the most common favorable cytogenetic abnormality in childhood B-ALL.
+ •	Incorrect (B): t(14;18) is associated with Follicular Lymphoma rather than ALL.
+ •	Incorrect (C): t(15;17) defines Acute Promyelocytic Leukemia.
+ •	Incorrect (D): t(8;14) is characteristic of Burkitt Lymphoma.
+ •	Incorrect (E): t(9;22) is associated with Philadelphia chromosome-positive leukemia and worse outcomes.
+ Tags: Moderate, Pathology, Hematopathology, Hematopathology
+
+--------------------------------------------------
+
+
+Question 8
+ Question: A 7-year-old boy presents with abrupt onset of fever, pallor, and easy bruising. Laboratory studies show pancytopenia and numerous blasts in the peripheral smear. The most likely diagnosis is?
+ A. Acute Lymphoblastic Leukemia (ALL)
+ B. Acute Myeloid Leukemia (AML)
+ C. Chronic Lymphocytic Leukemia (CLL)
+ D. Chronic Myeloid Leukemia (CML)
+ E. Hairy Cell Leukemia
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Pediatric age, acute presentation, pancytopenia, and peripheral blasts strongly indicate Acute Lymphoblastic Leukemia.
+ •	Incorrect (B): Acute Myeloid Leukemia is less common than ALL in children.
+ •	Incorrect (C): Chronic Lymphocytic Leukemia is a disease of older adults and rarely affects children.
+ •	Incorrect (D): Chronic Myeloid Leukemia usually presents with granulocytic proliferation rather than pancytopenia.
+ •	Incorrect (E): Hairy Cell Leukemia is uncommon and typically affects older men.
+ Tags: Moderate, Pathology, Hematopathology, Hematopathology
+
+--------------------------------------------------
+
+
+Question 10
+ Question: Which chromosomal translocation is frequently associated with a good prognosis in pediatric B-ALL?
+ A. t(12;21)
+ B. t(14;18)
+ C. t(15;17)
+ D. t(8;14)
+ E. t(9;22)
+ Correct Option: A
+ Explanation:
+ •	Correct (A): t(12;21) is associated with excellent treatment response and favorable prognosis in pediatric B-ALL.
+ •	Incorrect (B): t(14;18) is linked to Follicular Lymphoma through BCL2 activation.
+ •	Incorrect (C): t(15;17) is specific for Acute Promyelocytic Leukemia.
+ •	Incorrect (D): t(8;14) causes MYC dysregulation in Burkitt Lymphoma.
+ •	Incorrect (E): t(9;22) produces BCR-ABL and is associated with poorer prognosis in ALL.
+ Tags: Moderate, Pathology, Hematopathology, Hematopathology
+
+--------------------------------------------------
+

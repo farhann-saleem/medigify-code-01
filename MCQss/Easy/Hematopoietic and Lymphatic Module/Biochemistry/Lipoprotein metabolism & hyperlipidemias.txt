@@ -1,0 +1,68 @@
+Question: Which apoprotein acts as an activator of lipoprotein lipase (LPL):
+A. apob-48
+B. apob-100
+C. apoc-II
+D. apoc-III
+E. apoe
+Correct Option: C
+Explanation:
+Correct (C): apoc-II is a critical cofactor on chylomicrons and VLDL that directly activates lipoprotein lipase (LPL) to facilitate the hydrolysis of core triglycerides.
+Incorrect (A): apob-48 serves as the structural scaffolding protein structural to chylomicrons.
+Incorrect (B): apob-100 acts as the structural protein for VLDL and the ligand for the hepatic LDL receptor.
+Incorrect (D): apoc-III acts as an inhibitor rather than an activator of lipoprotein lipase (LPL).
+Incorrect (E): apoe serves as the vital ligand for the low-density lipoprotein (LDL) receptor and low-density lipoprotein receptor-related protein (LRP).
+Tags: Easy, Biochemistry, Hematopoietic, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+
+Question: From the liver, triglycerides are transported to extrahepatic tissue by:
+A. chylomicrons
+B. hdl
+C. idl
+D. ldl
+E. vldl
+Correct Option: E
+Explanation:
+Correct (E): vldl molecules are assembled within hepatocytes to package and export endogenously synthesized triglycerides from the liver to extrahepatic tissue.
+Incorrect (A): chylomicrons transport dietary exogenous lipids absorbed from the intestines rather than endogenous lipids from the liver.
+Incorrect (B): hdl mediates reverse cholesterol transport, bringing excess cholesterol back to the liver from peripheral tissues.
+Incorrect (C): idl is a transient intravascular breakdown intermediate and does not originate from the liver as a primary transporter.
+Incorrect (D): ldl functions almost exclusively to deliver cholesteryl esters to peripheral tissues rather than exporting triglycerides from the liver.
+Tags: Easy, Biochemistry, Hematopoietic, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+
+Question: Elevated plasma level of the following protects against atherosclerosis:
+A. chylomicrons
+B. hdl
+C. idl
+D. ldl
+E. vldl
+Correct Option: B
+Explanation:
+Correct (B): hdl extracts excess cholesterol from peripheral arterial walls and transports it to the liver for excretion, meaning an elevated plasma level protects against atherosclerosis.
+Incorrect (A): chylomicrons can accumulate as remnants that contribute to pro-atherogenic inflammatory cascades.
+Incorrect (B): [Self-Correction: User label mismatch, structural position C is idl]: idl acts as an atherogenic remnant particle that deposits lipids into the vascular wall.
+Incorrect (D): ldl delivers cholesterol directly into peripheral tissues and promotes foam cell formation in the arterial tunica intima.
+Incorrect (E): vldl carries a substantial triglyceride load that degrades into atherogenic intermediate-density and low-density remnants.
+Tags: Easy, Biochemistry, Hematopoietic, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+
+Question: Which of the following is regarded as cardioprotective:
+A. cholesterol
+B. hdl
+C. ldh
+D. ldl
+E. vldl
+Correct Option: B
+Explanation:
+Correct (B): hdl actively clears free lipid deposits from vascular endothelial cells via efflux pathways, which is why it is regarded as cardioprotective.
+Incorrect (A): cholesterol can accumulate inside arterial intima walls if carried by atherogenic particles.
+Incorrect (C): ldh is an intracellular metabolic enzyme that serves as a non-specific biomarker for tissue damage rather than a protective factor.
+Incorrect (D): ldl promotes endothelial dysfunction and atherosclerosis through its deposition of lipid cores into vascular walls.
+Incorrect (E): vldl delivers endogenous lipids to tissues but converts into highly atherogenic remnants that increase cardiovascular risk.
+Tags: Easy, Biochemistry, Hematopoietic, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+

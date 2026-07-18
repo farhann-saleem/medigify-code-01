@@ -1,0 +1,33 @@
+﻿Question 1: The rate of diffusion of gases through the respiratory membrane is inversely proportional to:
+A. Diffusion capacity of the respiratory membrane for the gas
+B. Pressure gradient across the respiratory membrane
+C. Solubility of the gas in the respiratory membrane
+D. Surface area of the respiratory membrane
+E. Thickness of the respiratory membrane
+Correct Option: E
+Explanation:
+ * Correct (E): According to Fick's law of diffusion, the rate of gas transfer across a membrane is inversely proportional to the thickness of the respiratory membrane.
+ * Incorrect (A): Diffusion capacity of the respiratory membrane for the gas is directly proportional to the rate of gas movement, not inversely.
+ * Incorrect (B): A greater pressure gradient across the respiratory membrane increases the driving force, which directly increases the rate of diffusion.
+ * Incorrect (C): Higher solubility of the gas in the respiratory membrane enhances its movement, making the diffusion rate directly proportional to solubility.
+ * Incorrect (D): A larger surface area of the respiratory membrane provides more space for gas exchange, directly increasing the rate of diffusion.
+   Tags: Easy, Physiology, Respiratory, Gas Exchange & Diffusion
+
+--------------------------------------------------
+
+Question 3: Diffusing capacity of respiratory membrane for oxygen:
+A. 10 ml/min/mmHg
+B. 21 ml/min/mmHg
+C. 50 ml/min/mmHg
+D. 120 ml/min/mmHg
+E. 400 ml/min/mmHg
+Correct Option: B
+Explanation:
+ * Correct (B): Under resting conditions, the mean diffusing capacity of respiratory membrane for oxygen in a normal young adult is exactly 21 ml/min/mmHg.
+ * Incorrect (A): The value 10 ml/min/mmHg is too low and does not represent the baseline physiological standard for oxygen diffusion.
+ * Incorrect (C): The value 50 ml/min/mmHg is typical for carbon dioxide diffusing capacity during rest, not oxygen.
+ * Incorrect (D): The value 120 ml/min/mmHg is an incorrect baseline and does not match standard physiological metrics for resting gas exchange.
+ * Incorrect (E): The value 400 ml/min/mmHg represents a hyperdynamic state or maximum capacity for highly soluble gases during heavy exercise, not resting oxygen.
+   Tags: Easy, Physiology, Respiratory, Gas Exchange & Diffusion
+--------------------------------------------------
+

@@ -1,0 +1,52 @@
+Question: What is the most effective way to prevent MSDs related to mobile addiction:
+ Options:
+ a) Limiting mobile device use
+ b) Taking regular breaks
+ c) Maintaining good posture
+ d) All of the above
+ Correct Option:
+ Ans. All of the above
+ Explanation: Prevention requires a multifactorial approach: limiting use, taking breaks, and correcting posture. Each option alone helps, but the combined intervention is most effective.
+ Tags: Moderate, Community Medicine, Occupational & Environmental Health, Levels of Prevention & Health Promotion
+
+--------------------------------------------------
+
+Question: What is the proper way to lift heavy objects to prevent low back pain:
+ Options:
+ a) Bend your knees and keep your back straight
+ b) Bend your back and twist your body
+ c) Lift with your arms
+ d) Use a lifting belt
+ Correct Option:
+ Ans. Bend your knees and keep your back straight
+ Explanation: This distributes weight to strong leg muscles, reducing strain on the spine. Bending the back increases the risk of disc prolapse and injury.
+ Tags: Moderate, Community Medicine, Occupational & Environmental Health, Levels of Prevention & Health Promotion
+
+--------------------------------------------------
+
+Question: What is the most effective way to prevent MSDs in child laborers:
+ Options:
+ a) Providing ergonomic workstations
+ b) Limiting work hours
+ c) Providing regular breaks
+ d) All of the above
+ Correct Option:
+ Ans. All of the above
+ Explanation: Ergonomics requires a safe environment + reduced workload + rest breaks. Single measures are insufficient; prevention must be comprehensive.
+ Tags: Moderate, Community Medicine, Occupational & Environmental Health, Levels of Prevention & Health Promotion
+
+--------------------------------------------------
+
+Question: Replacing manual labor with machines is an example of which level of prevention against musculoskeletal disorders:
+ Options:
+ a) Primary prevention
+ b) Secondary prevention
+ c) Tertiary prevention
+ d) Quaternary prevention
+ Correct Option:
+ Ans. Primary prevention
+ Explanation: Primary prevention aims to prevent disease before it occurs by removing risk factors. Mechanization reduces physical strain, which prevents MSD development.
+ Tags: Moderate, Community Medicine, Occupational & Environmental Health, Levels of Prevention & Health Promotion
+
+--------------------------------------------------
+

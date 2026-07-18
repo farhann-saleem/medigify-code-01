@@ -1,0 +1,34 @@
+Question: Erythroblastosis fetalis is caused by:
+A. ABO incompatibility
+B. glucose-6-phosphate dehydrogenase deficiency
+C. hereditary spherocytosis
+D. Rh incompatibility
+E. sickle cell anemia
+Correct Option: D
+Explanation:
+ * Correct (D): Erythroblastosis fetalis is classically caused by severe Rh incompatibility, where maternal anti-D IgG antibodies cross the placenta and destroy fetal Rh-positive red blood cells.
+ * Incorrect (A): ABO incompatibility typically causes mild neonatal hemolytic disease and is rarely the physiological mechanism responsible for severe, classic erythroblastosis fetalis.
+ * Incorrect (B): Glucose-6-phosphate dehydrogenase deficiency is an X-linked intrinsic red cell enzymopathy that induces episodic oxidative hemolysis, not immune-mediated erythroblastosis fetalis.
+ * Incorrect (C): Hereditary spherocytosis is an inherited RBC membrane defect causing extravascular splenic clearance, distinct from maternal-fetal immune incompatibility.
+ * Incorrect (E): Sickle cell anemia is a qualitative hemoglobinopathy caused by Hb S polymerisation, not an alloimmune hemolytic disease targeting fetal erythrocytes.
+   Tags: Moderate, Biochemistry, Hematopoietic, Iron Metabolism & Anemias
+
+--------------------------------------------------
+
+Question: Which of the following enzymes require iron as cofactor:
+ A. carbonic anhydrase
+ B. cytochrome oxidase
+ C. DNA polymerase
+ D. hexokinase
+ E. pyruvate dehydrogenase complex
+ Correct Option: B
+ Explanation:
+ Correct (B): Cytochrome oxidase contains iron within heme groups essential for electron transport.
+ Incorrect (A): Carbonic anhydrase requires zinc rather than iron.
+ Incorrect (C): DNA polymerase primarily requires magnesium ions for activity.
+ Incorrect (D): Hexokinase depends mainly on magnesium for ATP binding.
+ Incorrect (E): Pyruvate dehydrogenase complex uses thiamine pyrophosphate, lipoic acid, FAD, NAD⁺, and coenzyme A.
+ Tags: Moderate, Biochemistry, Hematopoietic, Iron Metabolism & Anemias
+
+--------------------------------------------------
+

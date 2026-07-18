@@ -1,0 +1,153 @@
+Question: What clinical sign is characteristically seen in advanced right-sided heart failure but is absent in isolated early left-sided failure?
+ A. Cheyne-Stokes respiration
+ B. Jugular venous distension with peripheral pitting edema
+ C. Pink frothy sputum
+ D. Prolonged PR interval on ECG
+ E. Pulmonary crackles with basal crepitations
+ Correct Option: B
+ Explanation:
+ • Correct (B): Right-sided failure causes systemic venous congestion leading to jugular venous distension and dependent peripheral edema.
+ • Incorrect (A): Cheyne-Stokes respiration occurs in severe heart failure but is not specific to right-sided failure.
+ • Incorrect (C): Pink frothy sputum is a hallmark of acute left-sided pulmonary edema.
+ • Incorrect (D): PR prolongation is a conduction abnormality, not a heart failure sign.
+ • Incorrect (E): Basal crackles are typical of left-sided pulmonary congestion.
+ Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: What is the mechanism behind cardiac asthma in acute left-sided heart failure?
+ A. Allergic histamine release in bronchi
+ B. Pulmonary congestion causing interstitial airway compression
+ C. Tracheal smooth muscle paralysis
+ D. Central respiratory center inhibition
+ E. Bronchial cartilage collapse due to hypoxia
+ Correct Option: B
+ Explanation:
+ • Correct (B): Pulmonary venous congestion leads to interstitial edema compressing bronchioles, causing wheezing.
+ • Incorrect (A): Not an IgE-mediated allergic process.
+ • Incorrect (C): Airways are compressed, not paralyzed.
+ • Incorrect (D): Respiratory center is stimulated, not inhibited.
+ • Incorrect (E): Cartilage collapse is not the primary mechanism.
+ Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: A patient with mitral stenosis presents with dyspnea and hemoptysis. What is the underlying mechanism?
+ A. Left ventricular overload causing systemic hypertension
+ B. Left atrial pressure rise leading to pulmonary congestion
+ C. Right ventricular hypertrophy causing systemic edema
+ D. Aortic valve incompetence causing hypotension
+ E. Pulmonary artery dilation reducing alveolar perfusion
+ Correct Option: B
+ Explanation:
+ • Correct (B): Mitral stenosis raises left atrial pressure → pulmonary venous congestion → edema and hemoptysis.
+ • Incorrect (A): LV overload is not primary pathology in mitral stenosis.
+ • Incorrect (C): RV hypertrophy is secondary, not primary mechanism.
+ • Incorrect (D): Aortic incompetence is unrelated.
+ • Incorrect (E): Pulmonary dilation is not the cause of hemoptysis.
+ Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: A patient undergoes a radical mastectomy with axillary lymph node removal. What type of edema develops in the ipsilateral arm, and what is its mechanism?
+A. Intracellular edema due to Na+/K+ ATPase failure
+B. Low-protein pitting edema due to venous hypertension
+C. High-protein lymphedema due to lymphatic obstruction
+D. Non-pitting edema due to reduced plasma oncotic pressure
+E. Osmotic dehydration due to interstitial protein loss
+Correct Option: C
+Explanation:
+Correct (C): Lymphatic obstruction causes protein-rich interstitial fluid accumulation.
+Incorrect (A): Cellular pump failure causes intracellular, not interstitial edema.
+Incorrect (B): Venous hypertension causes low-protein edema, not lymphatic.
+Incorrect (D): Oncotic pressure reduction is systemic, not surgical lymphatic loss.
+Incorrect (E): No osmotic dehydration occurs in this setting.
+Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: Why does a positive interstitial fluid hydrostatic pressure act as a powerful physical baseline factor preventing severe peripheral edema in healthy tissues?
+A. It enhances capillary filtration rate continuously
+B. It increases endothelial permeability to proteins
+C. It opposes filtration and drives fluid into lymphatics
+D. It reduces lymphatic pumping efficiency
+E. It increases plasma oncotic pressure directly
+Correct Option: C
+Explanation:
+Correct (C): Positive interstitial pressure pushes fluid into lymphatics and opposes filtration.
+Incorrect (A): It limits, not enhances, filtration.
+Incorrect (B): It does not alter permeability directly.
+Incorrect (D): It supports, not reduces, lymph flow.
+Incorrect (E): Plasma oncotic pressure is protein-dependent, not pressure-driven.
+Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: Given Pc = 25 mmHg, Pif = -2 mmHg, πp = 26 mmHg, πif = 5 mmHg, calculate net filtration pressure.
+A. -4 mmHg (net reabsorption)
+B. +2 mmHg (net filtration)
+C. +6 mmHg (net filtration)
+D. +12 mmHg (net filtration)
+E. 0 mmHg (no net movement)
+Correct Option: C
+Explanation:
+Correct (C): (25 - (-2)) - (26 - 5) = 27 - 21 = +6 mmHg.
+Incorrect (A): Sign reversal error.
+Incorrect (B): Underestimates Starling forces.
+Incorrect (D): Overestimates net pressure.
+Incorrect (E): Ignores imbalance in forces.
+Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: A child with Kwashiorkor presents with edema and increased capillary permeability. What best explains the Starling dynamics?
+A. Increased plasma oncotic pressure with reduced filtration coefficient
+B. Decreased plasma oncotic pressure and increased permeability causing edema
+C. Increased lymphatic contraction preventing fluid accumulation
+D. Decreased capillary hydrostatic pressure preventing filtration
+E. Increased erythrocyte osmotic absorption of interstitial fluid
+Correct Option: B
+Explanation:
+Correct (B): Hypoalbuminemia lowers oncotic pressure and permeability increases filtration.
+Incorrect (A): Kwashiorkor reduces, not increases, oncotic pressure.
+Incorrect (C): Lymphatics cannot fully compensate for protein loss.
+Incorrect (D): Hydrostatic pressure is not primary driver here.
+Incorrect (E): RBCs do not mediate osmotic absorption.
+Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: What is the safety factor against edema provided by the lymphatic system when capillary filtration increases acutely?
+A. Lymph flow decreases to conserve plasma proteins
+B. Lymph flow increases 20–50× removing fluid and proteins
+C. Capillaries close to prevent further filtration
+D. Interstitial fluid becomes impermeable to water
+E. Venous valves reverse flow to drain tissue fluid
+Correct Option: B
+Explanation:
+Correct (B): Lymph flow can increase 20–50× to clear excess fluid and proteins.
+Incorrect (A): Flow increases, not decreases.
+Incorrect (C): Capillaries do not close physiologically.
+Incorrect (D): Interstitial permeability remains unchanged.
+Incorrect (E): Venous valves prevent backflow, not drainage reversal.
+Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: During an anaphylactic shock response, massive degranulation of mast cells releases large quantities of histamine into the circulation. What are the systemic microvascular effects of this release?
+A. Arteriolar constriction with reduced capillary permeability and fluid retention
+B. Profound arteriolar dilation with venous pooling and increased capillary pore size causing fluid loss
+C. Increased total peripheral resistance with elevation of arterial blood pressure
+D. Suppression of bradykinin formation leading to reduced vascular permeability
+E. Selective lymphatic dilation without significant change in capillary exchange
+Correct Option: B
+Explanation:
+Correct (B): Histamine causes arteriolar vasodilation, venous pooling, and increased capillary permeability with endothelial gap formation leading to fluid extravasation.
+Incorrect (A): Histamine does not cause vasoconstriction; it increases permeability.
+Incorrect (C): Total peripheral resistance decreases in anaphylaxis due to vasodilation.
+Incorrect (D): Histamine does not suppress bradykinin and instead promotes permeability.
+Incorrect (E): Lymphatic changes are not the primary determinant of histamine-induced shock physiology.
+Tags: Moderate, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+

@@ -1,0 +1,144 @@
+12
+ Question: A 55-year-old heavy smoker presents with severe dyspnea, dry cough, barrel chest, prolonged expiration, and decreased FEV1. What is the principal pathogenetic mechanism:
+  A. production of autoantibodies against alveolar basement membrane.
+  B. protease production by neutrophils and macrophages.
+  C. squamous metaplasia of bronchial epithelium.
+  D. type III hypersensitivity reaction.
+  E. type IV hypersensitivity reaction.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Smoking recruits neutrophils and macrophages whose proteases destroy alveolar walls, producing emphysema.
+ •	Incorrect (A): Autoantibodies against alveolar basement membrane occur in Goodpasture syndrome.
+ •	Incorrect (C): Squamous metaplasia is associated with smoking-related epithelial change, not emphysema pathogenesis.
+ •	Incorrect (D): Type III hypersensitivity is immune-complex mediated.
+ •	Incorrect (E): Type IV hypersensitivity is T-cell mediated and not the principal mechanism here.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+17
+ Question: A 4-year-old child has seasonal breathing difficulty with eosinophilia and Charcot-Leyden crystals in sputum. Which mediator is responsible for bronchospasm:
+  A. histamine.
+  B. interleukins.
+  C. leukotrienes.
+  D. prostaglandins.
+  E. tumor necrosis factor-α.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Leukotrienes are potent bronchoconstrictors responsible for sustained bronchospasm in allergic asthma.
+ •	Incorrect (A): Histamine contributes early but is less important for prolonged bronchospasm.
+ •	Incorrect (B): Interleukins regulate inflammation rather than directly causing major bronchospasm.
+ •	Incorrect (D): Prostaglandins have varied effects and are not the principal bronchospastic mediators.
+ •	Incorrect (E): Tumor necrosis factor-α promotes inflammation but does not primarily mediate bronchospasm.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+18
+ Question: A 28-year-old man presents with infertility, bronchiectasis, and dextrocardia. What is the diagnosis:
+  A. Caplan syndrome.
+  B. idiopathic pulmonary fibrosis.
+  C. Kartagener syndrome.
+  D. primary tuberculosis.
+  E. situs inversus.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Kartagener syndrome is primary ciliary dyskinesia characterized by bronchiectasis, infertility, and dextrocardia/situs inversus.
+ •	Incorrect (A): Caplan syndrome combines rheumatoid arthritis with pneumoconiosis.
+ •	Incorrect (B): Idiopathic pulmonary fibrosis does not explain dextrocardia and infertility.
+ •	Incorrect (D): Primary tuberculosis lacks the characteristic triad.
+ •	Incorrect (E): Situs inversus alone does not account for bronchiectasis and infertility.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+19
+ Question: A 22-year-old female develops sudden dyspnea with wheezing. Sputum shows Curschmann spirals and Charcot-Leyden crystals with eosinophils. What is the diagnosis:
+  A. atelectasis.
+  B. bronchial asthma.
+  C. bronchiectasis.
+  D. chronic bronchitis.
+  E. pulmonary edema.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Wheezing with eosinophils, Curschmann spirals, and Charcot-Leyden crystals is classic for bronchial asthma.
+ •	Incorrect (A): Atelectasis involves lung collapse without these sputum findings.
+ •	Incorrect (C): Bronchiectasis produces purulent sputum and recurrent infections.
+ •	Incorrect (D): Chronic bronchitis is characterized by chronic productive cough rather than eosinophilic sputum.
+ •	Incorrect (E): Pulmonary edema produces frothy fluid rather than asthma-specific sputum features.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+20
+ Question: A 50-year-old man with progressive dyspnea shows restrictive pattern on pulmonary function tests and interstitial linear opacities on X-ray. Which pathology is most likely:
+  A. chronic inflammation with eosinophils in bronchi.
+  B. honeycomb lung with alveolar fibrosis.
+  C. hyperplasia of mucous glands in bronchi.
+  D. uniform dilation of air spaces distal to bronchioles.
+  E. vascular congestion with alveolar edema.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Restrictive physiology with interstitial opacities strongly suggests pulmonary fibrosis producing honeycomb lung with alveolar fibrosis.
+ •	Incorrect (A): Eosinophilic bronchial inflammation is characteristic of asthma.
+ •	Incorrect (C): Hyperplasia of mucous glands in bronchi is typical of chronic bronchitis.
+ •	Incorrect (D): Uniform dilation of air spaces distal to bronchioles describes emphysema, an obstructive disease.
+ •	Incorrect (E): Vascular congestion with alveolar edema is characteristic of pulmonary edema rather than chronic interstitial fibrosis.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+21
+ Question: A 60-year-old man presents with chronic productive cough and copious purulent sputum. CT shows bronchial dilatation and wall thickening. What is the diagnosis?
+  A. Asthma.
+  B. Bronchiectasis.
+  C. Chronic bronchitis.
+  D. Emphysema.
+  E. Pneumonia.
+  Correct Option: B
+ Explanation:
+ •	Correct (B): Bronchiectasis is characterized by permanent bronchial dilatation with chronic productive cough, copious purulent sputum, and CT evidence of bronchial wall thickening.
+ •	Incorrect (A): Asthma causes reversible airway obstruction and wheezing, not permanent bronchial dilatation with purulent sputum.
+ •	Incorrect (C): Chronic bronchitis causes chronic cough with sputum production but lacks the marked bronchial dilatation seen on CT.
+ •	Incorrect (D): Emphysema involves destruction of alveolar walls and air-space enlargement rather than bronchial wall thickening.
+ •	Incorrect (E): Pneumonia is an acute infectious consolidation and does not typically cause permanent bronchial dilatation.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+22
+ Question: A 61-year-old man presents with shortness of breath and chest X-ray shows diffuse pulmonary infiltrates with patchy interstitial fibrosis. What is the diagnosis?
+  A. Bronchiectasis.
+  B. Chronic bronchitis.
+  C. Idiopathic pulmonary fibrosis.
+  D. Lobar pneumonia.
+  E. Pulmonary emphysema.
+  Correct Option: C
+ Explanation:
+ •	Correct (C): Idiopathic pulmonary fibrosis produces progressive dyspnea with diffuse pulmonary infiltrates and patchy interstitial fibrosis due to chronic fibrosing interstitial lung disease.
+ •	Incorrect (A): Bronchiectasis primarily affects the bronchi with dilatation and recurrent infections rather than diffuse interstitial fibrosis.
+ •	Incorrect (B): Chronic bronchitis causes mucus hypersecretion and airway inflammation without patchy interstitial fibrosis.
+ •	Incorrect (D): Lobar pneumonia typically presents with localized lobar consolidation rather than diffuse fibrotic infiltrates.
+ •	Incorrect (E): Pulmonary emphysema causes alveolar destruction and hyperinflation, not interstitial fibrosis.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+23
+ Question: A newborn of a diabetic mother presents with respiratory distress and ground glass opacity on chest X-ray. What is the diagnosis?
+  A. Asthma.
+  B. Bronchiolitis.
+  C. Bronchitis.
+  D. Respiratory distress syndrome.
+  E. Transient tachypnea of the newborn.
+  Correct Option: D
+ Explanation:
+ •	Correct (D): Respiratory distress syndrome results from surfactant deficiency and classically presents in newborns with respiratory distress and ground glass opacity on chest X-ray.
+ •	Incorrect (A): Asthma is a chronic airway disease and is not a cause of neonatal respiratory distress.
+ •	Incorrect (B): Bronchiolitis is a viral lower respiratory tract infection occurring mainly in infants after the neonatal period.
+ •	Incorrect (C): Bronchitis is uncommon in newborns and does not typically produce diffuse ground glass opacity.
+ •	Incorrect (E): Transient tachypnea of the newborn causes mild respiratory distress due to delayed lung fluid clearance but is not primarily associated with surfactant deficiency.
+ Tags: Hard, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+

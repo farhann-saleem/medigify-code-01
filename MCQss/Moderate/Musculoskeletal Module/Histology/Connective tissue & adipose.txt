@@ -1,0 +1,16 @@
+Question: A girl presented with ear scar after piercing ear. This scar may contain:
+A. calcified bone tissue
+B. elastic cartilage tissue
+C. fibrocartilage tissue
+D. hyaline cartilage tissue
+E. dense fibrous connective tissue
+Correct Option: E
+Explanation:
+Correct (E): Cutaneous wound healing and keloid or hypertrophic scar formation following trauma are driven by dense fibrous connective tissue characterized by unorganized type I collagen deposition.
+Incorrect (A): Calcified bone tissue forms via osteoblast activity during skeletal mineralization and does not compose soft tissue cutaneous scars.
+Incorrect (B): Elastic cartilage tissue forms the natural, flexible structural framework of the pinna but does not regenerate to form cutaneous post-traumatic scars.
+Incorrect (C): Fibrocartilage tissue is restricted to high-stress fibrocartilaginous joints and symphyses and is not synthesized during dermal scar formation.
+Incorrect (D): Hyaline cartilage tissue serves as skeletal templates or articular coverings and does not participate in cutaneous soft-tissue fibroproliferative repair.
+Tags: Moderate, Histology, Musculoskeletal, Connective Tissue & Adipose
+--------------------------------------------------
+

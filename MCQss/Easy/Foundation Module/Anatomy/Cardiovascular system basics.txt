@@ -1,0 +1,706 @@
+﻿Question: Dominance of the coronary arterial system depends upon which of the following structures? 
+A. Anterior interventricular artery 
+B. Circumflex artery 
+C. Left coronary artery 
+D. Posterior interventricular artery 
+E. Sinoatrial nodal artery 
+Correct Option: D 
+Explanation:
+* Correct (D): Coronary dominance is defined by which coronary artery gives rise to the posterior interventricular artery (posterior descending artery); right dominance (~70%) when it arises from the right coronary artery, left dominance when from the circumflex.
+* Incorrect (A): The anterior interventricular artery always arises from the left coronary artery and is not used to determine dominance.
+* Incorrect (B): The circumflex artery determines dominance only indirectly — dominance is assigned based on which vessel supplies the posterior interventricular artery, not the circumflex itself.
+* Incorrect (C): The left coronary artery is the parent vessel; dominance is defined by the territory of its branches, not the trunk itself.
+* Incorrect (E): The sinoatrial nodal artery origin varies but is not the criterion used to classify coronary dominance. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following vessels drains the myocardium directly into the right atrium? 
+A. Great cardiac vein 
+B. Middle cardiac vein 
+C. Right marginal vein 
+D. Small cardiac vein 
+E. Venae cordis minimae 
+Correct Option: E 
+Explanation:
+* Correct (E): Venae cordis minimae (Thebesian veins) are tiny vessels that drain myocardial capillary beds directly into all four cardiac chambers, predominantly the right atrium, without passing through the coronary sinus.
+* Incorrect (A): The great cardiac vein drains into the coronary sinus, not directly into the right atrium.
+* Incorrect (B): The middle cardiac vein empties into the coronary sinus, which then opens into the right atrium.
+* Incorrect (C): The right marginal vein typically drains into the small cardiac vein or directly into the coronary sinus, not independently into the right atrium.
+* Incorrect (D): The small cardiac vein drains into the coronary sinus, not directly into the right atrium. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The oblique pericardial sinus is bound anteriorly by the: 
+A. inferior vena cava 
+B. left atrium 
+C. pericardium 
+D. right atrium 
+E. superior vena cava 
+Correct Option: B 
+Explanation:
+* Correct (B): The oblique pericardial sinus is a recess behind the heart bounded anteriorly by the posterior surface of the left atrium, which forms its anterior wall.
+* Incorrect (A): The inferior vena cava forms part of the right boundary of the oblique sinus, not its anterior wall.
+* Incorrect (C): The pericardium forms the posterior boundary of the oblique sinus, not the anterior.
+* Incorrect (D): The right atrium lies to the right of the oblique sinus and does not form its anterior boundary.
+* Incorrect (E): The superior vena cava is associated with the margins of the transverse pericardial sinus, not the oblique sinus. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The main nerve that provides parasympathetic input to the superficial cardiac plexus is the:
+A. hypoglossal nerve 
+B. phrenic nerve 
+C. recurrent laryngeal nerve 
+D. sympathetic trunk nerve 
+E. vagus nerve 
+Correct Option: E 
+Explanation:
+* Correct (E): The vagus nerve (CN X) provides all preganglionic parasympathetic fibers to the cardiac plexuses, including the superficial cardiac plexus, via its superior and inferior cervical cardiac branches.
+* Incorrect (A): The hypoglossal nerve (CN XII) is a purely somatic motor nerve supplying tongue musculature and has no autonomic cardiac role.
+* Incorrect (B): The phrenic nerve carries sensory fibers to the pericardium and diaphragm but provides no parasympathetic input to the cardiac plexus.
+* Incorrect (C): The recurrent laryngeal nerve is a branch of the vagus supplying laryngeal musculature and mucosa; it does not directly contribute cardiac parasympathetic fibers.
+* Incorrect (D): The sympathetic trunk contributes sympathetic (adrenergic) fibers to the cardiac plexus, which is the opposite of parasympathetic input.
+ Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The parietal layer of the serous pericardium receives its nerve supply from the: 
+A. intercostal nerves 
+B. phrenic nerves 
+C. subcostal nerves 
+D. sympathetic trunks 
+E. vagus nerves 
+Correct Option: B 
+Explanation:
+* Correct (B): The parietal layer of the serous pericardium (fused with the fibrous pericardium) is innervated by the phrenic nerves (C3–C5), which carry somatic sensory fibers; this is why pericardial pain is referred to the shoulder tip.
+* Incorrect (A): The intercostal nerves supply the chest wall and parietal pleura; they do not innervate the parietal serous pericardium.
+* Incorrect (C): The subcostal nerve (T12) supplies the abdominal wall and has no contribution to pericardial innervation.
+* Incorrect (D): The sympathetic trunks contribute autonomic fibers to the visceral pericardium (epicardium) via the cardiac plexus, not somatic sensory supply to the parietal layer.
+* Incorrect (E): The vagus nerves carry parasympathetic fibers to the heart via the cardiac plexuses but do not supply somatic sensory innervation to the parietal pericardium. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: All of the following vessels are used in coronary bypass graft surgery EXCEPT the: A. femoral vein 
+B. great saphenous vein 
+C. internal thoracic artery 
+D. radial artery 
+E. ulnar artery 
+Correct Option: A 
+Explanation:
+* Correct (A): The femoral vein is not used in coronary artery bypass grafting due to its large caliber, thin walls, high thrombosis risk, and poor long-term patency; it is not a suitable conduit.
+* Incorrect (B): The great saphenous vein is the most commonly harvested venous conduit in coronary bypass surgery due to its length and accessibility.
+* Incorrect (C): The internal thoracic artery (internal mammary artery) is the gold-standard arterial conduit, particularly the left internal thoracic artery to the left anterior descending artery.
+* Incorrect (D): The radial artery is a well-established arterial conduit used in coronary bypass grafting, offering good long-term patency.
+* Incorrect (E): The ulnar artery can be used as an arterial conduit in coronary bypass surgery, though less commonly than the radial artery. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which technique is used to demonstrate and record the flow of blood through the heart and great vessels? 
+A. Cineradiography 
+B. Coronary angiography 
+C. Doppler echocardiography 
+D. Electrocardiography 
+E. Positron emission tomography 
+Correct Option: C 
+Explanation:
+* Correct (C): Doppler echocardiography uses ultrasound with Doppler shift analysis to visualize and record the direction, velocity, and pattern of blood flow through the heart chambers, valves, and great vessels in real time.
+* Incorrect (A): Cineradiography produces rapid sequential X-ray images of moving structures but does not directly demonstrate blood flow characteristics.
+* Incorrect (B): Coronary angiography visualizes coronary artery anatomy and stenoses using contrast dye under fluoroscopy but is specific to coronary vessels, not overall cardiac blood flow.
+* Incorrect (D): Electrocardiography records the electrical activity of the heart and provides no information about blood flow or hemodynamics.
+* Incorrect (E): Positron emission tomography assesses myocardial metabolic activity and perfusion but does not record real-time blood flow through cardiac chambers and great vessels. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The conducting system of the heart lies mainly in which layer? 
+A. Endomysial layer 
+B. Epicardial layer 
+C. Myocardial layer 
+D. Pericardial layer 
+E. Subendocardial layer 
+Correct Option: E 
+Explanation:
+* Correct (E): The cardiac conducting system — including the AV node, bundle of His, bundle branches, and Purkinje fibers — runs predominantly in the subendocardial layer, just beneath the endocardium.
+* Incorrect (A): The endomysial layer refers to connective tissue surrounding individual myocardial fibers and is not a recognized location of the conducting system.
+* Incorrect (B): The epicardial layer (visceral pericardium) contains coronary vessels and autonomic nerves but not the primary conducting system.
+* Incorrect (C): The myocardial layer contains working cardiomyocytes; while conducting fibers penetrate it, the system does not lie "mainly" within the bulk myocardium.
+* Incorrect (D): The pericardial layer is a fibroserous covering external to the heart wall and contains no conducting tissue. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The inferior border of the heart is mainly supplied by which artery? 
+A. Anterior interventricular artery 
+B. Circumflex artery 
+C. Left marginal artery 
+D. Posterior interventricular artery 
+E. Right marginal artery 
+Correct Option: E 
+Explanation:
+* Correct (E): The right marginal artery, a branch of the right coronary artery, runs along the acute (inferior/right) margin of the heart toward the apex and is the primary supply to the inferior border.
+* Incorrect (A): The anterior interventricular artery supplies the anterior interventricular sulcus and anterior surfaces of both ventricles, not the inferior border.
+* Incorrect (B): The circumflex artery runs in the left atrioventricular groove and supplies the lateral and posterior left ventricle, not the inferior border.
+* Incorrect (C): The left marginal artery supplies the left (obtuse) margin of the heart, not the inferior (acute) margin.
+* Incorrect (D): The posterior interventricular artery supplies the posterior interventricular sulcus and inferior portions of both ventricles but does not define the inferior border supply. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The sternocostal surface of the heart is mainly formed by the: 
+A. left atrium 
+B. left ventricle 
+C. right atrium 
+D. right auricle 
+E. right ventricle 
+Correct Option: E 
+Explanation:
+* Correct (E): The right ventricle forms the majority (~two-thirds) of the sternocostal (anterior) surface of the heart, lying directly behind the sternum and costal cartilages.
+* Incorrect (A): The left atrium forms the base (posterior surface) of the heart and contributes minimally to the anterior surface.
+* Incorrect (B): The left ventricle forms the left lateral border and apex but constitutes only a small strip of the sternocostal surface.
+* Incorrect (C): The right atrium forms the right border of the heart and contributes to the right portion of the sternocostal surface, but is not the predominant structure.
+* Incorrect (D): The right auricle is a small appendage of the right atrium visible anteriorly but does not constitute the main formation of the sternocostal surface. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The hemiazygos vein drains into the: 
+A. azygos vein 
+B. inferior vena cava 
+C. internal thoracic vein 
+D. left superior intercostal vein 
+E. superior vena cava 
+Correct Option: A 
+Explanation:
+* Correct (A): The hemiazygos vein ascends on the left side of the vertebral column and drains into the azygos vein by crossing the midline, typically at the level of T8–T9.
+* Incorrect (B): The inferior vena cava receives drainage from abdominal and lower limb veins; the hemiazygos vein does not drain into it.
+* Incorrect (C): The internal thoracic vein drains the anterior chest wall and is not a recipient of the hemiazygos vein.
+* Incorrect (D): The left superior intercostal vein drains the upper intercostal spaces on the left and empties into the left brachiocephalic vein, not the hemiazygos.
+* Incorrect (E): The superior vena cava receives the azygos vein directly; the hemiazygos is a tributary of the azygos, not the superior vena cava.
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which structure loops around the arch of the aorta? 
+A. Left phrenic nerve 
+B. Left recurrent laryngeal nerve 
+C. Right phrenic nerve 
+D. Right recurrent laryngeal nerve 
+E. Right vagus nerve 
+Correct Option: B 
+Explanation:
+* Correct (B): The left recurrent laryngeal nerve branches from the left vagus nerve at the level of the aortic arch, loops posteriorly under the arch (at the ligamentum arteriosum), and ascends in the tracheoesophageal groove to supply the larynx.
+* Incorrect (A): The left phrenic nerve descends anterior to the aortic arch and the left lung root but does not loop around the arch.
+* Incorrect (C): The right phrenic nerve descends on the right side of the thorax and has no relationship to the aortic arch.
+* Incorrect (D): The right recurrent laryngeal nerve loops around the right subclavian artery, not the aortic arch.
+* Incorrect (E): The right vagus nerve crosses anterior to the right subclavian artery and does not loop around the aortic arch. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A 45-year-old woman presents with a tumor confined to the posterior mediastinum. Which of the following structures is most likely to be compressed? 
+A. Arch of the aorta 
+B. Ascending aorta 
+C. Descending thoracic aorta 
+D. Pulmonary trunk 
+E. Superior vena cava 
+Correct Option: C 
+Explanation:
+* Correct (C): The descending thoracic aorta runs through the posterior mediastinum (T4–T12), making it the aortic segment most vulnerable to compression by posterior mediastinal masses.
+* Incorrect (A): The arch of the aorta lies in the superior mediastinum, not the posterior mediastinum.
+* Incorrect (B): The ascending aorta is located in the middle mediastinum, enclosed within the pericardium.
+* Incorrect (D): The pulmonary trunk is a middle mediastinal structure, entirely intrapericardial.
+* Incorrect (E): The superior vena cava resides in the superior and middle mediastinum, not the posterior mediastinum. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In the superior mediastinum, the right vagus nerve gives rise to the right recurrent laryngeal nerve which hooks around the: 
+A. arch of the aorta 
+B. left common carotid artery 
+C. right common carotid artery 
+D. right subclavian artery 
+E. superior vena cava 
+Correct Option: D 
+Explanation:
+* Correct (D): The right recurrent laryngeal nerve hooks posteriorly around the right subclavian artery in the superior mediastinum, then ascends to the larynx in the tracheoesophageal groove.
+* Incorrect (A): The arch of the aorta is where the left recurrent laryngeal nerve hooks, not the right.
+* Incorrect (B): The left common carotid artery is a branch of the aortic arch and has no relationship to the right recurrent laryngeal nerve.
+* Incorrect (C): The right common carotid artery does not serve as the hook point; the right subclavian artery is the correct landmark.
+* Incorrect (E): The superior vena cava lies in the superior mediastinum but is not the structure around which the right recurrent laryngeal nerve loops.
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Accumulation of blood in the pericardial cavity after cardiac surgery is known as: 
+A. cardiac tamponade 
+B. hemopneumothorax 
+C. hydrothorax 
+D. pleural effusion 
+E. pneumothorax 
+Correct Option: A 
+Explanation:
+* Correct (A): Cardiac tamponade refers to compression of the heart due to accumulation of blood (or fluid) within the pericardial cavity, impairing cardiac filling and output.
+* Incorrect (B): Hemopneumothorax is the presence of both blood and air in the pleural cavity, not the pericardial cavity.
+* Incorrect (C): Hydrothorax denotes serous fluid accumulation in the pleural cavity, not the pericardium.
+* Incorrect (D): Pleural effusion is fluid accumulation within the pleural space, an entirely separate anatomical compartment from the pericardium.
+* Incorrect (E): Pneumothorax is the presence of air in the pleural cavity and has no relevance to pericardial blood accumulation. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The septomarginal trabecula (moderator band) passes through the base of the: 
+A. anterior papillary muscle 
+B. crista terminalis 
+C. pectinate muscle 
+D. posterior papillary muscle 
+E. septal papillary muscle 
+Correct Option: A 
+Explanation:
+* Correct (A): The septomarginal trabecula (moderator band) runs from the interventricular septum to the base of the anterior papillary muscle, carrying the right bundle branch of the cardiac conduction system.
+* Incorrect (B): The crista terminalis is a muscular ridge in the right atrium separating the sinus venarum from the trabeculated portion; it has no relationship to the moderator band.
+* Incorrect (C): The pectinate muscles are atrial structures and are not associated with the septomarginal trabecula.
+* Incorrect (D): The posterior papillary muscle is not the insertion point of the moderator band; the anterior papillary muscle is.
+* Incorrect (E): The septal papillary muscle is a smaller, inconstant structure on the interventricular septum and is not the terminus of the septomarginal trabecula. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A tumor in the posterior mediastinum compresses the thoracic duct just before it enters the venous system. The duct normally drains into the: 
+A. junction of left internal jugular and left subclavian veins 
+B. junction of right internal jugular and right subclavian veins 
+C. left brachiocephalic vein 
+D. superior vena cava 
+E. termination of the azygos vein 
+Correct Option: A 
+Explanation:
+* Correct (A): The thoracic duct ascends through the posterior mediastinum and empties into the venous system at the junction of the left internal jugular and left subclavian veins (left venous angle).
+* Incorrect (B): The junction of the right internal jugular and right subclavian veins is where the right lymphatic duct drains; the thoracic duct terminates on the left side.
+* Incorrect (C): The left brachiocephalic vein is not the direct termination point; the thoracic duct empties specifically at the left venous angle, proximal to brachiocephalic vein formation.
+* Incorrect (D): The superior vena cava receives no direct lymphatic drainage from the thoracic duct.
+* Incorrect (E): The azygos vein is a posterior mediastinal venous structure; the thoracic duct does not drain into it.
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: During repair of a congenital heart defect, a surgeon accidentally damages the moderator band in the right ventricle. Which part of the cardiac conduction system is most likely affected? 
+A. Atrioventricular bundle 
+B. Atrioventricular node 
+C. Left bundle branch 
+D. Right bundle branch 
+E. Sinoatrial node 
+Correct Option: D 
+Explanation:
+* Correct (D): The septomarginal trabecula (moderator band) carries the right bundle branch of the atrioventricular conduction system from the interventricular septum to the anterior papillary muscle; damage results in right bundle branch block.
+* Incorrect (A): The atrioventricular bundle (bundle of His) is located at the membranous interventricular septum and is not contained within the moderator band.
+* Incorrect (B): The atrioventricular node lies in the floor of the right atrium at the triangle of Koch and has no anatomical relationship to the moderator band.
+* Incorrect (C): The left bundle branch travels subendocardially on the left side of the interventricular septum and does not pass through the moderator band.
+* Incorrect (E): The sinoatrial node is located in the right atrium at the superior junction of the crista terminalis and the superior vena cava, entirely remote from the ventricular moderator band. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Portal system is formed by two sets of: 
+A. arterioles 
+B. arteriovenous shunts 
+C. capillaries 
+D. large arteries 
+E. muscular veins 
+Correct Option: C 
+Explanation:
+* Correct (C): A portal system is defined by a vascular arrangement where blood passes through two consecutive sets of capillaries connected by an intermediate vessel before returning to the heart.
+* Incorrect (A): Portal systems are not formed by two sets of arterioles, though an efferent arteriole links the capillary beds specifically in the renal portal system.
+* Incorrect (B): Arteriovenous shunts completely bypass capillary networks, functioning in opposition to the layout of a portal system.
+* Incorrect (D): Large arteries function as conducting vessels and do not form the intricate exchange networks required for a portal system.
+* Incorrect (E): Muscular veins carry blood away from organs toward the heart and do not constitute the functional exchange beds of a portal network. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following function as resistance vessel: 
+A. arterioles 
+B. capillaries 
+C. elastic arteries 
+D. muscular arteries 
+E. venules 
+Correct Option: A 
+Explanation:
+* Correct (A): Arterioles function as primary resistance vessels because their thick, smooth muscle walls alter lumen diameter to dictate systemic blood pressure.
+* Incorrect (B): Capillaries serve exclusively as exchange vessels for nutrients and gases due to their thin walls, rather than regulating vascular resistance.
+* Incorrect (C): Elastic arteries function as conducting or capacitance vessels that damp the pressure oscillations of the cardiac cycle.
+* Incorrect (D): Muscular arteries serve primarily as distributing vessels that regulate regional blood flow to specific target organs.
+* Incorrect (E): Venules act as capacitance vessels and primary sites for leukocyte emigration during an inflammatory response.
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Valves of heart are formed by folding of: 
+A. endocardium 
+B. epicardium 
+C. fibrous pericardium 
+D. myocardium 
+E. serous pericardium 
+Correct Option: A 
+Explanation:
+* Correct (A): Valves of heart are structural folds of the endocardium, reinforced internally by a core of dense connective tissue.
+* Incorrect (B): The epicardium forms the visceral layer of the serous pericardium on the outer surface of the heart, entirely separate from internal valve structures.
+* Incorrect (C): The fibrous pericardium is the tough, outermost sac surrounding the entire heart organ and does not contribute to internal cardiac structures.
+* Incorrect (D): The myocardium consists of cardiac muscle tissue responsible for contraction, whereas the valves are avascular fibroelastic structures.
+* Incorrect (E): The serous pericardium lines the pericardial cavity to minimize friction and has no anatomical role in forming internal heart valves. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Papillary muscles in heart are extensions of: 
+A. endocardium 
+B. epicardium 
+C. fibrous pericardium 
+D. myocardium 
+E. serous pericardium 
+Correct Option: D 
+Explanation:
+* Correct (D): Papillary muscles are specialized muscular extensions of the myocardium that contract to tighten the chordae tendineae and prevent valve eversion during systole.
+* Incorrect (A): The endocardium merely covers the outer surface of the papillary muscles as an endothelial lining; it does not form the muscle mass itself.
+* Incorrect (B): The epicardium is localized to the external surface of the heart wall and plays no structural role within the internal ventricular chambers.
+* Incorrect (C): The fibrous pericardium is an external connective tissue sac and is completely separate from internal ventricular anatomy.
+* Incorrect (E): The serous pericardium is a double-layered membrane that lines the pericardial cavity and does not extend into the muscular walls of the heart. 
+Tags: Easy, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+

@@ -1,0 +1,54 @@
+
+Question: From the liver, triglycerides are transported to extrahepatic tissue by:
+A. chylomicrons
+B. vldl
+C. hdl
+D. ldl
+E. idl
+Correct Option: B
+Explanation:
+Correct (B): vldl carries endogenous triglycerides from liver to peripheral tissues.
+Incorrect (A): chylomicrons transport dietary lipids from intestine.
+Incorrect (C): hdl mediates reverse cholesterol transport.
+Incorrect (D): ldl delivers cholesterol, not triglycerides.
+Incorrect (E): idl is an intermediate remnant of vldl metabolism.
+Tags: Easy, Biochemistry, Foundation, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+
+
+Question: Elevated plasma level of the following protects against atherosclerosis:
+A. chylomicrons
+B. vldl
+C. hdl
+D. ldl
+E. idl
+Correct Option: C
+Explanation:
+Correct (C): hdl removes cholesterol from tissues and protects against atherosclerosis.
+Incorrect (A): chylomicrons transport dietary fat and are not protective.
+Incorrect (B): vldl contributes to lipid deposition.
+Incorrect (D): ldl is a major atherogenic lipoprotein.
+Incorrect (E): idl is also atherogenic precursor of ldl.
+Tags: Easy, Biochemistry, Foundation, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+
+
+Question: Which of the following is regarded as cardioprotective:
+A. ldh
+B. ldl
+C. vldl
+D. hdl
+E. cholesterol
+Correct Option: D
+Explanation:
+Correct (D): hdl removes cholesterol from peripheral tissues and reduces cardiovascular risk.
+Incorrect (A): ldh is a tissue damage marker, not cardioprotective.
+Incorrect (B): ldl promotes atherosclerotic plaque formation.
+Incorrect (C): vldl contributes to triglyceride deposition.
+Incorrect (E): cholesterol in excess is a risk factor, not protective.
+Tags: Easy, Biochemistry, Foundation, Lipoprotein Metabolism & Hyperlipidemias
+
+--------------------------------------------------
+

@@ -1,0 +1,102 @@
+Question: The first vascular response to injury is:
+ A. arteriolar vasoconstriction.
+ B. capillary enlargement.
+ C. increased vascular permeability.
+ D. slowing of the circulation.
+ E. venular dilatation.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Arteriolar vasoconstriction is a transient immediate response that occurs seconds after tissue injury.
+ •	Incorrect (B): Capillary enlargement occurs later as part of increased blood flow.
+ •	Incorrect (C): Increased vascular permeability follows the initial vascular reaction.
+ •	Incorrect (D): Slowing of the circulation develops after vascular leakage and hemoconcentration.
+ •	Incorrect (E): Venular dilatation occurs after the brief vasoconstrictive phase.
+ Tags: Moderate, Pathology, Foundation, Inflammation & Repair
+
+--------------------------------------------------
+
+Question: Which of the following are thought to mediate many of the systemic effects of inflammation, are chemotactic and stimulate adhesion molecules:
+ A. interleukin-1 (IL-1) and tumor necrosis factor.
+ B. interleukin-6 (IL-6) and interleukin-8 (IL-8).
+ C. interleukin-12 (IL-12) and interferon-γ.
+ D. transforming growth factor-β and platelet-derived growth factor.
+ E. tumor necrosis factor and interleukin-17 (IL-17).
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Interleukin-1 (IL-1) and tumor necrosis factor are major proinflammatory cytokines that induce fever, acute-phase responses, and endothelial adhesion molecule expression.
+ •	Incorrect (B): Interleukin-6 and interleukin-8 have inflammatory roles but do not collectively account for the broad systemic effects attributed to IL-1 and TNF.
+ •	Incorrect (C): Interleukin-12 and interferon-γ primarily regulate cell-mediated immunity.
+ •	Incorrect (D): Transforming growth factor-β and platelet-derived growth factor mainly promote repair and fibrosis.
+ •	Incorrect (E): Tumor necrosis factor and interleukin-17 contribute to inflammation but are not the classic cytokine pair responsible for the major systemic effects.
+ Tags: Moderate, Pathology, Foundation, Inflammation & Repair
+
+--------------------------------------------------
+
+Question: Leukocyte adhesion to endothelium is mediated by:
+ A. E-selectin.
+ B. ICAM-1.
+ C. PECAM-1.
+ D. P-selectin.
+ E. VCAM-1.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): ICAM-1 binds leukocyte integrins and mediates firm adhesion of leukocytes to endothelial cells.
+ •	Incorrect (A): E-selectin primarily mediates leukocyte rolling.
+ •	Incorrect (C): PECAM-1 is mainly involved in transmigration through endothelial junctions.
+ •	Incorrect (D): P-selectin participates in rolling rather than firm adhesion.
+ •	Incorrect (E): VCAM-1 primarily interacts with mononuclear leukocytes and is less classically associated with general leukocyte adhesion than ICAM-1.
+ Tags: Moderate, Pathology, Foundation, Inflammation & Repair
+
+--------------------------------------------------
+
+Question: Bradykinin is responsible for:
+ A. arteriolar vasodilation.
+ B. enhanced vascular permeability.
+ C. induction of pain.
+ D. smooth muscle contraction.
+ E. venular endothelial contraction.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Bradykinin markedly increases vascular permeability, contributing to inflammatory edema.
+ •	Incorrect (A): Bradykinin can cause arteriolar vasodilation, but increased permeability is its hallmark inflammatory effect.
+ •	Incorrect (C): Bradykinin induces pain but this is not the best answer among the listed choices.
+ •	Incorrect (D): Smooth muscle contraction is not its principal inflammatory action.
+ •	Incorrect (E): Venular endothelial contraction is a mechanism contributing to permeability rather than the primary named effect.
+ Tags: Moderate, Pathology, Foundation, Inflammation & Repair
+
+--------------------------------------------------
+
+Question: The kinin system creates proteins that can cause:
+ A. bronchoconstriction.
+ B. increased vascular permeability.
+ C. pain.
+ D. vasodilation.
+ E. vasoconstriction.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): The kinin system generates bradykinin, a potent mediator of arteriolar vasodilation.
+ •	Incorrect (A): Bronchoconstriction is more characteristically associated with leukotrienes.
+ •	Incorrect (B): Increased vascular permeability occurs but is not the best single answer here.
+ •	Incorrect (C): Pain is a recognized effect of bradykinin but not the primary answer sought.
+ •	Incorrect (E): Vasoconstriction is opposite to the action of bradykinin.
+ Tags: Moderate, Pathology, Foundation, Inflammation & Repair
+
+--------------------------------------------------
+
+Question: When neutrophils pass from the circulatory system to the interstitial matrix, it is called:
+ A. chemotaxis.
+ B. extravasation.
+ C. margination.
+ D. rolling.
+ E. transmigration.
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Transmigration (diapedesis) is the passage of neutrophils through the endothelium into tissues.
+ •	Incorrect (A): Chemotaxis is directed movement within tissues toward a chemical gradient.
+ •	Incorrect (B): Extravasation refers broadly to the entire process of leukocyte exit from blood vessels.
+ •	Incorrect (C): Margination is the movement of leukocytes toward the endothelial surface.
+ •	Incorrect (D): Rolling is the transient selectin-mediated interaction preceding firm adhesion.
+ Tags: Moderate, Pathology, Foundation, Inflammation & Repair
+
+--------------------------------------------------
+

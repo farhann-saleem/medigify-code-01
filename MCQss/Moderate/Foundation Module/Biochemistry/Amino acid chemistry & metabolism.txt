@@ -1,0 +1,53 @@
+
+Question: Which of the following pairs of amino acids can be derived from essential amino acids:
+A. alanine and serine
+B. aspartate and glutamate
+C. glycine and asparagine
+D. proline and histidine
+E. tyrosine and cysteine
+Correct Option: E
+Explanation:
+Correct (E): Tyrosine derives from phenylalanine; cysteine derives from methionine
+Incorrect (A): Alanine and serine are non-essential directly synthesized
+Incorrect (B): Aspartate and glutamate are non-essential
+Incorrect (C): Glycine and asparagine are non-essential
+Incorrect (D): Proline is non-essential; histidine is essential itself
+Tags: Moderate, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Serine-cysteine-glutamate-proline-threonine-alanine-tyrosine peptide shows:
+A. contains acidic amino acids
+B. contains basic amino acids
+C. contains no acidic amino acids
+D. contains no neutral amino acids
+E. contains no hydroxyl amino acids
+Correct Option: A
+Explanation:
+Correct (A): Glutamate is an acidic amino acid with carboxyl side chain
+Incorrect (B): No strongly basic residues like lysine/arginine present
+Incorrect (C): Acidic amino acid is present (glutamate)
+Incorrect (D): Many neutral amino acids exist in sequence
+Incorrect (E): Serine, threonine, tyrosine are hydroxyl-containing
+Tags: Moderate, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: All aminotransferases require the coenzyme:
+ A. biotin
+ B. FAD
+ C. NAD
+ D. pyridoxal phosphate
+ E. thiamine pyrophosphate
+ Correct Option: D
+ Explanation:
+ Correct (D): Pyridoxal phosphate, derived from vitamin B₆, is the essential coenzyme for aminotransferase reactions.
+ Incorrect (A): Biotin functions in carboxylation reactions.
+ Incorrect (B): FAD mainly participates in oxidation-reduction reactions.
+ Incorrect (C): NAD acts as an electron carrier in dehydrogenase reactions.
+ Incorrect (E): Thiamine pyrophosphate is involved in oxidative decarboxylation.
+ Tags: Moderate, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+

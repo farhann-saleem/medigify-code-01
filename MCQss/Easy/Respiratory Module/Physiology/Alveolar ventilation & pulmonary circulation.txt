@@ -1,0 +1,17 @@
+﻿Question: Which statement is true regarding the bronchial circulation?
+A. It arises from the aorta and enters the lungs at the hilum
+B. It causes venous mixing of blood
+C. It is regulated only by the sympathetic nervous system
+D. It is responsible for supplying oxygenated blood to the rest of the body
+E. It is responsible for the entire gas exchange process of the respiratory system
+Correct Option: A
+Explanation:
+​Correct (A): The bronchial arteries originate as systemic branches of the thoracic aorta and enter the lung parenchyma via the hilum to supply the conducting airways.
+​Incorrect (B): The bronchial circulation itself does not cause venous mixing, though its anatomical shunting into the pulmonary veins subsequently results in venous mixing of blood.
+​Incorrect (C): It is regulated by both the sympathetic nervous system and local metabolic factors, rather than being regulated only by the sympathetic nervous system.
+​Incorrect (D): It supplies the lung's own non-respiratory tissues, whereas the left ventricle and systemic arterial system are responsible for supplying oxygenated blood to the rest of the body.
+​Incorrect (E): The pulmonary circulation, not the bronchial circulation, is responsible for the entire gas exchange process of the respiratory system.
+Tags: Easy, Physiology, Respiratory, Alveolar Ventilation & Pulmonary Circulation
+
+--------------------------------------------------
+

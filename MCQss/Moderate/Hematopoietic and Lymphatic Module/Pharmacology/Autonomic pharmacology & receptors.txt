@@ -1,0 +1,68 @@
+Question: An elderly man is brought to the emergency room after ingesting a large quantity of prazosin tablets (alpha1 antagonist). Which symptom is most likely to be seen in this patient:
+  A. bradycardia.
+  B. bronchoconstriction.
+  C. decreased gastrointestinal motility.
+  D. dilation of blood vessels.
+  E. decreased glandular secretion.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Prazosin blocks alpha1 receptors on vascular smooth muscle, producing dilation of blood vessels.
+ •	Incorrect (A): Alpha1 blockade commonly causes reflex tachycardia rather than bradycardia.
+ •	Incorrect (B): Bronchoconstriction is not a characteristic effect of alpha1 receptor blockade.
+ •	Incorrect (C): Decreased gastrointestinal motility is not the principal consequence of alpha1 antagonism.
+ •	Incorrect (E): Glandular secretion is not primarily controlled by alpha1 receptors.
+ Tags: Moderate, Pharmacology, Heamatopoetic and lymphatic system, Autonomic Pharmacology & Receptors
+
+--------------------------------------------------
+
+Question: Botulinum toxin impairs all types of cholinergic transmission. If a child presents with ingestion of botulinum toxin, which sign or symptom will confirm the diagnosis of botulinum poisoning:
+  A. bronchospasm.
+  B. cycloplegia (loss of accommodating power of eye).
+  C. diarrhea.
+  D. skeletal muscle spasm.
+  E. urinary frequency.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Botulinum toxin blocks acetylcholine release, causing cycloplegia (loss of accommodating power of eye) due to parasympathetic paralysis.
+ •	Incorrect (A): Cholinergic blockade causes bronchodilation rather than bronchospasm.
+ •	Incorrect (C): Botulinum poisoning produces constipation, not diarrhea.
+ •	Incorrect (D): Botulinum toxin causes flaccid paralysis rather than skeletal muscle spasm.
+ •	Incorrect (E): Urinary retention is expected instead of urinary frequency.
+ Tags: Moderate, Pharmacology, Heamatopoetic and lymphatic system, Autonomic Pharmacology & Receptors
+
+--------------------------------------------------
+
+Question: Which physiological change is expected when the sympathetic system is inhibited using a pharmacological agent:
+  A. constriction of blood vessels.
+  B. decrease in fluid secretions.
+  C. increase in blood pressure.
+  D. increase in heart rate.
+  E. reduction in heart rate.
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Inhibition of sympathetic activity removes cardiac adrenergic stimulation, leading to a reduction in heart rate.
+ •	Incorrect (A): Sympathetic inhibition tends to promote vasodilation rather than constriction of blood vessels.
+ •	Incorrect (B): Fluid secretions are generally not reduced by sympathetic inhibition.
+ •	Incorrect (C): Blood pressure typically falls rather than increases when sympathetic tone is blocked.
+ •	Incorrect (D): Sympathetic inhibition decreases rather than increases heart rate.
+ Tags: Moderate, Pharmacology, Heamatopoetic and lymphatic system, Autonomic Pharmacology & Receptors
+
+--------------------------------------------------
+
+Question: Which of the following neurotransmitters is released at the SA node of the heart in response to increased heart rate:
+  A. acetylcholine.
+  B. adrenaline.
+  C. dopamine.
+  D. noradrenaline.
+  E. serotonin.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Sympathetic nerve endings release noradrenaline at the SA node, increasing the rate of spontaneous depolarization and heart rate.
+ •	Incorrect (A): Acetylcholine decreases SA node firing and slows heart rate.
+ •	Incorrect (B): Adrenaline is primarily released from the adrenal medulla rather than directly from cardiac sympathetic nerve terminals.
+ •	Incorrect (C): Dopamine is not the principal neurotransmitter regulating SA node rate.
+ •	Incorrect (E): Serotonin does not serve as the primary autonomic neurotransmitter at the SA node.
+ Tags: Moderate, Pharmacology, Heamatopoetic and lymphatic system, Autonomic Pharmacology & Receptors
+
+--------------------------------------------------
+

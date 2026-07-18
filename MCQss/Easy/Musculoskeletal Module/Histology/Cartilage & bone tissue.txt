@@ -1,0 +1,170 @@
+Question: What is the space that an osteocyte rests in?
+A. Canaliculi
+B. Haversian canal
+C. Howship's lacuna
+D. Lacuna
+E. Volkmann's canal
+Correct Option: D
+Explanation:
+Correct (D): A lacuna is the specific, fluid-filled micro-cavity within the mineralized bone matrix that houses the cell body of a mature osteocyte.
+Incorrect (A): Canaliculi are the tiny tunnel-like channels containing cytoplasmic processes, not the primary space where the main cell body of the osteocyte rests.
+Incorrect (B): Haversian canal is a central macroscopic channel running longitudinally through an osteon to carry blood vessels and nerves.
+Incorrect (C): Howship's lacuna is a transient, enzymatically carved resorption depression on a bone surface that houses active osteoclasts, not resting osteocytes.
+Incorrect (E): Volkmann's canal is a transverse channel housing blood vessels that runs perpendicular to osteons to connect Haversian canals to each other and the periosteum.
+Tags: Easy, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Which of the following descriptions is a characteristic of cancellous bone:
+A. composed of a dense network of parallel columns
+B. composed of a thin shell of flat plates
+C. composed of an interconnected network of trabeculae
+D. composed of parallel arrays of osteons
+E. composed of solid layers of circumferential lamellae
+Correct Option: C
+Explanation:
+Correct (C): Cancellous bone is defined macro- and micro-architecturally by being composed of an interconnected network of trabeculae (bony spicules) that enclose large marrow spaces.
+Incorrect (A): Composed of a dense network of parallel columns describes the structural arrangement of osteons found exclusively within compact bone.
+Incorrect (B): Composed of a thin shell of flat plates describes the flat bones of the skull or the outer tables of compact bone rather than the inner spongy architecture.
+Incorrect (D): Composed of parallel arrays of osteons is the signature microanatomical characteristic of compact bone, not cancellous bone.
+Incorrect (E): Composed of solid layers of circumferential lamellae describes the outer and inner boundaries of compact bone cortices.
+Tags: Easy, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Which cell is the mature bone cell?
+A. Chondroblast
+B. Chondrocyte
+C. Osteblast
+D. Osteoclast
+E. Osteocyte
+Correct Option: E
+Explanation:
+Correct (E): The osteocyte is the mature bone cell that becomes completely entrapped within a mineralized matrix lacuna to maintain bone homeostasis and detect mechanical strain.
+Incorrect (A): Chondroblast is an immature cartilage-forming cell that secretes the extracellular matrix of cartilage.
+Incorrect (B): Chondrocyte is a mature cartilage cell residing within cartilage lacunae, completely distinct from bone tissue cells.
+Incorrect (C): Osteblast is an active, immature bone-forming cell responsible for synthesizing and secreting unmineralized osteoid matrix.
+Incorrect (D): Osteoclast is a large, multinucleated macrophage-derived cell specialized for resorbing bone matrix during remodeling.
+Tags: Easy, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: The two most abundant inorganic components of bone matrix are:
+A. calcium carbonate and sodium citrate
+B. calcium phosphate and calcium carbonate
+C. fluoride crystals and magnesium carbonate
+D. magnesium sulfate and calcium sulfate
+E. potassium chloride and sodium phosphate
+Correct Option: B
+Explanation:
+Correct (B): Calcium phosphate (which precipitates as hydroxyapatite crystals) and calcium carbonate represent the vast majority of the inorganic minerals that give bone its compressive strength.
+Incorrect (A): Calcium carbonate and sodium citrate is incorrect because sodium citrate is only present in trace quantities within bone matrix.
+Incorrect (C): Fluoride crystals and magnesium carbonate are trace or minor constituent elements that modify bone crystal structure but are not highly abundant.
+Incorrect (D): Magnesium sulfate and calcium sulfate are sulfate salts not typically utilized or concentrated to a significant degree within mineralized bone matrix.
+Incorrect (E): Potassium chloride and sodium phosphate are soluble salts predominantly localized to fluid compartments rather than forming solid bone mineral crystals.
+Tags: Easy, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Haversian canals are linked by:
+A. canaliculi
+B. lacunae
+C. osteons
+D. periosteum
+E. Volkmann's canals
+Correct Option: E
+Explanation:
+Correct (E): Volkmann's canals are vascular channels that run transversely or obliquely through compact bone to directly link adjacent longitudinal Haversian canals to one another.
+Incorrect (A): Canaliculi link adjacent lacunae to each other and to Haversian canals for nutrient micro-diffusion, but do not link the large Haversian canals directly.
+Incorrect (B): Lacunae are isolated cellular fluid spaces housing osteocyte cell bodies and do not serve as structural linking conduits for macroscopic canals.
+Incorrect (C): Osteons are the complete concentric cylindrical functional units of compact bone rather than the individual interconnecting cross-channels.
+Incorrect (D): Periosteum is the external bilayered dense connective tissue capsule that covers the outside of a bone, not an internal connecting channel.
+Tags: Easy, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+﻿Question: Chondrocytes are nourished by:
+A. a network of blood vessels traversing the territorial matrix.
+B. a system of canaliculi connecting adjacent osteocytes.
+C. dissolved nutrients passing through the cartilage matrix.
+D. glycogen and lipid stores within the pericellular space.
+E. specialized transport proteins along the articular surface.
+Correct Option: C
+Explanation:
+Correct (C): Hyaline, elastic, and fibrocartilage are avascular tissues that rely entirely on dissolved nutrients passing through the cartilage matrix via diffusion from the perichondrium or synovial fluid.
+Incorrect (A): A network of blood vessels traversing the territorial matrix is inaccurate because healthy cartilage lacks functional blood vessel networks.
+Incorrect (B): A system of canaliculi connecting adjacent osteocytes is a distinct morphological feature restricted exclusively to bone tissue rather than cartilage.
+Incorrect (D): Glycogen and lipid stores within the pericellular space represent intracellular metabolic reserves rather than an extrinsic physiological pathway for nourishment.
+Incorrect (E): Specialized transport proteins along the articular surface do not constitute the primary or widespread mechanism for deeper parenchymal chondrocyte nutrition.
+Tags: Easy, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Which type of collagen is most abundant in Hyaline cartilage:
+A. collagen type I
+B. collagen type II
+C. collagen type III
+D. collagen type IV
+E. collagen type V
+Correct Option: B
+Explanation:
+Correct (B): Collagen type II accounts for the vast majority of the fibrillar structural framework found within the extracellular matrix of hyaline cartilage.
+Incorrect (A): Collagen type I is the hallmark structural component of bone, tendons, skin, and fibrocartilage rather than hyaline cartilage.
+Incorrect (C): Collagen type III forms slender reticular networks typically found in expandable lymphoid, myeloid, and cardiovascular tissues.
+Incorrect (D): Collagen type IV is a non-fibrillar molecule restricted specifically to anchoring networks within basal laminae.
+Incorrect (E): Collagen type V is a minor regulatory fibrillar collagen that mostly co-distributes with type I fibers in specialized interstitial matrices.
+Tags: Easy, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Which type of cartilage is found in intervertebral disc:
+A. articular cartilage
+B. costal cartilage
+C. elastic cartilage
+D. fibrous cartilage
+E. hyaline cartilage
+Correct Option: D
+Explanation:
+Correct (D): Fibrous cartilage (fibrocartilage) combines dense regular connective tissue arrays with cartilage features to provide extreme tensile strength within the annulus fibrosus of the intervertebral disc.
+Incorrect (A): Articular cartilage forms the protective, low-friction capping layer on the bony ends of diarthrodial joints rather than making up the body of the intervertebral disc.
+Incorrect (B): Costal cartilage forms the specific anatomical bridges that securely connect the anterior ends of the ribs to the sternum.
+Incorrect (C): Elastic cartilage contains highly flexible branching resilient networks that are restricted to sites like the external pinna, epiglottis, and auditory tubes.
+Incorrect (E): Hyaline cartilage forms a homogenous matrix that lacks the dense bundles of heavy type I collagen fibers structurally required within intervertebral discs.
+Tags: Easy, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: What is the primary component of fibrocartilage:
+A. collagen fibers
+B. elastic fibers
+C. ground substance
+D. keratin fibers
+E. reticular fibers
+Correct Option: A
+Explanation:
+Correct (A): Dense bundles of thick collagen fibers (specifically Type I alongside Type II) give fibrocartilage its hallmark structural resistance to severe shear and tensile forces.
+Incorrect (B): Elastic fibers impart shape-rebound flexibility and are found in elastic cartilage rather than the dense, tough matrix of fibrocartilage.
+Incorrect (C): Ground substance exists within fibrocartilage but is sparse compared to the overwhelming dense networks of fibrillar proteins that dominate the tissue volume.
+Incorrect (D): Keratin fibers are intracellular intermediate filaments found in epithelial keratinocytes and do not occur as an extracellular component of cartilage matrices.
+Incorrect (E): Reticular fibers form delicate supporting networks for cellular organs and do not provide the heavy tensile strength required in fibrocartilage matrices.
+Tags: Easy, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: What is the term for the spaces in which chondrocytes are located in fibrocartilage:
+A. canaliculi
+B. haversian canals
+C. lacunae
+D. perichondrial clefts
+E. Volkmann's canals
+Correct Option: C
+Explanation:
+Correct (C): Lacunae are the small, fluid-filled structural spaces or cavities within the rigid extracellular matrix that isolate and house individual or groups of chondrocytes.
+Incorrect (A): Canaliculi are the microscopic radiating tunnels that span the calcified matrix of bone to interconnect adjacent living osteocytes.
+Incorrect (B): Haversian canals are major longitudinal macro-channels that carry neurovascular bundles through the center of osteons in compact bone tissue.
+Incorrect (D): Perichondrial clefts is an unscientific term that does not describe the microenvironment enclosing mature, fully embedded fibrocartilage cells.
+Incorrect (E): Volkmann's canals are transverse bony channels that transport blood vessels from the periosteum inward to interconnect individual longitudinal Haversian systems.
+Tags: Easy, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+

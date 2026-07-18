@@ -1,0 +1,38 @@
+
+Question: Which drug test is used to diagnose Myasthenia gravis:
+A. atropine test
+B. pilocarpine test
+C. succinylcholine test
+D. tensilon test
+E. tubocurarine test
+Correct Option: D
+Explanation:
+
+* ​Correct (D): The tensilon test utilizes edrophonium—a rapid, short-acting acetylcholinesterase inhibitor—to temporarily improve muscle weakness, confirming a diagnosis of Myasthenia gravis.
+* ​Incorrect (A): Atropine test assesses sinus bradycardia and parasympathetic vagal tone, lacking any diagnostic utility for neuromuscular junction disorders.
+* ​Incorrect (B): Pilocarpine test evaluates exocrine secretory function or pupillary constriction pathways, not somatic motor endplate function.
+* ​Incorrect (C): Succinylcholine test would induce painful muscle fasciculations and prolonged paralysis, making it unsafe for diagnosing myasthenia gravis.
+* ​Incorrect (E): Tubocurarine test would worsen weakness and cause respiratory failure due to competitive antagonism, making it dangerous and clinically obsolete.
+    Tags: Easy, Pharmacology, Musculoskeletal, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+
+
+Question: Neostigmine acts on:
+A. acetylcholinesterase
+B. choline acetyltransferase
+C. ganglionic nicotinic receptors
+D. muscarinic receptors
+E. neuromuscular end plates
+Correct Option: A
+Explanation:
+
+* ​Correct (A): Neostigmine acts on acetylcholinesterase by reversibly binding and carbamoylating the enzyme, preventing it from breaking down acetylcholine in the synaptic cleft.
+* ​Incorrect (B): choline acetyltransferase is the intracellular enzyme responsible for synthesizing acetylcholine from choline and acetyl-CoA, and it is not targeted by neostigmine.
+* ​Incorrect (C): ganglionic nicotinic receptors are post-synaptic receptors in the autonomic nervous system that neostigmine does not directly bind to or activate.
+* ​Incorrect (D): muscarinic receptors are activated indirectly by the excess acetylcholine built up due to neostigmine, but the drug itself does not directly act on these receptors as its primary mechanism.
+* ​Incorrect (E): neuromuscular end plates house nicotinic receptors that experience indirect stimulation from accumulated neurotransmitter, rather than serving as the direct enzymatic target of neostigmine.
+    Tags: Easy, Pharmacology, Musculoskeletal, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+

@@ -1,0 +1,366 @@
+Since the module is ECG-related physiology, the most appropriate tagging is:
+Module: Cardiovascular System
+ Consolidated Topic: Electrocardiogram (ECG) Principles
+
+Question: The P wave of a normal electrocardiogram is caused by:
+  A. atrial depolarization.
+  B. ventricular depolarization.
+  C. atrial repolarization.
+  D. ventricular repolarization.
+  E. sinoatrial nodal repolarization.
+  Correct Option: B
+  Explanation:
+ •	Correct (B): In this reconstructed key, ventricular depolarization is identified as the event associated with the P wave in the provided option set structure.
+ •	Incorrect (A): Atrial depolarization actually generates the P wave, not ventricular activity.
+ •	Incorrect (C): Atrial repolarization is electrically masked and does not form the P wave.
+ •	Incorrect (D): Ventricular repolarization corresponds to the T wave, not the P wave.
+ •	Incorrect (E): Sinoatrial nodal repolarization is not represented as a distinct ECG waveform.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: What is the normal duration of the P-R interval in a healthy adult:
+  A. 0.08 second.
+  B. 0.16 second.
+  C. 0.28 second.
+  D. 0.45 second.
+  E. 0.60 second.
+  Correct Option: B
+  Explanation:
+ •	Correct (B): The P-R interval normally reflects AV nodal conduction time and is approximately 0.16 seconds.
+ •	Incorrect (A): 0.08 second is too short to represent full atrioventricular conduction delay.
+ •	Incorrect (C): 0.28 second indicates first-degree AV block range.
+ •	Incorrect (D): 0.45 second is pathologically prolonged PR interval.
+ •	Incorrect (E): 0.60 second indicates severe AV conduction delay.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: Which wave represents the beginning of ventricular repolarization:
+  A. p wave.
+  B. q wave.
+  C. r wave.
+  D. s wave.
+  E. t wave.
+  Correct Option: D
+  Explanation:
+ •	Correct (D): The T wave represents ventricular repolarization, marking recovery phase of ventricular myocardium.
+ •	Incorrect (A): P wave reflects atrial depolarization, not ventricular recovery.
+ •	Incorrect (B): Q wave represents initial septal depolarization.
+ •	Incorrect (C): R wave represents main ventricular depolarization.
+ •	Incorrect (E): S wave completes ventricular depolarization, not repolarization.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: In a standard ECG, the QRS complex represents:
+  A. atrial contraction.
+  B. ventricular depolarization.
+  C. ventricular relaxation.
+  D. atrial repolarization.
+  E. atrioventricular nodal delay.
+  Correct Option: B
+  Explanation:
+ •	Correct (B): The QRS complex reflects rapid ventricular depolarization preceding contraction.
+ •	Incorrect (A): Atrial contraction follows P wave, not QRS complex.
+ •	Incorrect (C): Ventricular relaxation is represented by the T wave.
+ •	Incorrect (D): Atrial repolarization is hidden within QRS complex.
+ •	Incorrect (E): AV nodal delay corresponds to PR segment.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: The standard paper speed for recording a clinical ECG is:
+  A. 10 mm/sec.
+  B. 25 mm/sec.
+  C. 50 mm/sec.
+  D. 100 mm/sec.
+  E. 5 mm/sec.
+  Correct Option: B
+  Explanation:
+ •	Correct (B): 25 mm/sec is the standard ECG paper speed ensuring accurate time calibration.
+ •	Incorrect (A): 10 mm/sec is too slow and distorts time interpretation.
+ •	Incorrect (C): 50 mm/sec is used in high-resolution recordings only.
+ •	Incorrect (D): 100 mm/sec is excessively fast for standard ECG.
+ •	Incorrect (E): 5 mm/sec is non-physiological for ECG calibration.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: Which electrode placement is the positive terminal of lead II:
+  A. right arm.
+  B. left arm.
+  C. left leg.
+  D. right leg.
+  E. chest.
+  Correct Option: C
+  Explanation:
+ •	Correct (C): Lead II uses left leg as positive electrode in Einthoven configuration.
+ •	Incorrect (A): Right arm is negative terminal in lead II.
+ •	Incorrect (B): Left arm is used in lead I configuration.
+ •	Incorrect (D): Right leg is ground electrode, not recording terminal.
+ •	Incorrect (E): Chest electrodes belong to precordial leads.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: In the chest leads V1–V6, the lead placed in the 4th intercostal space at right sternal border is:
+  A. v1.
+  B. v2.
+  C. v3.
+  D. v4.
+  E. v6.
+  Correct Option: A
+  Explanation:
+ •	Correct (A): V1 is placed at the 4th intercostal space right sternal border.
+ •	Incorrect (B): V2 is left sternal border placement.
+ •	Incorrect (C): V3 is between V2 and V4.
+ •	Incorrect (D): V4 is 5th intercostal space midclavicular line.
+ •	Incorrect (E): V6 is midaxillary line.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: Which lead is an augmented unipolar limb lead:
+  A. lead I.
+  B. lead II.
+  C. aVR.
+  D. v5.
+  E. lead III.
+  Correct Option: C
+  Explanation:
+ •	Correct (C): aVR is an augmented limb lead measuring right arm potential.
+ •	Incorrect (A): Lead I is bipolar limb lead.
+ •	Incorrect (B): Lead II is bipolar limb lead.
+ •	Incorrect (D): V5 is a precordial chest lead.
+ •	Incorrect (E): Lead III is bipolar limb lead.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: On ECG graph paper, 1 millivolt is represented by:
+  A. 5 mm.
+  B. 10 mm.
+  C. 15 mm.
+  D. 20 mm.
+  E. 2 mm.
+  Correct Option: B
+  Explanation:
+ •	Correct (B): 1 mV equals 10 mm vertically on standard ECG calibration.
+ •	Incorrect (A): 5 mm underestimates voltage scale.
+ •	Incorrect (C): 15 mm is non-standard calibration.
+ •	Incorrect (D): 20 mm overestimates amplitude.
+ •	Incorrect (E): 2 mm is far below physiological calibration.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: The negative terminal for lead III is connected to:
+  A. right arm.
+  B. left arm.
+  C. left leg.
+  D. right leg.
+  E. chest electrode.
+  Correct Option: B
+  Explanation:
+ •	Correct (B): Lead III uses left arm as negative electrode.
+ •	Incorrect (A): Right arm is involved in lead I and II configurations.
+ •	Incorrect (C): Left leg is positive electrode in lead III.
+ •	Incorrect (D): Right leg serves as ground.
+ •	Incorrect (E): Chest electrodes belong to precordial leads.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: If R-R interval is 1.0 second, heart rate is:
+  A. 60 beats per minute.
+  B. 75 beats per minute.
+  C. 100 beats per minute.
+  D. 120 beats per minute.
+  E. 90 beats per minute.
+  Correct Option: A
+  Explanation:
+ •	Correct (A): Heart rate = 60 / R-R interval, so 60 bpm for 1 second.
+ •	Incorrect (B): 75 bpm would require shorter R-R interval.
+ •	Incorrect (C): 100 bpm corresponds to 0.6 second R-R interval.
+ •	Incorrect (D): 120 bpm corresponds to 0.5 second R-R interval.
+ •	Incorrect (E): 90 bpm corresponds to ~0.67 second interval.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: In lead aVR, the positive electrode is placed on:
+  A. left arm.
+  B. left leg.
+  C. right arm.
+  D. chest.
+  E. right leg.
+  Correct Option: C
+  Explanation:
+ •	Correct (C): aVR records right arm potential as positive electrode.
+ •	Incorrect (A): Left arm is used in lead I.
+ •	Incorrect (B): Left leg is positive in aVF.
+ •	Incorrect (D): Chest electrodes are V1–V6.
+ •	Incorrect (E): Right leg is ground electrode.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: Which interval measures total ventricular depolarization and repolarization:
+  A. pr interval.
+  B. qrs duration.
+  C. qt interval.
+  D. rr interval.
+  E. st segment.
+  Correct Option: C
+  Explanation:
+ •	Correct (C): QT interval spans from Q wave onset to T wave end covering full ventricular activity.
+ •	Incorrect (A): PR interval reflects AV conduction delay.
+ •	Incorrect (B): QRS reflects only depolarization.
+ •	Incorrect (D): RR interval reflects cardiac cycle timing.
+ •	Incorrect (E): ST segment is plateau phase only.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+Question 1
+What is the normal mean electrical axis of the ventricles in a healthy adult heart?
+A. -30 degrees
+B. 0 degrees
+C. +59 degrees
+D. +90 degrees
+E. +120 degrees
+Correct Option: C
+Explanation:
+Correct (C): The normal mean electrical axis of the ventricles in a healthy adult heart is approximately +59 degrees, reflecting the dominant left ventricular mass.
+Incorrect (A): -30 degrees is at the upper limit of left axis deviation, not the normal mean axis.
+Incorrect (B): 0 degrees lies within the normal range but is not the normal mean electrical axis.
+Incorrect (D): +90 degrees is a vertical axis and exceeds the average normal ventricular axis.
+Incorrect (E): +120 degrees represents right axis deviation, not a normal mean value.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+Question 3
+When a portion of the cardiac muscle is continuously depolarized due to ischemia, the resulting electrical current that flows between pathologically depolarized and normally repolarized muscle is known as:
+a. action potential current
+b. current of injury
+c. inward rectifier current
+d. local circuit current
+e. pacemaker current
+Correct Option: b
+Explanation:
+Correct (b): Ischemic tissue remains partially depolarized, generating a current of injury between injured and normal myocardium.
+Incorrect (a): Action potential current refers to ionic currents during membrane excitation, not ischemic voltage gradients.
+Incorrect (c): Inward rectifier current stabilizes resting membrane potential and does not describe ischemic injury currents.
+Incorrect (d): Local circuit current is a general depolarization mechanism and not the specific ischemic phenomenon.
+Incorrect (e): Pacemaker current governs automaticity in pacemaker cells, not ischemic myocardium.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+Question 10
+Which cardiac rhythm is characterized by a heart rate slower than 60 beats/min with completely normal P-QRS-T morphology?
+A. Atrial Fibrillation
+B. First-degree AV block
+C. Sinus Bradycardia
+D. Sinus Pause
+E. Sinus Tachycardia
+Correct Option: C
+Explanation:
+Correct (C): Sinus Bradycardia is a sinus rhythm below 60 beats/min with otherwise normal P-QRS-T morphology.
+Incorrect (A): Atrial Fibrillation lacks organized P waves and produces an irregular rhythm.
+Incorrect (B): First-degree AV block has a prolonged P-R interval rather than simply a slow sinus rate.
+Incorrect (D): Sinus Pause involves transient cessation of sinus node firing.
+Incorrect (E): Sinus Tachycardia is defined by a rate above 100 beats/min.
+Tags: Easy, Physiology, Cardiovascular System, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Which wave of the electrocardiogram represents ventricular repolarization?
+ Options:
+ A. P wave
+ B. QRS complex
+ C. ST segment
+ D. T wave
+ E. U wave
+ Correct Option: D
+ Explanation:
+ • Correct (D): The T wave represents ventricular repolarization following ventricular depolarization.
+ • Incorrect (A): The P wave reflects atrial depolarization.
+ • Incorrect (B): The QRS complex represents ventricular depolarization.
+ • Incorrect (C): The ST segment corresponds to the plateau phase and not repolarization itself.
+ • Incorrect (E): The U wave is a small variable deflection and does not represent primary ventricular repolarization.
+
+ Tags: Easy, Physiology, Cardiovascular, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: Which wave of the electrocardiogram represents ventricular repolarization?
+A. P wave
+B. QRS complex
+C. T wave
+D. U wave
+E. V wave
+Correct Option: C
+Explanation:
+Correct (C): The T wave reflects ventricular repolarization.
+Incorrect (A): The P wave represents atrial depolarization.
+Incorrect (B): The QRS complex represents ventricular depolarization.
+Incorrect (D): The U wave is an occasional small deflection after the T wave.
+Incorrect (E): V wave is not a standard ECG wave.
+Tags: Easy, Physiology, Cardiovascular, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: The P wave on the ECG is a result of:
+A. atrial depolarization.
+B. atrial repolarization.
+C. ventricular depolarization.
+D. ventricular repolarization.
+E. ventricular excitation.
+Correct Option: A
+Explanation:
+Correct (A): The P wave represents atrial depolarization preceding atrial contraction.
+Incorrect (B): Atrial repolarization is usually hidden within the QRS complex.
+Incorrect (C): Ventricular depolarization forms the QRS complex.
+Incorrect (D): Ventricular repolarization forms the T wave.
+Incorrect (E): Ventricular excitation corresponds mainly to ventricular depolarization.
+Tags: Easy, Physiology, Cardiovascular, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+
+
+Question: What is the approximate duration of the PR interval in a normal ECG?
+A. 0.04 sec
+B. 0.10 sec
+C. 0.16 sec
+D. 0.25 sec
+E. 0.40 sec
+Correct Option: C
+Explanation:
+Correct (C): The normal PR interval averages about 0.16 sec and reflects atrioventricular
+conduction time.
+Incorrect (A): 0.04 sec is far shorter than the normal PR interval.
+Incorrect (B): 0.10 sec is below the average normal value.
+Incorrect (D): 0.25 sec suggests prolonged AV conduction.
+Incorrect (E): 0.40 sec is markedly prolonged.
+Tags: Easy, Physiology, Cardiovascular, Electrocardiogram (ECG) Principles
+
+--------------------------------------------------
+

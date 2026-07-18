@@ -1,0 +1,146 @@
+
+Question: All of the following bones develop through ossification except:
+A. clavicle
+B. humerus
+C. radius
+D. scapula
+E. ulna
+**Correct Option: A**
+**Explanation:**
+ * **Correct (A):** The clavicle is unique among long bones because it develops primarily via intramembranous ossification, making it an exception to standard endochondral ossification.
+ * **Incorrect (B):** The humerus develops strictly through endochondral ossification from a cartilaginous model.
+ * **Incorrect (C):** The radius utilizes a cartilaginous template that undergoes typical endochondral ossification.
+ * **Incorrect (D):** The scapula forms almost entirely through the process of endochondral ossification, except for minor membrane-like areas.
+ * **Incorrect (E):** The ulna is a classic long bone that develops completely via endochondral ossification.
+   Tags: Moderate, Anatomy, Musculo skeletal module (MSK), Skeletal System Basics
+
+--------------------------------------------------
+
+
+Question: The bone developing via intramembranous ossification is the:
+A. clavicle
+B. humerus
+C. radius
+D. scapula
+E. ulna
+Correct Option: A
+Explanation:
+ * **Correct (A):** The clavicle is unique among long bones because it undergoes intramembranous ossification (ossifies in membrane) without a preliminary cartilaginous model.
+ * **Incorrect (B):** The humerus develops via endochondral ossification from a cartilaginous template.
+ * **Incorrect (C):** The radius is a long bone of the forearm that forms via endochondral ossification.
+ * **Incorrect (D):** The scapula is a flat bone that forms primarily through endochondral ossification.
+ * **Incorrect (E):** The ulna develops from a model of hyaline cartilage via endochondral ossification.
+   Tags: Moderate, Anatomy, Musculo skeletal module (MSK), Skeletal System Basics
+
+--------------------------------------------------
+
+
+Question: All of the following bones develop by intracartilaginous ossification EXCEPT the:
+A. clavicle
+B. humerus
+C. radius
+D. scapula
+E. ulna
+Correct Option: A
+Explanation:
+ * Correct (A): The clavicle is unique among long bones because it develops primarily via intramembranous ossification, though its medial and lateral ends feature small secondary endochondral centers.
+ * Incorrect (B): The humerus is a classical long bone that develops completely from a hyaline cartilage model via intracartilaginous (endochondral) ossification.
+ * Incorrect (C): The radius forms its shaft and appendicular architecture entirely through intracartilaginous ossification.
+ * Incorrect (D): The scapula is a flat shoulder girdle bone that undergoes intracartilaginous ossification from multiple cartilage-replacing centers.
+ * Incorrect (E): The ulna develops its structural framework within the forearm through standard intracartilaginous ossification of a pre-existing cartilage model.
+   Tags: Moderate, Anatomy, Musculo skeletal module (MSK), Skeletal System Basics
+
+--------------------------------------------------
+
+ 
+Question: A radiograph of the hip joint of a 35-year-old patient reveals that the neck-shaft angle of the femur measures approximately 160°. This abnormal increase in angle is referred to as:
+A. coxa valga.
+B. coxa vara.
+C. genu valgum.
+D. genu varum.
+E. talipes valgus.
+Correct Option: A
+Explanation:
+Correct (A): An abnormal increase in the angle of inclination between the femoral neck and shaft (greater than the normal adult average of ~126°) is termed coxa valga.
+Incorrect (B): An abnormal decrease in this angle of inclination (typically less than 120°) is defined as coxa vara.
+Incorrect (C): The term genu valgum refers to a deformity of the knee joint commonly known as "knock-knees," not a deformity of the proximal femur.
+Incorrect (D): The term genu varum refers to an outward bowing of the knee joint ("bowlegs") and does not describe femoral neck pathology.
+Incorrect (E): The term talipes valgus describes an eversion deformity of the foot and ankle assembly.
+Tags: Moderate, Anatomy, Musculoskeletal and Locomotion-1, Skeletal System Basics
+
+--------------------------------------------------
+
+ 
+Question: A patient suffers a posterior dislocation of the hip joint with fracture of the posterosuperior margin of the acetabulum. Which bone forms this part of the acetabulum?
+A) Head of femur
+B) Ilium
+C) Ischium
+D) Pubis
+E) Sacrum
+Correct Option: B
+Explanation:
+Correct (B): The ilium forms the entire superior portion of the acetabulum, including its posterosuperior rim, which is frequently fractured when the femoral head drives backward and upward in a posterior hip dislocation.
+Incorrect (A): The head of femur is the articulating ball of the thigh bone, not a component bone that fuses to form the socket of the acetabulum.
+Incorrect (C): The ischium forms the posteroinferior portion of the acetabulum and the lower pelvic architecture, not its superior aspect.
+Incorrect (D): The pubis forms the anteromedial portion of the acetabulum.
+Incorrect (E): The sacrum is a fused spinal segment forming the posterior wall of the pelvic girdle and does not participate in the formation of the acetabulum.
+Tags: Moderate, Anatomy, Musculoskeletal and Locomotion-1, Skeletal System Basics
+
+--------------------------------------------------
+
+ 
+Question: A person can stand erect for long periods without significant muscular effort because of the passive stabilizing ligaments of the hip joint. Which ligament prevents the trunk from falling backward during standing?
+ 
+A. Iliofemoral ligament
+B. Ischiofemoral ligament
+C. Ligament of head of femur
+D. Pubofemoral ligament
+E. Transverse acetabular ligament
+Correct Option: A
+Explanation:
+Correct (A): The Iliofemoral ligament becomes completely taut when the hip joint is extended during upright standing, passively preventing the trunk from falling backward.
+Incorrect (B): Ischiofemoral ligament spirals over the posterior aspect of the joint and helps limit hyperextension, but it is weaker and secondary to the iliofemoral ligament.
+Incorrect (C): Ligament of head of femur remains relaxed during standing and does not provide passive structural support against trunk hyperextension.
+Incorrect (D): Pubofemoral ligament tenses primarily during abduction and lateral rotation rather than directly stopping the trunk from falling backward.
+Incorrect (E): Transverse acetabular ligament supports the acetabular labrum inferiorly and provides zero mechanical support to the upright trunk.
+Tags: Moderate, Anatomy, Musculoskeletal and Locomotion-1, Skeletal System Basics
+
+--------------------------------------------------
+
+ 
+Question: During anatomical examination of the hip bone in the anatomical position, a student reviews the orientation of its landmarks. Which of the following statements correctly describes the position of the hip bone?
+ 
+A. Acetabular notch faces directly superiorly and laterally
+B. Anterior superior iliac spine lies posterior to the pubic tubercle
+C. Pelvic surface of body of pubis is directed backward and downward
+D. Pubic tubercle and anterior superior iliac spine lie in different planes
+E. Symphyseal surface of body of pubis lies in median plane and pubic symphysis is vertical
+Correct Option: E
+Explanation:
+Correct (E): In the anatomical position, the Symphyseal surface of body of pubis lies in median plane and pubic symphysis is vertical to correctly orient the pelvis.
+Incorrect (A): The Acetabular notch faces directly superiorly and laterally incorrectly; it actually points inferiorly.
+Incorrect (B): The Anterior superior iliac spine lies posterior to the pubic tubercle incorrectly; in the anatomical position, both landmarks lie within the exact same vertical coronal plane.
+Incorrect (C): The Pelvic surface of body of pubis is directed backward and downward incorrectly; it faces directly posteriorly and superiorly to support the urinary bladder.
+Incorrect (D): The Pubic tubercle and anterior superior iliac spine lie in different planes incorrectly; they must lie in the same vertical coronal plane when oriented correctly.
+Tags: Moderate, Anatomy, Musculoskeletal and Locomotion-1, Skeletal System Basics
+
+--------------------------------------------------
+
+ 
+Question: A patient sustains a fracture near the ischial spine. Which muscle group is most likely to be affected?
+A. Adductors
+B. Gluteals
+C. Hamstrings
+D. Iliopsoas
+E. Quadriceps
+Correct Option: C
+Explanation:
+Correct (C): The hamstrings (semitendinosus, semimembranosus, long head of biceps femoris) originate from the nearby ischial tuberosity, making them structurally vulnerable to regional fractures involving the ischial spine and lower ischium.
+Incorrect (A): The adductors primarily originate from the pubic body, inferior pubic rami, and ischial rami, away from the isolated ischial spine.
+Incorrect (B): The gluteals originate primarily from the posterolateral wing of the ilium and the sacrum, not the deep pelvic ischial spine.
+Incorrect (D): The iliopsoas muscle arises from the lumbar vertebrae and iliac fossa, far superior to the ischial spine.
+Incorrect (E): The quadriceps muscle group originates from the anterior inferior iliac spine and the femoral shaft, completely separated from the posterior pelvic ischial spine.
+Tags: Moderate, Anatomy, Musculoskeletal and Locomotion-1, Skeletal System Basics
+
+--------------------------------------------------
+

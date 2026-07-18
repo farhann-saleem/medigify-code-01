@@ -1,0 +1,170 @@
+Question: A principal difference between spongy and compact bone is the:
+A. absolute presence or absence of osseous lamellae
+B. chemical composition of the amorphous ground substance
+C. relative amount of type I collagen in the matrix
+D. spatial ratio of bone matrix to soft tissue spaces
+E. structural orientation of individual osteocytes
+Correct Option: D
+Explanation:
+Correct (D): Compact bone is primarily dense matrix with minimal space, whereas spongy bone features a high spatial ratio of bone matrix to soft tissue spaces due to its open, honeycomb-like marrow cavities.
+Incorrect (A): Absolute presence or absence of osseous lamellae is incorrect because both compact and spongy bone are mature forms composed of organized osseous lamellae.
+Incorrect (B): Chemical composition of the amorphous ground substance is identical in both bone types, as both consist of the same proteoglycans, glycoproteins, and hydroxyapatite.
+Incorrect (C): Relative amount of type I collagen in the matrix is the same across both types, as type I collagen is the primary organic constituent of all bone matrix.
+Incorrect (E): Structural orientation of individual osteocytes is fundamentally similar, as osteocytes in both bone types reside within lacunae aligned parallel to the surrounding lamellae.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: During intramembranous ossification, ossification first begins in:
+A. dense regular connective tissue
+B. fibrocartilaginous callus
+C. hyaline cartilage
+D. mineralized bone
+E. vascular mesenchyme
+Correct Option: E
+Explanation:
+Correct (E): Intramembranous ossification occurs directly within a vascular mesenchyme sheet where mesenchymal stem cells condense and differentiate directly into osteoblasts.
+Incorrect (A): Dense regular connective tissue forms structures like tendons and ligaments, which do not serve as the embryonic site for intramembranous bone development.
+Incorrect (B): Fibrocartilaginous callus is a temporary structure formed during the intermediate healing phase of a bone fracture, not embryonic ossification.
+Incorrect (C): Hyaline cartilage acts as the temporary developmental precursor model for endochondral ossification, not intramembranous ossification.
+Incorrect (D): Mineralized bone is the final differentiated end product of the ossification process, not the starting tissue where ossification first begins.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: The Haversian canals of bone tissue:
+A. are highly prominent in spongy bone trabeculae
+B. contain active chondrocytes within lacunae
+C. form the central structures of a Haversian system
+D. line the outermost fibrous boundary of the periosteum
+E. run completely perpendicular to the long axis of the bone
+Correct Option: C
+Explanation:
+Correct (C): Haversian canals form the central structures of a Haversian system (osteon), serving as the core longitudinal channel containing blood vessels, nerves, and endosteum.
+Incorrect (A): Are highly prominent in spongy bone trabeculae is incorrect because spongy bone trabeculae are thin and avascular, absorbing nutrients via diffusion without needing internal Haversian canals.
+Incorrect (B): Contain active chondrocytes within lacunae is false because Haversian canals contain blood vessels, nerves, and loose connective tissue, never cartilage cells.
+Incorrect (D): Line the outermost fibrous boundary of the periosteum is incorrect as these canals are strictly intraosseous structures bored deep within compact cortical bone matrix.
+Incorrect (E): Run completely perpendicular to the long axis of the bone describes Volkmann's canals; Haversian canals run roughly parallel to the long axis.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Growth in the diameter of a long bone is due to:
+A. appositional bone deposition by the inner layer of the periosteum
+B. appositional bone synthesis by the inner layer of the endosteum
+C. endochondral ossification within secondary ossification centers
+D. interstitial expansion of cartilage within the epiphyseal plate
+E. intramembranous mineral resorption within the medullary cavity
+Correct Option: A
+Explanation:
+Correct (A): Growth in the diameter (width) of a long bone is achieved exclusively via appositional bone deposition by osteoblasts residing in the osteogenic inner layer of the periosteum.
+Incorrect (B): Appositional bone synthesis by the inner layer of the endosteum typically acts to widen the internal marrow space by resorbing bone rather than driving outward diametric expansion.
+Incorrect (C): Endochondral ossification within secondary ossification centers occurs inside the bony epiphyses to develop and shape the joint ends of long bones.
+Incorrect (D): Interstitial expansion of cartilage within the epiphyseal plate is the physiological mechanism responsible for the longitudinal growth (lengthening) of bone, not diameter.
+Incorrect (E): Intramembranous mineral resorption within the medullary cavity reduces internal bone mass to expand the marrow cavity but does not add to the outer diameter.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: "Soft Callus" that is formed after bone fracture is composed of:
+A. compact bone
+B. elastic cartilage
+C. fibrocartilage
+D. hyaline cartilage
+E. woven bone
+Correct Option: C
+Explanation:
+Correct (C): The intermediate "Soft Callus" formed during the initial weeks of fracture repair is a semi-rigid stabilizing bridge primarily composed of fibrocartilage and dense connective tissue.
+Incorrect (A): Compact bone is highly organized, dense mature bone that replaces the temporary calluses during the final, long-term remodeling phase of fracture healing.
+Incorrect (B): Elastic cartilage contains elastic fibers and is restricted to areas like the external ear, never forming during skeletal bone fracture repair.
+Incorrect (D): Hyaline cartilage may be present in small amounts within the callus, but fibrocartilage is the predominant structural component providing tensile strength across the gap.
+Incorrect (E): Woven bone is immature, disorganized bony tissue that characterizes the "hard callus" phase of fracture healing, succeeding the soft callus phase.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: What is the function of osteoclasts lying in Howship lacunae after 1 week of bone fracture?
+A. Dynamic differentiation of osteoblasts
+B. Enzymatic bone resorption
+C. Mineralization of osteoid
+D. Organic production of osteoid
+E. Structural formation of soft callus
+Correct Option: B
+Explanation:
+Correct (B): Osteoclasts localized in Howship lacunae perform enzymatic bone resorption to clear away necrotic, splintered bone fragments at the fracture margins.
+Incorrect (A): Dynamic differentiation of osteoblasts is mediated by local growth factor signaling cascades, not direct cellular actions or processing by osteoclasts.
+Incorrect (C): Mineralization of osteoid is a biochemical process governed by active osteoblasts through alkaline phosphatase expression and matrix vesicle release.
+Incorrect (D): Organic production of osteoid is the exclusive functional role of active, non-osteoclastic cells—specifically, healthy functioning osteoblasts.
+Incorrect (E): Structural formation of soft callus is driven by fibroblasts and chondrocytes generating a fibrocartilaginous matrix, a process separate from osteoclast activity.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Which component of bone impedes the distribution of nutrients and oxygen to osteocytes:
+A. fibrous outer periosteum
+B. fluid-filled canaliculi
+C. longitudinal Haversian canals
+D. mineralized extracellular matrix
+E. perforating Volkmann's canals
+Correct Option: D
+Explanation:
+Correct (D): The mineralized extracellular matrix is a dense, calcified barrier that blocks free passive diffusion, necessitating a specialized system of canaliculi to nourish resident osteocytes.
+Incorrect (A): Fibrous outer periosteum is a supportive connective tissue boundary shell on the exterior of bone that does not directly enclose or isolate internal osteocytes.
+Incorrect (B): Fluid-filled canaliculi facilitate rather than impede the delivery of nutrients and oxygen by providing open micro-conduits for diffusion between cell processes.
+Incorrect (C): Longitudinal Haversian canals are major vascular thoroughfares containing blood vessels that supply oxygen, actively supporting rather than blocking distribution.
+Incorrect (E): Perforating Volkmann's canals carry blood vessels horizontally through bone to supply nutrients, acting as vital delivery pathways.
+Tags: Moderate, Histology, Musculoskeletal Module, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: A cartilage surface not covered by a perichondrium:
+A. cannot exhibit interstitial growth patterns.
+B. is characterized by elastic matrix fibers.
+C. is definitively categorized as fibrocartilage.
+D. is probably articular cartilage.
+E. is probably hyaline cartilage.
+Correct Option: D
+Explanation:
+Correct (D): Articular cartilage represents the classic specific subtype of hyaline cartilage that lacks a surrounding perichondrial layer to ensure a smooth, low-friction joint surface.
+Incorrect (A): The tissue can still expand from within via mitotic division of existing internal chondrocytes, meaning it cannot exhibit interstitial growth patterns is incorrect.
+Incorrect (B): Cartilage without a perichondrium is not inherently characterized by elastic matrix fibers, which define elastic cartilage instead.
+Incorrect (C): Fibrocartilage consistently lacks a perichondrium, but it cannot be definitively categorized as fibrocartilage because specialized articular hyaline zones also lack it.
+Incorrect (E): The tissue is probably articular cartilage rather than a blanket designation of being probably hyaline cartilage, which typically possesses a perichondrium at non-articular sites.
+Tags: Moderate, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: Osteoarthritis is a chronic condition that commonly occurs during aging; involves gradual loss or changed physical properties of which of the following varieties of cartilage:
+A. articular cartilage
+B. costal cartilage
+C. elastic cartilage
+D. fibrous cartilage
+E. hyaline cartilage
+Correct Option: A
+Explanation:
+Correct (A): Osteoarthritis is pathophysiologically defined by the progressive degradation, fibrillation, and focal erosion of the articular cartilage covering load-bearing synovial joint surfaces.
+Incorrect (B): Costal cartilage undergoes age-related calcification and rigidity but is not involved in the degenerative joint pathology characteristic of osteoarthritis.
+Incorrect (C): Elastic cartilage preserves structural shape in flexible organs and is completely uninvolved in the degenerative processes of diarthrodial joint disease.
+Incorrect (D): Fibrous cartilage structures can undergo mechanical tearing or degeneration but are not the primary target tissue defining classical osteoarthritis.
+Incorrect (E): While structurally a sub-type of hyaline cartilage, selecting articular cartilage is more pathognomonically precise for the joint localized destruction seen in osteoarthritis.
+Tags: Moderate, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+
+Question: In which type of cartilage, chondrocytes are arranged in rows:
+A. articular cartilage
+B. elastic cartilage
+C. fibrocartilage
+D. hyaline cartilage
+E. costal cartilage
+Correct Option: C
+Explanation:
+Correct (C): In fibrocartilage, constraints imposed by the bulky, parallel bundles of dense extracellular collagen fibers force the resident chondrocytes to align in distinct, single-file rows.
+Incorrect (A): Articular cartilage organizes cells into deep vertical columns and tangential zones but does not exhibit the long, single-file rows typical of fibrocartilage.
+Incorrect (B): Elastic cartilage displays closely packed chondrocytes distributed in small clusters or pairs scattered evenly throughout an intricate elastic meshwork.
+Incorrect (D): Hyaline cartilage features cells grouped together loosely in rounded, expanding isogenous clusters rather than linear structural arrays.
+Incorrect (E): Costal cartilage contains large, active chondrocytes organized in prominent isogenous groups embedded within a rich, amorphous matrix.
+Tags: Moderate, Histology, Musculoskeletal, Cartilage & Bone Tissue
+
+--------------------------------------------------
+

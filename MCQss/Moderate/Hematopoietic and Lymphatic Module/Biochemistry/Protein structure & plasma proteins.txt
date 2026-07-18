@@ -1,0 +1,35 @@
+
+Question: Which of the following forms of haemoglobin provides useful information for the management of diabetes mellitus:
+A. HbA1.
+B. HbA1c.
+C. HbA2.
+D. HbC.
+E. HbS.
+Correct Option: B
+Explanation:
+Correct (B): HbA1c reflects nonenzymatic glycation of haemoglobin and indicates average blood glucose control over the previous 2–3 months.
+Incorrect (A): HbA1 is the major adult haemoglobin fraction and is not the specific diabetes monitoring marker.
+Incorrect (C): HbA2 is a minor adult haemoglobin fraction, mainly relevant in β-thalassemia screening.
+Incorrect (D): HbC is a structural haemoglobin variant and does not monitor diabetes mellitus.
+Incorrect (E): HbS is the sickle haemoglobin variant and does not assess glycemic control.
+Tags: Moderate, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Which of the following is most useful for diagnosis of multiple myeloma?
+ A. Albumin in urine
+ B. Bence Jones proteins
+ C. Plasma A/G ratio
+ D. Serum creatinine
+ E. Serum calcium
+ Correct Option: B
+ Explanation:
+ Correct (B): Bence Jones proteins (light chains) are diagnostic hallmark
+ Incorrect (A): Albumin in urine is not characteristic
+ Incorrect (C): A/G ratio may change but is non-specific
+ Incorrect (D): Creatinine reflects renal damage, not diagnosis
+ Incorrect (E): Calcium rises but is secondary finding
+ Tags: Moderate, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+

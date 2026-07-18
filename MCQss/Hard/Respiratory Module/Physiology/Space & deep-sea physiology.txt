@@ -1,0 +1,38 @@
+
+Question 6:
+ Acclimatization to high altitude causes all of the following except?
+ A. Angiogenesis
+ B. Increased pulmonary ventilation
+ C. Polycythemia
+ D. Reduced cellular oxidative enzymes
+ E. Upregulation of oxidative enzymes
+ Correct Option: D
+ Explanation:
+ • Correct (D): Reduced cellular oxidative enzymes is not part of acclimatization; enzymes are upregulated.
+ • Incorrect (A): Angiogenesis occurs to improve tissue oxygen delivery.
+ • Incorrect (B): Increased pulmonary ventilation is a key adaptation to hypoxia.
+ • Incorrect (C): Polycythemia develops to enhance oxygen transport capacity.
+ • Incorrect (E): Upregulation of oxidative enzymes supports efficient cellular metabolism under hypoxia.
+ Tags: Hard, Physiology, Respiratory, Aviation, Space & Deep-Sea Physiology
+
+--------------------------------------------------
+
+
+Question 7:
+ In chronic mountain sickness, which of the following does not occur?
+ A. Acute pulmonary edema
+ B. Increased RBC mass
+ C. Pulmonary vasoconstriction
+ D. Right heart hypertrophy
+ E. Secondary polycythemia
+ Correct Option: A
+ Explanation:
+ • Correct (A): Acute pulmonary edema is not a feature of chronic mountain sickness; it is an acute altitude illness.
+ • Incorrect (B): Increased RBC mass is a classic finding due to erythropoietin stimulation.
+ • Incorrect (C): Pulmonary vasoconstriction occurs from hypoxic pulmonary response.
+ • Incorrect (D): Right heart hypertrophy develops secondary to pulmonary hypertension.
+ • Incorrect (E): Secondary polycythemia is a hallmark of chronic mountain sickness.
+ Tags: Hard, Physiology, Respiratory, Aviation, Space & Deep-Sea Physiology
+
+--------------------------------------------------
+

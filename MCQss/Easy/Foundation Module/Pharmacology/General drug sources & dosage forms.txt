@@ -1,0 +1,138 @@
+Question: Which route of administration is commonly used for insulin:
+ A. Intramuscular
+ B. Intravenous
+ C. Oral
+ D. Subcutaneous
+ E. Topical
+ Correct Option: D
+ Explanation:
+​Correct (D): Subcutaneous injection provides slow, consistent, and predictable absorption through the vascular connective tissue underlying the skin, making it ideal for routine home-based glycemic control.
+​Incorrect (A): Intramuscular administration is avoided for routine insulin delivery because it leads to overly rapid absorption and an increased risk of severe, unpredictable hypoglycemia.
+​Incorrect (B): Intravenous delivery is reserved exclusively for acute, emergency settings like diabetic ketoacidosis, as it triggers immediate systemic distribution and clearance.
+​Incorrect (C): Oral administration is ineffective because insulin is a protein molecule that is rapidly degraded by proteolytic enzymes and gastric acid in the gastrointestinal tract.
+​Incorrect (E): Topical delivery cannot be used because insulin is a large hydrophilic macromolecule that is completely unable to penetrate the thick, lipophilic stratum corneum of intact skin.
+Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+Question: A molecule that interacts as an activator or inhibitor and brings about a change in biological function through its chemical actions is known as a:
+ A. drug.
+ B. hormone.
+ C. neurotransmitter.
+ D. pheromone.
+ E. protein.
+ Correct Option: A
+ Explanation:
+​Correct (A): A drug is defined broadly in pharmacology as any substance or molecule introduced from an exogenous source that modifies cellular function via chemical interactions as an activator or inhibitor.
+​Incorrect (B): A hormone is restricted specifically to endogenous chemical messengers synthesized by endocrine glands and transported through the bloodstream to regulate distant target organs.
+​Incorrect (C): A neurotransmitter is limited exclusively to endogenous signaling molecules released by neurons into a synaptic cleft to transmit electrical impulses between cells.
+​Incorrect (D): A pheromone refers strictly to volatile ectohormones secreted outside the body to trigger social, behavioral, or physiological responses in other individuals of the same species.
+​Incorrect (E): A protein is a macromolecular structural category composed of amino acids; while many drugs or endogenous targets are proteins, not all chemical modulators belong to this molecular class.
+Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+Question: IV administration of drugs:
+ A. achieves 100% bioavailability.
+ B. avoids systemic distribution.
+ C. is slowly absorbed.
+ D. undergoes the first-pass metabolism.
+ E. rapidly excretes by renal paths.
+ Correct Option: A
+ Explanation:
+​Correct (A): Intravenous (IV) administration introduces the entire drug dose directly into the venous circulation, bypassing all absorptive barriers to achieve a baseline bioavailability of exactly 100%.
+​Incorrect (B): This route delivers the drug directly into the systemic blood flow, ensuring immediate and widespread systemic distribution to target tissues throughout the body.
+​Incorrect (C): It bypasses the absorption phase entirely, resulting in immediate bioavailability rather than a slow, rate-limited uptake process.
+​Incorrect (D): Because the drug bypasses the portal vein and enters the systemic circulation directly, it avoids hepatic first-pass metabolism during its initial circuit.
+​Incorrect (E): Elimination kinetics depend strictly on the chemical properties of the molecule and hepatic clearance, meaning IV administration does not fundamentally alter or speed up renal excretion rates.
+Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+Question: Which route of administration is commonly used for vaccines:
+ A. Intradermal
+ B. Intramuscular
+ C. Intravenous
+ D. Oral
+ E. Subcutaneous
+ Correct Option: B
+ Explanation:
+​Correct (B): Intramuscular injection is commonly used for vaccines because the high vascularity of skeletal muscle ensures efficient antigen presentation while minimizing localized tissue irritation.
+​Incorrect (A): Intradermal administration is highly specialized and reserved for select immunizations like BCG, rather than serving as the standard route for routine vaccine schedules.
+​Incorrect (C): Intravenous injection is never used for vaccines because introducing an immunogenic antigen directly into the bloodstream can trigger life-threatening systemic anaphylaxis.
+​Incorrect (D): Oral administration is limited to specific mucosal pathogens, such as rotavirus, because gastric acid and digestive enzymes break down most standard vaccine antigens.
+​Incorrect (E): Subcutaneous injection is used only for specific live-attenuated formulations, as it offers slower absorption and can cause more localized tissue reactivity than intramuscular delivery.
+Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+Question: IV administration of drugs:
+ A. achieves 100% bioavailability.
+ B. avoids systemic distribution.
+ C. is slowly absorbed.
+ D. undergoes the first-pass metabolism.
+ E. rapidly excretes by renal paths.
+ Correct Option: A
+ Explanation:
+​Correct (A): Intravenous (IV) administration introduces the entire drug dose directly into the venous circulation, bypassing all absorptive barriers to achieve a baseline bioavailability of exactly 100%.
+​Incorrect (B): This route delivers the drug directly into the systemic blood flow, ensuring immediate and widespread systemic distribution to target tissues throughout the body.
+​Incorrect (C): It bypasses the absorption phase entirely, resulting in immediate bioavailability rather than a slow, rate-limited uptake process.
+​Incorrect (D): Because the drug bypasses the portal vein and enters the systemic circulation directly, it avoids hepatic first-pass metabolism during its initial circuit.
+​Incorrect (E): Elimination kinetics depend strictly on the chemical properties of the molecule and hepatic clearance, meaning IV administration does not fundamentally alter or speed up renal excretion rates.
+ Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+Question: Which route of administration is commonly used for vaccines:
+ A. Intradermal
+ B. Intramuscular
+ C. Intravenous
+ D. Oral
+ E. Subcutaneous
+ Correct Option: B
+ Explanation:
+​Correct (B): Intramuscular injection is commonly used for vaccines because the high vascularity of skeletal muscle ensures efficient antigen presentation while minimizing localized tissue irritation.
+​Incorrect (A): Intradermal administration is highly specialized and reserved for select immunizations like BCG, rather than serving as the standard route for routine vaccine schedules.
+​Incorrect (C): Intravenous injection is never used for vaccines because introducing an immunogenic antigen directly into the bloodstream can trigger life-threatening systemic anaphylaxis.
+​Incorrect (D): Oral administration is limited to specific mucosal pathogens, such as rotavirus, because gastric acid and digestive enzymes break down most standard vaccine antigens.
+​Incorrect (E): Subcutaneous injection is used only for specific live-attenuated formulations, as it offers slower absorption and can cause more localized tissue reactivity than intramuscular delivery.
+ Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+
+Question: Which route of administration is used for drugs that require steady, continuous release, such as nitroglycerin:
+ A. Intramuscular
+ B. Intravenous
+ C. Oral
+ D. Subcutaneous
+ E. Topical
+ Correct Option: E
+ Explanation:
+​Correct (E): Topical application (via transdermal patches or ointments) is used for nitroglycerin because absorption through the skin bypasses hepatic first-pass metabolism and ensures steady, continuous release over an extended period.
+​Incorrect (A): Intramuscular delivery causes a rapid spike in drug levels followed by a sharp decline, making it unsuitable for maintaining a steady, continuous therapeutic window.
+​Incorrect (B): Intravenous administration triggers immediate systemic distribution but requires a continuous IV pump infrastructure, making it impractical for long-term, steady outpatient management.
+​Incorrect (C): Oral dosing subjects nitroglycerin to heavy hepatic first-pass metabolism, which rapidly degrades the active compound before it can achieve steady systemic distribution.
+​Incorrect (D): Subcutaneous injection provides relatively slow absorption but still causes a distinct peak-and-trough plasma profile, failing to deliver a truly continuous release.
+ Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+
+
+Question: Which route of administration is commonly used for drugs having bitter taste:
+ A. Intramuscular
+ B. Intravenous
+ C. Oral
+ D. Rectal
+ E. Subcutaneous
+ Correct Option: D
+ Explanation:
+​Correct (D): Rectal administration bypasses the oral cavity entirely, making it an effective alternative route for delivering drugs having bitter taste while also avoiding a portion of hepatic first-pass metabolism.
+​Incorrect (A): Intramuscular injection is an invasive parenteral path used to achieve systemic uptake through skeletal muscle, rather than a primary alternative chosen simply to manage a drug’s taste profile.
+​Incorrect (B): Intravenous delivery is a specialized parenteral route reserved for rapid systemic distribution or precise dosing, rather than a standard solution for managing a bad taste.
+​Incorrect (C): Oral administration exposes the drug directly to gustatory receptors on the tongue, causing severe palatability issues and poor patient compliance if the compound has a bitter taste.
+​Incorrect (E): Subcutaneous
+ Tags: Easy, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+

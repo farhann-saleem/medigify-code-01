@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: During central venous catheterization through the left subclavian vein, a structure passing anterior to the root of the lung is accidentally injured. Which structure is most likely damaged? 
+A. Left phrenic nerve 
+B. Left recurrent laryngeal nerve 
+C. Left sympathetic trunk 
+D. Left vagus nerve 
+E. Right phrenic nerve 
+Correct Option: A 
+Explanation:
+* Correct (A): The left phrenic nerve passes anterior to the root of the left lung (anterior to the lung hilum) as it descends to the diaphragm, placing it directly at risk during left subclavian venous catheterization.
+* Incorrect (B): The left recurrent laryngeal nerve loops under the aortic arch and ascends in the tracheoesophageal groove; it does not pass anterior to the lung root.
+* Incorrect (C): The left sympathetic trunk runs posterior to the lung root along the costovertebral junction, not anteriorly.
+* Incorrect (D): The left vagus nerve passes posterior to the root of the lung (not anterior), making it less vulnerable in this approach.
+* Incorrect (E): The right phrenic nerve is contralateral and entirely remote from a left subclavian approach. 
+Tags: Hard, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Select incorrect match of anastomosis with its example: 
+A. anastomosis by convergence (Right and left vertebral arteries forming basilar artery) 
+B. end-to-end anastomosis (Right and left gastro-epiploic arteries) 
+C. lateral anastomosis (Anterior and posterior intercostal arteries) 
+D. potential anastomosis (Central retinal arteries) 
+E. transverse anastomosis (Ulnar and radial arteries at the wrist) 
+Correct Option: D 
+Explanation:
+* Correct (D): The central retinal arteries are strict anatomical end arteries with no collateral connections, making this a completely incorrect match for a potential anastomosis.
+* Incorrect (A): This is a correct match; the right and left vertebral arteries converge directly to form a single, larger vessel known as the basilar artery.
+* Incorrect (B): This is a correct match; the right and left gastro-epiploic arteries meet end-to-end along the greater curvature of the stomach.
+* Incorrect (C): This is a correct match; the anterior and posterior intercostal arteries run laterally along the rib spaces to form a functional side-to-side network.
+* Incorrect (E): This is a correct match; the ulnar and radial arteries connect via transverse arch networks across the wrist region. 
+Tags: Hard, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Portal System exists in EXCEPT: 
+A. emissary veins of skull 
+B. glomerular capillaries of kidney 
+C. hepatic portal system of liver 
+D. hypothalamo-hypophyseal system 
+E. pancreatic acinar portal system 
+Correct Option: A 
+Explanation:
+* Correct (A): Emissary veins of the skull connect intracranial dural venous sinuses with extracranial veins to equalize pressure, but they do not form or connect two distinct capillary beds.
+* Incorrect (B): The renal system features an arterial portal system where the glomerular capillaries are connected directly to the peritubular capillaries via an efferent arteriole.
+* Incorrect (C): The hepatic portal system of the liver is the classic venous portal network, carrying nutrient-rich blood from the intestinal capillaries to the hepatic sinusoids.
+* Incorrect (D): The hypothalamo-hypophyseal system uses a portal network to carry hypothalamic regulatory hormones directly from the hypothalamus to the anterior pituitary gland.
+* Incorrect (E): The pancreatic acinar portal system links the islet capillaries directly to the acinar capillaries to deliver high concentrations of islet hormones to acinar cells. 
+Tags: Hard, Anatomy, Foundation Module, Cardiovascular System Basics
+
+--------------------------------------------------
+

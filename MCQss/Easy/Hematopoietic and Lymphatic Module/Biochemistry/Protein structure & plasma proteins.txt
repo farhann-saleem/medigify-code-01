@@ -1,0 +1,328 @@
+
+Question: In sickle cell haemoglobin, glutamic acid at the 6th position of both β chains is replaced by:
+A. glycine.
+B. leucine.
+C. lysine.
+D. tyrosine.
+E. valine.
+Correct Option: E
+Explanation:
+Correct (E): valine replaces glutamic acid at the 6th position of the β chains in sickle cell haemoglobin.
+Incorrect (A): glycine is not the amino acid substituted at β6 in sickle cell haemoglobin.
+Incorrect (B): leucine is not the β6 replacement in sickle cell haemoglobin.
+Incorrect (C): lysine substitution is not the defect in sickle cell haemoglobin.
+Incorrect (D): tyrosine is not involved in the β6 substitution of sickle cell haemoglobin.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Which of the following prevents loss of Hb through kidneys:
+A. albumin.
+B. alpha fetoprotein.
+C. ferritin.
+D. haptoglobin.
+E. transferrin.
+Correct Option: D
+Explanation:
+Correct (D): haptoglobin binds free Hb in plasma, preventing its filtration and loss through kidneys.
+Incorrect (A): albumin maintains oncotic pressure and transports molecules but does not specifically bind free Hb to prevent renal loss.
+Incorrect (B): alpha fetoprotein is a fetal plasma protein and tumor marker, not an Hb-binding renal-protective protein.
+Incorrect (C): ferritin stores intracellular iron and does not prevent Hb loss through kidneys.
+Incorrect (E): transferrin transports iron in plasma but does not bind intact free Hb.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: In HbS, the amino acid at position 6 in β chain is substituted by:
+A. arginine.
+B. histidine.
+C. lysine.
+D. proline.
+E. valine.
+Correct Option: E
+Explanation:
+Correct (E): valine substitutes glutamic acid at position 6 in the β chain of HbS.
+Incorrect (A): arginine is not the amino acid substituted at position 6 in the β chain of HbS.
+Incorrect (B): histidine is not the β6 substitution in HbS.
+Incorrect (C): lysine does not replace glutamic acid at β6 in HbS.
+Incorrect (D): proline is not the amino acid substituted at position 6 in HbS.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Normal haemoglobin is composed of 4 polypeptide chains:
+A. 2 alpha and 2 beta.
+B. 2 alpha and 2 epsilon.
+C. 2 alpha and 2 gamma.
+D. 2 alpha and 2 zeta.
+E. 4 beta chains.
+Correct Option: A
+Explanation:
+Correct (A): adult normal haemoglobin HbA is composed of 2 alpha and 2 beta polypeptide chains.
+Incorrect (B): 2 alpha and 2 epsilon represents embryonic-type globin composition, not normal adult haemoglobin.
+Incorrect (C): 2 alpha and 2 gamma forms fetal haemoglobin, not the main normal adult haemoglobin.
+Incorrect (D): 2 alpha and 2 zeta is not the normal adult haemoglobin composition.
+Incorrect (E): 4 beta chains form HbH-related tetramers, not normal haemoglobin.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Hb S is formed by substitution of an amino acid at position 6 in:
+A. alpha chain.
+B. beta chain.
+C. delta chain.
+D. epsilon chain.
+E. gamma chain.
+Correct Option: B
+Explanation:
+Correct (B): Hb S results from glutamate-to-valine substitution at position 6 of the beta chain.
+Incorrect (A): alpha chain mutation at position 6 does not form Hb S.
+Incorrect (C): delta chain substitution is not responsible for Hb S.
+Incorrect (D): epsilon chain is embryonic and not the site of the Hb S mutation.
+Incorrect (E): gamma chain mutation is not the cause of Hb S.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Gower 1 Hb has:
+A. alpha2beta2.
+B. alpha2epsilon2.
+C. beta2delta2.
+D. epsilon2zeta2.
+E. gamma2zeta2.
+Correct Option: D
+Explanation:
+Correct (D): Gower 1 Hb is an embryonic hemoglobin composed of epsilon2zeta2.
+Incorrect (A): alpha2beta2 is adult HbA, not Gower 1 Hb.
+Incorrect (B): alpha2epsilon2 corresponds to Gower 2 Hb, not Gower 1 Hb.
+Incorrect (C): beta2delta2 is not a normal recognized composition of Gower 1 Hb.
+Incorrect (E): gamma2zeta2 corresponds to Portland Hb, not Gower 1 Hb.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Which of the following form of haemoglobin provides useful information for the management of diabetes mellitus:
+A. HbA1
+B. HbA1c
+C. HbA2
+D. HbC
+E. HbS
+Correct Option: B
+Explanation:
+ * Correct (B): HbA1c is a non-enzymatically glycosylated form of hemoglobin whose stable plasma concentration reflects the average ambient blood glucose levels over the preceding 120 days.
+ * Incorrect (A): HbA1 represents the broad, total fraction of minor adult glycated hemoglobins, making it too non-specific compared to its precise subfraction for clinical diabetic monitoring.
+ * Incorrect (C): HbA2 is a normal minor adult variant composed of two alpha and two delta chains that increases in beta-thalassemia trait but has no clinical utility in diabetes mellitus.
+ * Incorrect (D): HbC is a structural hemoglobin variant caused by a lysine substitution that results in mild hemolytic anemia and is unrelated to glycemic status or diabetic management.
+ * Incorrect (E): HbS is the pathological variant underlying sickle cell disease, caused by a valine substitution, and carries no prognostic or diagnostic value for diabetes mellitus.
+   Tags: Easy, Biochemistry, Hematopoietic , Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Which of the following prevents loss of Hb through kidneys:
+A. albumin
+B. alpha fetoprotein
+C. ferritin
+D. haptoglobin
+E. transferrin
+Correct Option: D
+Explanation:
+ * Correct (D): Haptoglobin specifically binds free intravascular hemoglobin dimers into a large macromolecular complex, effectively preventing renal glomerular filtration and preserving systemic iron stores.
+ * Incorrect (A): Albumin binds free heme to form methemalbumin and transports unconjugated bilirubin, but it does not bind or stabilize intact hemoglobin dimers to prevent their filtration.
+ * Incorrect (B): Alpha fetoprotein is a major fetal plasma protein involved in maintaining oncotic pressure and binding steroids, possessing no structural affinity for free hemoglobin.
+ * Incorrect (C): Ferritin is an intracellular protein shell optimized for the safe, non-toxic storage of ferric iron within tissues, playing no role in binding circulating hemoglobin in plasma.
+ * Incorrect (E): Transferrin is the specialized plasma transport protein dedicated entirely to moving ferric iron ions between tissues, completely lacking the capacity to bind intact hemoglobin molecules.
+   Tags: Easy, Biochemistry, Hematopoietic , Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Normal haemoglobin is composed of 4 polypeptide chains:
+A. 2 alpha and 2 beta
+B. 2 alpha and 2 delta
+C. 2 alpha and 2 epsilon
+D. 2 alpha and 2 gamma
+E. 2 alpha and 2 zeta
+Correct Option: A
+Explanation:
+ * Correct (A): 2 alpha and 2 beta chains organize into a soluble \alpha_2\beta_2 tetramer that constitutes HbA, representing greater than 95% of normal adult human hemoglobin.
+ * Incorrect (B): 2 alpha and 2 delta chains form HbA2, which is a minor, normal adult variant that accounts for less than 3.5% of total circulating hemoglobin.
+ * Incorrect (C): 2 alpha and 2 epsilon chains do not represent a stable physiological pairing, as epsilon chains combine exclusively with zeta chains to form embryonic Gower-1 or alpha chains to form transient Gower-2.
+ * Incorrect (D): 2 alpha and 2 gamma chains constitute HbF (fetal hemoglobin), which is the predominant functional tetramer during gestation but drops to trace levels under normal adult conditions.
+ * Incorrect (E): 2 alpha and 2 zeta chains do not pair physiologically because zeta is an embryonic alpha-like globin gene that acts as a structural alternative to the alpha chain itself.
+   Tags: Easy, Biochemistry, Hematopoietic , Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Gower 1 Hb has:
+A. two alpha and two beta chains
+B. two alpha and two epsilon chains
+C. two delta and two epsilon chains
+D. two epsilon and two zeta chains
+E. two gamma and two zeta chains
+Correct Option: D
+Explanation:
+ * Correct (D): Gower 1 Hb is an early embryonic hemoglobin tetramer structurally composed of two epsilon and two zeta chains.
+ * Incorrect (A): A tetramer containing two alpha and two beta chains constitutes Hemoglobin A, the major normal adult hemoglobin form.
+ * Incorrect (B): A tetramer containing two alpha and two epsilon chains describes Gower 2 Hb, a distinct embryonic hemoglobin variant.
+ * Incorrect (C): A structural pairing of two delta and two epsilon chains is non-existent and does not form any biological hemoglobin molecule.
+ * Incorrect (E): A structural configuration composed of two gamma and two zeta chains defines Portland 1 Hb, not Gower 1 Hb.
+   Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+﻿Question: The largest immunoglobulin is:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: E
+Explanation:
+Correct (E): igm is secreted as a large pentameric structure containing five basic four-peptide subunits joined by a J-chain, making it the largest immunoglobulin by molecular weight.
+Incorrect (A): iga typically circulates as a monomer or a smaller dimeric secretory form.
+Incorrect (B): igd exists solely as a low-molecular-weight monomeric cell-surface receptor.
+Incorrect (C): ige exists strictly as a monomeric molecule involved in type I hypersensitivity.
+Incorrect (D): igg is a relatively small monomeric molecule that comprises the majority of serum antibodies.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Colostrum contains:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: A
+Explanation:
+Correct (A): iga is heavily concentrated in breast milk and colostrum as a dimeric secretory molecule, providing passive mucosal immunity to the newborn.
+Incorrect (B): igd is not secreted into external body fluids or maternal colostrum.
+Incorrect (C): ige is primarily tissue-bound to mast cells and basophils rather than secreted into colostrum.
+Incorrect (D): igg is selectively transferred across the placenta rather than concentrated in colostrum.
+Incorrect (E): igm is a large pentameric antibody that does not cross mucosal barriers into colostrum in significant quantities.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: The main site of production of plasma proteins is:
+A. bone marrow
+B. kidney
+C. liver
+D. muscles
+E. spleen
+Correct Option: C
+Explanation:
+Correct (C): liver hepatocytes synthesize the vast majority of circulating plasma proteins, including albumin, fibrinogen, and various globulins.
+Incorrect (A): bone marrow synthesizes the immunoglobulins via plasma cells, but not the majority of other bulk plasma proteins.
+Incorrect (B): kidney filters and reabsorbs plasma proteins but is not a site of synthesis.
+Incorrect (D): muscles utilize plasma amino acids for structural proteins but do not secrete circulating plasma proteins.
+Incorrect (E): spleen houses lymphoid cells for immune filtration but does not synthesize systemic plasma proteins.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Immunoglobulin that can cross the placental membrane is:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: D
+Explanation:
+Correct (D): igg possesses a specific structural region that binds to neonatal Fc receptors (FcRn) on the syncytiotrophoblast, allowing it to cross the placental membrane.
+Incorrect (A): iga lacks the specific Fc receptor affinity required to cross the placental membrane.
+Incorrect (B): igd remains anchored to B-cell membranes and cannot cross the placental membrane.
+Incorrect (C): ige cannot cross the placental membrane due to lack of complementary placental transport receptors.
+Incorrect (E): igm possesses a bulky pentameric structure and lacks transport mechanism affinity, making it unable to cross the placental membrane.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: The immunoglobulin present in serum, saliva, tears, intestinal and bronchial secretions is:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: A
+Explanation:
+Correct (A): iga features a unique secretory component that allows it to cross epithelial boundaries into external fluids like saliva, tears, intestinal and bronchial secretions.
+Incorrect (B): igd functions exclusively as a membrane-bound antigen receptor on naive B cells.
+Incorrect (C): ige is sequestered on mast cell surfaces within vascularized connective tissue and is not secreted into external secretions.
+Incorrect (D): igg remains confined primarily to the vascular and interstitial compartments and does not cross into external secretions.
+Incorrect (E): igm is too large to efficiently traverse mucosal boundaries into external secretions under normal physiological conditions.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Which is the most abundant of circulating antibodies:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: D
+Explanation:
+Correct (D): igg constitutes approximately 75% to 80% of the total serum pool, making it the most abundant of circulating antibodies.
+Incorrect (A): iga is the most abundant antibody in secretions, but ranks second in overall circulating serum concentration.
+Incorrect (B): igd is a trace antibody present in negligible quantities within circulation.
+Incorrect (C): ige is found in extremely low, baseline trace amounts within serum.
+Incorrect (E): igm makes up only about 5% to 10% of total circulating antibodies in a healthy individual.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Immunoglobulins attach to antigens through which structural site:
+A. ch1 domain
+B. cl domain
+C. fab fragment
+D. fc fragment
+E. fv fragment
+Correct Option: C
+Explanation:
+Correct (C): fab fragment contains the hypervariable complementarity-determining regions of both heavy and light chains that form the specific antigen-binding site.
+Incorrect (A): ch1 domain provides structural support to the heavy chain constant region but does not directly bind antigens.
+Incorrect (B): cl domain forms the structural framework of the light chain constant region.
+Incorrect (D): fc fragment mediates effector functions, such as complement fixation and phagocyte binding, rather than antigen attachment.
+Incorrect (E): fv fragment represents only the variable domains, whereas immunoglobulins structurally attach via the larger, intact fab fragment.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Which of the following antibody can cross the placental membrane:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: D
+Explanation:
+Correct (D): igg is the exclusive antibody class equipped with an Fc region recognized by maternal-fetal transport proteins, allowing it to cross the placental membrane.
+Incorrect (A): iga is structurally unable to cross the placental membrane and must be acquired postnatally via colostrum.
+Incorrect (B): igd is restricted to the surface of mature B lymphocytes and does not cross the placental membrane.
+Incorrect (C): ige interacts exclusively with high-affinity Fc-epsilon receptors on mast cells and basophils, not the placental membrane.
+Incorrect (E): igm has a bulky pentameric configuration that prevents passive or receptor-mediated passage across the placental membrane.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Which of the following class of immunoglobulin can cross the placental barrier:
+A. iga
+B. igd
+C. ige
+D. igg
+E. igm
+Correct Option: D
+Explanation:
+Correct (D): igg selectively binds to the neonatal constant region receptor (FcRn) to undergo transcytosis across the placental barrier.
+Incorrect (A): iga lacks the molecular transport determinants needed to bind placental receptors and pass the placental barrier.
+Incorrect (B): igd remains unsecreted in large quantities and does not pass across the placental barrier.
+Incorrect (C): ige cannot cross the placental barrier because placental trophoblasts lack receptors for its heavy chain constant region.
+Incorrect (E): igm is a large macromolecular complex that cannot transit across the placental barrier.
+Tags: Easy, Biochemistry, Hematopoietic, Protein Structure & Plasma Proteins
+--------------------------------------------------
+

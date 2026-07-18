@@ -1,0 +1,17 @@
+Question: An experimental model demonstrates that blocking ATP-sensitive Potassium (K_ATP) channels in coronary smooth muscle reduces coronary vasodilation during hypoxia. What is the molecular pathway linking hypoxia to these channels?
+A. Hypoxia activates calcium-activated potassium channels, causing potassium influx and membrane depolarization.
+B. Hypoxia decreases intracellular ATP, opening K_ATP channels to allow potassium efflux, which hyperpolarizes the smooth muscle cell and closes voltage-gated calcium channels, leading to vasodilation.
+C. Hypoxia increases intracellular ATP, closing K_ATP channels and promoting vasodilation.
+D. Hypoxia opens sodium channels, causing depolarization and relaxation of smooth muscle.
+E. Hypoxia stimulates chloride efflux channels, increasing calcium entry and vasodilation.
+Correct Option: B
+Explanation:
+Correct (B): Hypoxia decreases intracellular ATP, opening K_ATP channels and causing potassium efflux; the resulting hyperpolarization closes voltage-gated calcium channels, lowers intracellular calcium, and produces coronary vasodilation.
+Incorrect (A): Calcium-activated potassium channels are not the primary hypoxia-sensing pathway, and potassium efflux—not influx—causes hyperpolarization.
+Incorrect (C): Increased intracellular ATP closes K_ATP channels and opposes vasodilation.
+Incorrect (D): Sodium channel opening causes depolarization, which favors calcium entry and contraction rather than relaxation.
+Incorrect (E): Increased calcium entry promotes vasoconstriction, not vasodilation.
+Tags: Hard, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+

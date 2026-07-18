@@ -1,0 +1,57 @@
+
+Question: In patients with myasthenia, an acute worsening of symptoms is usually relieved by:
+A. cholinergic antagonist
+B. increasing cholinesterase inhibitor
+C. nicotinic antagonist
+D. NMJ polarizing agent
+E. reversible muscarinic blocker
+Correct Option: B
+Explanation:
+
+* ​Correct (B): Increasing cholinesterase inhibitor doses stops the breakdown of acetylcholine, amplifying its concentration at the NMJ to help overcome the autoimmune loss of nicotinic receptors.
+* ​Incorrect (A): Cholinergic antagonist drugs block acetylcholine receptors, which further worsens flaccid skeletal muscle weakness in a myasthenic patient.
+* ​Incorrect (C): Nicotinic antagonist drugs block the remaining functional motor endplate receptors, which can trigger acute respiratory failure or a severe paralytic crisis.
+* ​Incorrect (D): NMJ polarizing agent describes depolarizing neuromuscular blockers like succinylcholine, which induce paralysis rather than therapeutic muscle strength.
+* ​Incorrect (E): Reversible muscarinic blocker agents like atropine reduce autonomic side effects but do not improve skeletal muscle neuromuscular transmission.
+    Tags: Moderate, Pharmacology, Musculoskeletal, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+
+
+Question: Neostigmine differs from pilocarpine (muscarinic agonist) in having effects on:
+A. bladder tone
+B. bowel motility
+C. skeletal muscle
+D. sweat gland
+E. vascular tone
+Correct Option: C
+Explanation:
+
+* ​Correct (C): Neostigmine inhibits acetylcholinesterase globally, allowing acetylcholine to accumulate at both muscarinic and nicotinic sites, which produces prominent functional effects on skeletal muscle.
+* ​Incorrect (A): Bladder tone is regulated by muscarinic receptors, meaning both neostigmine and pilocarpine will stimulate detrusor smooth muscle contraction.
+* ​Incorrect (B): Bowel motility is driven by enteric muscarinic activation, so both drugs enhance peristaltic contractions in a similar manner.
+* ​Incorrect (D): Sweat gland cells use sympathetic cholinergic muscarinic pathways, making them highly responsive to both of these agents.
+* ​Incorrect (E): Vascular tone responds to muscarinic endothelial activation via nitric oxide release, a path stimulated by both direct agonists and cholinesterase inhibitors.
+    Tags: Moderate, Pharmacology, Musculoskeletal, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+
+
+Question: Mr Green has just been diagnosed with dysautonomia. Pyridostigmine and neostigmine may cause which one of the following in this patient:
+A. bronchodilation
+B. cycloplegia
+C. diarrhea
+D. mydriasis
+E. xerostomia
+Correct Option: C
+Explanation:
+
+* ​Correct (C): diarrhea is a direct result of increased parasympathetic tone and hypermotility in the gastrointestinal tract driven by acetylcholinesterase inhibition.
+* ​Incorrect (A): bronchodilation is a sympathetic response, whereas pyridostigmine and neostigmine promote parasympathetic bronchoconstriction via muscarinic stimulation.
+* ​Incorrect (B): cycloplegia refers to paralysis of accommodation (loss of near vision), whereas these drugs cause ciliary muscle contraction leading to accommodation for near vision.
+* ​Incorrect (D): mydriasis is pupillary dilation mediated by sympathetic activation, whereas these cholinomimetics induce pupillary constriction (miosis).
+* ​Incorrect (E): xerostomia refers to dry mouth, whereas acetylcholinesterase inhibitors significantly elevate salivary production, resulting in sialorrhea.
+    Tags: Moderate, Pharmacology, Musculoskeletal, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+

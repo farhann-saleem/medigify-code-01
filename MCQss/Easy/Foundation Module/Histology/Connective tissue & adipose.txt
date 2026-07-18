@@ -1,0 +1,153 @@
+Question: Plasma cells:
+A) are found mostly in lymphatic tissue
+B) are specialized for production of humoral antibodies
+C) contain few ribosomes
+D) have a centrally placed nucleus
+E) possess no rough endoplasmic reticulum
+Correct Option: B
+Explanation:
+Correct (B): Plasma cells are terminally differentiated B lymphocytes exclusively specialized for the massive synthesis and secretion of humoral antibodies.
+Incorrect (A): are found mostly in lymphatic tissue is incorrect because plasma cells are widely distributed throughout the lamina propria of the gastrointestinal and respiratory tracts, not just restricted to lymphatic tissue.
+Incorrect (C): contain few ribosomes is incorrect because they contain an immense population of ribosomes organized into rough endoplasmic reticulum to facilitate intensive protein synthesis.
+Incorrect (D): have a centrally placed nucleus is incorrect because plasma cells characteristically possess a eccentrically placed nucleus.
+Incorrect (E): possess no rough endoplasmic reticulum is incorrect because the cytoplasm is nearly filled with extensive rough endoplasmic reticulum arrays needed for antibody manufacturing.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: The distinguishing feature of plasma cell is its:
+A) cartwheel nucleus
+B) cytoplasmic vacuole
+C) membrane structure
+D) shape
+E) site of presence
+Correct Option: A
+Explanation:
+Correct (A): The cartwheel nucleus, created by alternating clumps of heterochromatin and euchromatin, provides a definitive morphologic hallmark for identifying plasma cells under light microscopy.
+Incorrect (B): cytoplasmic vacuole is incorrect because cytoplasmic vacuoles are not a defining diagnostic feature of plasma cells compared to their nuclear morphology.
+Incorrect (C): membrane structure is incorrect because the basic plasma membrane architecture does not distinguish it from other mononuclear leukocytes.
+Incorrect (D): shape is incorrect because an ovoid cell shape is shared by several other connective tissue cells and lacks diagnostic specificity.
+Incorrect (E): site of presence is incorrect because plasma cells can be found in various loose connective tissues and lymphoid organs, making location non-pathognomonic.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: Production of antibodies is the function of:
+A) fibroblasts
+B) histiocytes
+C) mast cells
+D) neutrophils
+E) plasma cells
+Correct Option: E
+Explanation:
+Correct (E): Plasma cells are the specialized effector cells of the humoral immune system dedicated to secreting immunoglobulins.
+Incorrect (A): fibroblasts is incorrect because fibroblasts function to synthesize and maintain extracellular matrix components like collagen and ground substance.
+Incorrect (B): histiocytes is incorrect because histiocytes are tissue-resident macrophages specialized for phagocytosis and antigen presentation.
+Incorrect (C): mast cells is incorrect because mast cells function to store and release inflammatory mediators like histamine and heparin.
+Incorrect (D): neutrophils is incorrect because neutrophils are acute inflammatory granulocytes specialized for the phagocytosis and killing of pyogenic bacteria.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: Transient (wandering cells) of CT are:
+A) adipocytes
+B) fibroblasts
+C) macrophages
+D) myofibroblasts
+E) pericytes
+Correct Option: C
+Explanation:
+Correct (C): Macrophages constantly traffic into tissues from the bloodstream as monocytes to respond to immunological stimuli, making them classic transient components.
+Incorrect (A): adipocytes is incorrect because adipocytes are fixed structural elements that do not migrate between tissue compartments.
+Incorrect (B): fibroblasts is incorrect because fibroblasts are stationary resident cells that populate and anchor within the matrix.
+Incorrect (D): myofibroblasts is incorrect because myofibroblasts act locally at sites of injury as temporary modifications of resident cells rather than migrating hematogenous cells.
+Incorrect (E): pericytes is incorrect because pericytes remain stationary within the basal lamina of capillaries and postcapillary venules.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: The most generalized type of connective tissue (in the sense of possessing the greatest variety of connective tissue components) is:
+A) adipose
+B) dense
+C) loose
+D) mesenchyme
+E) reticular
+Correct Option: C
+Explanation:
+Correct (C): Loose connective tissue serves as the prototypical generalized template, containing an equal, diverse mix of multiple cell types, fibers, and ground substance components.
+Incorrect (A): adipose is incorrect because adipose tissue is highly specialized and dominated almost exclusively by lipid-storing cells.
+Incorrect (B): dense is incorrect because dense connective tissue is specialized for mechanical strength, being heavily dominated by packed fiber bundles with minimal cellular variety.
+Incorrect (D): mesenchyme is incorrect because mesenchyme is an unspecialized embryonic tissue lacking mature fiber types and fully differentiated adult components.
+Incorrect (E): reticular is incorrect because reticular tissue is specialized to form delicate structural frameworks for lymphoid organs using a restricted subset of type III collagen fibers.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: The precursor of the heparin is contained in:
+A) the endothelial cells
+B) the fibroblasts
+C) the histiocytes
+D) the mast cells
+E) the plasma cell
+Correct Option: D
+Explanation:
+Correct (D): The mast cells synthesize and store highly sulfated heparin glycosaminoglycan precursors within their basophilic cytoplasmic granules.
+Incorrect (A): the endothelial cells is incorrect because endothelial cells produce anticoagulants like heparan sulfate and thrombomodulin but do not store granular heparin precursors.
+Incorrect (B): the fibroblasts is incorrect because fibroblasts produce structural components like hyaluronic acid and chondroitin sulfate rather than heparin.
+Incorrect (C): the histiocytes is incorrect because histiocytes specialize in lysosomal degradation enzymes rather than storing sulfated glycosaminoglycans like heparin.
+Incorrect (E): the plasma cell is incorrect because plasma cells are dedicated to the synthesis of immunoglobulins, not secretory glycosaminoglycans.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: Dense regular connective tissue is present in:
+A) basement membrane
+B) capsules of organs
+C) epidermis
+D) skin
+E) tendons
+Correct Option: E
+Explanation:
+Correct (E): Tendons require the high tensile strength along a single axis provided by the parallel, densely packed collagen fibers of dense regular connective tissue.
+Incorrect (A): basement membrane is incorrect because the basement membrane is an acellular matrix sheet composed of type IV collagen and laminin, not dense fibrillar bundles.
+Incorrect (B): capsules of organs is incorrect because organ capsules are subjected to multidirectional forces and are composed of dense irregular connective tissue.
+Incorrect (C): epidermis is incorrect because the epidermis is a stratified squamous keratinized epithelium, not a connective tissue.
+Incorrect (D): skin is incorrect because the dermis layer of the skin is composed of dense irregular connective tissue to withstand forces from multiple angles.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: The fibrous component of loose connective tissue is composed of:
+A) collagenous, reticular and elastic fibers
+B) elastin, collagen, and glycoproteins
+C) type I collagen in fine fibers
+D) type I collagen in loose bundles
+E) type II collagen in dense networks
+Correct Option: A
+Explanation:
+Correct (A): Loose connective tissue is characteristically defined by the simultaneous presence of three distinct fiber types: collagenous, reticular, and elastic fibers.
+Incorrect (B): elastin, collagen, and glycoproteins is incorrect because glycoproteins are structural components of the ground substance, not fibers themselves.
+Incorrect (C): type I collagen in fine fibers is incorrect because it accounts for only one portion of the total diverse fiber profile present in loose connective tissue.
+Incorrect (D): type I collagen in loose bundles is incorrect because this description excludes the essential reticular and elastic networks that complete the loose CT architecture.
+Incorrect (E): type II collagen in dense networks is incorrect because type II collagen is localized to cartilage matrix and does not form the fibrous networks of loose connective tissue.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+
+Question: White adipocytes are derived developmentally from what precursor cells:
+A) brown adipocytes
+B) fibroblasts
+C) histiocytes
+D) mesenchymal cells
+E) monocytes
+Correct Option: D
+Explanation:
+Correct (D): Mesenchymal cells serve as the multipotent embryonic stem cells that differentiate directly into lipoblasts and subsequently mature into white adipocytes.
+Incorrect (A): brown adipocytes is incorrect because brown adipocytes arise from a distinct myogenic precursor lineage (Myf5+) and do not transdifferentiate into adult white adipocytes.
+Incorrect (B): fibroblasts is incorrect because fibroblasts represent a fully differentiated parallel resident stromal cell lineage.
+Incorrect (C): histiocytes is incorrect because histiocytes are phagocytic cells originating from hematopoietic myeloid progenitors.
+Incorrect (E): monocytes is incorrect because monocytes are circulating blood leukocytes that differentiate exclusively into macrophages and myeloid dendritic cells.
+Tags: Easy, Histology, Foundation, Connective Tissue & Adipose
+
+--------------------------------------------------
+

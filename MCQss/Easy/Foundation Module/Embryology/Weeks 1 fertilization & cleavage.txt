@@ -1,0 +1,17 @@
+Question: Which part of blastocyst gives rise to embryo:
+A. chorionic mesoderm
+B. cytotrophoblast
+C. embryoblast
+D. extraembryonic mesoderm
+E. syncytiotrophoblast
+Correct Option: C
+Explanation:
+• Correct (C): The embryoblast (inner cell mass) forms the embryo proper.
+• Incorrect (A): Chorionic mesoderm forms fetal part of placenta, not embryo.
+• Incorrect (B): Cytotrophoblast contributes to trophoblastic layers, not embryo.
+• Incorrect (D): Extraembryonic mesoderm forms supporting membranes only.
+• Incorrect (E): Syncytiotrophoblast forms invasive placental layer, not embryo.
+Tags: Easy, Embryology, Foundation Module, Weeks 1: Fertilization & Cleavage
+
+--------------------------------------------------
+

@@ -1,0 +1,293 @@
+﻿Question: The autonomic nervous system: 
+A. arises from the spinal cord only. 
+B. controls skeletal muscles. 
+C. has no connection with the adrenal medulla. 
+D. prepares the body for the fight-or-flight response. 
+E. releases acetylcholine from all postganglionic fibers. 
+Correct Option: D 
+Explanation:
+* Correct (D): The sympathetic division of the autonomic nervous system prepares the body for the fight-or-flight response during stress or emergencies.
+* Incorrect (A): It arises from both the brainstem (cranial nerves) and the spinal cord.
+* Incorrect (B): It controls smooth muscle, cardiac muscle, and glands, whereas skeletal muscles are controlled by the somatic nervous system.
+* Incorrect (C): It has a direct connection with the adrenal medulla, where preganglionic sympathetic fibers stimulate epinephrine and norepinephrine release.
+* Incorrect (E): It releases norepinephrine from most sympathetic postganglionic fibers, though sweat glands and certain blood vessels receive acetylcholine. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is NOT a component of the central nervous system? 
+A. Basal ganglia 
+B. Cranial nerve 
+C. Glial cell 
+D. Neuron 
+E. Spinal cord 
+Correct Option: B 
+Explanation:
+* Correct (B): A cranial nerve is a peripheral nerve structure that projects outside the brainstem, making it part of the peripheral nervous system rather than the central nervous system.
+* Incorrect (A): Basal ganglia are subcortical nuclei located deep within the cerebral hemispheres of the central nervous system.
+* Incorrect (C): Glial cell types like oligodendrocytes and astrocytes are resident supporting cells within the central nervous system.
+* Incorrect (D): Neuron populations constitute the primary parenchymal and signaling cells found throughout the central nervous system.
+* Incorrect (E): Spinal cord is the major infra-tentorial longitudinal column of neural tissue belonging to the central nervous system. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Outermost covering of a nerve is called: 
+A. endomysium. 
+B. endoneurium. 
+C. epimysium. 
+D. epineurium. 
+E. perineurium. 
+Correct Option: D 
+Explanation:
+* Correct (D): Epineurium is the dense, outermost covering of a nerve that encloses the entire peripheral nerve trunk and shields it from mechanical strain.
+* Incorrect (A): Endomysium is the connective tissue sheath surrounding an individual muscle fiber rather than a nerve.
+* Incorrect (B): Endoneurium is the delicate connective tissue layer immediately surrounding an individual axon and its Schwann cell.
+* Incorrect (C): Epimysium is the fibrous connective tissue envelope that surrounds an entire skeletal muscle.
+* Incorrect (E): Perineurium is the specialized connective tissue sheath that bundles groups of axons into distinct nerve fascicles. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A typical spinal nerve is: 
+A. motor. 
+B. mixed. 
+C. parasympathetic. 
+D. sensory. 
+E. sympathetic. 
+Correct Option: B 
+Explanation:
+* Correct (B): A typical spinal nerve is mixed because it carries both somatic sensory afferent fibers entering the cord and somatic motor efferent fibers exiting the cord.
+* Incorrect (A): It is not purely motor, as it receives extensive sensory inputs from the periphery via the dorsal root.
+* Incorrect (C): It does not carry parasympathetic fibers, as parasympathetic outflow is restricted to certain cranial nerves and sacral spinal segments S2–S4.
+* Incorrect (D): It is not purely sensory, as it contains somatic motor axons destined for skeletal muscle innervation.
+* Incorrect (E): It is not purely sympathetic, as sympathetic fibers are absent in several spinal levels and only mix with thoracic and upper lumbar nerves. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Select the INCORRECT match of the ganglion and the cranial nerve supplying its preganglionic fibers: 
+A. ciliary ganglion (oculomotor nerve) 
+B. otic ganglion (glossopharyngeal nerve) 
+C. pterygopalatine ganglion (facial nerve) 
+D. submandibular ganglion (facial nerve) 
+E. submandibular ganglion (trigeminal nerve) Correct Option: E 
+Explanation:
+* Correct (E): The submandibular ganglion receives its preganglionic parasympathetic fibers from the facial nerve (via the chorda tympani), not from the trigeminal nerve, though it hangs suspended from a trigeminal branch (lingual nerve).
+* Incorrect (A): Ciliary ganglion is correctly matched because its preganglionic fibers travel via the oculomotor nerve.
+* Incorrect (B): Otic ganglion is correctly matched because its preganglionic fibers travel via the glossopharyngeal nerve.
+* Incorrect (C): Pterygopalatine ganglion is correctly matched because its preganglionic fibers travel via the facial nerve (greater petrosal nerve).
+* Incorrect (D): Submandibular ganglion is correctly matched because its preganglionic fibers travel via the facial nerve. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Nerve fibers are bound in and held together by connective tissue known as the: A. endomysium. 
+B. endoneurium. 
+C. epineurium. 
+D. perineurium. 
+E. sheath of Schwann. 
+Correct Option: D 
+Explanation:
+* Correct (D): Perineurium is the specific connective tissue sheath that binds, organizes, and holds groups of nerve fibers together into structural bundles called fascicles.
+* Incorrect (A): Endomysium is a histological connective tissue component of skeletal muscle fibers, completely absent in peripheral nerve trunks.
+* Incorrect (B): Endoneurium is the finer, delicate connective tissue that surrounds a single individual nerve fiber, rather than binding groups of them together.
+* Incorrect (C): Epineurium is the outermost dense connective sheath that surrounds the entire nerve trunk, enclosing all individual fascicles.
+* Incorrect (E): Sheath of Schwann is a cellular layer of myelin-producing cells that wraps individual axons, not a fibrous connective tissue matrix that binds bundles. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following layers of the brain contains blood vessels? 
+A. Arachnoid mater 
+B. Dura mater 
+C. Pia mater 
+D. Subarachnoid space 
+E. Subdural space 
+Correct Option: C 
+Explanation:
+* Correct (C): Pia mater is a highly vascularized, delicate connective tissue layer that closely adheres to the contours of the brain surface and contains the plexuses of blood vessels supplying the neural tissue.
+* Incorrect (A): Arachnoid mater is a non-vascular, thin, avascular membrane that acts as a barrier barrier layer.
+* Incorrect (B): Dura mater contains large venous sinuses and meningeal vessels, but it is a thick, protective dural envelope covering the brain rather than a layer embedded with nutrient brain capillaries.
+* Incorrect (D): Subarachnoid space contains CSF and large blood vessel trunks traversing it, but it is an anatomical fluid space rather than a structural tissue layer of the brain itself.
+* Incorrect (E): Subdural space is a narrow, potential space between the dura and arachnoid maters that contains a film of fluid but lacks structural blood vessels under normal conditions. 
+Tags: Easy, Anatomy, Foundation Module, Nervous System Basics
+
+--------------------------------------------------
+

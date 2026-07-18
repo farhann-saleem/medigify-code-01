@@ -1,0 +1,34 @@
+Question: Mental deficiency, retarded growth, slanting eyes, small ears, neural tube defects, and cardiac defects are the characteristic findings in?
+A. Down syndrome
+B. Edwards syndrome
+C. Patau syndrome
+D. Turner syndrome
+E. Wolf-Hirschhorn syndrome
+Correct Option: C
+Explanation:
+• Correct (C): Patau syndrome (trisomy 13) causes severe intellectual disability, growth retardation, small ears, neural tube defects, and congenital cardiac defects.
+• Incorrect (A): Down syndrome commonly presents with hypotonia and atrioventricular septal defects but neural tube defects are not characteristic.
+• Incorrect (B): Edwards syndrome is marked by clenched fists and rocker-bottom feet rather than slanting eyes with neural tube defects.
+• Incorrect (D): Turner syndrome causes short stature and gonadal dysgenesis without severe neural tube defects.
+• Incorrect (E): Wolf-Hirschhorn syndrome produces “Greek warrior helmet” facies rather than the multisystem pattern typical of trisomy 13.
+Tags: Hard, Embryology, Foundation Module, Genetics & Chromosomal Anomalies
+
+--------------------------------------------------
+
+
+8. Question: Concentration of α-fetoprotein higher than normal in the amniotic fluid may indicate?
+ A. Gastroschisis
+ B. Neural tube defect
+ C. Omphalocele
+ D. Sacrococcygeal teratoma
+ E. Spina bifida
+ Correct Option: B
+ Explanation:
+ • Correct (B): Neural tube defect causes leakage of α-fetoprotein into amniotic fluid, raising levels.
+ • Incorrect (A): Gastroschisis elevates maternal serum α-fetoprotein but not amniotic fluid consistently.
+ • Incorrect (C): Omphalocele involves herniation but does not specifically raise α-fetoprotein.
+ • Incorrect (D): Sacrococcygeal teratoma alters growth but not α-fetoprotein levels.
+ • Incorrect (E): Spina bifida is a neural tube defect subset but the broader category is the key.
+ Tags: Hard, Embryology, Fetal Period, Genetics & Chromosomal Anomalies
+
+--------------------------------------------------

@@ -1,14 +1,15 @@
 #!/usr/bin/env node
 /**
- * seed-mcqs.mjs — Parse .txt MCQ files and push to Supabase
+ * seed-mcqs.mjs — Parse MCQss/ directory and push to Supabase
+ *
+ * Directory structure:
+ *   MCQss/{difficulty}/{module}/{subject}/{topic}.txt
  *
  * Usage:
  *   node scripts/seed-mcqs.mjs                  # parse + push all
  *   node scripts/seed-mcqs.mjs --dry-run        # parse only, save JSON, don't push
- *   node scripts/seed-mcqs.mjs --folder Anatomy  # only process one subject folder
  *
  * Re-running is safe — uses upsert (ON CONFLICT id DO UPDATE).
- * New files in data/ will be picked up automatically.
  */
 
 import fs from 'fs';
@@ -17,7 +18,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const DATA_DIR = path.join(ROOT, 'data');
+const DATA_DIR = path.join(ROOT, 'MCQss');
 const OUT_JSON = path.join(ROOT, 'frontend', 'data', 'mcqs.json');
 
 // ── Config ──────────────────────────────────────────────────
@@ -27,21 +28,12 @@ const env = loadEnv(ENV_FILE);
 const SUPABASE_URL = env.NEXT_PUBLIC_SUPABASE_URL;
 const SERVICE_KEY = env.SUPABASE_SERVICE_ROLE_KEY;
 
-const SUBJECT_MAP = {
-  'Anatomy': 'Anatomy',
-  'Biochem': 'Biochemistry',
-  'Community Medicine': 'Community Medicine',
-  'Embryo': 'Embryology',
-  'Histo': 'Histology',
-  'Pathology': 'Pathology',
-  'Pharmacology': 'Pharmacology',
-  'Physiology': 'Physiology',
-};
+const DIFFICULTY_LEVELS = ['Easy', 'Moderate', 'Hard'];
 
 const ID_PREFIX = {
   'Anatomy': 'anat',
   'Biochemistry': 'bio',
-  'Community Medicine': 'cm',
+  'Community medicine': 'cm',
   'Embryology': 'emb',
   'Histology': 'histo',
   'Pathology': 'path',
@@ -52,60 +44,95 @@ const ID_PREFIX = {
 // ── CLI args ────────────────────────────────────────────────
 const args = process.argv.slice(2);
 const DRY_RUN = args.includes('--dry-run');
-const folderIdx = args.indexOf('--folder');
-const ONLY_FOLDER = folderIdx !== -1 ? args[folderIdx + 1] : null;
 
 // ── Main ────────────────────────────────────────────────────
 async function main() {
-  const folders = fs.readdirSync(DATA_DIR).filter(f => {
-    const full = path.join(DATA_DIR, f);
-    if (!fs.statSync(full).isDirectory()) return false;
-    if (ONLY_FOLDER && f !== ONLY_FOLDER) return false;
-    return true;
-  });
-
   let allMcqs = [];
   const counters = {}; // per-subject running ID counter
+  let warnings = 0;
 
-  for (const folder of folders) {
-    const subject = SUBJECT_MAP[folder] || folder;
-    const prefix = ID_PREFIX[subject] || folder.toLowerCase().slice(0, 4);
-    if (!counters[prefix]) counters[prefix] = 0;
+  for (const difficulty of DIFFICULTY_LEVELS) {
+    const diffDir = path.join(DATA_DIR, difficulty);
+    if (!fs.existsSync(diffDir)) continue;
 
-    const folderPath = path.join(DATA_DIR, folder);
-    const files = fs.readdirSync(folderPath)
-      .filter(f => f.endsWith('.txt'))
-      .sort((a, b) => {
-        const numA = parseInt(a.match(/^(\d+)/)?.[1] || '0');
-        const numB = parseInt(b.match(/^(\d+)/)?.[1] || '0');
-        return numA - numB;
-      });
+    const modules = fs.readdirSync(diffDir).filter(f =>
+      fs.statSync(path.join(diffDir, f)).isDirectory()
+    );
 
-    for (const file of files) {
-      const topic = extractTopic(file);
-      const content = fs.readFileSync(path.join(folderPath, file), 'utf-8');
-      const questions = parseFile(content, subject, topic);
+    for (const moduleName of modules) {
+      const moduleDir = path.join(diffDir, moduleName);
+      const subjects = fs.readdirSync(moduleDir).filter(f =>
+        fs.statSync(path.join(moduleDir, f)).isDirectory()
+      );
 
-      for (const q of questions) {
-        counters[prefix]++;
-        q.id = `${prefix}${String(counters[prefix]).padStart(4, '0')}`;
-        allMcqs.push(q);
+      for (const subject of subjects) {
+        const subjectDir = path.join(moduleDir, subject);
+        const prefix = ID_PREFIX[subject] || subject.toLowerCase().slice(0, 4);
+        if (!counters[prefix]) counters[prefix] = 0;
+
+        const files = fs.readdirSync(subjectDir)
+          .filter(f => f.endsWith('.txt'))
+          .sort();
+
+        for (const file of files) {
+          const topic = file.replace(/\.txt$/i, '');
+          const content = fs.readFileSync(path.join(subjectDir, file), 'utf-8');
+          const questions = parseFile(content, {
+            difficulty: difficulty.toLowerCase(),
+            module: moduleName,
+            subject,
+            topic,
+          });
+
+          for (const q of questions) {
+            counters[prefix]++;
+            q.id = `${prefix}${String(counters[prefix]).padStart(4, '0')}`;
+            allMcqs.push(q);
+          }
+
+          if (questions.length === 0) {
+            console.warn(`  [WARN] No MCQs parsed from: ${difficulty}/${moduleName}/${subject}/${file}`);
+            warnings++;
+          }
+        }
       }
     }
   }
 
-  console.log(`Parsed ${allMcqs.length} MCQs across ${folders.length} subjects`);
+  console.log(`\nParsed ${allMcqs.length} MCQs`);
+  console.log(`Warnings: ${warnings}`);
 
-  // Subject breakdown
-  const breakdown = {};
+  // Breakdown by difficulty
+  const byDifficulty = {};
   for (const q of allMcqs) {
-    breakdown[q.subject] = (breakdown[q.subject] || 0) + 1;
+    byDifficulty[q.difficulty] = (byDifficulty[q.difficulty] || 0) + 1;
   }
-  for (const [subj, count] of Object.entries(breakdown).sort((a, b) => b[1] - a[1])) {
-    console.log(`  ${subj}: ${count}`);
+  console.log('\nBy difficulty:');
+  for (const [d, count] of Object.entries(byDifficulty)) {
+    console.log(`  ${d}: ${count}`);
   }
 
-  // Save local JSON (always — frontend uses this)
+  // Breakdown by module
+  const byModule = {};
+  for (const q of allMcqs) {
+    byModule[q.module] = (byModule[q.module] || 0) + 1;
+  }
+  console.log('\nBy module:');
+  for (const [m, count] of Object.entries(byModule).sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${m}: ${count}`);
+  }
+
+  // Breakdown by subject
+  const bySubject = {};
+  for (const q of allMcqs) {
+    bySubject[q.subject] = (bySubject[q.subject] || 0) + 1;
+  }
+  console.log('\nBy subject:');
+  for (const [s, count] of Object.entries(bySubject).sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${s}: ${count}`);
+  }
+
+  // Save local JSON
   fs.writeFileSync(OUT_JSON, JSON.stringify(allMcqs, null, 2) + '\n');
   console.log(`\nSaved to ${path.relative(ROOT, OUT_JSON)}`);
 
@@ -124,181 +151,185 @@ async function main() {
 }
 
 // ── Parser ──────────────────────────────────────────────────
-function parseFile(content, subject, fileTopic) {
+function parseFile(content, meta) {
   const questions = [];
-  // Split into question blocks by "Question:" prefix
-  const blocks = content.split(/(?=^Question:)/m).filter(b => b.trim());
+  // Split by separator lines (dashes)
+  const blocks = content.split(/^-{10,}$/m).filter(b => b.trim());
 
-  // Check if first block is a topic header (doesn't start with "Question:")
-  let blockTopic = fileTopic;
-  let startIdx = 0;
-  if (blocks.length > 0 && !blocks[0].trim().startsWith('Question:')) {
-    // First block is a topic line
-    blockTopic = blocks[0].trim().split('\n')[0].trim() || fileTopic;
-    startIdx = 1;
-  }
-
-  for (let i = startIdx; i < blocks.length; i++) {
-    const block = blocks[i].trim();
-    if (!block) continue;
-
-    const q = parseQuestion(block, subject, blockTopic);
+  for (const block of blocks) {
+    const q = parseQuestion(block.trim(), meta);
     if (q) questions.push(q);
   }
 
   return questions;
 }
 
-function parseQuestion(block, subject, topic) {
-  const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+function parseQuestion(block, meta) {
+  // Some files have everything on one line — try to expand inline format first
+  block = expandInlineFormat(block);
 
-  // Extract statement
-  const statementLine = lines.find(l => l.startsWith('Question:'));
-  if (!statementLine) return null;
+  const lines = block.split('\n');
 
-  // Statement may span multiple lines until "Options:"
-  const statementStart = lines.indexOf(statementLine);
-  const optionsLineIdx = lines.findIndex(l => l === 'Options:');
-  let statement;
-  if (optionsLineIdx > statementStart) {
-    statement = lines.slice(statementStart, optionsLineIdx)
-      .join(' ')
-      .replace(/^Question:\s*/, '')
-      .trim();
-  } else {
-    statement = statementLine.replace(/^Question:\s*/, '').trim();
-  }
+  // Find Question line — supports "Question:", "Question 9.", and bare "Question" formats
+  // Also strip zero-width spaces and other Unicode whitespace
+  const qLineIdx = lines.findIndex(l => /^[\s\u200B]*Question[\s\d.:)]*$/i.test(l.trim()) || /^[\s\u200B]*Question[\s:]/i.test(l.trim()));
+  if (qLineIdx === -1) return null;
 
-  // Extract options
+  // Extract statement — everything after "Question:" until first option line
+  // Options can be "A." or "A)" or "a)" format. Skip "Options:" header line.
+  const firstOptionIdx = lines.findIndex((l, i) => {
+    if (i <= qLineIdx) return false;
+    const trimmed = l.trim();
+    if (trimmed === 'Options:') return false; // skip header
+    return /^[A-Ea-e][.)]\s+/i.test(trimmed);
+  });
+  if (firstOptionIdx === -1) return null;
+
+  const statement = lines.slice(qLineIdx, firstOptionIdx)
+    .map(l => l.trim().replace(/^[\u200B]+/, '')) // strip zero-width spaces
+    .join(' ')
+    .replace(/^Question\s*\d*[.:)]*\s*/i, '')
+    .trim();
+
+  if (!statement) return null;
+
+  // Extract options — supports "A." and "A)" and "a)" formats
   const options = {};
-  const optionLetters = ['a', 'b', 'c', 'd', 'e'];
-  for (const letter of optionLetters) {
-    const regex = new RegExp(`^${letter}\\)\\s*(.+)`, 'i');
-    const match = lines.find(l => regex.test(l));
+  for (let i = firstOptionIdx; i < lines.length; i++) {
+    const line = lines[i].trim();
+    const match = line.match(/^([A-Ea-e])[.)]\s+(.+)/i);
     if (match) {
-      options[letter] = match.replace(regex, '$1').trim();
+      options[match[1].toLowerCase()] = match[2].trim();
     }
+    if (line.startsWith('Correct Option:')) break;
   }
 
-  if (Object.keys(options).length < 2) return null; // Need at least 2 options
+  if (Object.keys(options).length < 2) return null;
 
-  // Extract correct answer
-  const ansLine = lines.find(l => /^Ans\.?\s*/i.test(l));
-  if (!ansLine) return null;
+  // Extract correct option
+  const correctLineIdx = lines.findIndex(l => l.trim().startsWith('Correct Option:'));
+  if (correctLineIdx === -1) return null;
 
-  const ansText = ansLine.replace(/^Ans\.?\s*/, '').trim();
-  const correctOption = resolveCorrectOption(ansText, options);
-  if (!correctOption) {
-    console.warn(`  [WARN] Could not resolve answer: "${ansText}" in "${statement.slice(0, 50)}..."`);
-    return null;
+  let correctRaw = lines[correctLineIdx].trim().replace(/^Correct Option:\s*/, '').trim();
+
+  // If "Correct Option:" line is empty, check next line for "Ans. text"
+  if (!correctRaw && correctLineIdx + 1 < lines.length) {
+    correctRaw = lines[correctLineIdx + 1].trim();
   }
 
-  // Extract explanation (may be on the same line or the next line)
-  const explIdx = lines.findIndex(l => l.startsWith('Explanation:'));
-  let explanation = '';
-  if (explIdx !== -1) {
-    const sameLine = lines[explIdx].replace(/^Explanation:\s*/, '').trim();
-    if (sameLine) {
-      explanation = sameLine;
-    } else if (explIdx + 1 < lines.length && !lines[explIdx + 1].startsWith('Tags:')) {
-      // Explanation is on the next line(s) — collect until Tags: or end
-      const explParts = [];
-      for (let j = explIdx + 1; j < lines.length; j++) {
-        if (lines[j].startsWith('Tags:')) break;
-        explParts.push(lines[j]);
+  // Remove leading "Ans." or "Ans"
+  correctRaw = correctRaw.replace(/^Ans\.?\s*/i, '').trim();
+
+  let correctLetter;
+  // If it's already a single letter, use it
+  if (correctRaw.match(/^[a-eA-E]$/)) {
+    correctLetter = correctRaw.toLowerCase();
+  } else {
+    // Try to match answer text against options
+    correctLetter = resolveCorrectOption(correctRaw, options);
+    if (!correctLetter) return null;
+  }
+
+  // Extract per-option explanations as JSONB
+  const explanation = {};
+  const explStartIdx = lines.findIndex(l => l.trim().startsWith('Explanation:'));
+  const tagsIdx = lines.findIndex(l => l.trim().startsWith('Tags:'));
+
+  if (explStartIdx !== -1) {
+    const explEnd = tagsIdx !== -1 ? tagsIdx : lines.length;
+
+    for (let i = explStartIdx; i < explEnd; i++) {
+      const line = lines[i].trim();
+
+      // Match patterns like:
+      // Correct (C): explanation text
+      // Incorrect (A): explanation text
+      // •  Correct (C): explanation text
+      // * Correct (C): explanation text
+      const match = line.match(/(?:[•*]\s*)?(?:Correct|Incorrect)\s*\(([A-E])\):\s*(.+)/i);
+      if (match) {
+        explanation[match[1].toLowerCase()] = match[2].trim();
       }
-      explanation = explParts.join(' ').trim();
     }
   }
 
   // Extract tags
-  const tagLine = lines.find(l => l.startsWith('Tags:'));
+  const tagLine = lines.find(l => l.trim().startsWith('Tags:'));
   const tags = tagLine
-    ? tagLine.replace(/^Tags:\s*/, '').split(',').map(t => t.trim()).filter(Boolean)
+    ? tagLine.trim().replace(/^Tags:\s*/, '').split(',').map(t => t.trim()).filter(Boolean)
     : [];
 
   return {
-    id: '', // filled by caller
+    id: '',
     statement,
     options,
-    correct_option: correctOption,
-    explanation,
-    subject,
-    topic: topic || null,
+    correct_option: correctLetter,
+    explanation: Object.keys(explanation).length > 0 ? explanation : { [correctLetter]: statement },
+    subject: meta.subject,
+    topic: meta.topic,
     tags,
     year: null,
     academic_year: 1,
+    difficulty: meta.difficulty,
+    module: meta.module,
   };
 }
 
+/**
+ * Expand single-line MCQ format into multi-line.
+ * Handles: "Question: text A. opt1 B. opt2 ... Correct Option: X Explanation: ..."
+ */
+function expandInlineFormat(block) {
+  // Always try to expand — some multi-line blocks still have inline "Correct Option:" at end of option line
+  // Only skip if block already looks well-structured (has Correct Option on its own line)
+  const hasCorrectOnOwnLine = block.split('\n').some(l => l.trim().startsWith('Correct Option:'));
+  if (hasCorrectOnOwnLine) return block;
+
+  // Try to split inline format by inserting newlines before key markers
+  let expanded = block;
+  // Remove "Options:" header if present
+  expanded = expanded.replace(/\bOptions:\s*/g, '\n');
+  // Insert newlines before option letters (A. B. C. etc)
+  expanded = expanded.replace(/\s+([A-E])\.\s+/g, '\n$1. ');
+  // Also handle A) B) C) and a) b) c) format
+  expanded = expanded.replace(/\s+([A-Ea-e])\)\s+/g, (m, letter) => `\n${letter.toUpperCase()}) `);
+  // Insert newline before "Correct Option:" — handles mid-line occurrence
+  expanded = expanded.replace(/\s+(Correct Option:)/g, '\n$1');
+  // Also handle case where it's glued to end of option text
+  expanded = expanded.replace(/(Correct Option:)/g, '\n$1');
+  // Insert newline before "Explanation:"
+  expanded = expanded.replace(/\s+(Explanation:)/g, '\n$1');
+  // Insert newlines before "Correct (" and "Incorrect ("
+  expanded = expanded.replace(/\s+((?:Correct|Incorrect)\s*\()/g, '\n$1');
+  // Insert newline before "Tags:"
+  expanded = expanded.replace(/\s+(Tags:)/g, '\n$1');
+
+  return expanded;
+}
+
+/**
+ * Resolve answer text to option letter via fuzzy matching.
+ */
 function resolveCorrectOption(ansText, options) {
-  // Clean leading colons/punctuation: ": Contains the median nerve" → "Contains the median nerve"
-  let cleaned = ansText.replace(/^[:\s]+/, '').trim();
-
-  // Pattern 1: "(A) Something" or "(a) Something"
-  const letterMatch = cleaned.match(/^\(([a-eA-E])\)/);
-  if (letterMatch) return letterMatch[1].toLowerCase();
-
-  // Normalize for comparison
-  const normalized = cleaned.replace(/\.+$/, '').trim().toLowerCase();
+  const normalized = ansText.replace(/\.+$/, '').trim().toLowerCase();
   if (!normalized) return null;
 
-  // Pattern 2: exact match against option text (case-insensitive, trimmed)
-  for (const [letter, text] of Object.entries(options)) {
-    if (text.trim().toLowerCase() === normalized) return letter;
-  }
-
-  // Pattern 3: fuzzy — option text starts with answer or answer starts with option
   for (const [letter, text] of Object.entries(options)) {
     const optNorm = text.trim().toLowerCase();
+    if (optNorm === normalized) return letter;
     if (optNorm.startsWith(normalized) || normalized.startsWith(optNorm)) return letter;
-  }
-
-  // Pattern 4: substring containment (both directions)
-  for (const [letter, text] of Object.entries(options)) {
-    const optNorm = text.trim().toLowerCase();
     if (normalized.includes(optNorm) || optNorm.includes(normalized)) return letter;
   }
 
-  // Pattern 5: Levenshtein distance ≤ 3 for typos (e.g. "vasoconstrictiom" vs "vasoconstriction")
-  for (const [letter, text] of Object.entries(options)) {
-    const optNorm = text.trim().toLowerCase();
-    if (levenshtein(normalized, optNorm) <= 3) return letter;
-  }
-
-  // Pattern 6: word overlap — at least 60% of words match
+  // Word overlap
   const ansWords = normalized.split(/\s+/).filter(w => w.length > 2);
   for (const [letter, text] of Object.entries(options)) {
     const optWords = text.trim().toLowerCase().split(/\s+/).filter(w => w.length > 2);
     const common = ansWords.filter(w => optWords.includes(w)).length;
-    const overlap = common / Math.max(ansWords.length, optWords.length);
-    if (overlap >= 0.6 && common >= 2) return letter;
+    if (common >= 1 && common / Math.max(ansWords.length, optWords.length) >= 0.5) return letter;
   }
 
   return null;
-}
-
-function levenshtein(a, b) {
-  if (a.length > 80 || b.length > 80) return 999; // skip long strings
-  const dp = Array.from({ length: a.length + 1 }, (_, i) => [i]);
-  for (let j = 0; j <= b.length; j++) dp[0][j] = j;
-  for (let i = 1; i <= a.length; i++) {
-    for (let j = 1; j <= b.length; j++) {
-      dp[i][j] = a[i - 1] === b[j - 1]
-        ? dp[i - 1][j - 1]
-        : 1 + Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]);
-    }
-  }
-  return dp[a.length][b.length];
-}
-
-// ── Topic extraction from filename ──────────────────────────
-function extractTopic(filename) {
-  // "1. Introduction (General Anatomy) 7.txt" → "Introduction"
-  // "3. Enzymes (Biochemistry) 83.txt" → "Enzymes"
-  // "10 Vitamins (Biochemistry) 76.txt" → "Vitamins"
-  const match = filename.match(/^\d+\.?\s*(.+?)\s*\(/);
-  return match ? match[1].trim() : null;
 }
 
 // ── Supabase push ───────────────────────────────────────────
@@ -321,6 +352,8 @@ async function pushToSupabase(mcqs) {
       tags: q.tags,
       year: q.year,
       academic_year: q.academic_year,
+      difficulty: q.difficulty,
+      module: q.module,
     }));
 
     const res = await fetch(`${SUPABASE_URL}/rest/v1/questions`, {

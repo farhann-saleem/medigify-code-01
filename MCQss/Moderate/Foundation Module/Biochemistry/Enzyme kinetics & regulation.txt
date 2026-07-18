@@ -1,0 +1,282 @@
+Question: Sulfonamides are competitive inhibitors of:
+A. dihydropteroate synthase.
+B. folic acid synthesis.
+C. PABA (para-aminobenzoic acid).
+D. tetrahydrofolate formation.
+E. bacterial folate metabolism.
+Correct Option: C
+Explanation:
+Correct (C): Sulfonamides are structural analogs of PABA (para-aminobenzoic acid) and competitively inhibit its utilization in bacterial folate synthesis.
+Incorrect (A): Dihydropteroate synthase is the inhibited enzyme, not the competitive substrate itself.
+Incorrect (B): Folic acid synthesis is the affected pathway rather than the direct competitive target.
+Incorrect (D): Tetrahydrofolate formation is downstream of the primary sulfonamide action.
+Incorrect (E): Bacterial folate metabolism describes the overall metabolic pathway, not the specific competitive inhibitor target.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: In competitive inhibition, which of the following statements is true?
+A. Both Km and Vmax are increased
+B. Km is increased
+C. Km is decreased
+D. Vmax is decreased
+E. Both Km and Vmax are unchanged
+Correct Option: B
+Explanation:
+Correct (B): Competitive inhibition increases Km (↓ substrate affinity)
+Incorrect (A): Vmax is unchanged, not increased
+Incorrect (C): Km does not decrease in competitive inhibition
+Incorrect (D): Vmax remains unchanged
+Incorrect (E): Km is altered, so not unchanged
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: Cytochrome oxidase is poisoned by all of the following except:
+A. Cyanide
+B. Carbon monoxide
+C. Hydrogen sulphide
+D. Azide
+E. Oligomycin
+Correct Option: E
+Explanation:
+Correct (E): Oligomycin inhibits ATP synthase, not cytochrome oxidase
+Incorrect (A): Cyanide blocks complex IV
+Incorrect (B): CO interferes with electron transport
+Incorrect (C): H₂S inhibits cytochrome oxidase
+Incorrect (D): Azide blocks complex IV
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: Competitive inhibition can be reversed by adding:
+A. cofactor
+B. enzyme
+C. inhibitor
+D. product
+E. substrate
+Correct Option: E
+Explanation:
+Correct (E): Increasing substrate concentration outcompetes the inhibitor at the enzyme active site in competitive inhibition.
+Incorrect (A): Cofactor addition does not displace a competitive inhibitor.
+Incorrect (B): Adding enzyme may increase reaction rate but does not specifically reverse competitive inhibition.
+Incorrect (C): Additional inhibitor would worsen inhibition.
+Incorrect (D): Product accumulation may inhibit rather than reverse the process.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: In non-competitive enzyme inhibition which of the following is true:
+A. decrease Km
+B. decrease Vmax
+C. increase Km
+D. increase Vmax
+E. no change in Vmax
+Correct Option: B
+Explanation:
+Correct (B): Non-competitive inhibition decreases Vmax because inhibitor binding reduces functional enzyme concentration.
+Incorrect (A): Km usually remains unchanged in pure non-competitive inhibition.
+Incorrect (C): Increased Km is more characteristic of competitive inhibition.
+Incorrect (D): Vmax cannot increase in enzyme inhibition.
+Incorrect (E): Vmax is reduced due to impaired catalytic capacity.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: The rate of enzyme-catalyzed reaction is directly proportional to:
+A. enzyme concentration
+B. hydrogen ion concentration
+C. product concentration
+D. substrate concentration
+E. temperature
+Correct Option: D
+Explanation:
+Correct (D): Reaction velocity increases directly with substrate concentration until enzyme saturation occurs.
+Incorrect (A): Enzyme concentration affects maximum capacity but the classic direct proportionality described is with substrate concentration.
+Incorrect (B): Hydrogen ion concentration affects pH sensitivity rather than direct proportionality.
+Incorrect (C): Product accumulation may inhibit the reaction.
+Incorrect (E): Excessive temperature denatures enzymes, so the relationship is not consistently direct.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: Physostigmine, an anticholinesterase, is used to treat:
+A. arthritis
+B. glaucoma
+C. hypertension
+D. myasthenia gravis
+E. parkinsonism
+Correct Option: D
+Explanation:
+Correct (D): Physostigmine inhibits acetylcholinesterase, increasing acetylcholine availability at the neuromuscular junction in myasthenia gravis.
+Incorrect (A): Arthritis is not treated with anticholinesterase drugs.
+Incorrect (B): Although physostigmine may reduce intraocular pressure, myasthenia gravis is the more specific therapeutic indication here.
+Incorrect (C): Anticholinesterases are not standard antihypertensive agents.
+Incorrect (E): Parkinsonism is treated mainly with dopaminergic therapy rather than anticholinesterases.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Which of the following reactions is catalyzed by a transferase:
+A. acetyl CoA + choline → acetylcholine + CoA
+B. alcohol + NAD+ → aldehyde + NADH + H+
+C. histidine → histamine + CO2
+D. L-alanine → D-alanine
+E. triglyceride + H2O → diglyceride + fatty acid
+Correct Option: A
+Explanation:
+Correct (A): Transferases catalyze transfer of functional groups, as in transfer of an acetyl group from acetyl CoA to choline.
+Incorrect (B): This is an oxidoreductase reaction catalyzed by dehydrogenase.
+Incorrect (C): This is a decarboxylation reaction catalyzed by a lyase.
+Incorrect (D): This is an isomerization reaction.
+Incorrect (E): This is a hydrolysis reaction catalyzed by a hydrolase.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Which one of the following statements is NOT correct for competitive inhibition:
+A. allopurinol is a competitive inhibitor
+B. inhibitor and substrate bind at different sites
+C. Km increases
+D. Vmax remains unchanged
+E. competitive inhibition can be overcome by increasing substrate concentration
+Correct Option: B
+Explanation:
+Correct (B): In competitive inhibition, inhibitor and substrate compete for the same active site rather than binding at different sites.
+Incorrect (A): Allopurinol competitively inhibits xanthine oxidase.
+Incorrect (C): Competitive inhibition increases apparent Km due to reduced substrate affinity.
+Incorrect (D): Vmax remains unchanged because excess substrate can overcome inhibition.
+Incorrect (E): Increasing substrate concentration reverses competitive inhibition.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Which one of the following statements is NOT true about Vmax:
+A. it depends on the affinity of the enzyme
+B. it depends on the number of enzyme molecules
+C. it is read on the Y-axis
+D. it is the maximum velocity that can ever be reached
+E. more the number of enzymes, higher will be the Vmax
+Correct Option: A
+Explanation:
+Correct (A): Vmax depends on enzyme concentration and catalytic capacity, not on the affinity of the enzyme for substrate.
+Incorrect (B): Increasing the number of enzyme molecules raises Vmax.
+Incorrect (C): Vmax is plotted on the Y-axis of Michaelis-Menten graphs.
+Incorrect (D): Vmax represents the maximum velocity achievable at substrate saturation.
+Incorrect (E): More enzyme molecules produce a proportionately higher Vmax.
+Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+Question: Sulfonamides are competitive inhibitors of:
+ A. dihydropteroate synthase.
+ B. folic acid synthesis.
+ C. PABA (para-aminobenzoic acid).
+ D. tetrahydrofolate formation.
+ E. bacterial folate metabolism.
+ Correct Option: C
+ Explanation:
+ Correct (C): Sulfonamides are structural analogs of PABA (para-aminobenzoic acid) and competitively inhibit its utilization in bacterial folate synthesis.
+ Incorrect (A): Dihydropteroate synthase is the inhibited enzyme, not the competitive substrate itself.
+ Incorrect (B): Folic acid synthesis is the affected pathway rather than the direct competitive target.
+ Incorrect (D): Tetrahydrofolate formation is downstream of the primary sulfonamide action.
+ Incorrect (E): Bacterial folate metabolism describes the overall metabolic pathway, not the specific competitive inhibitor target.
+ Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+Question: In competitive inhibition, which of the following statements is true?
+ A. Both Km and Vmax are increased
+ B. Km is increased
+ C. Km is decreased
+ D. Vmax is decreased
+ E. Both Km and Vmax are unchanged
+ Correct Option: B
+ Explanation:
+ Correct (B): Competitive inhibition increases Km (↓ substrate affinity)
+ Incorrect (A): Vmax is unchanged, not increased
+ Incorrect (C): Km does not decrease in competitive inhibition
+ Incorrect (D): Vmax remains unchanged
+ Incorrect (E): Km is altered, so not unchanged
+ Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+Question: Competitive inhibition can be reversed by adding:
+ A. cofactor
+ B. enzyme
+ C. inhibitor
+ D. product
+ E. substrate
+ Correct Option: E
+ Explanation:
+ Correct (E): Increasing substrate concentration outcompetes the inhibitor at the enzyme active site in competitive inhibition.
+ Incorrect (A): Cofactor addition does not displace a competitive inhibitor.
+ Incorrect (B): Adding enzyme may increase reaction rate but does not specifically reverse competitive inhibition.
+ Incorrect (C): Additional inhibitor would worsen inhibition.
+ Incorrect (D): Product accumulation may inhibit rather than reverse the process.
+ Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+Question: In non-competitive enzyme inhibition which of the following is true:
+ A. decrease Km
+ B. decrease Vmax
+ C. increase Km
+ D. increase Vmax
+ E. no change in Vmax
+ Correct Option: B
+ Explanation:
+ Correct (B): Non-competitive inhibition decreases Vmax because inhibitor binding reduces functional enzyme concentration.
+ Incorrect (A): Km usually remains unchanged in pure non-competitive inhibition.
+ Incorrect (C): Increased Km is more characteristic of competitive inhibition.
+ Incorrect (D): Vmax cannot increase in enzyme inhibition.
+ Incorrect (E): Vmax is reduced due to impaired catalytic capacity.
+ Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+Question: Km of an enzyme is equal to:
+ A. enzyme concentration at half Vmax
+ B. enzyme concentration at Vmax
+ C. product concentration at half Vmax
+ D. substrate concentration at half Vmax
+ E. substrate concentration at Vmax
+ Correct Option: D
+ Explanation:
+ Correct (D): Km is defined as the substrate concentration at half Vmax and reflects enzyme affinity for substrate.
+ Incorrect (A): Km is unrelated to enzyme concentration.
+ Incorrect (B): Enzyme concentration does not define Km.
+ Incorrect (C): Product concentration is not part of Michaelis-Menten definition.
+ Incorrect (E): Substrate concentration at Vmax is much higher than Km.
+ Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+
+
+Question: In competitive inhibition, which of the following statements is true?
+ A. Both Km and Vmax are increased
+ B. Km is increased
+ C. Km is decreased
+ D. Vmax is decreased
+ E. Both Km and Vmax are unchanged
+ Correct Option: B
+ Explanation:
+ Correct (B): Competitive inhibition increases Km (↓ substrate affinity)
+ Incorrect (A): Vmax is unchanged, not increased
+ Incorrect (C): Km does not decrease in competitive inhibition
+ Incorrect (D): Vmax remains unchanged
+ Incorrect (E): Km is altered, so not unchanged
+ Tags: Moderate, Biochemistry, Foundation, Enzyme Kinetics & Regulation
+
+--------------------------------------------------
+

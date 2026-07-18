@@ -1,0 +1,20 @@
+
+Question 2:
+ Which of the following condition prevents tissues from utilizing oxygen despite adequate oxygen supply?
+ A. Carbon monoxide poisoning
+ B. Cyanide poisoning
+ C. Decompression sickness
+ D. Gas gangrene
+ E. Hydrogen sulfide poisoning
+ Correct Option: B
+ Explanation:
+ • Correct (B): Cyanide poisoning blocks cytochrome oxidase, preventing tissue oxygen utilization.
+ • Incorrect (A): Carbon monoxide poisoning reduces oxygen delivery by binding Hb.
+ • Incorrect (C): Decompression sickness causes gas emboli, not direct inhibition of oxygen use.
+ • Incorrect (D): Gas gangrene impairs perfusion, not mitochondrial oxygen utilization.
+ • Incorrect (E): Hydrogen sulfide poisoning depresses respiration but does not primarily block cytochrome oxidase.
+
+ Tags: Hard, Physiology, Respiratory, Transport of O2 & CO2 in Blood
+
+--------------------------------------------------
+

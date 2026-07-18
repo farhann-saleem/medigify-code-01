@@ -1,0 +1,85 @@
+﻿Question: Ach receptors in muscle fiber membrane are:
+A. Acetylcholine-gated ion channels
+B. Carbohydrate-based receptor structures
+C. Enzymes causing destruction of acetylcholinesterase
+D. G-protein coupled metabotropic receptors
+E. Voltage-gated slow calcium channels
+Correct Option: A
+Explanation:
+ * ​Correct (A): Acetylcholine-gated ion channels open directly upon the binding of acetylcholine to allow the influx of sodium ions, initiating depolarization of the muscle fiber.
+ * ​Incorrect (B): Carbohydrate-based receptor structures is incorrect because these receptors are complex glycoproteins made predominantly of transmembrane protein subunits.
+ * ​Incorrect (C): Enzymes causing destruction of acetylcholinesterase is incorrect because they are ion channels that act as postsynaptic receptors, not metabolic enzymes that degrade acetylcholinesterase.
+ * ​Incorrect (D): G-protein coupled metabotropic receptors is incorrect because skeletal muscle nicotinic receptors are ionotropic ligand-gated channels, whereas metabotropic receptors are found in cardiac and smooth muscle.
+ * ​Incorrect (E): Voltage-gated slow calcium channels is incorrect because these receptors are gated by ligand binding (acetylcholine) rather than changes in membrane voltage.
+   Tags: Easy, Physiology, Musculoskeletal, Neuromuscular Junction (NMJ)
+
+--------------------------------------------------
+
+​Question: Acetylcholine binds to which subunits of Ach receptors:
+A. both alpha and beta subunits
+B. one alpha subunit exclusively
+C. one beta subunit exclusively
+D. two alpha subunits concurrently
+E. two beta subunits concurrently
+Correct Option: D
+Explanation:
+ * ​Correct (D): Two alpha subunits concurrently must bind two molecules of acetylcholine to induce the conformational change required to open the channel pore.
+ * ​Incorrect (A): both alpha and beta subunits is incorrect because the binding sites are located specifically on the alpha subunits, not on the beta subunits.
+ * ​Incorrect (B): one alpha subunit exclusively is incorrect because binding to only one alpha subunit is insufficient to open the channel.
+ * ​Incorrect (C): one beta subunit exclusively is incorrect because beta subunits lack the structural binding domains for acetylcholine.
+ * ​Incorrect (E): two beta subunits concurrently is incorrect because the binding pockets reside entirely on the alpha subunits of the pentameric receptor structure.
+   Tags: Easy, Physiology, Musculoskeletal, Neuromuscular Junction (NMJ)
+
+--------------------------------------------------
+
+​Question: During neuromuscular transmission, release of acetylcholine from vesicles in the motor nerve terminal occurs due to:
+A. Ca²⁺ influx
+B. chloride influx
+C. H⁺ efflux
+D. K⁺ influx
+E. Na⁺ influx
+Correct Option: A
+Explanation:
+ * ​Correct (A): Ca²⁺ influx through voltage-gated calcium channels triggers vesicle fusion with the presynaptic membrane via structural interactions with SNARE proteins.
+ * ​Incorrect (B): chloride influx is incorrect because chloride entry is an inhibitory event that hyperpolarizes membranes, which would prevent neurotransmitter exocytosis.
+ * ​Incorrect (C): H⁺ efflux is incorrect because proton movement across the membrane sets up intravesicular gradients but does not drive terminal vesicular docking or fusion.
+ * ​Incorrect (D): K⁺ influx is incorrect because potassium ions typically flow outward to repolarize cells, and influx does not trigger neurotransmitter release.
+ * ​Incorrect (E): Na⁺ influx is incorrect because sodium influx is responsible for propagating the presynaptic action potential down the axon, but does not directly mediate the exocytosis machinery.
+   Tags: Easy, Physiology, Musculoskeletal, Neuromuscular Junction (NMJ)
+
+--------------------------------------------------
+
+​Question: Curare produces skeletal muscle paralysis primarily by:
+A. blocking acetylcholine receptors at the motor end plate
+B. decreasing acetylcholinesterase breakdown activity
+C. increasing acetylcholine breakdown at the synaptic cleft
+D. inhibiting acetylcholine synthesis in the presynaptic terminal
+E. preventing Ca²⁺ release from the sarcoplasmic reticulum
+Correct Option: A
+Explanation:
+ * ​Correct (A): Blocking acetylcholine receptors at the motor end plate competitively prevents acetylcholine from binding, thereby preventing the generation of an end-plate potential.
+ * ​Incorrect (B): decreasing acetylcholinesterase breakdown activity is incorrect because reducing breakdown is the mechanism of acetylcholinesterase inhibitors, which increase acetylcholine action.
+ * ​Incorrect (C): increasing acetylcholine breakdown at the synaptic cleft is incorrect because curare does not alter or interact with the enzymatic degradation kinetics of acetylcholinesterase.
+ * ​Incorrect (D): inhibiting acetylcholine synthesis in the presynaptic terminal is incorrect because curare has no effect on choline acetyltransferase or presynaptic synthesis pathways.
+ * ​Incorrect (E): preventing Ca²⁺ release from the sarcoplasmic reticulum is incorrect because curare works strictly at the extracellular postsynaptic membrane, not on intracellular calcium channels.
+   Tags: Easy, Physiology, Musculoskeletal, Neuromuscular Junction (NMJ)
+
+--------------------------------------------------
+
+​Question: In myasthenia gravis, muscle weakness occurs mainly because:
+A. autoimmune destruction of postsynaptic acetylcholine receptors
+B. excess acetylcholine release from presynaptic motor nerve terminals
+C. increased Ca²⁺ influx into postsynaptic skeletal muscle fibers
+D. inhibition of acetylcholinesterase in the neuromuscular junction
+E. mutation in ryanodine receptors of sarcoplasmic reticulum
+Correct Option: A
+Explanation:
+ * ​Correct (A): Autoimmune destruction of postsynaptic acetylcholine receptors reduces the number of functional nicotinic receptors, making it difficult to generate an action potential threshold.
+ * ​Incorrect (B): excess acetylcholine release from presynaptic motor nerve terminals is incorrect because presynaptic acetylcholine storage, synthesis, and quantitative release remain completely normal.
+ * ​Incorrect (C): increased Ca²⁺ influx into postsynaptic skeletal muscle fibers is incorrect because calcium influx is not elevated postsynaptically; fewer functional ion channels lead to reduced cellular activation.
+ * ​Incorrect (D): inhibition of acetylcholinesterase in the neuromuscular junction is incorrect because acetylcholinesterase functions normally, and its inhibition is actually the intended therapeutic remedy.
+ * ​Incorrect (E): mutation in ryanodine receptors of sarcoplasmic reticulum is incorrect because the intracellular components of excitation-contraction coupling are genetically intact.
+   Tags: Easy, Physiology, Musculoskeletal, Neuromuscular Junction (NMJ)
+
+--------------------------------------------------
+

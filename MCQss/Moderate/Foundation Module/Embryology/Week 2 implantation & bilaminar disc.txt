@@ -1,0 +1,51 @@
+Question: How soon after fertilization does the blastocyst begin implantation?
+A. By day 1.
+B. By day 2.
+C. By day 5.
+D. By day 7.
+E. Within minutes.
+Correct Option: D
+Explanation:
+Correct (D): Implantation of the blastocyst normally begins around day 6–7 after fertilization.
+Incorrect (A): Day 1 corresponds to early cleavage stages only.
+Incorrect (B): Day 2 is still within tubal cleavage stages.
+Incorrect (C): Day 5 usually marks blastocyst formation before implantation begins.
+Incorrect (E): Implantation does not occur immediately after fertilization.
+Tags: Moderate, Embryology, Foundation Module, Week 2: Implantation & Bilaminar Disc
+
+--------------------------------------------------
+
+Question: Which component plays the most active role in invading the endometrium during blastocyst implantation:
+a. cytotrophoblast.
+b. epiblast.
+c. extraembryonic somatic mesoderm.
+d. extraembryonic splanchnic mesoderm.
+e. syncytiotrophoblast.
+Correct Option: E
+Explanation:
+Correct (E): The syncytiotrophoblast is the invasive multinucleated trophoblastic layer that erodes endometrial tissue during implantation.
+Incorrect (A): Cytotrophoblast mainly provides proliferative cells rather than direct invasive activity.
+Incorrect (B): Epiblast forms embryonic tissues and does not invade the endometrium.
+Incorrect (C): Extraembryonic somatic mesoderm contributes to chorionic structures, not implantation invasion.
+Incorrect (D): Extraembryonic splanchnic mesoderm lines the yolk sac and is unrelated to endometrial invasion.
+Tags: Moderate, Embryology, Foundation Module, Week 2: Implantation & Bilaminar Disc
+
+--------------------------------------------------
+
+Question: Between which two layers is the extraembryonic mesoderm located:
+a. cytotrophoblast and syncytiotrophoblast.
+b. epiblast and hypoblast.
+c. exocoelomic membrane and cytotrophoblast.
+d. hypoblast and epiblast.
+e. syncytiotrophoblast and endometrium.
+Correct Option: C
+Explanation:
+Correct (C): Extraembryonic mesoderm develops between the exocoelomic membrane and cytotrophoblast.
+Incorrect (A): The space between cytotrophoblast and syncytiotrophoblast is occupied by trophoblastic layers only.
+Incorrect (B): Epiblast and hypoblast together form the bilaminar embryonic disk.
+Incorrect (D): Hypoblast and epiblast are adjacent embryonic layers without extraembryonic mesoderm between them.
+Incorrect (E): Syncytiotrophoblast directly invades the endometrium without interposed extraembryonic mesoderm.
+Tags: Moderate, Embryology, Foundation Module, Week 2: Implantation & Bilaminar Disc
+
+--------------------------------------------------
+

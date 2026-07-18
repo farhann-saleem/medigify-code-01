@@ -1,0 +1,87 @@
+﻿Question: 97% of oxygen from lungs to tissues is carried in chemical combination with:
+A. carbon dioxide
+B. hemoglobin
+C. hydrogen ions
+D. myoglobin
+E. plasma proteins
+Correct Option: B
+Explanation:
+ * Correct (B): Hemoglobin inside erythrocytes binds oxygen reversibly to transport 97% of it to tissues, while the remaining 3% is dissolved in plasma.
+ * Incorrect (A): Carbon dioxide is a waste product of cellular respiration and does not carry oxygen.
+ * Incorrect (C): Hydrogen ions lower blood pH and promote oxygen unloading rather than binding or transporting it.
+ * Incorrect (D): Myoglobin functions as an oxygen storage reservoir within muscle tissue, not as a systemic transporter from the lungs.
+ * Incorrect (E): Plasma proteins account for only a negligible fraction of oxygen binding, transport, and buffering compared to hemoglobin.
+   Tags: Easy, Physiology, Respiratory, Transport of O2 & CO2 in Blood
+
+--------------------------------------------------
+
+Question: Partial pressure at which hemoglobin is 50% saturated with oxygen is:
+A. 6 mmHg
+B. 15 mmHg
+C. 26 mmHg
+D. 35 mmHg
+E. 40 mmHg
+Correct Option: C
+Explanation:
+ * Correct (C): P_{50} represents the oxygen partial pressure at which hemoglobin is 50% saturated, which normally equals 26 mmHg under standard physiological conditions.
+ * Incorrect (A): A value of 6 mmHg is critically low and does not correlate with standard human hemoglobin P_{50} parameters.
+ * Incorrect (B): A value of 15 mmHg reflects an abnormally high oxygen affinity, characteristic of specialized pigment systems or extreme left shifts.
+ * Incorrect (C): A value of 35 mmHg indicates a marked rightward shift, reducing hemoglobin's affinity for oxygen well beyond the physiological norm.
+ * Incorrect (E): A value of 40 mmHg corresponds to the standard partial pressure of oxygen in mixed venous blood, not the P_{50}.
+   Tags: Easy, Physiology, Respiratory, Transport of O2 & CO2 in Blood
+
+--------------------------------------------------
+
+Question: Carbon dioxide is transported from tissues to lungs in the blood mainly as:
+A. bicarbonate in the plasma
+B. carbaminohemoglobin in red blood cells
+C. carbaminoproteins in the plasma
+D. dissolved gas in the plasma
+E. dissolved gas in red blood cells
+Correct Option: A
+Explanation:
+ * Correct (A): Roughly 70% of all carbon dioxide is converted into bicarbonate ions within erythrocytes and then carried back to the lungs dissolved in the plasma.
+ * Incorrect (B): Carbaminohemoglobin in red blood cells accounts for only about 23% of total systemic carbon dioxide transport.
+ * Incorrect (C): Carbaminoproteins in the plasma represent a minor transport pool, binding only a tiny percentage of the total waste carbon dioxide.
+ * Incorrect (D): Dissolved gas in the plasma makes up only about 7% of the total carbon dioxide carried in the systemic circulation.
+ * Incorrect (E): Dissolved gas in red blood cells constitutes a negligible fraction of the overall transport, as most gas is rapidly hydrated or bound.
+   Tags: Easy, Physiology, Respiratory, Transport of O2 & CO2 in Blood
+
+--------------------------------------------------
+
+Question: Reaction between water and carbon dioxide within red blood cells is catalyzed by:
+A. carbonic anhydrase
+B. catalase
+C. collagenase
+D. peroxidase
+E. synthetase
+Correct Option: A
+Explanation:
+ * Correct (A): Carbonic anhydrase accelerates the reversible hydration of carbon dioxide into carbonic acid inside erythrocytes by several thousand-fold.
+ * Incorrect (B): Catalase is an antioxidant enzyme responsible for breaking down toxic hydrogen peroxide into water and oxygen.
+ * Incorrect (C): Collagenase is a proteolytic enzyme that breaks down collagen peptide bonds within the extracellular matrix.
+ * Incorrect (D): Peroxidase neutralizes organic peroxides and is not involved in the reversible hydration of gaseous carbon dioxide.
+ * Incorrect (E): Synthetase enzymes utilize ATP condensation energy to link molecules together, which is completely unrelated to gas hydration reactions.
+   Tags: Easy, Physiology, Respiratory, Transport of O2 & CO2 in Blood
+--------------------------------------------------
+
+
+Question 4:
+ For cyanosis to occur, concentration of deoxyhemoglobin in blood should be?
+ A. 2 g/dl
+ B. 3 g/dl
+ C. 5 g/dl
+ D. 7 g/dl
+ E. 10 g/dl
+ Correct Option: C
+ Explanation:
+ • Correct (C): Cyanosis clinically appears when deoxyhemoglobin exceeds 5 g/dl.
+ • Incorrect (A): 2 g/dl is below the threshold for visible cyanosis.
+ • Incorrect (B): 3 g/dl is insufficient to cause cyanosis.
+ • Incorrect (D): 7 g/dl exceeds the required threshold but is not the standard cutoff.
+ • Incorrect (E): 10 g/dl is higher than necessary and not the diagnostic threshold.
+
+ Tags: Easy, Physiology, Respiratory, Transport of O2 & CO2 in Blood
+
+--------------------------------------------------
+

@@ -1,0 +1,68 @@
+Question: During meiosis, pairing of homologous chromosomes occurs, which permits large segments of DNA to be exchanged. What is this process called?
+A. Alignment.
+B. Crossing over.
+C. Nondisjunction.
+D. Recombination arrest.
+E. Synapsis.
+Correct Option: B
+Explanation:
+Correct (B): Crossing over exchanges large DNA segments between homologous chromosomes during meiosis I.
+Incorrect (A): Alignment refers to chromosome arrangement, not DNA exchange.
+Incorrect (C): Nondisjunction is failure of chromosome separation.
+Incorrect (D): Recombination arrest prevents rather than permits exchange.
+Incorrect (E): Synapsis is chromosome pairing without actual DNA segment exchange.
+Tags: Moderate, Embryology, Foundation Module, Gametogenesis & Reproductive Cycles
+
+--------------------------------------------------
+
+Question: During ovulation, the secondary oocyte resides at what specific stage of meiosis?
+A. Metaphase of meiosis I.
+B. Metaphase of meiosis II.
+C. Prophase of meiosis I.
+C. Prophase of meiosis II.
+E. Telophase of meiosis II.
+Correct Option: B
+Explanation:
+Correct (B): The secondary oocyte is arrested in metaphase of meiosis II at ovulation until fertilization occurs.
+Incorrect (A): Meiosis I is completed just before ovulation.
+Incorrect (C): Prophase of meiosis I arrest occurs during fetal life in primary oocytes.
+Incorrect (D): The secondary oocyte is arrested specifically at metaphase, not prophase, of meiosis II.
+Incorrect (E): Telophase of meiosis II occurs only after fertilization.
+Tags: Moderate, Embryology, Foundation Module, Gametogenesis & Reproductive Cycles
+
+--------------------------------------------------
+
+Question: When does a secondary oocyte complete its second meiotic division to become a mature ovum?
+A. At fertilization
+B. At implantation
+C. At ovulation
+D. At parturition
+E. At puberty
+Correct Option: A
+Explanation:
+Correct (A): The secondary oocyte completes meiosis II only after sperm entry during fertilization, producing the mature ovum and second polar body.
+Incorrect (B): Implantation occurs days after meiosis II has already been completed.
+Incorrect (C): At ovulation the oocyte is arrested in metaphase II and has not yet completed meiosis.
+Incorrect (D): Parturition occurs months after fertilization and is unrelated to meiotic completion.
+Incorrect (E): Puberty initiates cyclic ovulation but does not trigger meiosis II completion.
+Tags: Moderate, Embryology, Foundation Module, Gametogenesis & Reproductive Cycles
+
+--------------------------------------------------
+
+Question: In oogenesis, which event occurs immediately following completion of meiosis II?
+A. Formation of the female pronucleus
+B. Formation of the second polar body
+C. Fusion of male and female pronuclei
+D. Implantation into the endometrium
+E. Penetration of the zona pellucida by sperm
+Correct Option: C
+Explanation:
+Correct (C): After meiosis II is completed and pronuclei form, the next key fertilization event is fusion of male and female pronuclei to create the zygote.
+Incorrect (A): Formation of the female pronucleus occurs before pronuclear fusion.
+Incorrect (B): Formation of the second polar body is part of meiosis II completion itself, not the subsequent event.
+Incorrect (D): Implantation occurs several days later after blastocyst formation.
+Incorrect (E): Penetration of the zona pellucida occurs before meiosis II completion.
+Tags: Moderate, Embryology, Foundation Module, Gametogenesis & Reproductive Cycles
+
+--------------------------------------------------
+

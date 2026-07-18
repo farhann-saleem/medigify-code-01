@@ -1,0 +1,179 @@
+﻿Question: In a muscle fiber, light bands:
+A. are anisotropic to polarized light.
+B. are produced due to Z disks.
+C. contain myosin filaments.
+D. show interaction among actin & myosin filaments.
+E. show interaction among nebulin & titin filaments.
+Correct Option: B
+Explanation:
+ * Correct (B): The light bands (I bands) are bisected and anchorally anchored at their midpoints by dense protein structures known as Z disks.
+ * Incorrect (A): Light bands are isotropic to polarized light, whereas dark bands are anisotropic.
+ * Incorrect (C): Light bands contain only actin filaments, whereas myosin filaments are restricted to the dark (A) bands.
+ * Incorrect (D): Interaction among actin & myosin filaments occurs exclusively within the overlap zone of the dark A band, not the light band.
+ * Incorrect (E): Light bands contain actin, troponin, tropomyosin, and nebulin, but they do not show functional interaction among nebulin & titin filaments to form the band itself.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: The portion of a myofibril between two successive Z lines is:
+A. A band.
+B. H zone.
+C. I band.
+D. Sarcoplasm.
+E. Sarcomere.
+Correct Option: E
+Explanation:
+ * Correct (E): The sarcomere is structurally defined as the functional contractile unit of a myofibril lying between two successive Z lines.
+ * Incorrect (A): The A band is the fixed dark region containing thick filaments and is only a subcomponent within a single sarcomere.
+ * Incorrect (B): The H zone is the central pale region of the A band containing only thick filaments, not the entire distance between Z lines.
+ * Incorrect (C): The I band is the light region containing thin filaments that spans across two adjacent sarcomeres, bisected by a single Z line.
+ * Incorrect (D): The Sarcoplasm is the intracellular fluid cytoplasm of the muscle fiber rather than a structural segment of the myofibril.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: Which of the following covers the active site of actin?
+A. Nebulin
+B. Spectrin
+C. Titin
+D. Tropomyosin
+E. Troponin
+Correct Option: D
+Explanation:
+ * Correct (D): In a resting muscle, the elongated protein strands of tropomyosin physically wrap around and cover the active site of actin to prevent myosin binding.
+ * Incorrect (A): Nebulin acts as an internal scaffold to regulate the precise length of the actin thin filaments.
+ * Incorrect (B): Spectrin is a cytoskeletal protein associated with the cell membrane matrix, not the actin thin filament active sites.
+ * Incorrect (C): Titin is a massive elastic protein that scaffolds and anchors the thick myosin filaments to the Z line.
+ * Incorrect (E): Troponin is a regulatory complex that senses calcium ions and shifts tropomyosin away from, rather than directly covering, the active site.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: During skeletal muscle relaxation, Ca2+ is mainly removed from cytosol by:
+A. Ca2+ ATPase pump of sarcoplasmic reticulum.
+B. binding to troponin.
+C. Na+-Ca2+ exchanger.
+D. passive diffusion into mitochondria.
+E. plasma membrane Ca2+ ATPase.
+Correct Option: A
+Explanation:
+ * Correct (A): Muscle relaxation requires active sequestration of calcium, which is achieved primarily by the SERCA-type Ca2+ ATPase pump of sarcoplasmic reticulum.
+ * Incorrect (B): The binding to troponin activates muscle contraction; relaxation requires calcium to unbind from this complex.
+ * Incorrect (C): The Na+-Ca2+ exchanger plays an important role in cardiac muscle calcium efflux but handles a negligible fraction of calcium clearance in skeletal muscle fibers.
+ * Incorrect (D): There is a minimal, secondary slow sequestration of calcium via mitochondrial transporters, not rapid passive diffusion into mitochondria for relaxation.
+ * Incorrect (E): The plasma membrane Ca2+ ATPase pumps calcium into the extracellular fluid, which is minor compared to the internal recycling performed by the sarcoplasmic reticulum.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: Red (slow-twitch) muscle fibers are more resistant to fatigue mainly because they:
+A. contain high levels of myoglobin and mitochondria.
+B. depend mainly on anaerobic glycolysis.
+C. generate higher peak force.
+D. have larger diameter fibers.
+E. possess high glycogen phosphorylase activity.
+Correct Option: A
+Explanation:
+ * Correct (A): Red fibers are highly resistant to fatigue because they contain high levels of myoglobin and mitochondria, facilitating sustained oxidative phosphorylation for continuous ATP generation.
+ * Incorrect (B): Red fibers are oxidative; they rely on aerobic metabolism and do not depend mainly on anaerobic glycolysis, which causes rapid lactate build-up and fatigue.
+ * Incorrect (C): Slow-twitch fibers generate lower peak force compared to fast-twitch white glycolytic fibers due to their smaller motor units.
+ * Incorrect (D): Red muscle fibers have smaller diameter fibers, optimizing oxygen diffusion pathways from surrounding capillaries.
+ * Incorrect (E): High glycogen phosphorylase activity is characteristic of fast-twitch white glycolytic fibers designed for rapid, burst-energy metabolism.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: During shortening of a sarcomere, there is no change in length of:
+A. A band.
+B. H zone.
+C. I band.
+D. M line.
+E. Z disc.
+Correct Option: A
+Explanation:
+ * Correct (A): The A band corresponds to the full structural length of the thick myosin filaments, which do not change in length during sarcomere shortening.
+ * Incorrect (B): The H zone narrows or disappears completely as thin actin filaments slide into the center of the sarcomere.
+ * Incorrect (C): The I band shortens substantially as thin filaments are drawn inward toward the M line, increasing the zone of filament overlap.
+ * Incorrect (D): The M line is a narrow structural anchoring anchoring center line rather than a dynamic horizontal band segment that scales down.
+ * Incorrect (E): The Z disc marks the boundary walls of the individual sarcomere units and moves inward toward the center, narrowing the absolute distance between them.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: In Duchenne muscular dystrophy, muscle degeneration primarily occurs due to absence of:
+A. actin.
+B. dystrophin.
+C. myosin.
+D. sarcoglycan.
+E. troponin.
+Correct Option: B
+Explanation:
+ * Correct (B): Duchenne muscular dystrophy is an X-linked recessive genetic disorder characterized by the complete absence of dystrophin, a key structural protein.
+ * Incorrect (A): The primary genetic defect does not impair the synthesis or structural expression of the thin filament protein actin.
+ * Incorrect (C): Thick filament structures containing myosin are fully synthesized and functional prior to subsequent secondary membrane damage.
+ * Incorrect (D): While sarcoglycan proteins form the associated glycoprotein complex, their secondary loss is caused by the primary absence of dystrophin.
+ * Incorrect (E): The structural and calcium-sensing regulatory components of troponin remain completely unaffected by the dystrophin gene deletion.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+​Question: The T-tubule system in skeletal muscle primarily functions to:
+A. anchor actin filaments to Z-discs
+B. conduct action potentials into the interior of the muscle fiber
+C. generate adenosine triphosphate via oxidative phosphorylation
+D. synthesize glycogen stores for anaerobic metabolism
+E. store Ca²⁺ ions within terminal cisternae
+Correct Option: B
+Explanation:
+ * ​Correct (B): Conduct action potentials into the interior of the muscle fiber allows the depolarization signal to reach the deep myofibrils rapidly and synchronize contraction.
+ * ​Incorrect (A): anchor actin filaments to Z-discs is incorrect because anchoring actin filaments to the structural borders of the sarcomere is the function of alpha-actinin within the Z-discs.
+ * ​Incorrect (C): generate adenosine triphosphate via oxidative phosphorylation is incorrect because ATP synthesis via aerobic respiration is carried out exclusively by mitochondria.
+ * ​Incorrect (D): synthesize glycogen stores for anaerobic metabolism is incorrect because glycogen synthesis occurs in the sarcoplasm via specific cytosolic enzymes.
+ * ​Incorrect (E): store Ca²⁺ ions within terminal cisternae is incorrect because terminal cisternae are specialized regions of the sarcoplasmic reticulum, not the transverse tubules themselves.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+​Question: Calsequestrin is found in:
+A. cytoplasm
+B. Golgi apparatus
+C. nucleus
+D. sarcoplasmic reticulum
+E. T-tubules
+Correct Option: D
+Explanation:
+ * ​Correct (D): Sarcoplasmic reticulum contains calsequestrin to bind and sequester large quantities of calcium ions at low free concentration, optimizing calcium storage within the terminal cisternae.
+ * ​Incorrect (A): cytoplasm is incorrect because calsequestrin is localized internally within the lumen of the reticulum, not free within the cell cytoplasm.
+ * ​Incorrect (B): Golgi apparatus is incorrect because this organelle is responsible for protein sorting and modification, not intracellular calcium storage during muscle rest.
+ * ​Incorrect (C): nucleus is incorrect because genomic storage and transcription take place here, and it lacks the high-capacity calcium-binding protein machinery.
+ * ​Incorrect (E): T-tubules is incorrect because T-tubules are continuations of the extracellular space and do not house internal calcium-binding proteins like calsequestrin.
+   Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+
+
+───
+
+Question: The protein involved in skeletal muscle contraction but not in smooth muscle contraction is?
+A. Caldesmon
+B. Calmodulin
+C. Myosin light chain kinase
+D. Troponin-C
+E. Tropomyosin
+Correct Option: D
+Explanation:
+
+Correct (D): Troponin-C is a calcium-binding protein strictly utilized in striated skeletal and cardiac muscle regulation and is entirely absent in smooth muscle.
+
+Incorrect (A): Caldesmon is a regulatory protein specific to smooth muscle contraction that inhibits actin-myosin interaction.
+
+Incorrect (B): Calmodulin is the primary calcium-binding protein utilized in smooth muscle contraction to initiate the activation cascade.
+
+Incorrect (C): Myosin light chain kinase is a key regulatory enzyme specific to smooth muscle contraction activation via filament phosphorylation.
+
+Incorrect (E): Tropomyosin is present in both skeletal and smooth muscle thin filaments, though its regulatory role differs between them.
+Tags: Easy, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+

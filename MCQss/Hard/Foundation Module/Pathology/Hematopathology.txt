@@ -1,0 +1,17 @@
+Question: Which of the following pathological states combines a defect in primary hemostatic platelet function with an associated defect in secondary coagulation cascade kinetics?
+ A. Factor V deficiency
+ B. Factor VIII deficiency
+ C. Hemophilia A
+ D. Hemophilia B
+ E. Von Willebrand disease
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Von Willebrand disease impairs platelet adhesion and reduces stabilization of Factor VIII.
+ •	Incorrect (A): Factor V deficiency affects only secondary hemostasis.
+ •	Incorrect (B): Factor VIII deficiency primarily affects secondary hemostasis.
+ •	Incorrect (C): Hemophilia A is a coagulation factor disorder without a primary platelet defect.
+ •	Incorrect (D): Hemophilia B is an isolated Factor IX deficiency.
+ Tags: Hard, Pathology, Foundation, Hematopathology
+
+--------------------------------------------------
+

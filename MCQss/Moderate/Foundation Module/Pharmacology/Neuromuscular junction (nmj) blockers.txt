@@ -1,0 +1,47 @@
+Question: Myalgias are a common postoperative complaint of patients who receive large doses of succinylcholine, possibly the result of muscle fasciculations caused by depolarization. Which drug administered in the operating room can be used to prevent postoperative pain caused by succinylcholine:
+ Options: 
+a) Atracurium 
+b) Baclofen
+ c) Dantrolene 
+d) Lidocaine 
+Correct Option: Ans. Lidocaine Explanation: Succinylcholine can cause severe hyperkalemia in patients with denervation injuries due to the widespread depolarization of up-regulated receptors. To reduce the post-operative muscle pain (myalgia) caused by succinylcholine-induced fasciculations, agents like lidocaine or small doses of non-depolarizing blockers may be used to stabilize the muscle membrane. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Which drug is most likely to cause hyperkalemia leading to cardiac arrest in patients with spinal cord injuries: 
+Options: 
+a) Atracurium 
+b) Dantrolene 
+c) Lidocaine 
+d) Succinylcholine
+ Correct Option: Ans. Succinylcholine
+ Explanation: Dantrolene is the essential emergency treatment for malignant hyperthermia, a life-threatening reaction to certain anesthetics that causes massive calcium release in muscles. Succinylcholine can cause severe hyperkalemia in patients with denervation injuries (like spinal cord trauma) due to the widespread depolarization of up-regulated receptors. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+
+Question: Neuromuscular paralysis produced by Rocuronium is blocked by:
+ Options:
+ a) Neostigmine 
+b) Succinylcholine 
+c) Dantrolene 
+d) Lidocaine 
+Correct Option: Ans. Neostigmine Explanation: Neostigmine has significant effects on skeletal muscle and can be used to reverse the paralysis produced by non-depolarizing blockers like rocuronium. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Which muscle is usually the last to be paralyzed and the first to recover from neuromuscular blockade: 
+Options: 
+a) Abdominal muscle
+ b) Diaphragm 
+c) Hand muscle 
+d) Foot muscle
+ Correct Option: Ans. Diaphragm
+ Explanation: During neuromuscular blockade, muscles are paralyzed in a specific sequence: small, fast-moving muscles like the hands and feet go first, while the diaphragm is usually the last to be paralyzed and the first to recover. 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+

@@ -1,0 +1,169 @@
+Question: During isometric muscle contraction:
+A. muscle doesn’t shorten.
+B. muscle gets shortened against a fixed load.
+C. muscle length changes at a constant speed.
+D. shortening of muscle occurs.
+E. tension on muscle remains constant.
+Correct Option: A
+Explanation:
+ * Correct (A): During isometric muscle contraction, the external muscle doesn’t shorten because the tension generated matches or is less than an immovable load.
+ * Incorrect (B): If a muscle gets shortened against a fixed load, it is undergoing an isotonic concentric contraction.
+ * Incorrect (C): A process where muscle length changes at a constant speed is characterized as an isokinetic contraction.
+ * Incorrect (D): Shortening of muscle occurs during concentric isotonic contractions, which is explicitly absent in isometric tasks.
+ * Incorrect (E): When tension on muscle remains constant while length changes, the contraction is termed isotonic.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: Running involves:
+A. both isotonic and isometric contractions.
+B. eccentric contraction only.
+C. isometric contraction only.
+D. isotonic contraction only.
+E. spontaneous contraction on stretching.
+Correct Option: D
+Explanation:
+ * Correct (D): Dynamic activities like running primarily involve isotonic contraction only (both concentric and eccentric phases) to move the limbs and propel the body weight across a distance.
+ * Incorrect (A): Running relies on dynamic limb movement and joint displacement, which does not rely on both isotonic and isometric contractions simultaneously to perform the gross movement.
+ * Incorrect (B): Running incorporates both concentric (shortening) and eccentric (lengthening) phases, making eccentric contraction only incorrect.
+ * Incorrect (C): Isometric contraction only would result in static posture maintenance without any joint movement or locomotion.
+ * Incorrect (E): Spontaneous contraction on stretching describes a smooth muscle myogenic reflex or a deep tendon reflex, not coordinated voluntary skeletal locomotion.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: After about 12 hours of death, rigor mortis starts to disappear due to:
+A. autolysis of proteins.
+B. depletion of ATP.
+C. exposure to lymph fluid in ECF.
+D. exposure to sunlight.
+E. influx of extracellular sodium.
+Correct Option: A
+Explanation:
+ * Correct (A): The loss of rigidity in rigor mortis after 12 to 24 hours is driven by the autolysis of proteins caused by lysosomal enzymes digesting the structural cross-bridges.
+ * Incorrect (B): The depletion of ATP is the initial underlying cause that establishes and maintains rigor mortis, not what makes it disappear.
+ * Incorrect (C): Simple exposure to lymph fluid in ECF does not break down the intracellular myofibrillar machinery locked inside the cell.
+ * Incorrect (D): Rigor mortis resolves via intrinsic chemical decomposition independent of external physical factors like exposure to sunlight.
+ * Incorrect (E): An influx of extracellular sodium alters membrane potential but cannot dissolve fixed post-mortem chemical cross-links in the absence of vital metabolic machinery.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: The velocity of muscle contraction is primarily determined by:
+A. amount of intracellular glycogen.
+B. length of sarcomere.
+C. rate of ATP hydrolysis by myosin ATPase.
+D. rate of calcium release from calsequestrin.
+E. size of muscle fiber.
+Correct Option: C
+Explanation:
+ * Correct (C): Maximal shortening velocity is intrinsically determined by the rate of ATP hydrolysis by myosin ATPase, which dictates how quickly cross-bridge cycling steps repeat.
+ * Incorrect (A): The amount of intracellular glycogen determines metabolic endurance and fuel storage capacities rather than immediate cross-bridge turnover speeds.
+ * Incorrect (B): The length of sarcomere determines the maximal force output potential based on filament overlap, not the absolute kinetic velocity of actin sliding.
+ * Incorrect (D): The rate of calcium release from calsequestrin sets the speed of contraction initiation and onset, not the ongoing mechanical velocity of the contraction cycle.
+ * Incorrect (E): The cross-sectional size of muscle fiber determines the absolute maximal force generation capability rather than its shortening velocity.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: Staircase phenomenon occurs due to:
+A. decreased extracellular Ca2+ concentration.
+B. decreased intracellular Ca2+ concentration.
+C. increased extracellular Ca2+ concentration.
+D. increased intracellular Ca2+ concentration.
+E. increased myofibrillar protein concentration.
+Correct Option: D
+Explanation:
+ * Correct (D): The staircase phenomenon (Treppe) happens when successive contractions occur shortly after relaxation phases, driven by an increased intracellular Ca2+ concentration due to incomplete sarcoplasmic clearance.
+ * Incorrect (A): Changes in extracellular calcium concentrations do not acutely modulate individual twitch staircases in isolated skeletal muscles.
+ * Incorrect (B): A decreased intracellular Ca2+ concentration would result in weaker, compromised twitches rather than an upward staircase progression.
+ * Incorrect (C): An increased extracellular Ca2+ concentration does not drive the accumulation of internal residual calcium ions within sarcoplasmic spaces between rapid twitches.
+ * Incorrect (E): Treppe is a functional ion-concentration effect and does not involve an immediate increased myofibrillar protein concentration or structural muscle hypertrophy.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: The H zone disappears during maximal skeletal muscle contraction because:
+A. actin filaments shorten.
+B. actin filaments slide over myosin filaments.
+C. myosin filaments shorten.
+D. myosin filaments slide over titin filaments.
+E. Z discs break down.
+Correct Option: B
+Explanation:
+ * Correct (B): The H zone consists exclusively of thick filaments; as maximal contraction occurs, actin filaments slide over myosin filaments into the center of the A band, fully obscuring the H zone.
+ * Incorrect (A): According to the sliding filament theory, thin actin filaments slide and overlap but do not structurally shorten.
+ * Incorrect (C): Thick myosin filaments remain constant in physical length throughout all phases of muscle contraction and relaxation cycles.
+ * Incorrect (D): Contraction is driven by actin-myosin cross-bridge mechanics, not by myosin filaments actively sliding over titin filaments.
+ * Incorrect (E): Z discs approach each other to shorten the sarcomere but remain fully intact; they never break down during physiological maximal contraction.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: The major physiological role of dystrophin in skeletal muscle is to:
+A. facilitate actin-myosin interaction.
+B. increase ATP production.
+C. regulate Ca2+ release from sarcoplasmic reticulum.
+D. stabilize the muscle cell membrane during contraction.
+E. trigger phosphorylation of ryanodine receptors.
+Correct Option: D
+Explanation:
+ * Correct (D): Dystrophin links the internal actin cytoskeleton to the extracellular matrix, acting to stabilize the muscle cell membrane during contraction against mechanical shearing forces.
+ * Incorrect (A): Dystrophin is located just beneath the sarcolemma and does not localize within the sarcomere core to facilitate actin-myosin interaction.
+ * Incorrect (B): Metabolic energy pathways and the enzymes that increase ATP production function independently of the peripheral sarcolemmal dystrophin network.
+ * Incorrect (C): Sarcoplasmic reticulum dynamics and internal calcium channels operate under independent triggers distinct from dystrophin stabilization.
+ * Incorrect (E): Dystrophin plays a purely mechanical and structural role and does not trigger phosphorylation of ryanodine receptors.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: A major factor involved in skeletal muscle fatigue is:
+A. decreased K+.
+B. elevated Na+.
+C. high blood glucose.
+D. lactic acid accumulation.
+E. low intracellular phosphate.
+Correct Option: D
+Explanation:
+ * Correct (D): Anaerobic glycolysis during high-intensity exercise leads to lactic acid accumulation, which lowers intracellular pH and disrupts contractile protein sensitivity to calcium.
+ * Incorrect (A): Repetitive action potentials lead to a localized increase in extracellular potassium (and decreased intracellular K+), but a simple decrease in total tissue K+ is not the primary driver of fatigue.
+ * Incorrect (B): Intracellular sodium can rise slightly due to high-frequency stimulation, but elevated Na+ is not recognized as a major metabolic or chemical factor in muscle fatigue.
+ * Incorrect (C): High blood glucose provides an abundant substrate for energy production, which delays rather than promotes muscle fatigue.
+ * Incorrect (E): Muscle fatigue is associated with high intracellular phosphate levels resulting from rapid breakdown of phosphocreatine and ATP, not low intracellular phosphate.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+--------------------------------------------------
+
+​Question: In skeletal muscle excitation–contraction coupling, depolarization of T-tubules directly activates:
+A. Ca²⁺ pumps in sarcoplasmic reticulum
+B. Dihydropyridine receptors acting as voltage sensors
+C. Na⁺–K⁺ ATPase pumps in sarcolemma
+D. Ryanodine receptors in sarcoplasmic reticulum
+E. Troponin–tropomyosin regulatory complex
+Correct Option: B
+Explanation:
+ * ​Correct (B): Dihydropyridine receptors acting as voltage sensors undergo a conformational change directly induced by T-tubule depolarization, physically opening adjacent sarcoplasmic channels.
+ * ​Incorrect (A): Ca²⁺ pumps in sarcoplasmic reticulum is incorrect because these pumps are active transporters responsible for calcium reuptake, not activation during depolarization.
+ * ​Incorrect (C): Na⁺–K⁺ ATPase pumps in sarcolemma is incorrect because these pumps function constantly to maintain baseline ionic gradients, not as direct sensors for excitation-contraction coupling.
+ * ​Incorrect (D): Ryanodine receptors in sarcoplasmic reticulum is incorrect because they are activated mechanically by the conformational shift of the dihydropyridine receptors, rather than directly by T-tubule voltage.
+ * ​Incorrect (E): Troponin–tropomyosin regulatory complex is incorrect because this complex is downstream and is activated by freed calcium ions, not directly by membrane depolarization.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+​Question: Dantrolene is used in malignant hyperthermia because it:
+A. blocks acetylcholine receptors at the motor end plate
+B. increases acetylcholinesterase enzymatic activity in synaptic clefts
+C. inhibits Ca²⁺ release from sarcoplasmic reticulum
+D. inhibits Na⁺ influx through voltage-gated sarcolemmal channels
+E. stimulates Ca²⁺ uptake into mitochondria and sarcoplasmic reticulum
+Correct Option: C
+Explanation:
+ * ​Correct (C): Inhibits Ca²⁺ release from sarcoplasmic reticulum by directly targeting and binding to mutated ryanodine receptors, terminating the hypermetabolic contractile state.
+ * ​Incorrect (A): blocks acetylcholine receptors at the motor end plate is incorrect because dantrolene acts intracellularly and does not interfere with postsynaptic nicotinic neurotransmission.
+ * ​Incorrect (B): increases acetylcholinesterase enzymatic activity in synaptic clefts is incorrect because dantrolene has no physiological effect on synaptic breakdown enzymes.
+ * ​Incorrect (D): inhibits Na⁺ influx through voltage-gated sarcolemmal channels is incorrect because dantrolene does not possess local anesthetic properties or alter sarcolemmal action potentials.
+ * ​Incorrect (E): stimulates Ca²⁺ uptake into mitochondria and sarcoplasmic reticulum is incorrect because it stops the abnormal release out of the reticulum rather than driving active reuptake.
+   Tags: Moderate, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+

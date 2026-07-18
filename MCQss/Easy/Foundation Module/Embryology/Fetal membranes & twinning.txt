@@ -1,0 +1,279 @@
+Question: The maternal and fetal components of the placenta are:
+A. decidua basalis and chorion laeve.
+B. decidua basalis and villous chorion.
+C. decidua capsularis and secondary chorionic villi.
+D. decidua parietalis and tertiary chorionic villi.
+E. decidua vera and smooth chorion.
+Correct Option: B
+Explanation:
+Correct (B): The placenta is formed by the maternal decidua basalis and the fetal villous chorion (chorion frondosum).
+Incorrect (A): Chorion laeve is the smooth chorion that loses villi and does not form the placenta.
+Incorrect (C): Decidua capsularis surrounds the embryo and is not the placental maternal component.
+Incorrect (D): Decidua parietalis lines the remainder of the uterus rather than participating in placental formation.
+Incorrect (E): Smooth chorion lacks chorionic villi and therefore does not contribute to the functional placenta.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: The intervillous space of the placenta contains:
+A. amniotic fluid.
+B. fetal blood.
+C. lymphatic fluid.
+D. maternal blood.
+E. maternal and fetal blood.
+Correct Option: E
+Explanation:
+Correct (E): The intervillous space contains maternal blood bathing chorionic villi, while fetal blood circulates within villous capillaries adjacent to it.
+Incorrect (A): Amniotic fluid is confined to the amniotic cavity, not the intervillous space.
+Incorrect (B): Fetal blood remains within fetal capillaries and is not free in the intervillous space.
+Incorrect (C): Lymphatic fluid is not the primary content of placental intervillous spaces.
+Incorrect (D): Maternal blood is present, but fetal blood is also closely associated within villi, making this incomplete.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Which of the following best describes the placental components of dizygotic twins:
+A. one placenta, one amniotic sac, one chorion.
+B. one placenta, two amniotic sacs, one chorion.
+C. one placenta, two amniotic sacs, two chorions.
+D. two placentas, two amniotic sacs, one chorion.
+E. two placentas, two amniotic sacs, two chorions.
+Correct Option: E
+Explanation:
+Correct (E): Dizygotic twins arise from two separate zygotes and usually develop with two placentas, two chorions, and two amniotic sacs.
+Incorrect (A): A single amniotic sac and chorion are characteristic of late-splitting monozygotic twins.
+Incorrect (B): One chorion with two amniotic sacs occurs in monochorionic monozygotic twins.
+Incorrect (C): Separate chorions are typical, but dizygotic twins generally also have separate placentas.
+Incorrect (D): Two placentas with one chorion is embryologically inconsistent for dizygotic twins.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: A condition in which one twin is larger and the other has been compressed and mummified:
+A. conjoined twins.
+B. fetus papyraceus.
+C. locked twins.
+C. pygopagus twins.
+E. twin-to-twin transfusion syndrome.
+Correct Option: B
+Explanation:
+Correct (B): Fetus papyraceus occurs when one twin dies early and becomes compressed and mummified by the surviving twin.
+Incorrect (A): Conjoined twins are physically fused twins resulting from incomplete embryonic separation.
+Incorrect (C): Locked twins refers to mechanical interlocking during labor, not fetal mummification.
+Incorrect (D): Pygopagus twins are conjoined twins fused at the sacral region.
+Incorrect (E): Twin-to-twin transfusion syndrome causes circulatory imbalance, not mummification of one fetus.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Monozygotic twins mostly occurs at which stage:
+A. blastocyst stage.
+B. cleavage stage.
+C. gastrulation stage.
+C. implantation stage.
+E. neurulation stage.
+Correct Option: A
+Explanation:
+Correct (A): Monozygotic twinning most commonly results from splitting of the inner cell mass during the blastocyst stage.
+Incorrect (B): Cleavage-stage splitting can occur but is less common than blastocyst-stage separation.
+Incorrect (C): Gastrulation-stage separation is associated with severe anomalies such as conjoined twins.
+Incorrect (D): Implantation itself is not the primary stage for monozygotic twinning.
+Incorrect (E): Neurulation occurs much later than the developmental timing of twinning.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Where does the blastocyst implant in placenta previa:
+A. ampulla of uterine tube.
+B. cervical internal os.
+C. fundus of uterus.
+D. posterior superior uterine wall.
+E. rectouterine pouch.
+Correct Option: B
+Explanation:
+Correct (B): Placenta previa results from implantation of the blastocyst near or over the cervical internal os.
+Incorrect (A): Implantation in the ampulla of the uterine tube causes ectopic pregnancy.
+Incorrect (C): The fundus is the normal preferred implantation site, not placenta previa.
+Incorrect (D): Posterior superior uterine wall represents another normal implantation location.
+Incorrect (E): The rectouterine pouch is outside the uterine cavity and cannot support normal implantation.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Thoracopagus twins also known as:
+A. cephalopagus twins.
+B. conjoined twins.
+C. craniopagus twins.
+D. dicephalus twins.
+E. pygopagus twins.
+Correct Option: B
+Explanation:
+Correct (B): Thoracopagus twins are a type of conjoined twins fused at the thoracic region.
+Incorrect (A): Cephalopagus twins are fused primarily at the head and upper thorax.
+Incorrect (C): Craniopagus twins are joined at the skull.
+Incorrect (D): Dicephalus twins have two heads sharing one body.
+Incorrect (E): Pygopagus twins are fused at the sacral or buttock region.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: Which substance cannot pass through the placenta:
+A. heparin.
+B. IgG.
+C. iron.
+D. oxygen.
+E. warfarin.
+Correct Option: A
+Explanation:
+Correct (A): Heparin is a large, highly charged molecule that cannot cross the placental barrier.
+Incorrect (B): IgG actively crosses the placenta to provide passive fetal immunity.
+Incorrect (C): Iron is transported across the placenta for fetal hematopoiesis.
+Incorrect (D): Oxygen readily diffuses through the placental membrane into fetal blood.
+Incorrect (E): Warfarin crosses the placenta and can produce fetal abnormalities.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Decidual septa is produced in:
+a. 2nd month.
+b. 3rd month.
+c. 4th month.
+d. 5th month.
+e. 6th month.
+Correct Option: C
+Explanation:
+Correct (C): Decidual septa develop by the 4th month as projections from the decidua basalis that subdivide the placenta into cotyledons.
+Incorrect (A): The 2nd month is too early for formation of well-defined decidual septa.
+Incorrect (B): The 3rd month is associated with placental growth, not mature decidual septa formation.
+Incorrect (D): By the 5th month, decidual septa are already established.
+Incorrect (E): The 6th month occurs long after decidual septa formation is complete.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Content(s) of primary chorionic villi:
+a. mesoderm only.
+b. trophoblast and blood vessels.
+c. trophoblast and mesoderm.
+d. trophoblast only.
+e. yolk sac only.
+Correct Option: D
+Explanation:
+Correct (D): Primary chorionic villi consist only of trophoblast before invasion by extraembryonic mesoderm.
+Incorrect (A): Mesoderm enters later to form secondary chorionic villi.
+Incorrect (B): Blood vessels appear only in tertiary chorionic villi.
+Incorrect (C): Trophoblast and mesoderm characterize secondary, not primary, chorionic villi.
+Incorrect (E): The yolk sac is not a structural component of chorionic villi.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Villi first appear on:
+A. 11th day
+B. 13th day
+C. 15th day
+D. 7th day
+E. 9th day
+Correct Option: B
+Explanation:
+• Correct (B): Primary chorionic villi begin forming around day 13 of implantation as trophoblastic projections appear.
+• Incorrect (A): Day 11 is still in early implantation without established villous projections.
+• Incorrect (C): Day 15 is too late; villi are already established earlier.
+• Incorrect (D): Day 7 corresponds to implantation initiation, not villus formation.
+• Incorrect (E): Day 9 involves lacunar stage, not villi development.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Cytotrophoblast is covered by:
+A. amniotic epithelium
+B. chorionic mesoderm
+C. decidual cells
+D. syncytiotrophoblast
+E. yolk sac endoderm
+Correct Option: D
+Explanation:
+• Correct (D): Syncytiotrophoblast forms the outer multinucleated covering of cytotrophoblast.
+• Incorrect (A): Amniotic epithelium lines amniotic cavity, unrelated to trophoblast layers.
+• Incorrect (B): Chorionic mesoderm lies internally, not covering cytotrophoblast.
+• Incorrect (C): Decidual cells are maternal endometrium, not trophoblastic covering.
+• Incorrect (E): Yolk sac endoderm forms yolk sac lining, unrelated here.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: hCG is produced by:
+A. amnioblasts
+B. chorionic mesoderm
+C. cytotrophoblasts
+D. decidual cells
+E. syncytiotrophoblasts
+Correct Option: E
+Explanation:
+• Correct (E): Syncytiotrophoblast secretes human chorionic gonadotropin (hCG).
+• Incorrect (A): Amnioblasts form amnion, not endocrine hormone source.
+• Incorrect (B): Chorionic mesoderm is structural, not hormonal.
+• Incorrect (C): Cytotrophoblast is mitotically active but not primary hCG source.
+• Incorrect (D): Decidual cells are maternal and non-hormonal in this context.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+Question: Chorionic villus sampling is done at which week:
+A. 12–14 week
+B. 14–16 week
+C. 16–20 week
+D. 18–20 week
+E. 8–9 week
+Correct Option: E
+Explanation:
+Correct (E): Chorionic villus sampling is performed early, around 8–9 weeks for early genetic diagnosis.
+Incorrect (A): 12–14 weeks is later than optimal CVS window.
+Incorrect (B): 14–16 weeks is mid-trimester amniocentesis period.
+Incorrect (C): 16–20 weeks is standard amniocentesis range.
+Incorrect (D): 18–20 weeks is too late for CVS timing.
+Tags: Easy, Embryology, Foundation Module, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: The maternal and fetal components of the placenta are: Options: a) decidua basalis and secondary chorionic villi b) decidua capsularis and secondary chorionic villi c) decidua parietalis and tertiary chorionic villi d) decidua basalis and villous chorion Correct Option: Ans. decidua basalis and villous chorion Explanation: The fetal component of the placenta is derived from the trophoblast, i.e., chorion frondosum (bushy chorion), due to the presence of secondary and tertiary villi. The maternal component is derived from the basal layer of the uterine endometrium, i.e., decidua basalis. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: The intervillous space of the placenta contains: Options: a) maternal blood b) fetal blood c) maternal and fetal blood d) amniotic fluid Correct Option: Ans. maternal blood Explanation: The intervillous space of the placenta is filled with maternal blood supplied by uterine spiral arteries. Chorionic villi containing fetal capillaries project into this space. Exchange of gases and nutrients occurs across the placental barrier without mixing maternal and fetal blood. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: What is a normal amount of amniotic fluid at term: Options: a) 50 mL b) 500 mL c) 1000 mL d) 1500 mL Correct Option: Ans. 1000 mL Explanation: The amniotic cavity is filled with a clear, watery fluid that is produced in part by amniotic cells but is derived primarily from maternal blood. The amount of fluid increases rapidly from 30 mL at 10 weeks of gestation to 450 mL at 20 weeks, and to 800–1000 mL at 37 weeks. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: Which of the following best describes the placental components of dizygotic twins: Options: a) One placenta, two amniotic sacs, one chorion b) One placenta, two amniotic sacs, two chorions c) Two placentas, two amniotic sacs, one chorion d) Two placentas, two amniotic sacs, two chorions Correct Option: Ans. Two placentas, two amniotic sacs, two chorions Explanation: Dizygotic twins result from the simultaneous shedding of two oocytes and fertilization by different spermatozoa. The zygotes implant individually in the uterus and usually develop their own placenta, amnion, and chorionic sac. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: A condition in which one twin is larger & the other has been compressed & mummified: Options: a) Fetus papyraceus b) Twin-Twin syndrome c) Pygopagus d) Conjoined twins Correct Option: Ans. Fetus papyraceus Explanation: Fetus papyraceus occurs when one twin dies in utero and is compressed by the growing surviving twin and uterine wall. The dead fetus becomes flattened, dried, and mummified. This is commonly seen in multiple pregnancies due to compromised blood supply. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: Monozygotic twins mostly occurs at which stage: Options: a) Blastocyst stage b) Fertilization stage c) Implantation stage d) Gastrulation stage Correct Option: Ans. Blastocyst stage Explanation: While the splitting can occur at various stages of development, i.e., the 2-cell stage, early blastocyst stage (most commonly), and the bilaminar germ disk stage (rarely), it mostly occurs in the early blastocyst stage. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: Which substance can't pass through the placenta: Options: a) Heparin b) Warfarin c) IgG d) Iron Correct Option: Ans. Heparin Explanation: Heparin cannot cross the placenta because it has a large molecular size and a strong negative charge. In contrast, smaller molecules like warfarin, IgG, and iron can pass through the placental barrier. Therefore, heparin remains confined to maternal circulation. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+
+
+Question: Decidual septa is produced in: Options: a) 4th month b) 3rd month c) 5th month d) 6th month Correct Option: Ans. 4th month Explanation: Decidual septa begin forming around the 4th month as projections from the decidua basalis into the intervillous space. They partially divide the placenta into cotyledons. However, they do not reach the chorionic plate completely. Tags: Easy, Embryology, foundation, Placenta, Fetal Membranes & Twinning
+
+--------------------------------------------------
+

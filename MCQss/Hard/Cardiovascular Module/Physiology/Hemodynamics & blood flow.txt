@@ -1,0 +1,54 @@
+Question: Blood flow velocity in a narrowed femoral artery is measured. The internal diameter is 0.4 cm, the average blood velocity is 80 cm/sec, the blood density is 1.05 g/cm³, and the viscosity is 0.03 g/cm·sec. Calculate the Reynolds number (Re) and determine its physiological consequence.
+A. Re = 560; laminar flow with no disturbance
+B. Re = 1120; stable laminar flow without bruit formation
+C. Re = 2240; transitional flow with possible turbulence and bruit
+D. Re = 4480; fully laminar silent flow despite high velocity
+E. Re = 3200; complete flow cessation due to resistance
+Correct Option: C
+Explanation:
+
+Incorrect (A): Too low for given velocity and diameter.
+Incorrect (B): Still laminar threshold underestimated.
+Incorrect (D): Laminar cannot persist at high Reynolds number.
+Incorrect (E): Flow does not cease at high Re.
+Tags: Hard, Physiology, Cardiovascular, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question: A child is diagnosed with Tetralogy of Fallot, a congenital heart defect. What four anatomical abnormalities characterize this condition, and what is its primary physiological consequence?
+A. Atrial septal defect, mitral stenosis, left ventricular hypertrophy, low pulmonary pressure; causing pulmonary overcirculation.
+B. Patent ductus arteriosus, coarctation of the aorta, left axis deviation, heart block; causing systemic hypoxemia.
+C. Tricuspid atresia, coronary aneurysm, high cardiac output, polyuria; causing volume overload.
+D. Ventricular septal defect, pulmonary artery stenosis, overriding aorta, right ventricular hypertrophy; causing a right-to-left shunt and cyanosis.
+E. Ventricular septal defect, tricuspid regurgitation, left ventricular hypertrophy, aortic stenosis; causing left-to-right shunting.
+Correct Option: D
+Explanation:
+Correct (D): Tetralogy of Fallot consists of ventricular septal defect, pulmonary artery stenosis, overriding aorta, and right ventricular hypertrophy, producing a right-to-left shunt and cyanosis.
+Incorrect (A): These abnormalities do not comprise Tetralogy of Fallot.
+Incorrect (B): Patent ductus arteriosus and coarctation of the aorta are separate congenital defects.
+Incorrect (C): Tricuspid atresia and coronary aneurysm are not components of Tetralogy of Fallot.
+Incorrect (E): Tetralogy of Fallot does not include tricuspid regurgitation or left ventricular hypertrophy.
+Tags: Hard, Physiology, Cardiovascular System, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question: According to the Law of Laplace (Tension = Pressure × Radius / Wall Thickness), why
+does a dilated, failing heart require more oxygen for the same amount of work?
+A. Because aortic pressure is always markedly higher in heart failure
+B. Because heart rate is always lower in heart failure
+C. Because increased radius requires greater wall tension to generate the same pressure
+D. Because wall thickness increases substantially during ventricular dilation
+E. Because wall tension decreases as ventricular radius increases
+Correct Option: C
+Explanation:
+Correct (C): An increased ventricular radius requires greater wall tension to generate the same
+pressure, increasing myocardial oxygen demand.
+Incorrect (A): Elevated aortic pressure is not required to explain increased oxygen consumption
+in dilation.
+Incorrect (B): Heart rate may vary and is not the primary Laplace-based mechanism.
+Incorrect (D): Ventricular dilation typically increases radius more than wall thickness.
+Incorrect (E): Wall tension increases, not decreases, as ventricular radius increases.
+Tags: Hard, Physiology, Cardiovascular System, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+

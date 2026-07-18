@@ -1,0 +1,278 @@
+​Question
+A researcher measures equilibrium potentials in a neuron. If intracellular K+ is 140 mM and extracellular K+ is 4 mM at 37°C, which statement best explains the significance of the calculated Nernst potential for K+?
+A. It defines the threshold voltage required to trigger an action potential for K+
+B. It indicates the specific voltage at which voltage-gated Na+ channels will open
+C. It is the potential at which electrical and chemical gradients for K+ are opposite
+D. It represents the maximum depolarization achieved during a typical action potential
+E. It represents the membrane potential when Na+ and K+ permeabilities become equal
+Correct Option: C
+Explanation:
+Correct (C): The Nernst equation identifies the equilibrium point where the inward electrical force exactly matches and balances the outward chemical concentration force for a single permeable ion.
+Incorrect (A): The phrase "it defines the threshold voltage required to trigger an action potential for K+" is incorrect because the threshold voltage is determined by the opening characteristics of voltage-gated sodium channels, not individual ion equilibrium potentials.
+Incorrect (B): The phrase "it indicates the specific voltage at which voltage-gated Na+ channels will open" is incorrect because the potassium equilibrium potential does not dictate the gating voltage of sodium channels.
+Incorrect (D): The phrase "it represents the maximum depolarization achieved during a typical action potential" is incorrect because the peak of an action potential approaches the equilibrium potential of sodium, not potassium.
+Incorrect (E): The phrase "it represents the membrane potential when Na+ and K+ permeabilities become equal" is incorrect because matching permeabilities yield a voltage intermediate between their respective equilibrium potentials.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+In a nerve fiber where Na+ permeability suddenly increases while K+ permeability remains unchanged, which principle explains the resulting shift in membrane potential?
+A. Donnan equilibrium principle
+B. Goldman-Hodgkin-Katz principle
+C. Henderson-Hasselbalch principle
+D. Michaelis-Menten principle
+E. Nernst equilibrium principle
+Correct Option: B
+Explanation:
+Correct (B): The Goldman-Hodgkin-Katz principle calculates the membrane voltage when multiple different ions are simultaneously permeable, demonstrating that a sudden surge in sodium permeability will pull the voltage toward the sodium equilibrium potential.
+Incorrect (A): The phrase "Donnan equilibrium principle" is incorrect because it describes the behavior of charged particles near a semipermeable membrane containing non-diffusible proteins rather than dynamic changes in gated channel permeabilities.
+Incorrect (C): The phrase "Henderson-Hasselbalch principle" is incorrect because this equation relates pH, bicarbonate, and partial pressure of carbon dioxide in acid-base physiology.
+Incorrect (D): The phrase "Michaelis-Menten principle" is incorrect because it models the kinetic rate of enzyme-catalyzed reactions as a function of substrate concentration.
+Incorrect (E): The phrase "Nernst equilibrium principle" is incorrect because it is restricted to situations where the membrane is selectively permeable to only one individual ion species.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+During the generation of resting membrane potential, which mechanism contributes directly but accounts for only a small portion (≈4 mV) of the negativity inside the neuron?
+A. Cl- voltage-gated channel conductance
+B. Intracellular protein anion concentration
+C. K+ leak channel mediated conductance
+D. Na+ leak channel mediated conductance
+E. Na+-K+ ATPase pump electrogenic activity
+Correct Option: E
+Explanation:
+Correct (E): The active transport of three sodium ions out of the cell in exchange for two potassium ions moving inward creates a net deficit of positive charges, adding a direct negative contribution of roughly 4 mV to the baseline potential.
+Incorrect (A): The phrase "Cl- voltage-gated channel conductance" is incorrect because these specific channels are typically closed at rest and do not establish the underlying resting voltage.
+Incorrect (B): The phrase "Intracellular protein anion concentration" is incorrect because trapped negative proteins help establish the diffusion potential but are not the active pump component responsible for the specific 4 mV electrogenic share.
+Incorrect (C): The phrase "K+ leak channel mediated conductance" is incorrect because the passive diffusion of potassium ions down their concentration gradient represents the primary source of the resting internal negativity rather than a minor 4 mV addition.
+Incorrect (D): The phrase "Na+ leak channel mediated conductance" is incorrect because the passive entry of sodium ions delivers positive charges inside, which slightly counteracts the internal negativity.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+Question:
+In a neuron, the resting membrane potential is primarily determined by the permeability of which ion according to the Goldman-Hodgkin-Katz equation?
+A. Ca2+
+B. Cl-
+C. K+
+D. Mg2+
+E. Na+
+Correct Option: C
+Explanation:
+Correct (C): At rest, neuronal cell membranes possess far more open potassium leak channels than channels for any other ion, ensuring that the resting potential settles very close to the potassium equilibrium potential.
+Incorrect (A): The phrase "Ca2+" is incorrect because the resting membrane is virtually impermeable to calcium ions, meaning they exert almost no influence on the baseline resting potential.
+Incorrect (B): The phrase "Cl-" is incorrect because while chloride ions are permeable, their resting conductance is minor compared to the massive standing potassium leak.
+Incorrect (D): The phrase "Mg2+" is incorrect because magnesium ions do not freely cross the resting lipid membrane and are omitted from the standard Goldman-Hodgkin-Katz equation.
+Incorrect (E): The phrase "Na+" is incorrect because resting sodium permeability is exceptionally low, preventing it from pulling the membrane potential away from the deep negative potassium zone.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+Which neuroglial cell type is responsible for forming the blood-brain barrier and regulating extracellular ion concentration around neurons?
+A. Astrocytes
+B. Ependymal cells
+C. Microglia
+D. Oligodendrocytes
+E. Schwann cells
+Correct Option: A
+Explanation:
+Correct (A): Astrocytes extend cellular processes that wrap around CNS capillaries to maintain the blood-brain barrier while actively clearing excess potassium to maintain local extracellular homeostasis.
+Incorrect (B): The phrase "Ependymal cells" is incorrect because these ciliated epithelial cells line the ventricular cavities of the brain and produce cerebrospinal fluid rather than building the endothelial barrier.
+Incorrect (C): The phrase "Microglia" is incorrect because these specialized cells act as resident macrophages that manage immune defense and phagocytosis within the central nervous system.
+Incorrect (D): The phrase "Oligodendrocytes" is incorrect because the sole primary function of these specialized central glia is constructing myelin wrapping for axons inside the brain and spinal cord.
+Incorrect (E): The phrase "Schwann cells" is incorrect because these cells function exclusively within the peripheral nervous system to provide support and myelination for peripheral nerve fibers.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+During myelination in the peripheral nervous system, which cell type wraps around the axon to form the myelin sheath?
+A. Astrocyte
+B. Ependymal cell
+C. Microglia
+D. Oligodendorcyte
+E. Schwann cell
+Correct Option: E
+Explanation:
+Correct (E): Schwann cells serve as the primary myelinating glia of the peripheral nervous system, wrapping their membranes concentrically around a single segment of a peripheral axon.
+Incorrect (A): The phrase "Astrocyte" is incorrect because these star-shaped central nervous system cells provide metabolic support and ion buffering rather than synthesizing myelin sheaths.
+Incorrect (B): The phrase "Ependymal cell" is incorrect because these cells form the cellular lining of the fluid-filled cerebral ventricles and central canal.
+Incorrect (C): The phrase "Microglia" is incorrect because these cells operate as the primary active immune defenders and scavengers within central nerve tissue.
+Incorrect (D): The phrase "Oligodendorcyte" is incorrect because these macroglial cells provide myelin insulation exclusively within the central nervous system, wrapping multiple axon segments simultaneously.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: The rapid depolarization phase of the neuronal action potential occurs primarily due to:
+A. Closing of K⁺ leak channels
+B. Closing of voltage-gated Cl⁻ channels
+C. Opening of voltage-gated K⁺ channels
+D. Opening of voltage-gated Na⁺ channels
+E. Opening of voltage-gated Ca²⁺ channels
+Correct Option: D
+Explanation:
+Correct (D): Opening of voltage-gated Na⁺ channels allows rapid influx of sodium ions down their electrochemical gradient, shifting the membrane potential toward the sodium equilibrium potential.
+Incorrect (A): Closing of K⁺ leak channels helps maintain resting potential or baseline excitability but does not drive the massive, rapid voltage shift of the depolarization phase.
+Incorrect (B): Closing of voltage-gated Cl⁻ channels does not drive neuronal action potential depolarization, which is fundamentally mediated by positive ion influx.
+Incorrect (C): Opening of voltage-gated K⁺ channels mediates the subsequent repolarization phase by allowing potassium efflux, not depolarization.
+Incorrect (E): Opening of voltage-gated Ca²⁺ channels triggers neurotransmitter release or plateaus in other tissues, but is not the primary driver of rapid neuronal depolarization.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: The repolarization phase of an action potential is mainly caused by:
+A. Closure of Cl⁻ channels
+B. Increased Ca²⁺ influx
+C. Inactivation of K⁺ channels and opening of Na⁺ channels
+D. Inactivation of Na⁺ channels and opening of K⁺ channels
+E. Inactivation of Na⁺ channels and opening of Ca²⁺ channels
+Correct Option: D
+Explanation:
+Correct (D): Inactivation of Na⁺ channels and opening of K⁺ channels halts sodium influx and increases potassium efflux, restoring the negative resting membrane potential.
+Incorrect (A): Closure of Cl⁻ channels does not play a main role in the rapid, active repolarization phase of a typical neuronal action potential.
+Incorrect (B): Increased Ca²⁺ influx delivers positive charge into the cell, which would delay or counteract the repolarization phase.
+Incorrect (C): Inactivation of K⁺ channels and opening of Na⁺ channels describes the ionic shifts that would cause depolarization, not repolarization.
+Incorrect (E): Inactivation of Na⁺ channels and opening of Ca²⁺ channels does not cause repolarization; calcium influx would counter the negative shift.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: Which property of action potential ensures that once threshold is reached, the response occurs with fixed amplitude regardless of stimulus strength?
+A. Accommodation
+B. Adaptation
+C. All-or-none principle
+D. Facilitation
+E. Summation
+Correct Option: C
+Explanation:
+Correct (C): All-or-none principle states that if a stimulus is strong enough to reach threshold, an action potential of maximal and constant amplitude is triggered automatically.
+Incorrect (A): Accommodation refers to a rise in threshold level when a nerve is stimulated slowly or continuously with a subthreshold current.
+Incorrect (B): Adaptation is a gradual decrease in firing frequency seen in some sensory receptors during a prolonged, constant stimulus.
+Incorrect (D): Facilitation describes an increase in postsynaptic excitability caused by repeated subthreshold stimuli or previous subthreshold depolarization.
+Incorrect (E): Summation involves the algebraic adding together of individual post-synaptic potentials to reach threshold, rather than determining the fixed amplitude of the resulting action potential.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: A nerve fiber is stimulated repeatedly at very high frequency but fails to generate another action potential immediately after the first. Which physiological period explains this?
+A. Absolute refractory period
+B. Accommodation period
+C. Latent period
+D. Relative refractory period
+E. Supranormal period
+Correct Option: A
+Explanation:
+Correct (A): Absolute refractory period is the timeframe immediately following an action potential during which voltage-gated sodium channels are completely inactivated and no stimulus, regardless of strength, can initiate another impulse.
+Incorrect (B): Accommodation period is not a standard physiological time limit, but rather describes the process where a slow-rising stimulus fails to trigger a response due to gradual inactivation of sodium channels.
+Incorrect (C): Latent period is the brief delay between the application of a stimulus and the first visible sign of the resulting response.
+Incorrect (D): Relative refractory period allows a second action potential to be generated if the stimulus applied is exceptionally strong, rather than causing an absolute failure to fire.
+Incorrect (E): Supranormal period is a transient phase near the end of repolarization where nerve excitability is temporarily increased, not abolished.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: In unmyelinated nerve fibers:
+A. Impulse travels rapidly along the axon
+B. Impulse travels slowly along the axon
+C. Refractory period is prolonged
+D. Schwann cells are completely absent
+E. Spinal cord is the exclusive location
+Correct Option: B
+Explanation:
+Correct (B): Impulse travels slowly along the axon in unmyelinated fibers because they rely on continuous electronic conduction along every segment of the membrane rather than rapid saltatory jumps.
+Incorrect (A): Impulse travels rapidly along the axon is false because rapid propagation requires myelination and saltatory conduction.
+Incorrect (C): Refractory period is prolonged is incorrect because the basic channel kinetics governing the refractory period are similar and not inherently extended by the absence of myelin.
+Incorrect (D): Schwann cells are completely absent is false; unmyelinated peripheral fibers are still enclosed and supported within cytoplasmic recesses of Schwann cells.
+Incorrect (E): Spinal cord is the exclusive location is false, as unmyelinated fibers are widely distributed throughout the peripheral nervous system and autonomic nervous system.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: The nerve fibers having the slowest conduction velocity are:
+A. Type A-alpha
+B. Type A-beta
+C. Type A-delta
+D. Type B
+E. Type C
+Correct Option: E
+Explanation:
+Correct (E): Type C fibers are unmyelinated and possess the smallest axonal diameters, resulting in the slowest conduction velocities of all nerve fibers.
+Incorrect (A): Type A-alpha fibers are large, heavily myelinated somatic motor and proprioceptive fibers with the fastest conduction velocities.
+Incorrect (B): Type A-beta fibers are highly myelinated mechanoreceptive fibers that conduct impulses much faster than Type C fibers.
+Incorrect (C): Type A-delta fibers are thinly myelinated pain and temperature fibers that conduct significantly faster than unmyelinated Type C fibers.
+Incorrect (D): Type B fibers are small, myelinated preganglionic autonomic fibers that exhibit intermediate conduction speeds faster than Type C fibers.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: Nodes of Ranvier are:
+A. Devoid of voltage-gated channels
+B. Having Nissl granules in them
+C. Highly permeable to ions
+D. Present on nerve fibers at irregular intervals
+E. Present on unmyelinated nerve fibers
+Correct Option: C
+Explanation:
+​Correct (C): Highly permeable to ions because they represent gaps in the insulation of the myelin sheath where the axonal membrane interacts directly with extracellular fluid.
+​Incorrect (A): Devoid of voltage-gated channels is incorrect; nodes of Ranvier contain a very high density of voltage-gated sodium channels to propagate action potentials.
+​Incorrect (B): Having Nissl granules in them is incorrect; Nissl granules are located in the neuronal soma and dendrites, not within the axon or its nodes.
+​Incorrect (D): Present on nerve fibers at irregular intervals is false because nodes of Ranvier are spaced at regular, proportional intervals along myelinated axons to optimize conduction efficiency.
+​Incorrect (E): Present on unmyelinated nerve fibers is false, as these structures are uniquely formed by the gaps between consecutive segments of myelin sheaths.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: The minimum strength of stimulus required to elicit an action potential is:
+A. Chronaxie
+B. Hyperthreshold
+C. Rheobase
+D. Subthreshold
+E. Utilization time
+Correct Option: C
+Explanation:
+​Correct (C): Rheobase is defined strictly as the minimum intensity or strength of an electrical current that, when applied for an indefinite period, will excite a tissue.
+​Incorrect (A): Chronaxie is the minimum duration of time required for a current of twice the rheobase intensity to excite the tissue, measuring excitability rather than minimum strength.
+​Incorrect (B): Hyperthreshold refers to any stimulus intensity that is strictly greater than the threshold level, not the minimum required value.
+​Incorrect (D): Subthreshold refers to any stimulus intensity that is weaker than the minimum strength required, failing to elicit an action potential.
+​Incorrect (E): Utilization time is the minimum time a current at rheobase strength must flow through a tissue to trigger an excitation.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: Chronaxie is equal to:
+A. 1 × rheobase
+B. 2 × rheobase
+C. 3 × rheobase
+D. 4 × rheobase
+E. 5 × rheobase
+Correct Option: B
+Explanation:
+​Correct (B): 2 × rheobase is the precise current strength used during excitability testing to determine the specific chronaxie duration for a given tissue.
+​Incorrect (A): 1 × rheobase defines the base threshold strength itself, whereas chronaxie requires doubling this current intensity.
+​Incorrect (C): 3 × rheobase is an incorrect value that does not align with the standard physiological definition of chronaxie.
+​Incorrect (D): 4 × rheobase is a multiple that is irrelevant to standard excitability curve measurements and chronaxie determination.
+​Incorrect (E): 5 × rheobase is outside the parameters used to measure or define a tissue's chronaxie time.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: In Multiple sclerosis, which cells are primarily destroyed leading to demyelination?
+A. Astrocytes
+B. Microglia
+C. Oligodendrocytes
+D. Purkinje cells
+E. Schwann cells
+Correct Option: C
+Explanation:
+​Correct (C): Oligodendrocytes are the specialized glial cells responsible for synthesizing and maintaining myelin sheaths within the central nervous system, making them the primary targets of autoimmune destruction in Multiple sclerosis.
+​Incorrect (A): Astrocytes provide structural and metabolic support to neurons and form scar tissue in response to lesions, but are not the primary target destroyed during demyelination.
+​Incorrect (B): Microglia function as resident immune cells that become activated and participate in inflammatory damage, rather than being the primary targets of destruction.
+​Incorrect (D): Purkinje cells are specialized output neurons of the cerebellar cortex, not myelin-producing glial cells.
+​Incorrect (E): Schwann cells synthesize myelin sheaths within the peripheral nervous system, which is spared in Multiple sclerosis.
+Tags: Easy, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+

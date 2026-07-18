@@ -1,0 +1,216 @@
+1
+ Question: Type of emphysema commonly associated with cigarette smoking:
+  A. centriacinar.
+  B. distal acinar.
+  C. irregular acinar.
+  D. panacinar.
+  E. paraseptal acinar.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Centriacinar emphysema predominantly affects respiratory bronchioles in the upper lobes and is strongly associated with cigarette smoking.
+ •	Incorrect (B): Panacinar emphysema involves the entire acinus and is classically associated with α1-antitrypsin deficiency.
+ •	Incorrect (C): Distal acinar emphysema mainly affects distal acini near pleura and is linked to spontaneous pneumothorax.
+ •	Incorrect (D): Panacinar emphysema is not the emphysema type most commonly caused by cigarette smoking.
+ •	Incorrect (E): Paraseptal acinar emphysema affects peripheral alveoli adjacent to septa rather than central acini.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+3
+ Question: Which of the following does not cause airway narrowing in an asthma attack:
+  A. airway edema.
+  B. bronchospasm.
+  C. destruction of airways.
+  D. mucus hypersecretion.
+  E. smooth muscle hypertrophy.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Destruction of airways is not a mechanism of acute airway narrowing in asthma.
+ •	Incorrect (A): Airway edema narrows the bronchial lumen during asthma attacks.
+ •	Incorrect (B): Bronchospasm is a major cause of reversible airflow obstruction.
+ •	Incorrect (D): Mucus hypersecretion contributes to luminal obstruction.
+ •	Incorrect (E): Smooth muscle hypertrophy promotes airway narrowing and hyperresponsiveness.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+4
+ Question: Honeycomb appearance of lung is a characteristic finding of:
+  A. anthracosis.
+  B. idiopathic pulmonary fibrosis.
+  C. sarcoidosis.
+  D. silicosis.
+  E. talcosis.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Idiopathic pulmonary fibrosis characteristically produces end-stage honeycomb lung due to extensive interstitial fibrosis.
+ •	Incorrect (A): Anthracosis causes carbon pigment deposition without honeycomb change.
+ •	Incorrect (C): Sarcoidosis is characterized by noncaseating granulomas rather than classic honeycomb lung.
+ •	Incorrect (D): Silicosis produces silicotic nodules and upper-lobe fibrosis.
+ •	Incorrect (E): Talcosis causes foreign-body granulomatous reactions rather than honeycomb lung.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+5
+ Question: What happens to FEV1/FVC in obstructive lung diseases:
+  A. decreases.
+  B. increases.
+  C. may decrease initially then normalize.
+  D. may increase or decrease.
+  E. remains same.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): FEV1 falls disproportionately more than FVC in obstructive disease, reducing the FEV1/FVC ratio.
+ •	Incorrect (B): An increased ratio is more typical of restrictive disease.
+ •	Incorrect (C): Obstructive diseases do not characteristically normalize the ratio.
+ •	Incorrect (D): The ratio shows a consistent tendency to decrease in obstruction.
+ •	Incorrect (E): A normal ratio does not define classic obstructive physiology.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+6
+ Question: Panacinar emphysema commonly involves which part of lung:
+  A. hilar region.
+  B. lower lung zone.
+  C. middle lung zone.
+  D. upper lung zone.
+  E. whole lung.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Panacinar emphysema classically shows greatest involvement of the lower lung zones.
+ •	Incorrect (A): The hilar region is not the characteristic distribution pattern.
+ •	Incorrect (C): Middle lung predominance is not typical.
+ •	Incorrect (D): Upper-lobe predominance is more characteristic of centriacinar emphysema.
+ •	Incorrect (E): Although the entire acinus is involved, lower zones are preferentially affected.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+7
+ Question: Initial mediator of asthma:
+  A. histamine.
+  B. leukotrienes.
+  C. neutrophils.
+  D. prostaglandins.
+  E. thromboxane A2.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Histamine is an immediate preformed mediator released during the early asthmatic response.
+ •	Incorrect (B): Leukotrienes are important but are synthesized after activation rather than released first.
+ •	Incorrect (C): Neutrophils are inflammatory cells, not mediators.
+ •	Incorrect (D): Prostaglandins are generated later from arachidonic acid metabolism.
+ •	Incorrect (E): Thromboxane A2 is not the principal initial mediator of asthma.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+8
+ Question: Reid index used as a criterion of quantitation in chronic bronchitis is the ratio of thickness of:
+  A. bronchial cartilage to bronchial wall.
+  B. bronchial mucosa to bronchial wall.
+  C. inflammatory infiltrate to bronchial wall.
+  D. smooth muscle to bronchial wall.
+  E. submucosal glands to bronchial wall.
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Reid index is the ratio of submucosal gland thickness to bronchial wall thickness.
+ •	Incorrect (A): Bronchial cartilage thickness is not used in the index.
+ •	Incorrect (B): Bronchial mucosa thickness is not the measured parameter.
+ •	Incorrect (C): Inflammatory infiltrate is not part of the calculation.
+ •	Incorrect (D): Smooth muscle thickness is excluded from the Reid index definition.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+9
+ Question: What is the normal value of Reid index:
+  A. 30%.
+  B. 40%.
+  C. 50%.
+  D. 60%.
+  E. 70%.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): The normal Reid index is approximately 0.4 (40%).
+ •	Incorrect (A): Thirty percent is below the accepted normal value.
+ •	Incorrect (C): Fifty percent suggests glandular enlargement seen in chronic bronchitis.
+ •	Incorrect (D): Sixty percent is abnormally increased.
+ •	Incorrect (E): Seventy percent indicates marked pathological gland hypertrophy.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+10
+ Question: Curschmann spirals are seen in sputum in:
+  A. bronchial asthma.
+  B. bronchiectasis.
+  C. bronchopneumonia.
+  D. tuberculosis.
+  E. viral bronchiolitis.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Curschmann spirals are mucus plugs cast from small airways and are characteristic of bronchial asthma.
+ •	Incorrect (B): Bronchiectasis typically produces purulent sputum without Curschmann spirals.
+ •	Incorrect (C): Bronchopneumonia is characterized by neutrophilic exudates.
+ •	Incorrect (D): Tuberculosis is associated with granulomatous inflammation.
+ •	Incorrect (E): Viral bronchiolitis does not classically produce Curschmann spirals.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+15
+ Question: Hunched-over posture with “pink puffer” appearance is characteristic of:
+  A. asthma.
+  B. bronchiectasis.
+  C. chronic bronchitis.
+  D. emphysema.
+  E. pulmonary fibrosis.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Emphysema patients often maintain oxygenation by hyperventilation, producing the classic “pink puffer” appearance.
+ •	Incorrect (A): Asthma causes episodic reversible airflow obstruction rather than the pink-puffer phenotype.
+ •	Incorrect (B): Bronchiectasis is characterized by chronic productive cough and recurrent infections.
+ •	Incorrect (C): Chronic bronchitis patients are classically described as “blue bloaters.”
+ •	Incorrect (E): Pulmonary fibrosis produces restrictive disease rather than a pink-puffer presentation.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+16
+ Question: All of the following are obstructive lung diseases except:
+  A. bronchiectasis.
+  B. COPD.
+  C. cystic fibrosis.
+  D. pulmonary fibrosis.
+  E. small airway disease.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Pulmonary fibrosis is a restrictive lung disease characterized by reduced lung expansion.
+ •	Incorrect (A): Bronchiectasis causes airflow obstruction due to airway dilation and mucus retention.
+ •	Incorrect (B): COPD is the prototypical obstructive lung disease.
+ •	Incorrect (C): Cystic fibrosis produces obstructive airway disease through thick secretions.
+ •	Incorrect (E): Small airway disease contributes to obstructive airflow limitation.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+24
+ Question: What is the common cause of panacinar emphysema?
+  A. Alcoholism.
+  B. Alpha-1 antitrypsin deficiency.
+  C. Cigarette smoking.
+  D. Coal dust exposure.
+  E. Silica dust exposure.
+  Correct Option: B
+ Explanation:
+ •	Correct (B): Alpha-1 antitrypsin deficiency causes unchecked protease activity leading to diffuse panacinar emphysema, especially in the lower lobes.
+ •	Incorrect (A): Alcoholism is not a recognized primary cause of panacinar emphysema.
+ •	Incorrect (C): Cigarette smoking is most strongly associated with centriacinar emphysema rather than panacinar emphysema.
+ •	Incorrect (D): Coal dust exposure is linked to coal workers’ pneumoconiosis, not panacinar emphysema.
+ •	Incorrect (E): Silica dust exposure causes silicosis and pulmonary fibrosis rather than panacinar emphysema.
+ Tags: Easy, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+

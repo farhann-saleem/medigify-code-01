@@ -1,0 +1,17 @@
+Question: Glycerol is the alcohol present in all the following EXCEPT:
+A. cardiolipin
+B. cephalin
+C. lecithin
+D. plasmalogens
+E. sphingomyelin
+Correct Option: E
+Explanation:
+Correct (E): Sphingomyelin contains a complex, eighteen-carbon amino alcohol backbone termed sphingosine rather than a three-carbon glycerol backbone.
+Incorrect (A): Cardiolipin is a specialized mitochondrial diphosphatidylglycerol lipid structured around three distinct glycerol molecules linked via phosphate bridges.
+Incorrect (B): Cephalin is a glycerophospholipid structurally composed of a central glycerol backbone esterified to fatty acids and a phosphatidylethanolamine head group.
+Incorrect (C): Lecithin is a classic phosphoglyceride built upon a central glycerol skeleton attached to a phosphatidylcholine functional head group.
+Incorrect (D): Plasmalogens are ether-linked glycerophospholipids structurally containing a glycerol core anchored to an O-alkyl/O-alkenyl chain.
+Tags: Easy, Biochemistry, musculoskeletal, Lipid & Fatty Acid Chemistry
+
+--------------------------------------------------
+

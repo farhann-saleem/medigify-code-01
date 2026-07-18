@@ -1,0 +1,68 @@
+Question: All of the following factors directly affect drug absorption except:
+ A. blood flow.
+ B. contact time at absorption site.
+ C. lipid solubility.
+ D. molecular weight of drug.
+ E. potential of hydrogen.
+ Correct Option: D
+ Explanation:
+​Correct (D): The molecular weight of drug primarily dictates the rate of passive diffusion across individual membrane barriers but does not directly modify or restrict the overall systemic absorption profile of a therapeutic dose.
+​Incorrect (A): Blood flow maintains the concentration gradient across the epithelial barrier by rapidly sweeping absorbed drug molecules away, directly driving the rate and efficiency of systemic uptake.
+​Incorrect (B): Contact time at absorption site establishes the physical window available for a drug to traverse cell sheets; rapid transit through the gut, for example, sharply curtails total absorption.
+​Incorrect (C): Lipid solubility directly determines how easily a non-ionized drug molecule partition into and dissolves across the hydrophobic core of cell membranes via passive diffusion.
+​Incorrect (E): The potential of hydrogen determines the ionization state of weak acids and bases, dictating the ratio of non-ionized to ionized molecules available to cross biological membranes.
+Tags: Moderate, Pharmacology, Foundation, General: Pharmacokinetics & Pharmacodynamics
+
+--------------------------------------------------
+
+Question: Which of the following is not a mechanism of absorption of drugs from the GI tract?
+ A. Active transport
+ B. Facilitated diffusion
+ C. Passive diffusion
+ D. Phagocytosis
+ E. Pinocytosis
+ Correct Option: E
+ Explanation:
+​Correct (E): Pinocytosis is a fluid-phase endocytosis mechanism used by cells to sample extracellular fluid non-specifically, but it does not serve as a functional path for the therapeutic absorption of drugs from the GI tract.
+​Incorrect (A): Active transport is a vital specialized pathway that utilizes carrier proteins and ATP energy to pump specific hydrophilic drug analogues against their concentration gradients across the intestinal epithelium.
+​Incorrect (B): Facilitated diffusion is an essential carrier-mediated transport process that allows polar drug molecules to move down their concentration gradients without consuming metabolic energy.
+​Incorrect (C): Passive diffusion is the primary and most common mechanism by which uncharged, lipophilic drug molecules cross the lipid bilayer of gastrointestinal enterocytes down a chemical gradient.
+​Incorrect (D): Phagocytosis is a specialized form of endocytosis by which large particulate matter or macro-formulations are engulfed by mucosal immune cells or specialized enterocytes in the gut wall.
+Tags: Moderate, Pharmacology, Foundation, General: Pharmacokinetics & Pharmacodynamics
+
+--------------------------------------------------
+
+Question: Which statement is incorrect about drug metabolism:
+ A. Action of drugs is terminated before their elimination.
+ B. All drugs are modified before their removal from the body.
+ C. Conversion of drug to inactive form occurs.
+ D. It is a mechanism of drug activation.
+ E. It is a mechanism of drug termination.
+ Correct Option: B
+ Explanation:
+​Correct (B): This statement is incorrect because not all drugs are modified before removal; many highly polar, water-soluble compounds are excreted completely unchanged by the kidneys.
+​Incorrect (A): Metabolic conversion often terminates the therapeutic action of drugs by transforming lipophilic structures into polar metabolites before they are physically eliminated from the body.
+​Incorrect (C): The primary function of Phase I and Phase II metabolic pathways is the direct conversion of drug to inactive form to prevent prolonged systemic pharmacological effects.
+​Incorrect (D): Biotransformation serves as a well-documented mechanism of drug activation for prodrugs, which must be enzymatically cleaved or altered to become pharmacologically active.
+​Incorrect (E): Metabolism is a vital mechanism of drug termination, utilizing hepatic microsomal enzymes to modify active chemical structures into inactive, excretable derivatives.
+Tags: Moderate, Pharmacology, Foundation, General: Pharmacokinetics & Pharmacodynamics
+
+--------------------------------------------------
+
+Question: Which statement is incorrect about drug metabolism:
+ A. Action of drugs is terminated before their elimination.
+ B. All drugs are modified before their removal from the body.
+ C. Conversion of drug to inactive form occurs.
+ D. It is a mechanism of drug activation.
+ E. It is a mechanism of drug termination.
+ Correct Option: B
+ Explanation:
+​Correct (B): This statement is incorrect because not all drugs are modified before removal; many highly polar, water-soluble compounds are excreted completely unchanged by the kidneys.
+​Incorrect (A): Metabolic conversion often terminates the therapeutic action of drugs by transforming lipophilic structures into polar metabolites before they are physically eliminated from the body.
+​Incorrect (C): The primary function of Phase I and Phase II metabolic pathways is the direct conversion of drug to inactive form to prevent prolonged systemic pharmacological effects.
+​Incorrect (D): Biotransformation serves as a well-documented mechanism of drug activation for prodrugs, which must be enzymatically cleaved or altered to become pharmacologically active.
+​Incorrect (E): Metabolism is a vital mechanism of drug termination, utilizing hepatic microsomal enzymes to modify active chemical structures into inactive, excretable derivatives.
+ Tags: Moderate, Pharmacology, Foundation, General: Pharmacokinetics & Pharmacodynamics
+
+--------------------------------------------------
+

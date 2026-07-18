@@ -1,0 +1,102 @@
+Question: During skeletal muscle contraction, the power stroke of the myosin head is directly triggered by:
+A. binding of ATP to myosin head.
+B. binding of Ca2+ to troponin C.
+C. hydrolysis of ATP to ADP and Pi.
+D. influx of Ca2+ through L-type channels.
+E. release of inorganic phosphate from myosin head.
+Correct Option: E
+Explanation:
+ * Correct (E): The conformational change that drives the power stroke is directly triggered by the release of inorganic phosphate from myosin head immediately following cross-bridge attachment.
+ * Incorrect (A): The binding of ATP to myosin head causes the cross-bridge to detach from the actin filament, ending the cycle.
+ * Incorrect (B): The binding of Ca2+ to troponin C initiates the structural shift of tropomyosin to expose active sites, but does not propel the motor unit.
+ * Incorrect (C): The hydrolysis of ATP to ADP and Pi energizes and "cocks" the myosin head into its high-energy state prior to cross-bridge binding.
+ * Incorrect (D): The influx of Ca2+ through L-type channels occurs in cardiac pacemaker and myocardial tissue during excitation, not as a mechanical trigger for skeletal power strokes.
+   Tags: Hard, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: The main reason skeletal muscle fibers cannot undergo tetanization after death during rigor mortis is:
+A. absence of actin filaments.
+B. depletion of ATP preventing cross-bridge detachment.
+C. destruction of T-tubules.
+D. excess Ca2+ entry into sarcoplasm.
+E. inactivation of dihydropyridine receptors.
+Correct Option: B
+Explanation:
+ * Correct (B): Rigor mortis is a state of permanent contracture because the total depletion of ATP preventing cross-bridge detachment leaves myosin rigidly bound to actin.
+ * Incorrect (A): There is no immediate structural absence of actin filaments post-mortem; all structural contractile proteins remain intact.
+ * Incorrect (C): The destruction of T-tubules occurs much later during advanced putrefaction and is not the primary mechanism of rigid rigor locking.
+ * Incorrect (D): While excess Ca2+ entry into sarcoplasm promotes initial cross-bridge binding, the failure to relax or cycle into tetanization is strictly due to missing ATP energy substrates.
+ * Incorrect (E): The inactivation of dihydropyridine receptors would prevent depolarization-induced calcium release altogether, which contradicts the development of rigid cross-linking.
+   Tags: Hard, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: The force of skeletal muscle contraction increases with muscle length up to an optimal value mainly because of:
+A. increased activity of Na+/K+ ATPase.
+B. increased ATP synthesis.
+C. increased Ca2+ release from sarcoplasmic reticulum.
+D. optimal overlap between actin and myosin filaments.
+E. phosphorylation of myosin light chains.
+Correct Option: D
+Explanation:
+ * Correct (D): According to the length-tension relationship, tension maximizes at an optimal length because there is an optimal overlap between actin and myosin filaments, maximizing cross-bridge formation.
+ * Incorrect (A): The increased activity of Na+/K+ ATPase maintains ionic gradients across cell membranes but does not directly scale contraction force with fiber stretches.
+ * Incorrect (B): Total tension output relies on cross-bridge structural architecture rather than acutely increased ATP synthesis during passive stretching.
+ * Incorrect (C): The length-tension property is structural; it does not depend on an increased Ca2+ release from sarcoplasmic reticulum per stimulation.
+ * Incorrect (E): Phosphorylation of myosin light chains modulates smooth muscle activation kinetics and skeletal muscle twitch potentiation, not the length-tension curve.
+   Tags: Hard, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: During summation of skeletal muscle contractions, the increased tension occurs mainly because:
+A. action potentials summate in muscle fibers.
+B. ATP synthesis increases rapidly.
+C. cytosolic Ca2+ remains elevated between stimuli.
+D. Na+ channels remain open longer.
+E. ryanodine receptors undergo structural denaturation.
+Correct Option: C
+Explanation:
+ * Correct (C): Mechanical summation occurs when repetitive electrical stimulations hit the fiber before relaxation completes, meaning cytosolic Ca2+ remains elevated between stimuli and activates more cross-bridges.
+ * Incorrect (A): Action potentials cannot summate in muscle fibers because they follow an all-or-none rule and have absolute refractory periods that separate individual electrical signals.
+ * Incorrect (B): Mechanical tension rises due to calcium-mediated cross-bridge saturation, not because ATP synthesis increases rapidly.
+ * Incorrect (D): Voltage-gated Na+ channels close rapidly during regular repolarization; they do not remain open longer to cause mechanical summation.
+ * Incorrect (E): Ryanodine receptors are regulated channels that open and close selectively; they do not undergo structural denaturation to cause a normal physiological summation.
+   Tags: Hard, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+Question: A toxin that prevents Ca2+ uptake by the sarcoplasmic reticulum would most likely produce:
+A. decreased ATP consumption.
+B. failure of muscle contraction.
+C. immediate muscle paralysis.
+D. profound flaccid fasciculation.
+E. prolonged muscle contraction and delayed relaxation.
+Correct Option: E
+Explanation:
+ * Correct (E): Inhibiting the SERCA calcium pump prevents clearance of calcium from the sarcoplasm, causing sustained cross-bridge cycling that presents as prolonged muscle contraction and delayed relaxation.
+ * Incorrect (A): Persistent cross-bridge cycling and continuous pumping efforts would lead to accelerated, rather than decreased ATP consumption.
+ * Incorrect (B): Because initial calcium release into the sarcoplasm remains uninhibited, there is no primary failure of muscle contraction.
+ * Incorrect (C): Intracellular calcium levels remain persistently high, which leads to spastic contracture rather than immediate muscle paralysis.
+ * Incorrect (D): High cytoplasmic calcium levels promote sustained spastic rigidity rather than a limp, profound flaccid fasciculation.
+   Tags: Hard, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+
+​Question: In malignant hyperthermia triggered by certain anesthetics, excessive muscle contraction results mainly from:
+A. excess acetylcholine release from presynaptic motor nerve terminals
+B. failure of troponin inhibition during actin-myosin cross-bridging
+C. increased Na⁺ permeability across the sarcolemmal membrane
+D. uncontrolled Ca²⁺ release from sarcoplasmic reticulum
+E. uncontrolled K⁺ efflux through delayed rectifier channels
+Correct Option: D
+Explanation:
+ * ​Correct (D): Uncontrolled Ca²⁺ release from sarcoplasmic reticulum occurs due to a genetic mutation in ryanodine receptors, triggering continuous cross-bridge cycling and massive heat generation.
+ * ​Incorrect (A): excess acetylcholine release from presynaptic motor nerve terminals is incorrect because the disorder is driven by intracellular muscle pathology, completely independent of neurotransmitter levels.
+ * ​Incorrect (B): failure of troponin inhibition during actin-myosin cross-bridging is incorrect because troponin functions normally but is overwhelmed by the abnormal, persistent abundance of free intracellular calcium.
+ * ​Incorrect (C): increased Na⁺ permeability across the sarcolemmal membrane is incorrect because the primary defect is restricted to internal calcium release channels rather than surface membrane sodium channels.
+ * ​Incorrect (E): uncontrolled K⁺ efflux through delayed rectifier channels is incorrect because hyperkalemia can occur secondary to cell necrosis, but potassium efflux does not cause the sustained contractions.
+   Tags: Hard, Physiology, Musculoskeletal, Skeletal Muscle Contraction & Energetics
+
+--------------------------------------------------
+

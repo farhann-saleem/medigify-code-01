@@ -1,0 +1,17 @@
+​Question: Bleeding time remains normal in:
+A. aplastic anemia.
+B. hemophilia A.
+C. scurvy.
+D. thrombasthenia.
+E. thrombocytopenia.
+Correct Option: B
+Explanation:
+Correct (B): hemophilia A is an isolated intrinsic coagulation pathway disorder caused by a deficiency of clotting factor VIII, leaving primary platelet plug formation and bleeding time completely intact.
+Incorrect (A): aplastic anemia causes severe bone marrow suppression leading to a decrease in platelet count, which directly prolongs bleeding time.
+Incorrect (C): scurvy results in defective collagen synthesis that weakens vessel walls, thereby impairing vascular contraction and platelet-subendothelial interaction to prolong bleeding time.
+Incorrect (D): thrombasthenia causes qualitative platelet defects due to the absence of glycoprotein IIb/IIIa receptors, directly impairing platelet aggregation and lengthening bleeding time.
+Incorrect (E): thrombocytopenia involves a low platelet count that directly reduces primary hemostatic plug efficiency, resulting in an abnormal bleeding time.
+Tags: Hard, Physiology, Blood, Hemostasis & Blood Coagulation
+
+--------------------------------------------------
+

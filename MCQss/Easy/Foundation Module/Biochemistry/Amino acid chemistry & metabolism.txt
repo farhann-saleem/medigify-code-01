@@ -1,0 +1,663 @@
+
+Question: Glutathione is:
+A. Decapeptide
+B. Hexapeptide
+C. Octapeptide
+D. Pentapeptide
+E. Tripeptide
+Correct Option: E
+Explanation:
+Correct (E): Glutathione is a tripeptide composed of glutamate, cysteine, and glycine.
+Incorrect (A): Decapeptide contains ten amino acids, unlike glutathione.
+Incorrect (B): Hexapeptide contains six amino acids, not three.
+Incorrect (C): Octapeptide contains eight amino acids, not three.
+Incorrect (D): Pentapeptide contains five amino acids, not three.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Which standard amino acid contains an imino group?
+A. Arginine
+B. Glycine
+C. Lysine
+D. Proline
+E. Valine
+Correct Option: D
+Explanation:
+Correct (D): Proline contains a secondary amino (imino) group within its cyclic structure.
+Incorrect (A): Arginine contains a guanidino group, not an imino group.
+Incorrect (B): Glycine has a primary amino group.
+Incorrect (C): Lysine contains a primary amino side chain.
+Incorrect (E): Valine has a branched aliphatic side chain without an imino group.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: An amino acid having no asymmetric carbon atom is:
+A. Alanine
+B. Arginine
+C. Glycine
+D. Leucine
+E. Valine
+Correct Option: C
+Explanation:
+Correct (C): Glycine lacks an asymmetric carbon atom because its side chain is hydrogen.
+Incorrect (A): Alanine contains a chiral alpha-carbon.
+Incorrect (B): Arginine possesses an asymmetric carbon atom.
+Incorrect (D): Leucine contains a chiral alpha-carbon.
+Incorrect (E): Valine possesses an asymmetric carbon atom.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Which one of the following amino acids is purely ketogenic?
+A. Arginine
+B. Isoleucine
+C. Leucine
+D. Phenylalanine
+E. Proline
+Correct Option: C
+Explanation:
+Correct (C): Leucine is purely ketogenic because it is metabolized only to ketone body precursors.
+Incorrect (A): Arginine is glucogenic, not ketogenic.
+Incorrect (B): Isoleucine is both glucogenic and ketogenic.
+Incorrect (D): Phenylalanine is both glucogenic and ketogenic.
+Incorrect (E): Proline is primarily glucogenic.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: The following are non-essential amino acids EXCEPT:
+A. Glutamic acid
+B. Glycine
+C. Serine
+D. Threonine
+E. Tyrosine
+Correct Option: D
+Explanation:
+Correct (D): Threonine is an essential amino acid and must be obtained from the diet.
+Incorrect (A): Glutamic acid is synthesized in the body and is non-essential.
+Incorrect (B): Glycine is a non-essential amino acid.
+Incorrect (C): Serine is synthesized endogenously and is non-essential.
+Incorrect (E): Tyrosine is non-essential because it can be formed from phenylalanine.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Which of the following amino acids provides the greatest buffering capacity?
+A. Cysteine
+B. Histidine
+C. Proline
+D. Serine
+E. Valine
+Correct Option: B
+Explanation:
+Correct (B): Histidine provides strong buffering capacity because its imidazole group has a pKa near physiological pH.
+Incorrect (A): Cysteine has limited buffering role at physiological pH.
+Incorrect (C): Proline lacks an ionizable side chain for major buffering.
+Incorrect (D): Serine has a non-ionizable hydroxyl side chain.
+Incorrect (E): Valine has a nonpolar side chain without buffering ability.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following is an example of an aromatic amino acid?
+A. glycine
+B. lysine
+C. methionine
+D. phenylalanine
+E. valine
+Correct Option: D
+Explanation:
+Correct (D): Phenylalanine contains a benzene ring, classifying it as an aromatic amino acid.
+Incorrect (A): Glycine lacks a side chain aromatic ring system.
+Incorrect (B): Lysine is a basic amino acid without an aromatic structure.
+Incorrect (C): Methionine is sulfur-containing but not aromatic.
+Incorrect (E): Valine is a branched-chain aliphatic amino acid.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Which of the following is a non-essential amino acid?
+A. lysine
+B. methionine
+C. phenylalanine
+D. serine
+E. valine
+Correct Option: D
+Explanation:
+Correct (D): Serine is synthesized endogenously via 3-phosphoglycerate pathway, making it non-essential.
+Incorrect (A): Lysine is strictly essential and must be diet-derived.
+Incorrect (B): Methionine is essential due to inability of transsulfuration synthesis.
+Incorrect (C): Phenylalanine is essential and precursor of tyrosine.
+Incorrect (E): Valine is an essential branched-chain amino acid.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: All of the following amino acids are non-essential EXCEPT:
+A. alanine
+B. cysteine
+C. glycine
+D. histidine
+E. proline
+Correct Option: D
+Explanation:
+Correct (D): Histidine is essential (especially in growth phases).
+Incorrect (A): Alanine is non-essential via transamination.
+Incorrect (B): Cysteine is conditionally non-essential from methionine.
+Incorrect (C): Glycine is synthesized from serine.
+Incorrect (E): Proline is synthesized from glutamate.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: An amino acid having a non-polar side chain is:
+A. arginine
+B. glutamine
+C. leucine
+D. lysine
+E. valine
+Correct Option: C
+Explanation:
+Correct (C): Leucine has a hydrophobic aliphatic side chain making it non-polar.
+Incorrect (A): Arginine is positively charged basic amino acid.
+Incorrect (B): Glutamine is polar uncharged due to amide group.
+Incorrect (D): Lysine is positively charged basic amino acid.
+Incorrect (E): Valine is non-polar but leucine is the best single-key answer due to stronger hydrophobic classification in many keys.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: The following is a sulfur-containing amino acid:
+A. cysteine
+B. cystine
+C. homocysteine
+D. methionine
+E. taurine
+Correct Option: D
+Explanation:
+Correct (D): Methionine contains thioether sulfur as a standard coded amino acid.
+Incorrect (A): Cysteine contains thiol but is not the primary dietary essential sulfur amino acid.
+Incorrect (B): Cystine is oxidized dimer of cysteine, not a standard amino acid.
+Incorrect (C): Homocysteine is metabolic intermediate, not proteinogenic.
+Incorrect (E): Taurine is non-protein amino sulfonic acid.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: With the exception of glycine, all amino acids found in proteins are:
+A. dextrorotary
+B. of the D-configuration
+C. of the L-configuration
+D. optically inactive
+E. racemic mixtures
+Correct Option: C
+Explanation:
+Correct (C): Proteinogenic amino acids are exclusively L-isomers.
+Incorrect (A): Optical rotation is not universally dextrorotary in L-amino acids.
+Incorrect (B): D-configuration is non-proteinogenic in humans.
+Incorrect (D): Most amino acids are optically active.
+Incorrect (E): Biological systems do not use racemic mixtures in proteins.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: An amino acid having no asymmetric carbon atom is:
+A. alanine
+B. arginine
+C. glycine
+D. leucine
+E. valine
+Correct Option: C
+Explanation:
+Correct (C): Glycine lacks chiral center due to two hydrogen side chains.
+Incorrect (A): Alanine has one asymmetric carbon.
+Incorrect (B): Arginine is chiral at alpha carbon.
+Incorrect (D): Leucine contains a chiral center.
+Incorrect (E): Valine is also optically active.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: The following is a non-protein amino acid:
+A. arginine
+B. glycine
+C. methionine
+D. ornithine
+E. proline
+Correct Option: D
+Explanation:
+Correct (D): Ornithine is a urea cycle intermediate, not encoded in proteins.
+Incorrect (A): Arginine is proteinogenic amino acid.
+Incorrect (B): Glycine is standard amino acid.
+Incorrect (C): Methionine is essential amino acid.
+Incorrect (E): Proline is proteinogenic amino acid.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Glutathione is:
+A. decapeptide
+B. hexapeptide
+C. octapeptide
+D. pentapeptide
+E. tripeptide
+Correct Option: E
+Explanation:
+Correct (E): Glutathione is a tripeptide composed of glutamate, cysteine, and glycine.
+Incorrect (A): Decapeptide would contain 10 amino acids.
+Incorrect (B): Hexapeptide contains 6 residues.
+Incorrect (C): Octapeptide contains 8 residues.
+Incorrect (D): Pentapeptide contains 5 residues.
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following contains a secondary amino group:
+A. isoleucine
+B. leucine
+C. methionine
+D. proline
+E. threonine
+Correct Option: D
+Explanation:
+Correct (D): Proline has a pyrrolidine ring where the α-amino nitrogen is bonded to two carbons, forming a secondary amino group
+Incorrect (A): Isoleucine has a free primary α-amino group
+Incorrect (B): Leucine has a primary α-amino group
+Incorrect (C): Methionine contains a primary amino group
+Incorrect (E): Threonine has a primary α-amino group
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: An amino acid having no asymmetric carbon atom is:
+A. alanine
+B. arginine
+C. glycine
+D. leucine
+E. methionine
+Correct Option: C
+Explanation:
+Correct (C): Glycine has two hydrogen atoms on α-carbon, so no chirality
+Incorrect (A): Alanine has a chiral α-carbon
+Incorrect (B): Arginine is chiral
+Incorrect (D): Leucine is chiral
+Incorrect (E): Methionine is chiral
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+
+Question: Leucine and isoleucine are amino acids with:
+A. acidic side chain
+B. aromatic side chain
+C. nonpolar aliphatic side chain
+D. basic side chain
+E. uncharged polar side chain
+Correct Option: C
+Explanation:
+Correct (C): Both are branched-chain nonpolar aliphatic amino acids
+Incorrect (A): No carboxyl side chain present
+Incorrect (B): No aromatic ring present
+Incorrect (D): No amino-rich basic side chain
+Incorrect (E): Not polar, purely hydrophobic
+Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which standard amino acid contains an imino group?
+ A. Arginine
+ B. Glycine
+ C. Lysine
+ D. Proline
+ E. Valine
+ Correct Option: D
+ Explanation:
+ Correct (D): Proline contains a secondary amino (imino) group within its cyclic structure.
+ Incorrect (A): Arginine contains a guanidino group, not an imino group.
+ Incorrect (B): Glycine has a primary amino group.
+ Incorrect (C): Lysine contains a primary amino side chain.
+ Incorrect (E): Valine has a branched aliphatic side chain without an imino group.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: An amino acid having no asymmetric carbon atom is:
+ A. Alanine
+ B. Arginine
+ C. Glycine
+ D. Leucine
+ E. Valine
+ Correct Option: C
+ Explanation:
+ Correct (C): Glycine lacks an asymmetric carbon atom because its side chain is hydrogen.
+ Incorrect (A): Alanine contains a chiral alpha-carbon.
+ Incorrect (B): Arginine possesses an asymmetric carbon atom.
+ Incorrect (D): Leucine contains a chiral alpha-carbon.
+ Incorrect (E): Valine possesses an asymmetric carbon atom.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which one of the following amino acids is purely ketogenic?
+ A. Arginine
+ B. Isoleucine
+ C. Leucine
+ D. Phenylalanine
+ E. Proline
+ Correct Option: C
+ Explanation:
+ Correct (C): Leucine is purely ketogenic because it is metabolized only to ketone body precursors.
+ Incorrect (A): Arginine is glucogenic, not ketogenic.
+ Incorrect (B): Isoleucine is both glucogenic and ketogenic.
+ Incorrect (D): Phenylalanine is both glucogenic and ketogenic.
+ Incorrect (E): Proline is primarily glucogenic.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: The following are non-essential amino acids EXCEPT:
+ A. Glutamic acid
+ B. Glycine
+ C. Serine
+ D. Threonine
+ E. Tyrosine
+ Correct Option: D
+ Explanation:
+ Correct (D): Threonine is an essential amino acid and must be obtained from the diet.
+ Incorrect (A): Glutamic acid is synthesized in the body and is non-essential.
+ Incorrect (B): Glycine is a non-essential amino acid.
+ Incorrect (C): Serine is synthesized endogenously and is non-essential.
+ Incorrect (E): Tyrosine is non-essential because it can be formed from phenylalanine.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following amino acids provides the greatest buffering capacity?
+ A. Cysteine
+ B. Histidine
+ C. Proline
+ D. Serine
+ E. Valine
+ Correct Option: B
+ Explanation:
+ Correct (B): Histidine provides strong buffering capacity because its imidazole group has a pKa near physiological pH.
+ Incorrect (A): Cysteine has limited buffering role at physiological pH.
+ Incorrect (C): Proline lacks an ionizable side chain for major buffering.
+ Incorrect (D): Serine has a non-ionizable hydroxyl side chain.
+ Incorrect (E): Valine has a nonpolar side chain without buffering ability.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following is an example of an aromatic amino acid?
+ A. glycine
+ B. lysine
+ C. methionine
+ D. phenylalanine
+ E. valine
+ Correct Option: D
+ Explanation:
+ Correct (D): Phenylalanine contains a benzene ring, classifying it as an aromatic amino acid.
+ Incorrect (A): Glycine lacks a side chain aromatic ring system.
+ Incorrect (B): Lysine is a basic amino acid without an aromatic structure.
+ Incorrect (C): Methionine is sulfur-containing but not aromatic.
+ Incorrect (E): Valine is a branched-chain aliphatic amino acid.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following is a non-essential amino acid?
+ A. lysine
+ B. methionine
+ C. phenylalanine
+ D. serine
+ E. valine
+ Correct Option: D
+ Explanation:
+ Correct (D): Serine is synthesized endogenously via 3-phosphoglycerate pathway, making it non-essential.
+ Incorrect (A): Lysine is strictly essential and must be diet-derived.
+ Incorrect (B): Methionine is essential due to inability of transsulfuration synthesis.
+ Incorrect (C): Phenylalanine is essential and precursor of tyrosine.
+ Incorrect (E): Valine is an essential branched-chain amino acid.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: All of the following amino acids are non-essential EXCEPT:
+ A. alanine
+ B. cysteine
+ C. glycine
+ D. histidine
+ E. proline
+ Correct Option: D
+ Explanation:
+ Correct (D): Histidine is essential (especially in growth phases).
+ Incorrect (A): Alanine is non-essential via transamination.
+ Incorrect (B): Cysteine is conditionally non-essential from methionine.
+ Incorrect (C): Glycine is synthesized from serine.
+ Incorrect (E): Proline is synthesized from glutamate.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: An amino acid having a non-polar side chain is:
+ A. arginine
+ B. glutamine
+ C. leucine
+ D. lysine
+ E. valine
+ Correct Option: C
+ Explanation:
+ Correct (C): Leucine has a hydrophobic aliphatic side chain making it non-polar.
+ Incorrect (A): Arginine is positively charged basic amino acid.
+ Incorrect (B): Glutamine is polar uncharged due to amide group.
+ Incorrect (D): Lysine is positively charged basic amino acid.
+ Incorrect (E): Valine is non-polar but leucine is the best single-key answer due to stronger hydrophobic classification in many keys.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: The following is a sulfur-containing amino acid:
+ A. cysteine
+ B. cystine
+ C. homocysteine
+ D. methionine
+ E. taurine
+ Correct Option: D
+ Explanation:
+ Correct (D): Methionine contains thioether sulfur as a standard coded amino acid.
+ Incorrect (A): Cysteine contains thiol but is not the primary dietary essential sulfur amino acid.
+ Incorrect (B): Cystine is oxidized dimer of cysteine, not a standard amino acid.
+ Incorrect (C): Homocysteine is metabolic intermediate, not proteinogenic.
+ Incorrect (E): Taurine is non-protein amino sulfonic acid.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: With the exception of glycine, all amino acids found in proteins are:
+ A. dextrorotary
+ B. of the D-configuration
+ C. of the L-configuration
+ D. optically inactive
+ E. racemic mixtures
+ Correct Option: C
+ Explanation:
+ Correct (C): Proteinogenic amino acids are exclusively L-isomers.
+ Incorrect (A): Optical rotation is not universally dextrorotary in L-amino acids.
+ Incorrect (B): D-configuration is non-proteinogenic in humans.
+ Incorrect (D): Most amino acids are optically active.
+ Incorrect (E): Biological systems do not use racemic mixtures in proteins.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: An amino acid having no asymmetric carbon atom is:
+ A. alanine
+ B. arginine
+ C. glycine
+ D. leucine
+ E. valine
+ Correct Option: C
+ Explanation:
+ Correct (C): Glycine lacks chiral center due to two hydrogen side chains.
+ Incorrect (A): Alanine has one asymmetric carbon.
+ Incorrect (B): Arginine is chiral at alpha carbon.
+ Incorrect (D): Leucine contains a chiral center.
+ Incorrect (E): Valine is also optically active.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: The following is a non-protein amino acid:
+ A. arginine
+ B. glycine
+ C. methionine
+ D. ornithine
+ E. proline
+ Correct Option: D
+ Explanation:
+ Correct (D): Ornithine is a urea cycle intermediate, not encoded in proteins.
+ Incorrect (A): Arginine is proteinogenic amino acid.
+ Incorrect (B): Glycine is standard amino acid.
+ Incorrect (C): Methionine is essential amino acid.
+ Incorrect (E): Proline is proteinogenic amino acid.
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following contains a secondary amino group:
+ A. isoleucine
+ B. leucine
+ C. methionine
+ D. proline
+ E. threonine
+ Correct Option: D
+ Explanation:
+ Correct (D): Proline has a pyrrolidine ring where the α-amino nitrogen is bonded to two carbons, forming a secondary amino group
+ Incorrect (A): Isoleucine has a free primary α-amino group
+ Incorrect (B): Leucine has a primary α-amino group
+ Incorrect (C): Methionine contains a primary amino group
+ Incorrect (E): Threonine has a primary α-amino group
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Peptide bond forms between two amino acids as a result of:
+ A. decarboxylation
+ B. dehydration
+ C. deamination
+ D. hydration
+ E. oxidation
+ Correct Option: B
+ Explanation:
+ Correct (B): Peptide bonds form via dehydration synthesis (removal of water between –COOH and –NH₂)
+ Incorrect (A): Decarboxylation removes CO₂, not peptide bonds
+ Incorrect (C): Deamination removes amino group, unrelated to bonding
+ Incorrect (D): Hydration adds water, opposite process
+ Incorrect (E): Oxidation involves electron loss, not peptide formation
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: An amino acid having no asymmetric carbon atom is:
+ A. alanine
+ B. arginine
+ C. glycine
+ C. glycine
+ D. leucine
+ E. methionine
+ Correct Option: C
+ Explanation:
+ Correct (C): Glycine has two hydrogen atoms on α-carbon, so no chirality
+ Incorrect (A): Alanine has a chiral α-carbon
+ Incorrect (B): Arginine is chiral
+ Incorrect (D): Leucine is chiral
+ Incorrect (E): Methionine is chiral
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: The nonstandard amino acid that contributes to prothrombin is:
+ A. beta-alanine
+ B. gamma-carboxyglutamate
+ C. hydroxyproline
+ D. methyl lysine
+ E. ornithine
+ Correct Option: B
+ Explanation:
+ Correct (B): Gamma-carboxyglutamate allows Ca²⁺ binding in clotting factors
+ Incorrect (A): Beta-alanine is unrelated to clotting proteins
+ Incorrect (C): Hydroxyproline is collagen-specific
+ Incorrect (D): Methyl lysine is histone-related
+ Incorrect (E): Ornithine is urea cycle intermediate
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Which of the following pairs of amino acids can be derived from essential amino acids:
+ A. alanine and serine
+ B. aspartate and glutamate
+ C. glycine and asparagine
+ D. proline and histidine
+ E. tyrosine and cysteine
+ Correct Option: E
+ Explanation:
+ Correct (E): Tyrosine derives from phenylalanine; cysteine derives from methionine
+ Incorrect (A): Alanine and serine are non-essential directly synthesized
+ Incorrect (B): Aspartate and glutamate are non-essential
+ Incorrect (C): Glycine and asparagine are non-essential
+ Incorrect (D): Proline is non-essential; histidine is essential itself
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Serine-cysteine-glutamate-proline-threonine-alanine-tyrosine peptide shows:
+ A. contains acidic amino acids
+ B. contains basic amino acids
+ C. contains no acidic amino acids
+ D. contains no neutral amino acids
+ E. contains no hydroxyl amino acids
+ Correct Option: A
+ Explanation:
+ Correct (A): Glutamate is an acidic amino acid with carboxyl side chain
+ Incorrect (B): No strongly basic residues like lysine/arginine present
+ Incorrect (C): Acidic amino acid is present (glutamate)
+ Incorrect (D): Many neutral amino acids exist in sequence
+ Incorrect (E): Serine, threonine, tyrosine are hydroxyl-containing
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+
+Question: Leucine and isoleucine are amino acids with:
+ A. acidic side chain
+ B. aromatic side chain
+ C. nonpolar aliphatic side chain
+ D. basic side chain
+ E. uncharged polar side chain
+ Correct Option: C
+ Explanation:
+ Correct (C): Both are branched-chain nonpolar aliphatic amino acids
+ Incorrect (A): No carboxyl side chain present
+ Incorrect (B): No aromatic ring present
+ Incorrect (D): No amino-rich basic side chain
+ Incorrect (E): Not polar, purely hydrophobic
+ Tags: Easy, Biochemistry, Foundation, Amino Acid Chemistry & Metabolism
+
+--------------------------------------------------
+

@@ -1,0 +1,45 @@
+ 
+---
+ 
+Question: The right recurrent laryngeal nerve hooks around the:
+A. Arch of aorta
+B. Common carotid artery
+C. Ductus arteriosus
+D. Right subclavian artery
+E. Right vagus nerve
+Correct Option: D
+ 
+Explanation:
+ 
+Correct (D): Because the distal right fifth and sixth embryonic aortic arches regress, the right recurrent laryngeal nerve moves superiorly to hook around the lowest surviving vascular structure, which is the right subclavian artery.
+Incorrect (A): The left recurrent laryngeal nerve, rather than the right, hooks around the arch of aorta because the left sixth arch (ductus arteriosus) persists embryologically.
+Incorrect (B): The common carotid artery lies too far anterior and superior to serve as the specific anatomical looping point for the right recurrent laryngeal nerve.
+Incorrect (C): The ductus arteriosus is a left-sided vascular structure; therefore, the left recurrent laryngeal nerve hooks around it, not the right.
+Incorrect (E): The right recurrent laryngeal nerve branches directly off the right vagus nerve, but it loops around a vascular structure, not the parent nerve trunk itself.
+ 
+Tags: Moderate, Anatomy, Cardiovascular System, Mediastinum & Pericardium
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: The ligamentum arteriosum is closely related to which nerve that hooks under the arch of the aorta:
+A. Intercostal nerves
+B. Left phrenic nerve
+C. Left recurrent laryngeal nerve
+D. Right phrenic nerve
+E. Vagus nerve
+Correct Option: C
+Explanation:
+ 
+Correct (C): The Left recurrent laryngeal nerve loops underneath the arch of the aorta immediately lateral to the ligamentum arteriosum before ascending to the larynx.
+Incorrect (A): Intercostal nerves run within the intercostal spaces along the thoracic wall and do not relationally hook under the aortic arch.
+Incorrect (B): The Left phrenic nerve passes anterior to the lung root and superficial to the aortic arch without looping underneath it.
+Incorrect (D): The Right phrenic nerve descends on the right side of the mediastinum and has no relationship to the left-sided ligamentum arteriosum.
+Incorrect (E): The Vagus nerve gives rise to the recurrent laryngeal branch but continues its descent posterior to the lung root without hooking under the arch itself.
+ 
+Tags: Moderate, Anatomy, Cardiovascular System, Mediastinum & Pericardium
+
+--------------------------------------------------
+

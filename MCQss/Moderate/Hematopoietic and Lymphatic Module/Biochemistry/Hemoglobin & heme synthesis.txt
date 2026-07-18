@@ -1,0 +1,194 @@
+
+Question: Porphyria cutanea tarda is due to defect in:
+A. coproporphyrinogen oxidase.
+B. ferrochelatase.
+C. protoporphyrinogen oxidase.
+D. uroporphyrinogen decarboxylase.
+E. uroporphyrinogen synthase.
+Correct Option: D
+Explanation:
+Correct (D): uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda with photosensitivity and uroporphyrin accumulation.
+Incorrect (A): coproporphyrinogen oxidase deficiency causes hereditary coproporphyria, not porphyria cutanea tarda.
+Incorrect (B): ferrochelatase deficiency causes erythropoietic protoporphyria, not porphyria cutanea tarda.
+Incorrect (C): protoporphyrinogen oxidase deficiency causes variegate porphyria, not porphyria cutanea tarda.
+Incorrect (E): uroporphyrinogen synthase is not the defective enzyme in porphyria cutanea tarda.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+
+Question: Acute intermittent porphyria is caused due to deficiency of:
+A. ALA dehydratase.
+B. ALA synthase.
+C. coproporphyrinogen oxidase.
+D. porphobilinogen deaminase.
+E. uroporphyrinogen decarboxylase.
+Correct Option: D
+Explanation:
+Correct (D): porphobilinogen deaminase deficiency causes acute intermittent porphyria with accumulation of ALA and porphobilinogen.
+Incorrect (A): ALA dehydratase deficiency causes ALA dehydratase-deficiency porphyria, not acute intermittent porphyria.
+Incorrect (B): ALA synthase is the rate-limiting enzyme and is not deficient in acute intermittent porphyria.
+Incorrect (C): coproporphyrinogen oxidase deficiency causes hereditary coproporphyria, not acute intermittent porphyria.
+Incorrect (E): uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, not acute intermittent porphyria.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+
+Question: In variegate porphyria the following enzyme is deficient:
+A. coproporphyrinogen oxidase.
+B. heme synthetase.
+C. protoporphyrinogen oxidase.
+D. uroporphyrinogen I synthetase.
+E. uroporphyrinogen III synthetase.
+Correct Option: C
+Explanation:
+Correct (C): protoporphyrinogen oxidase deficiency causes variegate porphyria.
+Incorrect (A): coproporphyrinogen oxidase deficiency causes hereditary coproporphyria, not variegate porphyria.
+Incorrect (B): heme synthetase deficiency causes erythropoietic protoporphyria, not variegate porphyria.
+Incorrect (D): uroporphyrinogen I synthetase is not the enzyme deficient in variegate porphyria.
+Incorrect (E): uroporphyrinogen III synthetase deficiency causes congenital erythropoietic porphyria, not variegate porphyria.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+
+Question: In hereditary protoporphyria, enzyme deficient is:
+A. ALA synthase.
+B. coproporphyrinogen oxidase.
+C. heme synthase (ferrochelatase).
+D. porphobilinogen deaminase.
+E. protoporphyrinogen oxidase.
+Correct Option: C
+Explanation:
+Correct (C): heme synthase (ferrochelatase) deficiency prevents insertion of iron into protoporphyrin IX, causing hereditary protoporphyria.
+Incorrect (A): ALA synthase catalyzes the rate-limiting first step of heme synthesis and is not deficient in hereditary protoporphyria.
+Incorrect (B): coproporphyrinogen oxidase deficiency is associated with hereditary coproporphyria.
+Incorrect (D): porphobilinogen deaminase deficiency causes acute intermittent porphyria.
+Incorrect (E): protoporphyrinogen oxidase deficiency causes variegate porphyria.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+
+Question: A 3-year-old boy is brought with abdominal pain, mental changes, and fatigue. Lead poisoning is suspected. Which enzyme is interfered:
+A. cytochrome oxidase.
+B. delta-ALA dehydratase.
+C. ferrochelatase.
+D. porphobilinogen deaminase.
+E. protoporphyrinogen oxidase.
+Correct Option: B
+Explanation:
+Correct (B): delta-ALA dehydratase is inhibited by lead, causing accumulation of aminolevulinic acid with abdominal and neurologic symptoms.
+Incorrect (A): cytochrome oxidase is not the characteristic heme synthesis enzyme interfered by lead poisoning.
+Incorrect (C): ferrochelatase is also inhibited by lead, but delta-ALA dehydratase best matches early lead interference and ALA accumulation.
+Incorrect (D): porphobilinogen deaminase deficiency causes acute intermittent porphyria, not lead poisoning.
+Incorrect (E): protoporphyrinogen oxidase deficiency causes variegate porphyria, not lead poisoning.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+
+Question: Variegate porphyria is:
+A. acute hepatic porphyria.
+B. acute intermittent porphyria.
+C. congenital erythropoietic porphyria.
+D. porphyria cutanea tarda.
+E. x-linked sideroblastic porphyria.
+Correct Option: A
+Explanation:
+Correct (A): variegate porphyria is classified as an acute hepatic porphyria with neurovisceral and photosensitive features.
+Incorrect (B): acute intermittent porphyria is a separate acute hepatic porphyria due to porphobilinogen deaminase deficiency.
+Incorrect (C): congenital erythropoietic porphyria is an erythropoietic porphyria, not variegate porphyria.
+Incorrect (D): porphyria cutanea tarda is a chronic hepatic cutaneous porphyria, not variegate porphyria.
+Incorrect (E): x-linked sideroblastic porphyria is not the classification of variegate porphyria.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+
+Question: Which of the following enzyme is deficient in variegate porphyria:
+A. aminolevulinic acid synthase.
+B. coproporphyrinogen oxidase.
+C. protoporphyrinogen oxidase.
+D. uroporphyrinogen decarboxylase.
+E. uroporphyrinogen synthase.
+Correct Option: C
+Explanation:
+Correct (C): protoporphyrinogen oxidase deficiency causes variegate porphyria.
+Incorrect (A): aminolevulinic acid synthase deficiency is not the defect in variegate porphyria.
+Incorrect (B): coproporphyrinogen oxidase deficiency causes hereditary coproporphyria.
+Incorrect (D): uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda.
+Incorrect (E): uroporphyrinogen synthase deficiency causes congenital erythropoietic porphyria.
+Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+﻿Question: Porphyrins emit red fluorescence because of:
+A. acetate groups
+B. double bonds joining two pyrrole rings
+C. iron bonded to globin
+D. methyl groups
+E. propionate groups
+Correct Option: B
+Explanation:
+ * Correct (B): The extensive conjugation provided by the double bonds joining two pyrrole rings creates a resonance-stabilized macrocycle that absorbs light and emits characteristic red fluorescence.
+ * Incorrect (A): Acetate groups serve as structural side chains on the porphyrin ring but do not possess the conjugated pi-electron systems required to emit fluorescence.
+ * Incorrect (C): Iron bonded to globin forms functional hemoglobin, a molecule that actually quenches fluorescence rather than producing it.
+ * Incorrect (D): Methyl groups are non-polar aliphatic side chains that modify the solubility and positioning of the ring but do not contribute to optical excitation or fluorescence.
+ * Incorrect (E): Propionate groups are charged carboxylate side chains involved in structural alignment and interactions with proteins but do not mediate fluorescence.
+   Tags: Moderate, Biochemistry, Hematopoietic , Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+Question: Delta aminolevulinic acid synthase activity:
+A. catalyzes a rate limiting reaction in heme biosynthesis
+B. is frequently decreased in patients being treated on CNS drugs
+C. is strongly stimulated by heavy metals such as lead
+D. occurs in the cytosol
+E. requires biotin as coenzyme
+Correct Option: A
+Explanation:
+ * Correct (A): Delta aminolevulinic acid synthase activity catalyzes the condensation of glycine and succinyl-CoA, serving as the primary, highly regulated rate limiting reaction in heme biosynthesis.
+ * Incorrect (B): CNS drugs like barbiturates induce cytochrome P450 enzymes and deplete hepatic heme pools, which feeds back to cause an increase rather than a decrease in enzyme activity.
+ * Incorrect (C): Heavy metals such as lead strongly inhibit downstream enzymes like ALA dehydratase and ferrochelatase, while indirect transcription effects upregulate rather than stimulate ALA synthase directly.
+ * Incorrect (D): The reaction catalyzed by this enzyme occurs exclusively within the mitochondrial matrix, where its substrate succinyl-CoA is readily generated by the citric acid cycle.
+ * Incorrect (E): This highly regulated condensation reaction requires pyridoxal phosphate (Vitamin B6) as an absolute cofactor to activate glycine, rather than biotin.
+   Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+Question: A 3-year-old boy is brought with abdominal pain, mental changes, and fatigue. Lead poisoning is suspected. Which enzyme is interfered:
+A. cytochrome oxidase
+B. delta-ALA dehydratase
+C. porphobilinogen deaminase
+D. protoporphyrinogen oxidase
+E. UMP synthase
+Correct Option: B
+Explanation:
+ * Correct (B): Lead directly inhibits delta-ALA dehydratase by displacing zinc from its catalytic site, causing an accumulation of delta-aminolevulinic acid and toxic neurobehavioral symptoms.
+ * Incorrect (A): Cytochrome oxidase is a terminal respiratory chain enzyme inhibited by cyanide and carbon monoxide, not the primary enzyme interfered with in clinical lead-induced anemia.
+ * Incorrect (C): Porphobilinogen deaminase activity is genetically defective in acute intermittent porphyria and is not the physiological target of lead poisoning.
+ * Incorrect (D): Protoporphyrinogen oxidase is the enzyme deficient in variegate porphyria and is not directly inactivated by heavy metal lead ions.
+ * Incorrect (E): UMP synthase is an enzyme of pyrimidine biosynthesis defective in orotic aciduria and is unaffected by heavy metal lead toxicity.
+   Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+
+Question: For delta-aminolevulinic acid synthase activity, which one is correct?
+A. Catalyzes a rate limiting reaction in porphyrin biosynthesis
+B. Is frequently decreased in individuals treated with phenobarbital
+C. Is strongly inhibited by heavy metal ions such as lead
+D. Occurs entirely within the cellular cytosol
+E. Requires the essential coenzyme biotin
+Correct Option: A
+Explanation:
+ * Correct (A): Delta-aminolevulinic acid synthase catalyzes the condensation of glycine and succinyl CoA, which serves as the committed, rate-limiting reaction in porphyrin biosynthesis.
+ * Incorrect (B): Phenobarbital induces cytochrome P450 enzymes, which depletes intracellular heme and consequently increases, rather than decreases, delta-aminolevulinic acid synthase expression.
+ * Incorrect (C): Delta-aminolevulinic acid synthase is not the primary direct target of heavy metal ions such as lead; lead specifically inhibits delta-ALA dehydratase and ferrochelatase.
+ * Incorrect (D): The reaction catalyzed by delta-aminolevulinic acid synthase takes place inside the mitochondria, meaning it does not occur entirely within the cellular cytosol.
+ * Incorrect (E): This mitochondrial enzyme requires pyridoxal phosphate (Vitamin B6) as a cofactor, not the essential coenzyme biotin.
+   Tags: Moderate, Biochemistry, Hematopoietic, Hemoglobin & Heme Synthesis
+
+--------------------------------------------------
+

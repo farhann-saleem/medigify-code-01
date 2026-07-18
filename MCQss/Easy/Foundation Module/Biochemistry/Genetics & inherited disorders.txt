@@ -1,0 +1,17 @@
+Question: In sickle cell anaemia glutamic acid is replaced by:
+ A. aspartic acid
+ B. histidine
+ C. lysine
+ D. valine
+ E. arginine
+ Correct Option: D
+ Explanation:
+ Correct (D): Valine substitution creates hydrophobic patch causing HbS polymerization
+ Incorrect (A): Aspartic acid is still acidic, does not cause sickling
+ Incorrect (B): Histidine change is unrelated to HbS mutation
+ Incorrect (C): Lysine is basic, but not involved in HbS mutation
+ Incorrect (E): Arginine substitution is not seen in sickle cell disease
+ Tags: Easy, Biochemistry, Foundation, Genetics & Inherited Disorders
+
+--------------------------------------------------
+

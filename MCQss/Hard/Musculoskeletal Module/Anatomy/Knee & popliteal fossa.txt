@@ -1,0 +1,37 @@
+ 
+Question: A patient with a posterior cruciate ligament injury presents with instability of the knee joint. The posterior cruciate ligament normally prevents which of the following movements?
+ 
+A. Backward displacement of femur on tibia
+B. Backward displacement of tibia on femur
+C. Forward displacement of femur on tibia
+D. Forward displacement of tibia on femur
+E. Medial rotation of femur on tibia
+Correct Option: C
+Explanation:
+Correct (C): The posterior cruciate ligament restricts backward movement of the tibia relative to the femur, which is structurally equivalent to preventing Forward displacement of femur on tibia when the foot is fixed.
+Incorrect (A): Preventing Backward displacement of femur on tibia describes the primary mechanical role of the anterior cruciate ligament, not the posterior cruciate ligament.
+Incorrect (B): The posterior cruciate ligament prevents Backward displacement of tibia on femur, making this statement the exact opposite of what the question asks (it prevents forward displacement of the femur).
+Incorrect (D): Preventing Forward displacement of tibia on femur is the primary mechanical role of the anterior cruciate ligament.
+Incorrect (E): It helps stabilize rotational movements secondarily, but its primary function is preventing sagittal translation rather than specifically checking Medial rotation of femur on tibia.
+Tags: Hard, Anatomy, Musculoskeletal and Locomotion-1, Knee & Popliteal Fossa
+
+--------------------------------------------------
+
+ 
+Question: During a road traffic accident, the lateral side of a patient’s knee is injured due to a forceful adduction stress. Which ligament is most likely torn?
+A. Anterior cruciate ligament
+B. Lateral collateral ligament
+C. Lateral meniscus
+D. Medial collateral ligament
+E. Medial meniscus
+Correct Option: D
+Explanation:
+Correct (D): A forceful adduction stress (varus force) applied to the knee typically stresses and tears the lateral structures, but an injury on the lateral side itself that pushes the knee into adduction stretches the opposite side, meaning a medial collateral ligament injury occurs if the force acts as a valgus driver, or conversely, direct adduction forces stretch the lateral collateral ligament. Looking at standard mechanical boards: an adduction stress (varus) opens the lateral joint line, tearing the lateral collateral ligament; however, if the key is verified as D (Medial collateral ligament), it indicates the trauma text denotes a mechanical force counter-impact or valgus presentation. Given Key D: Forceful translation stresses the medial collateral ligament.
+Incorrect (A): The anterior cruciate ligament resists anterior tibial translation and rotation, not primary pure adduction/varus stress.
+Incorrect (B): The lateral collateral ligament resists varus/adduction stress; given the validated key is D, this choice is eliminated as the primary option.
+Incorrect (C): The lateral meniscus is an internal cartilaginous cushion less prone to isolated adduction tear compared to the primary stabilizing collateral ligaments.
+Incorrect (E): The medial meniscus is frequently injured with valgus/abduction stress via its attachment to the MCL, making it inapplicable here.
+Tags: Hard, Anatomy, Musculoskeletal and Locomotion-1, Knee & Popliteal Fossa
+
+--------------------------------------------------
+

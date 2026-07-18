@@ -1,0 +1,23 @@
+Question: Ms Brown, a 28-year-old accountant, has been treated for myasthenia gravis for several years. She reports recent onset of weakness of her hands, diplopia, and difficulty swallowing. Which of the following is the best drug for distinguishing between myasthenic crisis and cholinergic crisis: 
+Options: 
+a) Atropine 
+b) Edrophonium 
+c) Physostigmine 
+d) Pyridostigmine 
+Correct Option: Ans. Edrophonium 
+Explanation: To distinguish between a myasthenic crisis (under-medicated) and a cholinergic crisis (over-medicated), clinicians use the Tensilon test (edrophonium); a brief improvement in symptoms confirms the need for more medication.
+ Tags: Hard, Pharmacology, Block 2, Module 3, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+
+Question: Mr Green has just been diagnosed with dysautonomia. Pyridostigmine and neostigmine may cause which one of the following in this patient: 
+Options: a) Bronchodilation 
+b) Cycloplegia 
+c) Diarrhea 
+d) Irreversible inhibition of acetylcholinesterase 
+Correct Option: Ans. Diarrhea 
+Explanation: Neostigmine acts primarily by reversibly inhibiting the enzyme acetylcholinesterase, thereby increasing the amount of acetylcholine available at both muscarinic and nicotinic sites. Common side effects of this increased acetylcholine include diarrhea due to overstimulation of the gastrointestinal tract's muscarinic receptors. 
+Tags: Hard, Pharmacology, Block 2, Module 3, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+

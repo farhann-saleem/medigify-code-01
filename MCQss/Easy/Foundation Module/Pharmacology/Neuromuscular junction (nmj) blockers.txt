@@ -1,0 +1,93 @@
+Question: Neuromuscular blockers work by: 
+Options: a) Destroying NMJ 
+b) Binding to nicotinic receptors at NMJ 
+c) By binding to cholinergic receptors at NMJ 
+d) Enhancing access of receptor of NMJ to epinephrine 
+Correct Option: Ans. Binding to nicotinic receptors at NMJ 
+Explanation: Non-depolarizing blockers, such as tubocurarine and curare, work by competitively binding to nicotinic receptors at the neuromuscular junction (NMJ). By acting as antagonists at the postsynaptic motor end plate, they prevent acetylcholine from binding and initiating muscle contraction.
+ Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Which of the following drugs is a non-depolarizing blocker of NMJ: 
+Options: 
+a) Neostigmine 
+b) Physostigmine 
+c) Edrophonium 
+d) Tubocurarine 
+Correct Option: Ans. Tubocurarine 
+Explanation: Tubocurarine is the only non-depolarizing blocker in the list.
+ Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Neuromuscular paralysis that results from pharmacologic antagonism at the acetylcholine receptor of the end plate (e.g., by tubocurarine) is called: 
+Options: 
+a) Non-depolarizing blockade 
+b) Depolarizing blockade 
+c) Desensitization 
+d) Stabilizing blockade 
+Correct Option: Ans. Non-depolarizing blockade 
+Explanation: Non-depolarizing blockers, such as tubocurarine and curare, work by competitively binding to nicotinic receptors at the neuromuscular junction (NMJ). By acting as antagonists at the postsynaptic motor end plate, they prevent acetylcholine from binding and initiating muscle contraction, a process known as a non-depolarizing or stabilizing blockade.
+ Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Succinylcholine causes depolarization by: 
+Options: 
+a) Activating sodium channel on postsynaptic terminal 
+b) Acting like ACh to stimulate nicotinic receptor 
+c) Activating calcium channel on presynaptic terminal 
+d) Blocking acetylcholinesterase 
+Correct Option: Ans. Acting like ACh to stimulate nicotinic receptor 
+Explanation: Succinylcholine is the primary example of a depolarizing blocker that acts like acetylcholine to stimulate nicotinic receptors at the motor end plate. Because it is not broken down by acetylcholinesterase, it causes persistent depolarization of the muscle fiber, leading to transient fasciculations followed by paralysis as sodium channels become inactivated. 
+Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Which drug acts like a nicotinic agonist and depolarizes the neuromuscular end plate: Options: 
+a) Succinylcholine 
+b) Neostigmine 
+c) Pyridostigmine 
+d) Edrophonium 
+Correct Option: Ans. Succinylcholine 
+Explanation: Succinylcholine is the primary example of a depolarizing blocker that acts like acetylcholine to stimulate nicotinic receptors at the motor end plate. Because it is not broken down by acetylcholinesterase, it causes persistent depolarization of the muscle fiber.
+Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Which of the following drugs is the most effective in emergency management of malignant hyperthermia: 
+Options: 
+a) Atropine 
+b) Dantrolene 
+c) Edrophonium 
+d) Succinylcholine 
+Correct Option: Ans. Dantrolene 
+Explanation: Dantrolene is the essential emergency treatment for malignant hyperthermia, a life-threatening reaction to certain anesthetics that causes massive calcium release in muscles. Succinylcholine can cause severe hyperkalemia in patients with denervation injuries 
+Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Curare has been given as a paralyzing agent in patients undergoing surgical procedures. Its mode of action is best described by inhibiting the action of which of the following:
+ Options: 
+a) Atropine 
+b) Muscarinic receptors 
+c) Nicotinic receptors 
+d) The formation of ACh 
+Correct Option: Ans. Nicotinic receptors
+ Explanation: Non-depolarizing blockers, such as tubocurarine and curare, work by competitively binding to nicotinic receptors at the neuromuscular junction (NMJ). By acting as antagonists at the postsynaptic motor end plate, they prevent acetylcholine from binding and initiating muscle contraction, a process known as a non-depolarizing or stabilizing blockade. These drugs do not "destroy" the junction; they simply block the receptors until the drug is metabolized or out-competed. 
+Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+
+Question: Tubocurarine acts on:
+ Options: a) Nerve axon 
+b) Receptor at adrenergic junction 
+c) Ganglionic nicotinic receptor 
+d) Neuromuscular end plates 
+Correct Option: Ans. Neuromuscular end plates 
+Explanation: Non-depolarizing blockers, such as tubocurarine and curare, work by competitively binding to nicotinic receptors at the neuromuscular junction (NMJ).
+ Tags: Easy, Pharmacology, Block 2, Module 3, Neuromuscular Junction (NMJ) Blockers
+
+--------------------------------------------------
+

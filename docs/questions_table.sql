@@ -4,12 +4,14 @@ CREATE TABLE public.questions (
   statement text NOT NULL,
   options jsonb NOT NULL,
   correct_option text NOT NULL CHECK (correct_option IN ('a','b','c','d','e')),
-  explanation text NOT NULL,
+  explanation jsonb NOT NULL DEFAULT '{}',
   subject text NOT NULL,
   topic text,
   tags text[] DEFAULT '{}',
   year integer,
   academic_year integer DEFAULT 1,
+  difficulty text NOT NULL DEFAULT 'easy' CHECK (difficulty IN ('easy','moderate','hard')),
+  module text NOT NULL DEFAULT '',
   created_at timestamp with time zone DEFAULT timezone('utc', now()) NOT NULL
 );
 
@@ -23,6 +25,8 @@ CREATE POLICY "Questions are publicly readable"
   TO authenticated, anon
   USING (true);
 
--- Index for fast filtering by subject
+-- Indexes for fast filtering
 CREATE INDEX idx_questions_subject ON public.questions(subject);
 CREATE INDEX idx_questions_academic_year ON public.questions(academic_year);
+CREATE INDEX idx_questions_difficulty ON public.questions(difficulty);
+CREATE INDEX idx_questions_module ON public.questions(module);

@@ -1,0 +1,106 @@
+​Question
+A researcher artificially blocks K+ leak channels in a resting neuron while keeping Na+ permeability unchanged. What will most likely occur to the resting membrane potential?
+A. It will become significantly more negative than normal
+B. It will equal the theoretical K+ equilibrium potential
+C. It will fluctuate rhythmically between both potentials
+D. It will move directly toward the Na+ equilibrium potential
+E. It will remain completely unchanged from its baseline
+Correct Option: D
+Explanation:
+Correct (D): Removing the dominant potassium leak pathways allows the remaining resting sodium permeability to assert greater relative influence, drawing the overall membrane voltage upward toward the positive sodium equilibrium potential.
+Incorrect (A): The phrase "it will become significantly more negative than normal" is incorrect because blocking the exit of positive potassium ions makes the cell interior less negative.
+Incorrect (B): The phrase "it will equal the theoretical K+ equilibrium potential" is incorrect because closing potassium leak channels prevents the membrane potential from moving toward the potassium equilibrium target.
+Incorrect (C): The phrase "it will fluctuate rhythmically between both potentials" is incorrect because blocking a background conductance results in a stable, sustained shift in voltage rather than an unstable oscillation.
+Incorrect (E): The phrase "it will remain completely unchanged from its baseline" is incorrect because the resting membrane voltage depends continuously on open, active potassium leak channels.
+Tags: Hard, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+A nerve fiber is experimentally cooled to a very low temperature, slowing Na+–K+ pump activity significantly. Initially, what happens to the resting membrane potential?
+A. Immediate depolarization due to complete failure of the active pump mechanism
+B. Immediate depolarization due to secondary closure of background K+ channels
+C. Immediate hyperpolarization due to a sudden reduction in Na+ permeability
+D. No immediate change because the potential is mainly driven by diffusion forces
+E. No immediate change because the pump is not an electrogenic transport system
+Correct Option: D
+Explanation:
+Correct (D): The bulk of the resting potential is derived from passive ion diffusion through open leak channels, meaning that short-term disruption of active transport has little immediate impact until long-term concentration gradients decay.
+Incorrect (A): The phrase "Immediate depolarization due to complete failure of the active pump mechanism" is incorrect because halting the pump only removes its direct 4 mV electrogenic contribution, leaving the primary diffusion potential intact.
+Incorrect (B): The phrase "Immediate depolarization due to secondary closure of background K+ channels" is incorrect because background potassium leak pathways are independent of active pump operation and do not snap shut when cooled.
+Incorrect (C): The phrase "Immediate hyperpolarization due to a sudden reduction in Na+ permeability" is incorrect because cooling slows active metabolic pumps rather than triggering an immediate drop in resting sodium channel leakiness.
+Incorrect (E): The phrase "No immediate change because the pump is not an electrogenic transport system" is incorrect because the sodium-potassium pump is electrogenic, even though its immediate contribution to the total voltage is small.
+Tags: Hard, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+In a neuron where Na+ permeability suddenly becomes equal to K+ permeability, the membrane potential would move closest to:
+A. The average of the Na+ and K+ equilibrium potentials.
+B. The value of the Cl- electrochemical equilibrium potential.
+C. The value of the K+ electrochemical equilibrium potential.
+D. The value of the Na+ electrochemical equilibrium potential.
+E. The value of zero millivolts absolute membrane potential.
+Correct Option: A
+Explanation:
+Correct (A): When the relative membrane permeabilities for two driving ions become identical, the Goldman-Hodgkin-Katz equation simplifies to position the resulting membrane potential directly midway between their individual equilibrium values.
+Incorrect (B): The phrase "The value of the Cl- electrochemical equilibrium potential" is incorrect because chloride parameters do not dictate the voltage shift caused by balanced sodium and potassium fluxes.
+Incorrect (C): The phrase "The value of the K+ electrochemical equilibrium potential" is incorrect because matching sodium's permeability pulls the membrane potential well away from the pure potassium equilibrium level.
+Incorrect (D): The phrase "The value of the Na+ electrochemical equilibrium potential" is incorrect because the remaining potassium permeability prevents the voltage from climbing all the way to the positive sodium equilibrium limit.
+Incorrect (E): The phrase "The value of zero millivolts absolute membrane potential" is incorrect because the arithmetic mean of a negative potassium equilibrium (~ -94 mV) and a positive sodium equilibrium (~ +61 mV) rests near -16 mV rather than zero.
+Tags: Hard, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+A patient with severe hypocalcemia presents with muscle spasms and tetany. Which physiological mechanism explains the increased neuronal excitability?
+A. Decreased threshold potential due to increased Cl- channel permeability
+B. Decreased threshold potential due to increased Na+ channel permeability
+C. Increased Cl- influx through ligand-gated postsynaptic neuronal channels
+D. Increased K+ conductance across the functional resting neuronal membrane
+E. Increased threshold potential due to decreased Na+ channel permeability
+Correct Option: B
+Explanation:
+Correct (B): Low extracellular calcium levels lower the voltage threshold required to open voltage-gated sodium channels, making it much easier for minor depolarizations to trigger firing.
+Incorrect (A): The phrase "Decreased threshold potential due to increased Cl- channel permeability" is incorrect because chloride movement stabilizes or hyperpolarizes membranes rather than shifting the activation threshold of action potentials.
+Incorrect (C): The phrase "Increased Cl- influx through ligand-gated postsynaptic neuronal channels" is incorrect because enhancing chloride entry delivers inhibitory hyperpolarizing currents that depress excitability.
+Incorrect (D): The phrase "Increased K+ conductance across the functional resting neuronal membrane" is incorrect because increasing resting potassium leakage drives the cell further into hyperpolarization, which dampens excitability.
+Incorrect (E): The phrase "Increased threshold potential due to decreased Na+ channel permeability" is incorrect because hypocalcemia reduces the threshold requirement rather than raising it.
+Tags: Hard, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: A demyelinated nerve fiber in Multiple sclerosis most commonly shows:
+A. Failure of impulse propagation
+B. Increased conduction velocity
+C. Increased muscle contractility
+D. Increased neurotransmitter release
+E. Reduced threshold of excitation
+Correct Option: A
+Explanation:
+​Correct (A): Failure of impulse propagation occurs because current leaks across the uninsulated axonal membrane, preventing the membrane potential from reaching threshold at subsequent points along the axon.
+​Incorrect (B): Increased conduction velocity is the opposite of what occurs, as demyelination significantly slows or completely blocks impulse travel.
+​Incorrect (C): Increased muscle contractility is a muscle-specific physiological parameter that is not directly caused by central demyelinating conduction failure.
+​Incorrect (D): Increased neurotransmitter release would enhance synaptic output, whereas axonal conduction failure prevents the action potential from even reaching the terminal to spark release.
+​Incorrect (E): Reduced threshold of excitation is incorrect; demyelinated axons show an increased threshold or complete inexcitable block due to loss of cable properties.
+Tags: Hard, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: In Multiple sclerosis, symptoms often worsen with increased body temperature because:
+A. Heat downregulates postsynaptic receptor expression
+B. Heat further impairs conduction in demyelinated axons
+C. Heat increases muscle metabolism
+D. Heat reduces acetylcholine release
+E. Heat stimulates antibody production
+Correct Option: B
+Explanation:
+​Correct (B): Heat further impairs conduction in demyelinated axons by altering the opening and closing kinetics of sodium channels, shortening the action potential duration below the safety factor needed for propagation (Uhthoff's phenomenon).
+​Incorrect (A): Heat downregulates postsynaptic receptor expression is not the transient mechanism responsible for acute temperature-dependent worsening in Multiple sclerosis.
+​Incorrect (C): Heat increases muscle metabolism does not explain the acute central neurological conduction failures observed during body temperature spikes.
+​Incorrect (D): Heat reduces acetylcholine release describes a peripheral neuromuscular junction defect not linked to the temperature sensitivity of central demyelinated axons.
+​Incorrect (E): Heat stimulates antibody production is a systemic immune response that does not account for the immediate, reversible clinical worsening seen with elevated body heat.
+Tags: Hard, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+

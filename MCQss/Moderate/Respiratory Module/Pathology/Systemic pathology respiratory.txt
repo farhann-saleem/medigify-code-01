@@ -1,0 +1,72 @@
+2
+ Question: When IgE on a mast cell Fcε receptor is cross linked by an allergen, the mast cell responds by:
+  A. presenting antigen to Th cells.
+  B. secreting histamine.
+  C. secreting more IgE.
+  D. synthesizing complement proteins.
+  E. undergoing apoptosis.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Cross-linking of IgE bound to Fcε receptors triggers mast-cell degranulation with rapid release of histamine.
+ •	Incorrect (A): Mast cells are not the principal antigen-presenting cells for Th-cell activation.
+ •	Incorrect (C): IgE is produced by plasma cells, not mast cells.
+ •	Incorrect (D): Complement proteins are synthesized mainly by hepatocytes rather than mast cells.
+ •	Incorrect (E): Allergen-mediated activation causes degranulation, not apoptosis.
+ Tags: Moderate, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+11
+ Question: Which one of the following is associated with increased lung compliance:
+  A. emphysema.
+  B. kyphosis.
+  C. pleural fibrosis.
+  D. pulmonary edema.
+  E. pulmonary fibrosis.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Emphysema increases lung compliance because alveolar wall destruction reduces elastic recoil.
+ •	Incorrect (B): Kyphosis restricts chest wall expansion and decreases overall compliance.
+ •	Incorrect (C): Pleural fibrosis stiffens the lungs and chest wall.
+ •	Incorrect (D): Pulmonary edema reduces compliance by filling alveoli with fluid.
+ •	Incorrect (E): Pulmonary fibrosis markedly decreases lung compliance.
+ Tags: Moderate, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+13
+ Question: Bronchogenic carcinoma has increased incidence in pneumoconiosis. Most likely association is with:
+  A. asbestosis.
+  B. bagassosis.
+  C. berylliosis.
+  D. silicosis.
+  E. talcosis.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Asbestosis markedly increases the risk of bronchogenic carcinoma, especially in smokers.
+ •	Incorrect (B): Bagassosis is a hypersensitivity pneumonitis without a strong carcinoma association.
+ •	Incorrect (C): Berylliosis is mainly associated with granulomatous lung disease.
+ •	Incorrect (D): Silicosis has a stronger association with tuberculosis than bronchogenic carcinoma.
+ •	Incorrect (E): Talcosis is not classically linked to bronchogenic carcinoma.
+ Tags: Moderate, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+
+14
+ Question: In the pathogenesis of bronchiectasis, susceptibility to infection is due to:
+  A. accumulation of thick and viscid secretions obstructing airways.
+  B. chronic inflammation causing epithelial sloughing.
+  C. immunodeficient status.
+  D. progressive fibrosis of lung parenchyma.
+  E. smooth muscle hypertrophy of bronchi.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Accumulation of thick and viscid secretions obstructing airways impairs clearance and promotes recurrent infection.
+ •	Incorrect (B): Epithelial sloughing is largely a consequence rather than the primary cause of susceptibility.
+ •	Incorrect (C): Immunodeficient status may predispose but is not the general mechanism described.
+ •	Incorrect (D): Progressive fibrosis of lung parenchyma is not the key initiating factor.
+ •	Incorrect (E): Smooth muscle hypertrophy does not explain recurrent infection.
+ Tags: Moderate, Pathology, Respiratory Module, Systemic Pathology: Respiratory
+
+--------------------------------------------------
+

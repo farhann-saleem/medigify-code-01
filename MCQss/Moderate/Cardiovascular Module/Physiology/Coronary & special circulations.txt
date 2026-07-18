@@ -1,0 +1,136 @@
+Question: Tetralogy of Fallot is characterized by which combination and primary consequence?
+ A. ASD, mitral stenosis, LVH, pulmonary hypertension
+ B. VSD, pulmonary stenosis, overriding aorta, RVH with right-to-left shunt
+ C. PDA, coarctation, LV hypertrophy, systemic hypertension
+ D. Tricuspid atresia, coronary aneurysm, high output state
+ E. Pulmonary atresia, ASD, LV dilation, left-to-right shunt
+ Correct Option: B
+ Explanation:
+ • Correct (B): TOF consists of VSD, pulmonary stenosis, overriding aorta, RV hypertrophy causing right-to-left shunt and cyanosis.
+ • Incorrect (A): Not components of TOF.
+ • Incorrect (C): Describes ductal/aortic anomalies, not TOF.
+ • Incorrect (D): Not a recognized TOF pattern.
+ • Incorrect (E): TOF is not a left-to-right shunt condition.
+ Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: In chronic ischemic heart disease, narrowings develop in the coronary arteries over several months. Despite this, resting myocardial blood flow remains normal. What long-term local mechanism accounts for this adaptation?
+A. Downregulation of endothelial nitric oxide synthase leading to baseline vasoconstriction
+B. Development of collateral circulation via angiogenesis stimulated by VEGF in response to hypoxia
+C. Obliteration of coronary lymphatic drainage improving perfusion pressure
+D. Spastic constriction of downstream capillaries reducing metabolic demand
+E. Persistent endothelin-1 dominance causing uniform epicardial vasoconstriction
+Correct Option: B
+Explanation:
+Correct (B): Chronic hypoxia induces VEGF-driven angiogenesis, producing collateral vessels that preserve resting myocardial perfusion despite stenosis.
+Incorrect (A): eNOS downregulation would worsen perfusion rather than preserve normal flow.
+Incorrect (C): Lymphatic changes do not compensate for coronary arterial narrowing.
+Incorrect (D): Capillary spasm and metabolic suppression are not adaptive long-term perfusion mechanisms.
+Incorrect (E): Endothelin-1 dominance would increase ischemia rather than normalize flow.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: At what point in the cardiac cycle is left ventricular coronary blood flow lowest?
+A. Early diastole
+B. Mid-diastole
+C. Ventricular systole
+D. Atrial contraction
+E. Isovolumetric relaxation phase
+Correct Option: C
+Explanation:
+Correct (C): Left ventricular coronary flow is lowest during systole due to myocardial compression of intramural vessels.
+Incorrect (A): Early diastole restores perfusion.
+Incorrect (B): Mid-diastole has peak coronary flow.
+Incorrect (D): Atrial contraction minimally affects coronary flow.
+Incorrect (E): Relaxation phase allows flow recovery.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: What is the primary mechanism for increased skeletal muscle blood flow during heavy exercise?
+A. Direct parasympathetic vasodilation
+B. Local metabolic vasodilation overriding sympathetic tone
+C. Sodium-driven osmotic vasodilation
+D. Immediate angiogenesis within minutes
+E. Reduced capillary density during exercise
+Correct Option: B
+Explanation:
+Correct (B): Metabolic byproducts (CO₂, H⁺, adenosine) cause local vasodilation that overrides sympathetic vasoconstriction.
+Incorrect (A): Skeletal muscle lacks significant parasympathetic vasodilation.
+Incorrect (C): Sodium does not drive acute vascular dilation.
+Incorrect (D): Angiogenesis is chronic, not acute.
+Incorrect (E): Capillary density does not decrease during exercise.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: Why does the right ventricular coronary flow differ from the left ventricular coronary flow during systole?
+A. Right ventricle lacks coronary circulation
+B. Lower systolic pressure in right ventricle causes less vascular compression
+C. Right ventricle contracts only during diastole
+D. Right coronary arteries are non-contractile vessels
+E. Left ventricle has no systolic coronary perfusion at all times
+Correct Option: B
+Explanation:
+Correct (B): Lower right ventricular systolic pressure results in less intramyocardial vessel compression, allowing better systolic flow.
+Incorrect (A): The right ventricle does have coronary circulation.
+Incorrect (C): Right ventricle contracts in systole.
+Incorrect (D): Coronary arteries are not uniquely non-contractile.
+Incorrect (E): Left ventricle still receives some diastolic perfusion.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: What is the physiological basis of angina pectoris during myocardial ischemia?
+A. Vertebral bone inflammation
+B. Accumulation of acidic metabolites stimulating pain fibers
+C. Respiratory alkalosis from hyperventilation
+D. Parasympathetic-induced coronary spasm exclusively
+E. Skeletal muscle rupture of thoracic wall
+Correct Option: B
+Explanation:
+Correct (B): Ischemia leads to accumulation of lactate, adenosine, and H⁺ stimulating cardiac pain afferents.
+Incorrect (A): Bone inflammation is unrelated to angina.
+Incorrect (C): Alkalosis is not the pain mechanism.
+Incorrect (D): Angina is not exclusively parasympathetic spasm-driven.
+Incorrect (E): Thoracic muscle rupture causes somatic, not ischemic, pain.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: Why does sympathetic activation during exercise increase coronary blood flow despite vasoconstriction in other organs?
+A. Beta-1 stimulation increases oxygen demand triggering metabolic vasodilation
+B. Direct norepinephrine-induced coronary venous dilation
+C. Complete inhibition of coronary adrenergic receptors
+D. Epinephrine blocks aortic inflow to coronary arteries
+E. Parasympathetic dominance overrides sympathetic effects
+Correct Option: A
+Explanation:
+Correct (A): β1-mediated increased cardiac work raises oxygen demand, producing metabolic vasodilation that overrides sympathetic constriction.
+Incorrect (B): Coronary regulation is not primarily via venous dilation.
+Incorrect (C): Receptors are not fully inhibited during exercise.
+Incorrect (D): Coronary inflow is not blocked by epinephrine.
+Incorrect (E): Sympathetic, not parasympathetic, dominates during exercise.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+
+Question: Why is the subendocardial layer of the left ventricle most vulnerable to infarction?
+A. It lacks arterial supply entirely
+B. It experiences maximal systolic compression reducing perfusion
+C. It uses fatty acids exclusively for metabolism
+D. It is supplied only by venous blood
+E. It has the highest oxygen reserve capacity
+Correct Option: B
+Explanation:
+Correct (B): Subendocardial vessels are compressed most during systole, making them highly susceptible to ischemia.
+Incorrect (A): It has arterial supply, not absence of it.
+Incorrect (C): Metabolic substrate choice is not the key vulnerability factor.
+Incorrect (D): It receives arterial blood supply.
+Incorrect (E): It has the lowest, not highest, oxygen reserve.
+Tags: Moderate, Physiology, Cardiovascular System, Coronary & Special Circulations
+
+--------------------------------------------------
+

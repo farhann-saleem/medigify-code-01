@@ -1,0 +1,136 @@
+Question 2: Which antihistamine drug should not be prescribed to individuals working in jobs in which wakefulness is critical:
+  A. cimetidine
+  B. diphenhydramine
+  C. famotidine
+  D. nizatidine
+  E. ranitidine
+  Correct Option: B
+  Explanation:
+ •	Correct (B): diphenhydramine causes marked CNS sedation due to first-generation H1 blockade.
+ •	Incorrect (A): cimetidine is an H2 blocker, not a sedating H1 antihistamine.
+ •	Incorrect (C): famotidine is an H2 receptor antagonist with minimal CNS effects.
+ •	Incorrect (D): nizatidine is an H2 blocker and does not impair wakefulness.
+ •	Incorrect (E): ranitidine is an H2 blocker and is not sedating like H1 antihistamines.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 4: Which of the following is a recognized adverse effect of cimetidine:
+  A. blurred vision
+  B. diarrhea
+  C. gynecomastia
+  D. p450 hepatic enzyme inhibition
+  E. sedation
+  Correct Option: D
+  Explanation:
+ •	Correct (D): cimetidine inhibits hepatic cytochrome P450 enzymes, leading to clinically significant drug interactions.
+ •	Incorrect (A): blurred vision is not a characteristic adverse effect of cimetidine.
+ •	Incorrect (B): diarrhea is not a prominent or defining adverse effect.
+ •	Incorrect (C): gynecomastia occurs but is not the keyed option here.
+ •	Incorrect (E): sedation is not typical for H2 receptor antagonists like cimetidine.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 6: A 20-year-old woman is taking diphenhydramine for severe hay fever. Which adverse effect is she most likely to report:
+  A. muscarinic increase in bladder tone
+  B. nausea
+  C. nervousness and anxiety
+  D. sedation
+  E. urinary retention
+  Correct Option: D
+  Explanation:
+ •	Correct (D): diphenhydramine commonly causes sedation due to CNS H1 receptor blockade.
+ •	Incorrect (A): it decreases bladder tone via antimuscarinic effects rather than increasing it.
+ •	Incorrect (B): nausea is not the characteristic limiting adverse effect.
+ •	Incorrect (C): nervousness is more associated with stimulants, not first-generation antihistamines.
+ •	Incorrect (E): urinary retention may occur but is less consistent than sedation.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 8: What is the mechanism of action of diphenhydramine:
+  A. forms histamine-drug complex preventing receptor binding
+  B. inverse agonism at h1 receptor
+  C. prevents binding of histamine to h1 receptor
+  D. prevents binding of histamine to h2 receptor
+  E. prevents release of histamine from storage sites
+  Correct Option: C
+  Explanation:
+ •	Correct (C): diphenhydramine competitively blocks H1 receptors, preventing histamine binding.
+ •	Incorrect (A): it does not neutralize histamine via drug complexes.
+ •	Incorrect (B): inverse agonism is conceptually correct but not the simplified exam mechanism.
+ •	Incorrect (D): it does not act on H2 receptors.
+ •	Incorrect (E): it does not prevent histamine release from mast cells.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 10: Which histamine receptor antagonist is known to enter the CNS readily and cause sedation:
+  A. cetirizine
+  B. chlorpheniramine
+  C. diphenhydramine
+  D. hydroxyzine
+  E. loratadine
+  Correct Option: D
+  Explanation:
+ •	Correct (D): hydroxyzine readily crosses the blood–brain barrier causing marked sedation.
+ •	Incorrect (A): cetirizine has limited CNS penetration and mild sedation.
+ •	Incorrect (B): chlorpheniramine is sedating but less prominently keyed here.
+ •	Incorrect (C): diphenhydramine is sedating but not the keyed option.
+ •	Incorrect (E): loratadine is minimally sedating.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 14: Which drug is used in the treatment of urticaria:
+  A. antihistamine
+  B. beta blockers
+  C. epinephrine
+  D. montelukast
+  E. steroid
+  Correct Option: A
+  Explanation:
+ •	Correct (A): antihistamines block H1-mediated histamine effects responsible for urticaria.
+ •	Incorrect (B): beta blockers have no role in allergic skin reactions.
+ •	Incorrect (C): epinephrine is reserved for anaphylaxis, not routine urticaria.
+ •	Incorrect (D): montelukast is leukotriene receptor antagonist, not first-line urticaria therapy.
+ •	Incorrect (E): steroids are adjuncts, not primary immediate therapy.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 15: Which drug is used in treatment of hay fever:
+  A. antihistamine
+  B. beta blockers
+  C. epinephrine
+  D. montelukast
+  E. steroid
+  Correct Option: A
+  Explanation:
+ •	Correct (A): antihistamines block H1 receptors to relieve allergic rhinitis symptoms.
+ •	Incorrect (B): beta blockers are unrelated to allergic conditions.
+ •	Incorrect (C): epinephrine is for emergency anaphylaxis, not hay fever.
+ •	Incorrect (D): montelukast is adjunctive, not primary therapy.
+ •	Incorrect (E): steroids are used in severe or persistent cases, not first-line.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+
+Question 17: Antihistamines are not used in treatment of:
+  A. angioedema
+  B. asthma
+  C. hay fever
+  D. urticaria
+  E. wheeze
+  Correct Option: B
+  Explanation:
+ •	Correct (B): antihistamines are ineffective in bronchial asthma as they do not reverse bronchoconstriction.
+ •	Incorrect (A): angioedema may respond partially to antihistamines.
+ •	Incorrect (C): hay fever is a standard indication for antihistamines.
+ •	Incorrect (D): urticaria is commonly treated with H1 blockers.
+ •	Incorrect (E): wheeze may occur in allergy, but antihistamines are not primary therapy for bronchospasm.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-histamines
+
+--------------------------------------------------
+

@@ -1,0 +1,267 @@
+
+Question 10
+Question: In resting cells, the membrane potential is primarily determined by:
+A. Cl⁻ permeability alone
+B. Equal permeability of all ions
+C. High K⁺ permeability
+D. High Na⁺ permeability
+E. Na⁺/K⁺ ATPase alone
+Correct Option: C
+Explanation:
+Correct (C): The resting membrane potential is primarily determined by high K⁺ permeability through potassium leak channels.
+Incorrect (A): Cl⁻ alone does not determine resting potential.
+Incorrect (B): Membranes are not equally permeable to all ions.
+Incorrect (D): Resting Na⁺ permeability is relatively low.
+Incorrect (E): The Na⁺/K⁺ ATPase maintains gradients but is not the primary determinant.
+Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+
+Question 14
+Question: The driving force for ion movement through a membrane channel depends on:
+A. Concentration gradient alone
+B. Electrochemical gradient
+C. Electrical gradient alone
+D. Hydrostatic pressure gradient
+E. Osmotic gradient alone
+Correct Option: B
+Explanation:
+Correct (B): Ion movement depends on the combined electrochemical gradient, including concentration and electrical forces.
+Incorrect (A): Concentration gradient alone is incomplete.
+Incorrect (C): Electrical gradient alone is insufficient.
+Incorrect (D): Hydrostatic pressure is not the primary driving force.
+Incorrect (E): Osmotic gradients mainly determine water movement.
+Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+
+Question 18
+Question: Which of the following best describes the effect of membrane potential on ion movement?
+A. Electrochemical gradient
+B. Electrical gradient alone
+C. Osmotic gradient
+D. Pressure gradient
+E. Solute concentration gradient alone
+Correct Option: A
+Explanation:
+Correct (A): Membrane potential contributes to the electrochemical gradient, which determines ion movement.
+Incorrect (B): Electrical gradient alone ignores concentration differences.
+Incorrect (C): Osmotic gradient primarily affects water.
+Incorrect (D): Pressure gradient is not the principal determinant.
+Incorrect (E): Solute concentration gradient alone is incomplete.
+Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+### Question 2
+A researcher measures equilibrium potentials in a neuron. If intracellular K+ is 140 mM and extracellular K+ is 4 mM at 37°C, which statement best explains the significance of the calculated Nernst potential for K+?
+A. It indicates the voltage at which voltage-gated Na+ channels open
+B. It indicates the voltage at which voltage-gated K+ channels close
+C. It is the potential at which electrical and chemical gradients for K+ are equal and opposite
+D. It represents the maximum depolarization achievable during a typical neuronal action potential
+E. It represents the membrane potential when neuronal Na+ permeability equals K+ permeability
+**Correct Option: C**
+#### Explanation:
+ * **Correct (C)**: The Nernst potential determines the exact thermodynamic equilibrium point where the electrical driving force balances the chemical concentration force so it is the potential at which electrical and chemical gradients for K+ are equal and opposite.
+ * **Incorrect (A)**: The opening threshold of fast ion gates is a structural voltage-sensor attribute, not a value that indicates the voltage at which voltage-gated Na+ channels open.
+ * **Incorrect (B)**: Deactivation kinetics of potassium gates depend on absolute membrane voltage decay, not a value that indicates the voltage at which voltage-gated K+ channels close.
+ * **Incorrect (D)**: The positive peak overshoot of an active impulse approaches the sodium equilibrium potential instead, so it represents the maximum depolarization achievable during a typical neuronal action potential is false.
+ * **Incorrect (E)**: Equipotent permeability shifts the overall membrane voltage near 0\text{ mV} via Goldman dynamics, so it represents the membrane potential when neuronal Na+ permeability equals K+ permeability is incorrect.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+### Question 6
+A nerve exposed to a local anesthetic loses the ability to conduct impulses. According to its physiological mechanism, which process is primarily inhibited?
+A. Ca2+ influx through presynaptic terminals
+B. K+ diffusion through open leak channels
+C. K+ efflux through voltage-gated channels
+D. Na+ diffusion through voltage-gated channels
+E. Na+-K+ ATPase active transport activity
+**Correct Option: D**
+#### Explanation:
+ * **Correct (D)**: Local anesthetics reversibly bind and occlude the internal pores of active voltage-gated sodium channels, preventing Na+ diffusion through voltage-gated channels and blocking action potential propagation.
+ * **Incorrect (A)**: Synaptic transmitter release mechanisms at the terminal bouton depend on Ca2+ influx through presynaptic terminals, which is not the primary site of local anesthetic nerve blocks.
+ * **Incorrect (B)**: Standard resting background polarization is maintained via K+ diffusion through open leak channels, which remains unaffected by clinical doses of local anesthetics.
+ * **Incorrect (C)**: Repolarization profiles during an active spike require K+ efflux through voltage-gated channels, which is not the target of local anesthetic blockade.
+ * **Incorrect (E)**: Long-term ionic gradient maintenance via metabolic fuel usage relies on Na+-K+ ATPase active transport activity, which is not inhibited by these agents.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+### Question 8
+In an experiment, intracellular Na+ concentration is gradually increased without changing extracellular concentrations. Which of the following will occur according to the Nernst relationship?
+A. K+ equilibrium potential becomes more negative
+B. Na+ equilibrium potential becomes less positive
+C. Na+ equilibrium potential becomes more positive
+D. Resting membrane potential becomes independent of Na+
+E. Resting membrane potential becomes independent of K+
+**Correct Option: B**
+#### Explanation:
+ * **Correct (B)**: Increasing intracellular sodium concentration shrinks the concentration ratio (\text{Na}^+*{\text{out}} / \text{Na}^+*{\text{in}}) across the membrane, which mathematically dictates that the Na+ equilibrium potential becomes less positive.
+ * **Incorrect (A)**: Modifying sodium concentrations has no chemical impact on potassium ratios, meaning the K+ equilibrium potential becomes more negative is false.
+ * **Incorrect (C)**: Reducing the transmembrane concentration gradient causes a drop in equilibrium voltage, so the Na+ equilibrium potential becomes more positive is incorrect.
+ * **Incorrect (D)**: Membrane voltage profiles still incorporate relative sodium permeabilities via Goldman parameters, so resting membrane potential becomes independent of Na+ is false.
+ * **Incorrect (E)**: Background potassium conductance continues to exert primary control over the resting state, so resting membrane potential becomes independent of K+ is incorrect.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+### Question 14
+A nerve fiber is placed in a solution where extracellular Na+ concentration is markedly reduced but K+ concentration remains normal. What is the most likely immediate effect on resting membrane potential?
+A. Complete loss of membrane potential
+B. Marked neuronal depolarization
+C. Marked neuronal hyperpolarization
+D. Minimal change in membrane potential
+E. Moderate oscillating depolarization
+**Correct Option: D**
+#### Explanation:
+ * **Correct (D)**: Because the resting membrane has very low permeability to sodium ions, altering the external sodium concentration produces a minimal change in membrane potential at rest.
+ * **Incorrect (A)**: Potassium diffusion continues to maintain the baseline negative charge, preventing a complete loss of membrane potential.
+ * **Incorrect (B)**: Reducing external sodium lowers its inward driving force, which would cause slight hyperpolarization rather than a marked neuronal depolarization.
+ * **Incorrect (C)**: Because resting sodium conductance is already extremely low, reducing the sodium gradient produces a negligible shift rather than a marked neuronal hyperpolarization.
+ * **Incorrect (E)**: Unchanging potassium dynamics ensure the resting potential remains stable, ruling out a moderate oscillating depolarization.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+### Question 20
+A patient with Guillain-Barré syndrome develops progressive muscle weakness due to demyelination of peripheral nerves. Which conduction abnormality is most responsible for the weakness?
+A. Increased neurotransmitter release at synapsing terminals
+B. Increased absolute refractory period of axonal membranes
+C. Loss of saltatory conduction along myelinated axons
+D. Reduced Na+ channel activation at the postsynaptic membrane
+E. Reduced K+ channel activation at the postsynaptic membrane
+**Correct Option: C**
+#### Explanation:
+ * **Correct (C)**: Demyelination forces the action potential to propagate continuously along the axon rather than jumping between nodes, causing a loss of saltatory conduction along myelinated axons that slows or blocks nerve impulses.
+ * **Incorrect (A)**: Demyelination disrupts action potential propagation along the axon, which decreases rather than causing an increased neurotransmitter release at synapsing terminals.
+ * **Incorrect (B)**: Structural demyelination slows conduction velocity and causes conduction block, rather than causing an increased absolute refractory period of axonal membranes.
+ * **Incorrect (D)**: This pathology affects axonal propagation in the nerve fiber, not a reduced Na+ channel activation at the postsynaptic membrane of the neuromuscular junction.
+ * **Incorrect (E)**: The symptoms of Guillain-Barré syndrome are caused by axonal conduction failure, not a reduced K+ channel activation at the postsynaptic membrane.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+Question 24: A nerve fiber is stimulated repeatedly at very high frequency but fails to generate another action potential immediately after the first. Which physiological period explains this:
+A. absolute refractory period
+B. accommodation period
+C. latent period
+D. relative refractory period
+E. supranormal period
+Correct Option: A
+Explanation:
+ * Correct (A): The absolute refractory period is the time during which a second action potential cannot be elicited, no matter how strong the stimulus, because voltage-gated Na+ channels are inactivated.
+ * Incorrect (B): The accommodation period describes the slow adjustment of the threshold during subthreshold depolarization, not the complete loss of excitability post-excitation.
+ * Incorrect (C): The latent period is the brief delay between the application of a stimulus and the first measurable sign of a response.
+ * Incorrect (D): The relative refractory period allows a second action potential to be generated, but it requires a stronger-than-normal stimulus due to partial channel recovery.
+ * Incorrect (E): The supranormal period is a transient phase of hyper-excitability where a weaker stimulus can trigger an action potential, the exact opposite of failing to fire.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+Question 31: The plateau phase of cardiac muscle action potential is mainly due to:
+A. increased chloride permeability
+B. opening of fast Na+ channels
+C. prolonged opening of slow Ca2+–Na+ channels
+D. rapid efflux of K+ ions
+E. sustained closure of Ca2+ channels
+Correct Option: C
+Explanation:
+ * Correct (C): The plateau phase (Phase 2) is maintained by a balance of currents, sustained primarily by the prolonged opening of slow Ca2+–Na+ channels (L-type calcium channels) allowing calcium influx.
+ * Incorrect (A): An increased chloride permeability contributes to the brief, early repolarization notch (Phase 1), not the sustained plateau.
+ * Incorrect (B): The opening of fast Na+ channels is responsible for the rapid upstroke (Phase 0) of the cardiac action potential, which precedes the plateau.
+ * Incorrect (D): A rapid efflux of K+ ions would cause rapid repolarization of the membrane, which opposes the maintenance of a stable plateau phase.
+ * Incorrect (E): A sustained closure of Ca2+ channels would completely abolish the calcium influx needed to offset potassium efflux, preventing a plateau from forming.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+Question 32: The refractory period of cardiac muscle is long mainly because of:
+A. absence of T-tubules
+B. increased K+ efflux
+C. plateau phase caused by Ca2+ influx
+D. slow Na+ channel activation
+E. voltage-gated Cl– influx
+Correct Option: C
+Explanation:
+ * Correct (C): The prolonged plateau phase caused by Ca2+ influx keeps the membrane depolarized for a long duration, keeping voltage-gated Na+ channels inactivated and lengthening the refractory period.
+ * Incorrect (A): The absence of T-tubules is factually incorrect for ventricular myocytes, which possess an extensive T-tubule network, and it has no role in channel-mediated refractory timing.
+ * Incorrect (B): An increased K+ efflux speeds up repolarization, which would shorten the action potential duration and shorten the refractory period.
+ * Incorrect (D): Fast Na+ channels activate instantly during Phase 0; their slow inactivation gate recovery, not slow activation, dictates the refractory period.
+ * Incorrect (E): A voltage-gated Cl– influx is a minor, transient event in early repolarization and does not drive the prolonged cardiac refractory state.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+Question 35: In Multiple sclerosis, conduction of nerve impulses is slowed primarily because:
+A. increased myelin thickness
+B. increased Na+ channel density
+C. loss of saltatory conduction
+D. reduced synaptic transmission
+E. sustained hyperpolarization of axons
+Correct Option: C
+Explanation:
+ * Correct (C): Myelin loss strips the insulation from axons, leading to a loss of saltatory conduction and forcing the impulse to move via slow, continuous propagation over uninsulated membranes.
+ * Incorrect (A): An increased myelin thickness would insulate the axon better and speed up conduction, which is the exact opposite of what occurs in MS pathology.
+ * Incorrect (B): An increased Na+ channel density occurs downstream as a compensatory mechanism in demyelinated zones to prevent total conduction block, not the cause of the slowing.
+ * Incorrect (D): While downstream signaling is altered, conduction along the nerve fiber axon is slowed primarily due to the mechanical loss of myelin insulation rather than reduced synaptic transmission.
+ * Incorrect (E): The breakdown of myelin causes current leak that prevents the axon from reaching threshold easily, rather than inducing a state of sustained hyperpolarization of axons.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+Question 40: A patient with Multiple sclerosis develops muscle weakness despite normal neuromuscular junction function. The most likely cause is:
+A. blockade of acetylcholine receptors
+B. failure of Ca2+ binding to troponin
+C. increased acetylcholine breakdown
+D. reduced conduction velocity in motor pathways
+E. upregulation of acetylcholinesterase activity
+Correct Option: D
+Explanation:
+ * Correct (D): The muscle weakness stems from central demyelination, which causes a reduced conduction velocity in motor pathways (corticospinal tracts), diminishing the voluntary motor signals reaching the periphery.
+ * Incorrect (A): A blockade of acetylcholine receptors is the mechanism of Myasthenia gravis and is ruled out by the finding of normal neuromuscular junction function.
+ * Incorrect (B): The intracellular machinery of the muscle, including the failure of Ca2+ binding to troponin, remains structurally intact and functional in patients with Multiple sclerosis.
+ * Incorrect (C): An increased acetylcholine breakdown is a synaptic clearance pathology that does not occur as a consequence of central demyelinating lesions.
+ * Incorrect (E): An upregulation of acetylcholinesterase activity is not part of the MS disease process, as the pathological changes are confined to the central oligodendrocytes and myelin sheaths.
+   Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+--------------------------------------------------
+
+
+Question: Mitochondria?
+ A. Are self-replicative
+ B. Contain RNA only
+ C. Do not have a membrane
+ D. Function with smooth endoplasmic reticulum for protein synthesis
+ E. Lack ribosomes entirely
+ Correct Option: A
+ Explanation:
+ • Correct (A): Are self-replicative — mitochondria divide independently via binary fission.
+ • Incorrect (B): Contain RNA only — mitochondria contain both DNA and RNA.
+ • Incorrect (C): Do not have a membrane — mitochondria have double membranes.
+ • Incorrect (D): Function with smooth endoplasmic reticulum for protein synthesis — protein synthesis occurs with rough ER, not smooth ER.
+ • Incorrect (E): Lack ribosomes entirely — mitochondria contain 70S ribosomes.
+ Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+
+Question: Nitric oxide (NO) acts through which of the following second messenger systems?
+ A. cAMP
+ B. cGMP
+ C. IP₃
+ D. JAK–STAT
+ E. DAG
+ Correct Option: B
+ Explanation:
+ • Correct (B): cGMP — NO activates guanylyl cyclase, increasing cGMP.
+ • Incorrect (A): cAMP — mediated by adenylate cyclase, not NO.
+ • Incorrect (C): IP₃ — generated via phospholipase C, not NO.
+ • Incorrect (D): JAK–STAT — transcription pathway, not NO signaling.
+ • Incorrect (E): DAG — lipid messenger, not NO pathway.
+ Tags: Moderate, Physiology, Foundation, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+

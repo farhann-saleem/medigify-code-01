@@ -1,0 +1,238 @@
+Question: In relation to nucleic acid which of the following statement is NOT correct:
+ A. base pairing occurs between a purine and pyrimidine base.
+ B. guanine and cytosine are linked by two hydrogen bonds.
+ C. RNA is an unbranched linear polymer of ribonucleotides.
+ D. the sugar and phosphate groups play a structural role in DNA.
+ E. the two polynucleotide chains in DNA show opposite polarity.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Guanine and cytosine are linked by three hydrogen bonds, not two.
+ •	Incorrect (A): Purine-pyrimidine pairing is a fundamental feature of DNA structure.
+ •	Incorrect (C): RNA is a linear polymer of ribonucleotides.
+ •	Incorrect (D): Sugar and phosphate groups form the structural backbone of DNA.
+ •	Incorrect (E): DNA strands run in opposite 5′→3′ directions.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: Nucleotides serve all of the following roles EXCEPT:
+ A. components of nucleic acids.
+ B. constituents of coenzymes.
+ C. physiological mediators.
+ D. structural components of membranes.
+ E. used as a source of energy.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Cellular membranes are primarily composed of lipids and proteins rather than nucleotides.
+ •	Incorrect (A): Nucleotides are the monomeric units of nucleic acids.
+ •	Incorrect (B): Many coenzymes contain nucleotide-derived structures.
+ •	Incorrect (C): cAMP and cGMP function as physiological mediators.
+ •	Incorrect (E): ATP and GTP serve as energy sources.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: All of the following are functions of nucleotides except:
+ A. act as a carrier of various groups, for example, methyl, S, etc.
+ B. act as high-energy compounds.
+ C. are used as coenzymes.
+ D. are used in protein biosynthesis as a source of energy.
+ E. take part in the maturation of collagen.
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Collagen maturation depends mainly on vitamin C-dependent hydroxylation reactions rather than nucleotide function.
+ •	Incorrect (A): Nucleotide derivatives transfer functional groups such as methyl groups.
+ •	Incorrect (B): ATP and GTP are high-energy compounds.
+ •	Incorrect (C): Several coenzymes contain nucleotide moieties.
+ •	Incorrect (D): GTP and ATP provide energy during protein synthesis.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: If the guanine content of a DNA molecule is 20% of the total bases, the thymine content will be?
+ A. 10%
+ B. 20%
+ C. 30%
+ D. 40%
+ E. 50%
+ Correct Option: C
+ Explanation:
+ •	Correct (C): By Chargaff’s rule, guanine equals cytosine; if guanine is 20%, cytosine is also 20%, leaving 60% for adenine and thymine, so thymine is 30%.
+ •	Incorrect (A): 10% would require adenine and thymine together to account for only 20% of bases.
+ •	Incorrect (B): 20% would leave an unequal distribution between adenine and thymine.
+ •	Incorrect (D): 40% would make total bases exceed 100%.
+ •	Incorrect (E): 50% is impossible because adenine must equal thymine.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: Which of the following is correct regarding DNA?
+ A. Adenine pairs with cytosine.
+ B. DNA is absent in prokaryotic cells.
+ C. DNA is bound to protein histones.
+ D. Deoxyribonucleotides are linked by 2′,5′ phosphodiester bonds.
+ E. The base-pairing rule was proposed by Watson and Crick.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Eukaryotic DNA is packaged around histone proteins to form chromatin.
+ •	Incorrect (A): Adenine pairs with thymine, not cytosine.
+ •	Incorrect (B): Prokaryotic cells contain DNA.
+ •	Incorrect (D): DNA contains 3′,5′ phosphodiester bonds.
+ •	Incorrect (E): Base-pairing ratios were established by Chargaff.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: The following is true regarding denaturation (melting) of DNA EXCEPT:
+ A. At Tm, half of the DNA is denatured.
+ B. DNA is denatured when hydrogen bonds break in the molecule.
+ C. Denatured DNA can be renatured by cooling.
+ D. The absorbance of DNA is decreased by denaturation.
+ E. Tm is strongly influenced by the composition of DNA.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): DNA denaturation increases UV absorbance at 260 nm due to the hyperchromic effect.
+ •	Incorrect (A): Tm is defined as the temperature at which half the DNA is denatured.
+ •	Incorrect (B): Denaturation involves disruption of hydrogen bonds.
+ •	Incorrect (C): Complementary strands can reassociate on cooling.
+ •	Incorrect (E): GC-rich DNA has a higher melting temperature.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: A molecule of DNA having high GC content will have:
+ A. basal melting temperature
+ B. balanced melting temperature
+ C. high melting temperature
+ D. low melting temperature
+ E. optimal melting temperature
+ Correct Option: C
+ Explanation:
+ •	Correct (C): GC pairs form 3 hydrogen bonds, increasing thermal stability and melting temperature.
+ •	Incorrect (A): Basal is non-specific and not thermodynamically defined.
+ •	Incorrect (B): “Balanced” is not a biochemical thermodynamic category.
+ •	Incorrect (D): Low Tm is characteristic of AT-rich DNA, not GC-rich DNA.
+ •	Incorrect (E): “Optimal” is subjective, not a measurable DNA property.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: Which of the following sequences is complementary to the DNA sequence 5’-AGTCCGA-3’:
+ A. 3’-TCAGGCT-5’
+ B. 3’-TCGGACTT-5’
+ C. 5’-AAGUCCCA-3’
+ D. 5’-CCTGAATG-3’
+ E. 5’-TTCAGGCT-3’
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Antiparallel base pairing gives exact complement 3’-TCAGGCT-5’.
+ •	Incorrect (B): Contains mismatched terminal bases, not fully complementary.
+ •	Incorrect (C): Contains RNA base uracil and wrong strand orientation.
+ •	Incorrect (D): Misaligned sequence with incorrect base pairing pattern.
+ •	Incorrect (E): Written in incorrect orientation for complement strand.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: All of the following statements are true about cAMP EXCEPT:
+ A. activates steroid biosynthesis steps
+ B. acts as a second messenger
+ C. inhibits protein kinases
+ D. increased glycogenolysis
+ E. modulates transcription and translation in protein biosynthesis
+ Correct Option: C
+ Explanation:
+ •	Correct (C): cAMP activates PKA, it does not inhibit protein kinases.
+ •	Incorrect (A): cAMP stimulates steroidogenesis via PKA signaling.
+ •	Incorrect (B): It is a classic intracellular second messenger.
+ •	Incorrect (D): Promotes glycogenolysis via phosphorylase activation.
+ •	Incorrect (E): Regulates gene expression via phosphorylation cascades.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: Which of the following nucleotides serves as an “activated” intermediate in biochemical reactions:
+ A. all of the above
+ B. CDP-choline
+ C. GDP-mannose
+ D. UDP-glucuronic acid
+ E. none of the above
+ Correct Option: A
+ Explanation:
+ •	Correct (A): All listed nucleotide derivatives act as activated biosynthetic intermediates.
+ •	Incorrect (B): CDP-choline is incorrectly excluded if others are accepted.
+ •	Incorrect (C): GDP-mannose functions in glycoprotein synthesis.
+ •	Incorrect (D): UDP-glucuronic acid participates in conjugation pathways.
+ •	Incorrect (E): Incorrect since multiple valid activated forms exist.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: Pseudouridine, a modified base, is present in:
+ A. B-DNA
+ B. mRNA
+ C. rRNA
+ D. snRNA
+ E. tRNA
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Pseudouridine is a hallmark modified nucleoside in tRNA (TΨC loop).
+ •	Incorrect (A): B-DNA contains standard DNA bases, not modified RNA bases.
+ •	Incorrect (B): mRNA has minimal pseudouridine modification.
+ •	Incorrect (C): rRNA contains modifications but not primary pseudouridine localization.
+ •	Incorrect (D): snRNA has modifications but not the classic dominant site.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: A nucleosome is a:
+ A. denatured DNA
+ B. double-stranded DNA
+ C. double-stranded DNA with all histones
+ D. double-stranded DNA with all histones except H1
+ E. single-stranded DNA
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Nucleosome core = DNA wrapped around histone octamer without H1.
+ •	Incorrect (A): Denatured DNA is single-stranded, not chromatin.
+ •	Incorrect (B): DNA alone is not a nucleosome.
+ •	Incorrect (C): Includes H1, which is not part of core nucleosome.
+ •	Incorrect (E): Single-stranded DNA is not chromatin structure.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: Which of the following statements regarding a double-helical molecule of DNA is true:
+ A. all hydroxyl groups of pentoses are involved in linkages
+ B. bases are perpendicular to the axis
+ C. each strand has a parallel 5’ to 3’ direction
+ D. each strand is identical
+ E. each strand replicates itself
+ Correct Option: B
+ Explanation:
+ •	Correct (B): DNA bases are stacked perpendicular to helical axis in B-DNA.
+ •	Incorrect (A): Only 3′ and 5′ hydroxyls participate in phosphodiester bonds.
+ •	Incorrect (C): Strands are antiparallel, not parallel.
+ •	Incorrect (D): Strands are complementary, not identical.
+ •	Incorrect (E): Replication is enzymatic, not self-replicative.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+
+Question: A pentose with a 5’-phosphate group, a 2’-hydroxyl group, and a 1’-pyrimidine group describes which of the following structures:
+ A. cytidine monophosphate
+ B. cytosine
+ C. guanosine
+ D. thymidine
+ E. thymidine monophosphate
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Cytidine monophosphate is a ribonucleotide containing ribose (2′-OH), a pyrimidine base (cytosine), and a 5′ phosphate.
+ •	Incorrect (B): cytosine alone lacks both sugar and phosphate.
+ •	Incorrect (C): guanosine contains a purine base, not a pyrimidine.
+ •	Incorrect (D): thymidine is a deoxyribonucleoside lacking phosphate.
+ •	Incorrect (E): thymidine monophosphate has thymine (not cytosine) as its base.
+ Tags: Moderate, Biochemistry, Foundation, Nucleotides, DNA & RNA
+
+--------------------------------------------------
+

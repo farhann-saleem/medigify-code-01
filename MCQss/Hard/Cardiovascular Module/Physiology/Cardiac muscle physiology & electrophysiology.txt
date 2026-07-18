@@ -1,0 +1,18 @@
+Question 17
+During a cardiac surgical procedure, the patient's heart enters ventricular fibrillation. According to the biophysical principles of re-entry pathways (circus movements), which set of conditions directly promotes and sustains ventricular fibrillation?
+a. lengthened pathway length, decreased conduction velocity, and shortened refractory period
+b. shortened pathway length, increased conduction velocity, and prolonged refractory period
+c. shortened pathway length, reduced conduction velocity, and prolonged refractory period
+d. total block of calcium influx combined with accelerated sodium pump activity
+e. uniform conduction velocity with complete absence of refractory recovery
+Correct Option: a
+Explanation:
+Correct (a): Lengthened pathway length, decreased conduction velocity, and shortened refractory period favor sustained re-entry pathways (circus movements).
+Incorrect (b): Increased conduction velocity and prolonged refractory period suppress re-entry.
+Incorrect (c): A shortened pathway length reduces the likelihood of maintaining a re-entry circuit.
+Incorrect (d): Calcium influx blockade and sodium pump activity do not define the classic requirements for ventricular fibrillation.
+Incorrect (e): Re-entry requires recovery of excitability rather than complete absence of refractory recovery.
+Tags: Hard, Physiology, Cardiovascular System, Cardiac Muscle Physiology & Electrophysiology
+
+--------------------------------------------------
+

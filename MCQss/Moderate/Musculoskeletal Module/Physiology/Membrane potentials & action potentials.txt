@@ -1,0 +1,193 @@
+﻿Question
+A neuron is perfused with a solution in which the extracellular K+ concentration is increased from 4 mM to 8 mM while other ions remain constant. According to membrane physiology described in Guyton & Hall, what is the most immediate effect on the resting membrane potential:
+A. Depolarization due to reduced K+ diffusion gradient.
+B. Depolarization due to reversal of the Na+-K+ pump.
+C. Hyperpolarization due to activation of Na+-K+ pump.
+D. Hyperpolarization due to increased K+ efflux from the cell.
+E. No change because Na+ permeability dominates membrane potential.
+Correct Option: A
+Explanation:
+Correct (A): Increasing extracellular K+ concentration narrows the chemical gradient between the inside and outside of the cell, which limits potassium exit and drives the resting membrane potential toward a more positive value.
+Incorrect (B): The phrase "depolarization due to reversal of the Na+-K+ pump" is incorrect because an elevated extracellular potassium level does not cause this primary active transporter to run backward.
+Incorrect (C): The phrase "hyperpolarization due to activation of Na+-K+ pump" is incorrect because reducing the potassium concentration gradient causes the cell to become more positive, not more negative.
+Incorrect (D): The phrase "hyperpolarization due to increased K+ efflux from the cell" is incorrect because a higher external potassium concentration decreases the driving force for potassium exit, rather than increasing it.
+Incorrect (E): The phrase "no change because Na+ permeability dominates membrane potential" is incorrect because potassium permeability, not sodium permeability, dictates the resting state of the membrane.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+A patient presents with severe hypokalemia. Which of the following changes in neuronal physiology is most likely according to Guyton & Hall?
+A. Resting membrane potential becomes less negative, increasing excitability
+B. Resting membrane potential becomes less negative, maintaining excitability
+C. Resting membrane potential becomes more negative, decreasing excitability
+D. Resting membrane potential becomes more negative, increasing excitability
+E. Resting membrane potential remains entirely unchanged, decreasing excitability
+Correct Option: C
+Explanation:
+Correct (C): A drop in extracellular potassium widens the concentration gradient across the membrane, causing more potassium to leak out of the neuron and pulling the resting potential further away from the activation threshold.
+Incorrect (A): The phrase "resting membrane potential becomes less negative, increasing excitability" is incorrect because hypokalemia hyperpolarizes the membrane, making it more negative rather than less negative.
+Incorrect (B): The phrase "resting membrane potential becomes less negative, maintaining excitability" is incorrect because a lower extracellular potassium concentration drives the potential to a deeper negative state.
+Incorrect (D): The phrase "resting membrane potential becomes more negative, increasing excitability" is incorrect because moving the baseline potential further below threshold reduces the likelihood of firing an action potential.
+Incorrect (E): The phrase "resting membrane potential remains entirely unchanged, decreasing excitability" is incorrect because the resting potential is highly sensitive to changes in the extracellular potassium concentration.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+A nerve exposed to a local anesthetic loses the ability to conduct impulses. According to its physiological mechanism, which process is primarily inhibited:
+A. Ca2+ influx through voltage-gated presynaptic terminals.
+B. Cl- influx through ionotropic ligand-gated channels.
+C. K+ diffusion through background resting leak channels.
+D. Na+ diffusion through voltage-gated sodium channels.
+E. Na+-K+ ATPase primary active transport pump activity.
+Correct Option: D
+Explanation:
+Correct (D): Local anesthetics cross the axonal membrane and bind to the internal pores of voltage-gated sodium channels, preventing the rapid influx of sodium required to initiate and propagate action potentials.
+Incorrect (A): The phrase "Ca2+ influx through voltage-gated presynaptic terminals" is incorrect because this process governs neurotransmitter release at the synapse rather than impulse propagation along the axon cylinder.
+Incorrect (B): The phrase "Cl- influx through ionotropic ligand-gated channels" is incorrect because it describes inhibitory synaptic transmission mediated by receptors like GABA, which is not the target of local anesthetics.
+Incorrect (C): The phrase "K+ diffusion through background resting leak channels" is incorrect because resting potassium pathways remain functional in the presence of standard clinical doses of local anesthetics.
+Incorrect (E): The phrase "Na+-K+ ATPase primary active transport pump activity" is incorrect because local anesthetics do not target the metabolic machinery that maintains long-term ion concentration gradients.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+In an experiment, intracellular Na+ concentration is gradually increased without changing extracellular concentrations. Which of the following will occur according to the Nernst relationship?
+A. K+ equilibrium potential becomes significantly more negative
+B. Na+ equilibrium potential becomes significantly less positive
+C. Na+ equilibrium potential becomes significantly more positive
+D. Na+ equilibrium potential remains completely unchanged from normal
+E. Resting membrane potential becomes entirely independent of Na+
+Correct Option: B
+Explanation:
+Correct (B): Elevating internal sodium levels shrinks the concentration ratio between the outside and inside of the cell, which mathematically reduces the electrical voltage needed to halt inward sodium movement.
+Incorrect (A): The phrase "K+ equilibrium potential becomes significantly more negative" is incorrect because shifting internal sodium parameters does not alter the potassium concentration gradient.
+Incorrect (C): The phrase "Na+ equilibrium potential becomes significantly more positive" is incorrect because narrowing the trans-membrane sodium ratio decreases the calculated Nernst potential instead of increasing it.
+Incorrect (D): The phrase "Na+ equilibrium potential remains completely unchanged from normal" is incorrect because the Nernst equation is directly dependent on the ratio of internal and external ion values.
+Incorrect (E): The phrase "Resting membrane potential becomes entirely independent of Na+" is incorrect because resting voltages are always influenced by the standing concentration gradients of all permeable ions.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question 14
+A nerve fiber is placed in a solution where extracellular Na+ concentration is markedly reduced but K+ concentration remains normal. What is the most likely immediate effect on resting membrane potential?
+A. Complete loss of the resting membrane potential
+B. Marked depolarization of the resting membrane potential
+C. Marked hyperpolarization of the resting membrane potential
+D. Minimal change in the baseline resting membrane potential
+E. Sustained oscillation of the resting membrane potential
+Correct Option: D
+Explanation:
+Correct (D): Because the resting neuronal membrane has a very low permeability to sodium ions, altering the external sodium concentration produces little immediate shift in the baseline resting voltage.
+Incorrect (A): The phrase "Complete loss of the resting membrane potential" is incorrect because the resting voltage is maintained by the potassium concentration gradient, which remains undisturbed.
+Incorrect (B): The phrase "Marked depolarization of the resting membrane potential" is incorrect because reducing external sodium drops the driving force for sodium entry, which would tend to cause a minor hyperpolarization rather than a large depolarization.
+Incorrect (C): The phrase "Marked hyperpolarization of the resting membrane potential" is incorrect because while the shift is technically hyperpolarizing, the low resting conductance of sodium makes this voltage change minuscule rather than marked.
+Incorrect (E): The phrase "Sustained oscillation of the resting membrane potential" is incorrect because altering steady-state extracellular ion pools does not introduce the dynamic feedback loops required to generate electrical oscillations.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question
+A researcher calculates the Nernst potential for K+ at 37°C and obtains a value of approximately –94 mV. Which assumption is essential for this calculation?
+A. Active transport mechanisms are entirely absent from the membrane
+B. Electrical gradient across the cellular membrane is completely zero
+C. Equal permeability exists for both sodium and potassium ions
+D. Membrane is selectively permeable only to intracellular potassium ions
+E. Temperature of the surrounding fluid remains at absolute zero
+Correct Option: D
+Explanation:
+Correct (D): The Nernst equation is valid only when calculating the equilibrium state of a single specific ion across a boundary that allows only that specific ion species to pass.
+Incorrect (A): The phrase "Active transport mechanisms are entirely absent from the membrane" is incorrect because active transport systems are necessary to establish the underlying concentration differences that the Nernst equation measures.
+Incorrect (B): The phrase "Electrical gradient across the cellular membrane is completely zero" is incorrect because the Nernst value identifies the precise balance point where a non-zero electrical gradient perfectly counteracts a chemical gradient.
+Incorrect (C): The phrase "Equal permeability exists for both sodium and potassium ions" is incorrect because introducing a second permeable ion like sodium requires using the multi-ion Goldman equation instead of the single-ion Nernst formula.
+Incorrect (E): The phrase "Temperature of the surrounding fluid remains at absolute zero" is incorrect because the equation incorporates absolute temperature as a direct multiplier, which would reduce the final potential to zero millivolts if set to absolute zero.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: A patient with Guillain-Barré syndrome develops progressive muscle weakness due to demyelination of peripheral nerves. Which conduction abnormality is most responsible for the weakness?
+A. Increased neurotransmitter release
+B. Increased refractory period
+C. Loss of saltatory conduction
+D. Reduced potassium channel inactivation
+E. Reduced Na⁺ channel activation at synapse
+Correct Option: C
+Explanation:
+Correct (C): Loss of saltatory conduction occurs when myelin loss prevents the action potential from jumping between nodes of Ranvier, causing marked slowing or blockage of nerve impulses.
+Incorrect (A): Increased neurotransmitter release would enhance or maintain synaptic transmission rather than causing progressive muscle weakness.
+Incorrect (B): Increased refractory period impairs high-frequency firing but is not the primary immediate direct driver of the initial failure of signal propagation seen in acute peripheral demyelination.
+Incorrect (D): Reduced potassium channel inactivation would prolong the action potential rather than causing the conduction failure typical of demyelination.
+Incorrect (E): Reduced Na⁺ channel activation at synapse describes a chemical synaptic transmission failure rather than an axonal conduction defect from peripheral demyelination.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: During the relative refractory period of an action potential, which ionic condition is primarily responsible for reduced excitability?
+A. Complete K⁺ channel inactivation causing depolarization
+B. Complete Na⁺ channel inactivation
+C. Increased Cl⁻ permeability causing depolarization
+D. Increased K⁺ permeability causing hyperpolarization
+E. Persistent Na⁺ channel opening causing depolarization
+Correct Option: D
+Explanation:
+Correct (D): Increased K⁺ permeability causing hyperpolarization moves the membrane potential further away from the firing threshold, requiring a stronger stimulus to elicit a response.
+Incorrect (A): Complete K⁺ channel inactivation causing depolarization would increase excitability rather than creating a refractory state.
+Incorrect (B): Complete Na⁺ channel inactivation defines the absolute refractory period, whereas during the relative refractory period, some sodium channels have already recovered.
+Incorrect (C): Increased Cl⁻ permeability causing depolarization is factually incorrect because chloride influx hyperpolarizes rather than depolarizes the membrane.
+Incorrect (E): Persistent Na⁺ channel opening causing depolarization would sustain an excited or depolarized state rather than explaining the reduced excitability of the relative refractory period.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: In Multiple sclerosis, neurological deficits mainly occur due to:
+A. Degeneration of skeletal muscle fibers
+B. Demyelination of central nervous system neurons
+C. Destruction of neuromuscular junctions
+D. Excess acetylcholine breakdown
+E. Hypertrophy of peripheral myelin sheaths
+Correct Option: B
+Explanation:
+​Correct (B): Demyelination of central nervous system neurons impairs inflammatory-mediated white matter tracts in the brain and spinal cord, causing diverse neurological deficits.
+​Incorrect (A): Degeneration of skeletal muscle fibers describes primary myopathies rather than the central demyelinating pathology characteristic of Multiple sclerosis.
+​Incorrect (C): Destruction of neuromuscular junctions is the hallmark mechanism of Myasthenia gravis, not Multiple sclerosis.
+​Incorrect (D): Excess acetylcholine breakdown is an enzymatic feature unrelated to the primary autoimmune attack on myelin found in Multiple sclerosis.
+​Incorrect (E): Hypertrophy of peripheral myelin sheaths is factually incorrect, as Multiple sclerosis destroys myelin and spares the peripheral nervous system.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: In Multiple sclerosis, conduction of nerve impulses is slowed primarily because:
+A. Increased myelin thickness
+B. Increased Na⁺ channel density
+C. Loss of saltatory conduction
+D. Reduced refractory periods
+E. Reduced synaptic transmission
+Correct Option: C
+Explanation:
+​Correct (C): Loss of saltatory conduction forces the electrical signal to travel continuously across bare, uninsulated segments of axonal membrane that lack appropriate channel densities, slowing conduction velocity.
+​Incorrect (A): Increased myelin thickness would accelerate or optimize impulse propagation rather than slowing down nerve conduction.
+​Incorrect (B): Increased Na⁺ channel density along demyelinated segments is an adaptive mechanism to prevent conduction block, not the primary cause of slowing.
+​Incorrect (D): Reduced refractory periods would allow a faster maximum firing frequency rather than slowing down individual impulse propagation velocity.
+​Incorrect (E): Reduced synaptic transmission describes a synaptic defect, whereas the slowing in Multiple sclerosis is fundamentally a pre-synaptic axonal conduction pathology.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+
+​Question: Compared with Myasthenia gravis, Multiple sclerosis primarily affects:
+A. Central nervous system pathways
+B. Muscle contractile proteins
+C. Neuromuscular junction
+D. Peripheral nerves
+E. Postsynaptic receptors
+Correct Option: A
+Explanation:
+​Correct (A): Central nervous system pathways are uniquely targeted by Multiple sclerosis, whereas Myasthenia gravis targets the peripheral neuromuscular apparatus.
+​Incorrect (B): Muscle contractile proteins are affected in distinct intrinsic muscle diseases, not in either Myasthenia gravis or Multiple sclerosis.
+​Incorrect (C): Neuromuscular junction is the anatomical site of pathology for Myasthenia gravis, contrasting sharply with Multiple sclerosis.
+​Incorrect (D): Peripheral nerves are targeted by conditions like Guillain-Barré syndrome, but are strictly spared in Multiple sclerosis.
+​Incorrect (E): Postsynaptic receptors are the precise molecular targets destroyed by autoantibodies in Myasthenia gravis.
+Tags: Moderate, Physiology, Musculoskeletal, Membrane Potentials & Action Potentials
+
+--------------------------------------------------
+

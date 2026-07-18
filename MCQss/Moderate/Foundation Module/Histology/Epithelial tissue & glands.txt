@@ -1,0 +1,156 @@
+Question: Which example is false regarding the transitional epithelium:
+A. Collecting ducts
+B. Minor calyces
+C. Renal pelvis
+D. Ureter
+E. Urinary bladder
+Correct Option: A
+Explanation:
+Correct (A): Collecting ducts are lined by simple cuboidal epithelium changing to simple columnar epithelium near the papilla, making it the false statement regarding transitional epithelium distribution.
+Incorrect (B): Minor calyces represent the beginning of the urinary drainage pathway and are correctly lined by transitional epithelium.
+Incorrect (C): Renal pelvis forms the funnel-shaped expansion of the ureter and is correctly lined by distensible transitional epithelium.
+Incorrect (D): Ureter requires the distension capacity provided by its lining of transitional epithelium to transport urine drops safely.
+Incorrect (E): Urinary bladder is the classic location for transitional epithelium, allowing it to stretch significantly as it fills.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question: One type of epithelium may change into another by a process called:
+A. Amitosis
+B. Atrophy
+C. Metaplasia
+D. Meiosis
+E. Regeneration
+Correct Option: C
+Explanation:
+Correct (C): Metaplasia is the reversible conversion of one mature epithelial cell type into another mature epithelial cell type, typically as an adaptive response to chronic environmental stress.
+Incorrect (A): Amitosis refers to direct, non-mitotic cell division where the nucleus cleaves without spindle formation or chromosome condensation.
+Incorrect (B): Atrophy represents a decrease in cell size and mass due to loss of substance or lack of use, rather than a phenotype switch.
+Incorrect (D): Meiosis is a specialized form of cell division that reduces the chromosome number by half to produce haploid gametes.
+Incorrect (E): Regeneration involves the replacement of damaged or lost tissue by the proliferation of the same cell type to restore original architecture.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question: Epithelial lining of palatine tonsil:
+A. Pseudostratified columnar
+B. Simple columnar
+C. Simple cuboidal
+D. Stratified squamous keratinized
+E. Stratified squamous non-keratinized
+Correct Option: E
+Explanation:
+Correct (E): The palatine tonsil is located in the oropharynx and is lined by stratified squamous non-keratinized epithelium that invaginates deeply to form tonsillar crypts.
+Incorrect (A): Pseudostratified columnar epithelium lines the nasopharynx and pharyngeal tonsil (adenoid), but not the palatine tonsil.
+Incorrect (B): Simple columnar epithelium lines absorptive surfaces of the gut tube and is not suited for the protective needs of the oral cavity.
+Incorrect (C): Simple cuboidal epithelium lines secretory glands and ducts rather than the protective, debris-exposed surface of the tonsils.
+Incorrect (D): Stratified squamous keratinized epithelium lines external dry surfaces like skin, whereas the palatine tonsil is a moist internal surface.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question: Pseudostratified ciliated columnar epithelium doesn't line:
+A. Bronchi
+B. Larynx
+C. Main bronchus
+D. Respiratory bronchiole
+E. Trachea
+Correct Option: D
+Explanation:
+Correct (D): Respiratory bronchiole lines mark the transition to gas exchange and are lined by simple cuboidal epithelium containing club cells, completely lacking pseudostratified ciliated columnar epithelium.
+Incorrect (A): Bronchi preserve the respiratory mucosal architecture and are lined by pseudostratified ciliated columnar epithelium.
+Incorrect (B): Larynx is predominantly lined by pseudostratified ciliated columnar epithelium, except for the true vocal cords.
+Incorrect (C): Main bronchus mirrors the structural design of the trachea and is lined by pseudostratified ciliated columnar epithelium.
+Incorrect (E): Trachea is the classic archetype for pseudostratified ciliated columnar epithelium, functioning as a vital part of the mucociliary escalator.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question: The effect of smoking on respiratory epithelium is described by a phenomenon known as:
+A. Atrophy
+B. Hyperplasia
+C. Hypertrophy
+D. Metaplasia
+E. Neoplasia
+Correct Option: D
+Explanation:
+Correct (D): Metaplasia occurs in smokers when the delicate pseudostratified ciliated columnar respiratory epithelium converts into a tougher stratified squamous epithelium to withstand chronic irritation.
+Incorrect (A): Atrophy implies wasting or shrinking of the tissue layers, whereas smoking drives a protective structural remodeling of cell types.
+Incorrect (B): Hyperplasia denotes an increase in the absolute number of original cells, rather than a full structural conversion into a different epithelial class.
+Incorrect (C): Hypertrophy indicates an increase in individual cell volume and size without altering the fundamental differentiation lineage of the epithelium.
+Incorrect (E): Neoplasia refers to autonomous, uncontrolled malignant cell growth, which can arise from long-term metaplasia but is not the initial adaptive phenomenon itself.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question: Celiac disease is one of the malabsorptive disorder that leads to diarrhea in children. Keeping in view the functions of the following structures, which one is affected in Celiac disease:
+A. Cilia
+B. Flagella
+C. Kinocilia
+D. Microvilli
+E. Stereocilia
+Correct Option: D
+Explanation:
+Correct (D): Celiac disease is an autoimmune enteropathy triggered by gluten that causes immune-mediated blunting and destruction of the absorptive surface microvilli on enterocytes.
+Incorrect (A): Cilia are involved in moving fluid over epithelial surfaces in the airway and reproductive tracts, and are not involved in intestinal nutrient absorption.
+Incorrect (B): Flagella are single, elongate motile structures restricted to spermatozoa in humans and are unaffected by gluten-induced enteropathy.
+Incorrect (C): Kinocilia are specialized motile apparatuses found in vestibular hair cells of the ear and play no role in intestinal nutrient transportation.
+Incorrect (E): Stereocilia are long, immotile actin-packed specializations found in the epididymis and inner ear that do not play a role in small bowel absorption.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question 6
+Which type of cell junctions are present in the Placenta?
+A. Anchoring junctions
+B. Desmosomes
+C. Gap junctions
+D. Tight junctions
+E. Zonula adherens
+Correct Option: C
+Explanation:
+Correct (C): Gap junctions are heavily expressed in the placenta, particularly within the syncytiotrophoblast layer, to facilitate direct intercellular communication and nutrient transfer.
+Incorrect (A): Anchoring junctions provide mechanical stability but are not the primary specialized junctions defining metabolic communication in the syncytiotrophoblast.
+Incorrect (B): Desmosomes anchor intermediate filaments to resist shearing forces, which is not the primary mechanism of placental intercellular communication.
+Incorrect (D): Tight junctions seal paracellular spaces to form barriers, which does not mediate the direct intercellular transport characteristic of placental gap junctions.
+Incorrect (E): Zonula adherens links actin cytoskeletons between adjacent cells and does not form the communicative channels seen with gap junctions.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question 10
+Ciliated cells contain abundant?
+A. Golgi apparatus
+B. Lysosomes
+C. Mitochondria
+D. Peroxisomes
+E. Smooth endoplasmic reticulum
+Correct Option: C
+Explanation:
+Correct (C): Ciliated cells require a constant and high supply of adenosine triphosphate (ATP) to power the dynein motors involved in ciliary movement, requiring abundant mitochondria.
+Incorrect (A): The Golgi apparatus is highly developed in secretory cells, but ciliary motility itself relies primarily on energy production rather than macromolecular packaging.
+Incorrect (B): Lysosomes degrade cellular waste and do not play a direct structural or energetic role in driving ciliary axoneme beating.
+Incorrect (D): Peroxisomes manage lipid oxidation and hydrogen peroxide clearance, which does not directly supply the ATP needed for ciliary movement.
+Incorrect (E): Smooth endoplasmic reticulum regulates lipid synthesis and calcium storage, rather than the mechanical energy demands characteristic of ciliated linings.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+
+Question 14
+Using immunohistochemistry a population of cells is shown to be positive for the protein connexin. From this we can infer that the cells are connected by what type of junction?
+A. Desmosomes (macula adherens)
+B. Gap junctions (nexus)
+C. Hemidesmosomes
+D. Tight (occluding) junctions
+E. Zonula adherens
+Correct Option: B
+Explanation:
+Correct (B): Connexin proteins form the hexameric channels known as connexons that directly comprise gap junctions (nexus), facilitating intercellular communication.
+Incorrect (A): Desmosomes (macula adherens) are structurally composed of desmogleins and desmocollins, which are cadherin family proteins rather than connexins.
+Incorrect (C): Hemidesmosomes link cells to the extracellular matrix via integrins and do not utilize connexin proteins.
+Incorrect (D): Tight (occluding) junctions are composed of transmembrane proteins such as claudins and occludins to seal intercellular spaces.
+Incorrect (E): Zonula adherens relies on classical E-cadherin proteins to anchor adjacent actin filament networks.
+Tags: Moderate, Histology, Foundation, Epithelial Tissue & Glands
+
+--------------------------------------------------
+

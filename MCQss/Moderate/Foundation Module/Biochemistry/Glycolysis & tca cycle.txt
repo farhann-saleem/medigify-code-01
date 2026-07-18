@@ -1,0 +1,35 @@
+Question: Cytochrome oxidase is poisoned by all of the following except:
+ A. Cyanide
+ B. Carbon monoxide
+ C. Hydrogen sulphide
+ D. Azide
+ E. Oligomycin
+ Correct Option: E
+ Explanation:
+ Correct (E): Oligomycin inhibits ATP synthase, not cytochrome oxidase
+ Incorrect (A): Cyanide blocks complex IV
+ Incorrect (B): CO interferes with electron transport
+ Incorrect (C): H₂S inhibits cytochrome oxidase
+ Incorrect (D): Azide blocks complex IV
+ Tags: Moderate, Biochemistry, Foundation, Glycolysis & TCA Cycle
+
+--------------------------------------------------
+
+
+Question: Cytochrome oxidase is poisoned by all of the following except:
+ A. Cyanide
+ B. Carbon monoxide
+ C. Hydrogen sulphide
+ D. Azide
+ E. Oligomycin
+ Correct Option: E
+ Explanation:
+ Correct (E): Oligomycin inhibits ATP synthase, not cytochrome oxidase
+ Incorrect (A): Cyanide blocks complex IV
+ Incorrect (B): CO interferes with electron transport
+ Incorrect (C): H₂S inhibits cytochrome oxidase
+ Incorrect (D): Azide blocks complex IV
+ Tags: Moderate, Biochemistry, Foundation, Glycolysis & TCA Cycle
+
+--------------------------------------------------
+

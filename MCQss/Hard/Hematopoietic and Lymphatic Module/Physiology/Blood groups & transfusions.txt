@@ -1,0 +1,131 @@
+
+Question 4
+Question: In the Rh blood group system:
+A. agglutinins are generally hemolysins.
+B. agglutinins are present since birth.
+C. anti-Rh antibodies are naturally occurring.
+D. Landsteiner’s law is applicable.
+E. Landsteiner’s law is not applicable.
+Correct Option: A
+Explanation:
+Correct (A): Rh agglutinins are generally hemolysins because they activate immune mechanisms that destroy red blood cells.
+Incorrect (B): Rh agglutinins appear only after sensitization.
+Incorrect (C): Anti-Rh antibodies are acquired rather than naturally occurring.
+Incorrect (D): Landsteiner’s law does not apply to the Rh blood group system.
+Incorrect (E): Although true conceptually, the key tested property is that Rh agglutinins are generally hemolysins.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+Question 7
+Question: A baby was born with erythroblastosis fetalis. Her blood group was A⁺. For exchange transfusion, the baby must receive blood with group:
+A. A−.
+B. A⁺.
+C. AB−.
+D. B−.
+E. O−.
+Correct Option: A
+Explanation:
+Correct (A): A− blood is ABO compatible while lacking the Rh antigen responsible for ongoing hemolysis.
+Incorrect (B): A⁺ blood still carries the Rh antigen.
+Incorrect (C): AB− blood contains B antigen, creating ABO incompatibility.
+Incorrect (D): B− blood is ABO incompatible.
+Incorrect (E): O− is compatible but the best ABO-matched exchange transfusion is A−.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+
+Question 10
+Question: A 30-year-old patient develops hemolytic anemia after a mismatched blood transfusion. The primary immune mechanism responsible is:
+A. complement-mediated lysis triggered by IgG or IgM antibodies.
+B. IgE-mediated hypersensitivity.
+C. immune complex deposition.
+D. T-cell-mediated cytotoxicity.
+E. Type IV delayed hypersensitivity.
+Correct Option: A
+Explanation:
+Correct (A): Mismatched blood transfusion activates complement-mediated lysis triggered by IgG or IgM antibodies directed against donor RBC antigens.
+Incorrect (B): IgE-mediated hypersensitivity causes allergic reactions rather than hemolytic transfusion reactions.
+Incorrect (C): Immune complex deposition is characteristic of Type III hypersensitivity.
+Incorrect (D): T-cell-mediated cytotoxicity is not the primary mechanism of acute transfusion hemolysis.
+Incorrect (E): Type IV delayed hypersensitivity is mediated by T cells and occurs after 24 to 72 hours.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+
+Question 11
+Question: A 30-year-old man develops hemolysis and fever 1 week after a mismatched blood transfusion. This delayed reaction is an example of:
+A. Type I hypersensitivity.
+B. Type II hypersensitivity mediated by IgG or IgM.
+C. Type III hypersensitivity.
+D. Type IV hypersensitivity mediated by T cells.
+E. Type V hypersensitivity.
+Correct Option: B
+Explanation:
+Correct (B): Delayed hemolytic transfusion reactions are Type II hypersensitivity mediated by IgG or IgM antibodies against RBC antigens.
+Incorrect (A): Type I hypersensitivity is IgE-mediated.
+Incorrect (C): Type III hypersensitivity involves immune complex deposition.
+Incorrect (D): Type IV hypersensitivity is T-cell-mediated.
+Incorrect (E): Type V hypersensitivity involves receptor stimulation or blockade rather than RBC destruction.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+
+Question 12
+Question: A newborn presents with jaundice and anemia shortly after birth. Mother’s blood group is O⁻ and baby’s is A⁺. The underlying cause of erythroblastosis fetalis is:
+A. ABO incompatibility mediated by complement only.
+B. maternal IgG antibodies crossing the placenta and destroying fetal RBCs.
+C. maternal IgM antibodies crossing the placenta.
+D. natural killer cell-mediated cytotoxicity.
+E. T-cell-mediated cytotoxicity.
+Correct Option: B
+Explanation:
+Correct (B): Maternal IgG antibodies cross the placenta and destroy fetal RBCs, causing erythroblastosis fetalis.
+Incorrect (A): Complement alone does not explain erythroblastosis fetalis.
+Incorrect (C): Maternal IgM antibodies do not cross the placenta.
+Incorrect (D): Natural killer cells are not the primary cause.
+Incorrect (E): T-cell-mediated cytotoxicity is not responsible.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+Question 13
+Question: A patient develops fever, hemoglobinuria, and hypotension within minutes of receiving a mismatched blood transfusion. The underlying mechanism is:
+A. IgE-mediated anaphylaxis.
+B. IgG-mediated delayed hemolysis.
+C. IgM-mediated complement activation and intravascular hemolysis.
+D. immune complex deposition.
+E. T-cell-mediated cytotoxicity.
+Correct Option: C
+Explanation:
+Correct (C): Acute ABO mismatch causes IgM-mediated complement activation and intravascular hemolysis.
+Incorrect (A): IgE-mediated anaphylaxis causes allergic reactions rather than hemolysis.
+Incorrect (B): IgG-mediated delayed hemolysis develops days later.
+Incorrect (D): Immune complex deposition is not responsible for acute transfusion reactions.
+Incorrect (E): T-cell-mediated cytotoxicity is not involved.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+
+
+Question 14
+Question: In delayed hemolytic transfusion reactions occurring days after transfusion, the primary mechanism involves:
+A. direct complement-mediated lysis by C1q.
+B. natural killer cell-mediated cytotoxicity.
+C. preformed IgM antibodies.
+D. secondary immune response by IgG antibodies against minor RBC antigens.
+E. T-cell-mediated cytotoxicity.
+Correct Option: D
+Explanation:
+Correct (D): Delayed hemolytic transfusion reactions result from a secondary immune response by IgG antibodies against minor RBC antigens.
+Incorrect (A): Direct complement-mediated lysis by C1q predominates in acute ABO mismatch.
+Incorrect (B): Natural killer cell-mediated cytotoxicity is not the principal mechanism.
+Incorrect (C): Preformed IgM antibodies produce immediate, not delayed, reactions.
+Incorrect (E): T-cell-mediated cytotoxicity does not mediate delayed hemolytic transfusion reactions.
+Tags: Hard, Physiology, Blood, Blood Groups & Transfusions
+
+--------------------------------------------------
+

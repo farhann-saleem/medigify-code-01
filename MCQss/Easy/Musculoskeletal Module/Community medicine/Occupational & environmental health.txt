@@ -1,0 +1,145 @@
+Module: Occupational & Environmental Health
+Question: What is the most common type of MSD:
+ Options:
+ a) Carpal tunnel syndrome
+ b) Tendinitis
+ c) Back pain
+ d) Tennis elbow
+ Correct Option:
+ Ans. Back Pain
+ Explanation: Low back pain is the most prevalent musculoskeletal disorder worldwide, especially due to poor posture and prolonged sitting. It is highly emphasized in occupational health. Other options are specific localized disorders, but back pain affects a larger population.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: What is text neck:
+ Options:
+ a) A type of MSD caused by excessive texting
+ b) A type of MSD caused by excessive use of mobile devices
+ c) A type of MSD caused by poor posture
+ d) A type of MSD caused by repetitive motions
+ Correct Option:
+ Ans. A type of MSD caused by excessive use of mobile devices
+ Explanation: Text neck refers to neck strain from prolonged mobile use, especially looking downward. It combines repetitive strain + posture issues.
+ Poor posture is partially true, but the key cause tested is mobile overuse.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: Which of the following is NOT a common cause of low back pain:
+ Options:
+ a) Herniated disc
+ b) Osteoporosis
+ c) Scoliosis
+ d) Carpal tunnel syndrome
+ Correct Option:
+ Ans. Carpal tunnel syndrome
+ Explanation: Carpal tunnel syndrome affects the wrist (median nerve compression), not the lower back. Other options (disc herniation, osteoporosis, scoliosis) directly affect the spine.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: Which of the following is a common cause of low back pain in athletes:
+ Options:
+ a) Herniated disc
+ b) Osteoporosis
+ c) Scoliosis
+ d) Muscle strain
+ Correct Option:
+ Ans. Muscle strain
+ Explanation: Athletes frequently develop muscle strain due to overuse or sudden movements. Other causes exist but are less common in this group.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: Which of the following is a common cause of low back pain in older adults:
+ Options:
+ a) Herniated disc
+ b) Osteoporosis
+ c) Scoliosis
+ d) Muscle strain
+ Correct Option:
+ Ans. Osteoporosis
+ Explanation: In the elderly, bone weakening (osteoporosis) leads to vertebral fractures and back pain. Muscle strain is more common in younger individuals.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: What is the epidemiology of MSDs related to mobile addiction:
+ Options:
+ a) It affects mostly young people
+ b) It affects mostly older people
+ c) It affects people of all ages
+ d) It affects only people who use mobile devices excessively
+ Correct Option:
+ Ans. It affects mostly young people
+ Explanation: Young individuals use mobile devices excessively, increasing the risk of neck, thumb, and wrist strain. Older adults are less affected comparatively.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: Which of the following statements is correct:
+ Options:
+ a) Ergonomic principles are intended to improve the fit between a worker and an activity
+ b) Ergonomics is a topic that's important only in the workplace
+ c) If you have an MSD risk factor, you'll always get an MSD
+ d) MSD risk factors are all activity-related
+ Correct Option:
+ Ans. Ergonomic principles are intended to improve the fit between a worker and an activity
+ Explanation: Ergonomics aims to adapt tasks to humans, reducing injury and improving efficiency. Other statements are incorrect or exaggerated.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: The basic definition of ergonomics is:
+ Options:
+ a) Using a relaxed posture
+ b) Fitting the employee to the workstation
+ c) Fitting the workstation to the employee
+ d) Either B or C
+ Correct Option:
+ Ans. Fitting the workstation to the employee
+ Explanation: Core principle, adapt the environment to the person, not vice versa. Option B is the opposite and incorrect.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: Signs and symptoms of MSDs include everything except:
+ Options:
+ a) Fatigue
+ b) Tingling
+ c) Boredom
+ d) Loss of motion
+ Correct Option:
+ Ans. Boredom
+ Explanation: MSDs cause pain, tingling, stiffness, and loss of movement. Boredom is psychological, not a physical symptom
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: Ergonomics:
+ Options:
+ a) Reduces MSDs and absenteeism
+ b) Increases worker productivity and morale
+ c) Fits the task to the person
+ d) All of the above
+ Correct Option:
+ Ans. All of the above
+ Explanation: Ergonomics reduces MSDs, improves productivity, increases morale, and fits the task to the person. So all options are correct.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+
+Question: What is the most common industry associated with MSDs:
+ Options:
+ a) Agriculture
+ b) Construction
+ c) Healthcare
+ d) Retail
+ Correct Option:
+ Ans. Agriculture
+ Explanation: Agriculture involves heavy lifting, repetitive work, and awkward postures, leading to high MSD rates. Other industries have risks, but are generally less intense.
+ Tags: Easy, Community Medicine, Occupational & Environmental Health, Occupational & Environmental Health
+
+--------------------------------------------------
+

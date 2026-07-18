@@ -1,0 +1,68 @@
+Question: The developing embryo has a distinct human appearance by the end of:
+A. week 5
+B. week 6
+C. week 7
+D. week 8
+E. week 9
+Correct Option: D
+Explanation:
+• Correct (D): By week 8, organogenesis is complete and human features are distinct.
+• Incorrect (A): Week 5 still shows early limb and facial bud development.
+• Incorrect (B): Week 6 features are still embryologically primitive.
+• Incorrect (C): Week 7 shows continued differentiation but not full appearance.
+• Incorrect (E): Week 9 is fetal period, after appearance is already established.
+Tags: Easy, Embryology, Foundation Module, Weeks 4-8: Embryonic Folding & Germ Layer Derivatives
+
+--------------------------------------------------
+
+Question: At the end of week 2 of development (day 14), what is the composition of the embryonic disk:
+a. ectoderm and endoderm.
+b. ectoderm, mesoderm, and endoderm.
+c. epiblast and hypoblast.
+d. epiblast only.
+e. mesoderm and endoderm.
+Correct Option: C
+Explanation:
+Correct (C): By day 14 the embryonic disk is bilaminar, consisting of epiblast and hypoblast.
+Incorrect (A): Definitive ectoderm and endoderm are established after gastrulation in week 3.
+Incorrect (B): All three germ layers are not present until gastrulation occurs.
+Incorrect (D): Hypoblast is also present at the end of week 2.
+Incorrect (E): Mesoderm has not yet formed by day 14.
+Tags: Easy, Embryology, Foundation Module, Weeks 4-8: Embryonic Folding & Germ Layer Derivatives
+
+--------------------------------------------------
+
+Question: Which germ layers are present at the end of week 3 of development (day 21):
+a. ectoderm and endoderm.
+b. ectoderm, mesoderm, and endoderm.
+c. epiblast and hypoblast.
+d. epiblast only.
+e. mesoderm and endoderm.
+Correct Option: B
+Explanation:
+Correct (B): By day 21 gastrulation has produced the trilaminar embryonic disk composed of ectoderm, mesoderm, and endoderm.
+Incorrect (A): Mesoderm is also present by the end of week 3.
+Incorrect (C): Epiblast and hypoblast characterize the bilaminar disk of week 2.
+Incorrect (D): The embryonic disk is no longer composed solely of epiblast.
+Incorrect (E): Ectoderm is also fully established at this stage.
+Tags: Easy, Embryology, Foundation Module, Weeks 4-8: Embryonic Folding & Germ Layer Derivatives
+
+--------------------------------------------------
+
+Question: The epiblast is capable of forming which germ layers:
+a. ectoderm and endoderm only.
+b. ectoderm and mesoderm only.
+c. ectoderm only.
+d. ectoderm, mesoderm, and endoderm.
+e. mesoderm and endoderm only.
+Correct Option: D
+Explanation:
+Correct (D): Cells of the epiblast give rise to all three definitive germ layers during gastrulation.
+Incorrect (A): Mesoderm is also derived from migrating epiblast cells.
+Incorrect (B): Endoderm also originates from the epiblast.
+Incorrect (C): The epiblast forms far more than ectoderm alone.
+Incorrect (E): Epiblast additionally forms ectoderm.
+Tags: Easy, Embryology, Foundation Module, Weeks 4-8: Embryonic Folding & Germ Layer Derivatives
+
+--------------------------------------------------
+

@@ -1,0 +1,447 @@
+Question 1
+Question: In primary active transport, energy is derived from:
+A. ATP hydrolysis
+B. Electrochemical gradient
+C. Glucose cotransport
+D. Ionic concentration gradient
+E. Proton gradient
+Correct Option: A
+Explanation:
+Correct (A): Primary active transport directly uses energy released from ATP hydrolysis to move substances against their electrochemical gradients.
+Incorrect (B): An electrochemical gradient provides energy for secondary active transport, not primary active transport.
+Incorrect (C): Glucose cotransport is a form of secondary active transport and does not directly supply energy.
+Incorrect (D): An ionic concentration gradient is an energy source for secondary transport, not primary active transport.
+Incorrect (E): A proton gradient powers certain secondary transport systems rather than primary active transport.
+Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question 2
+Question: Na⁺/K⁺ pump continuously pumps:
+A. Both Na⁺ and K⁺ ions outside the cell
+B. Cl⁻ ions along with Na⁺ and K⁺ ions
+C. K⁺ ions outside and Na⁺ ions inside the cell
+D. Na⁺ ions outside and K⁺ ions inside the cell
+E. Only Na⁺ ions inside the cell
+Correct Option: D
+Explanation:
+Correct (D): The Na⁺/K⁺ pump continuously transports Na⁺ ions outside and K⁺ ions inside the cell, maintaining normal ionic gradients.
+Incorrect (A): K⁺ is transported into, not outside, the cell.
+Incorrect (B): The pump does not transport Cl⁻ ions.
+Incorrect (C): This reverses the normal direction of transport.
+Incorrect (E): The pump transports both Na⁺ and K⁺, not Na⁺ alone.
+Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question 3
+Question: Facilitated diffusion:
+A. Involves carrier proteins
+B. Involves channel proteins only
+C. Moves substances against their concentration gradient
+D. Requires ATP hydrolysis
+E. Requires primary active transport
+Correct Option: A
+Explanation:
+Correct (A): Facilitated diffusion uses carrier proteins to transport substances down their concentration gradient without ATP.
+Incorrect (B): Facilitated diffusion occurs through both carrier proteins and channel proteins, not channel proteins only.
+Incorrect (C): It moves substances down, not against, their concentration gradient.
+Incorrect (D): It does not require ATP hydrolysis.
+Incorrect (E): It functions independently of primary active transport.
+Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question 4
+Question: The principal intracellular cation is:
+A. Ca²⁺
+B. K⁺
+C. Mg²⁺
+D. Na⁺
+E. Zn²⁺
+Correct Option: B
+Explanation:
+Correct (B): K⁺ is the major intracellular cation and is essential for maintaining the resting membrane potential.
+Incorrect (A): Intracellular Ca²⁺ concentration is kept extremely low.
+Incorrect (C): Mg²⁺ is important but not the principal intracellular cation.
+Incorrect (D): Na⁺ is the principal extracellular cation.
+Incorrect (E): Zn²⁺ is only present in trace amounts.
+Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question 5
+Question: Gases cross the cell membrane by the following mechanism:
+A. Endocytosis
+B. Facilitated diffusion
+C. Passive diffusion
+D. Primary active transport
+E. Secondary active transport
+Correct Option: C
+Explanation:
+Correct (C): Small nonpolar gases such as O₂ and CO₂ cross the membrane by passive diffusion through the lipid bilayer.
+Incorrect (A): Endocytosis transports large particles, not gases.
+Incorrect (B): Gases do not require facilitated diffusion.
+Incorrect (D): Primary active transport requires ATP and is unnecessary for gas movement.
+Incorrect (E): Secondary active transport is not involved in gas transport.
+Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+### Question 10
+Which structural feature of neurons is primarily responsible for rapid intracellular transport of neurotransmitter vesicles from soma to axon terminal?
+A. Actin microfilaments
+B. Microglial processes
+C. Microtubules
+D. Neurofilaments
+E. Schwann cell cytoplasm
+**Correct Option: C**
+#### Explanation:
+ * **Correct (C)**: Microtubules form the long, rigid intracellular tracks along which kinesin motor proteins walk to move neurotransmitter vesicles from the cell body to the nerve terminal.
+ * **Incorrect (A)**: Short-range cortical structural networks and localized membrane movements are mediated by actin microfilaments, not long-distance axonal transport.
+ * **Incorrect (B)**: Phagocytic immune responses within central nervous tissues are carried out by microglial processes, which are separate cellular extensions.
+ * **Incorrect (D)**: General structural stability and structural caliber preservation inside the axon are provided by neurofilaments, not active transport tracking.
+ * **Incorrect (E)**: Peripheral myelin insulation wraps around the outside of axons via Schwann cell cytoplasm, which plays no role in internal vesicle transport.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+### Question 12
+Which type of axonal transport is responsible for returning degraded materials from the nerve terminal to the soma?
+A. Fast anterograde transport via kinesin motor proteins
+B. Fast anterograde transport via dynein motor proteins
+C. Passive diffusion through the continuous axoplasm
+D. Retrograde transport via dynein motor proteins
+E. Slow anterograde transport via kinesin motor proteins
+**Correct Option: D**
+#### Explanation:
+ * **Correct (D)**: Retrograde transport via dynein motor proteins moves worn-out organelles and endocytosed materials backward along microtubules from the axon terminal toward the cell body for degradation.
+ * **Incorrect (A)**: Outward movement of new vesicles toward the terminal is driven by fast anterograde transport via kinesin motor proteins.
+ * **Incorrect (B)**: Anterograde transport is driven by kinesin motors, not by dynein, making fast anterograde transport via dynein motor proteins mechanistically incorrect.
+ * **Incorrect (C)**: Structural clearance mechanisms require active, ATP-driven molecular motors rather than passive diffusion through the continuous axoplasm.
+ * **Incorrect (E)**: Structural cytoskeletal components like neurofilaments move outward from the soma via slow anterograde transport via kinesin motor proteins.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+### Question 18
+Which neuroglial cell type is responsible for forming the blood-brain barrier and regulating extracellular ion concentration around neurons?
+A. Astrocytes
+B. Ependymal cells
+C. Microglia
+D. Oligodendrocytes
+E. Schwann cells
+**Correct Option: A**
+#### Explanation:
+ * **Correct (A)**: Astrocytes extend perivascular feet that induce and maintain the blood-brain barrier while actively buffering excess extracellular potassium ions to maintain local homeostasis.
+ * **Incorrect (B)**: Ciliated epithelial cells that line the ventricles and circulate cerebrospinal fluid are ependymal cells, which do not form the blood-brain barrier.
+ * **Incorrect (C)**: Specialized macrophage-like cells that perform immune surveillance and phagocytosis in the central nervous system are microglia.
+ * **Incorrect (D)**: Myelin insulation around central nervous system axons is formed by oligodendrocytes, which do not build vascular barriers.
+ * **Incorrect (E)**: Myelin insulation around peripheral nervous system axons is formed by Schwann cells, which are not located in the brain parenchyma.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+### Question 19
+During myelination in the peripheral nervous system, which cell type wraps around the axon to form the myelin sheath?
+A. Astrocytes
+B. Ependymal cells
+C. Microglia
+D. Oligodendrocytes
+E. Schwann cells
+**Correct Option: E**
+#### Explanation:
+ * **Correct (E)**: Schwann cells insulate axons in the peripheral nervous system by wrapping their membranes concentrically around a single axonal segment to form the myelin sheath.
+ * **Incorrect (A)**: Supporting cells that buffer ions and maintain the blood-brain barrier in the central nervous system are astrocytes, which do not produce myelin.
+ * **Incorrect (B)**: Ventricular lining cells involved in the movement of cerebrospinal fluid are ependymal cells, which do not produce myelin.
+ * **Incorrect (C)**: Phagocytic immune cells within central nervous system tissues are microglia, which do not produce myelin.
+ * **Incorrect (D)**: Myelin sheaths in the central nervous system are formed by oligodendrocytes, which can insulate multiple axon segments simultaneously, unlike peripheral Schwann cells.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question 26: In unmyelinated nerve fibers:
+A. impulse travels slowly along the axon
+B. refractory period is very short
+C. Schwann cells are absent
+D. spinal cord is the major site of their location
+E. synaptic transmission is completely blocked
+Correct Option: A
+Explanation:
+ * Correct (A): Because they lack an insulating myelin sheath, the impulse travels slowly along the axon via continuous cable conduction rather than rapid saltatory conduction.
+ * Incorrect (B): The refractory period is determined by voltage-gated channel kinetics, not by the absence of myelin, meaning it is not inherently very short.
+ * Incorrect (C): Schwann cells are absent is incorrect because unmyelinated peripheral fibers are still structurally engulfed and supported by Schwann cell cytoplasm without being wrapped in layers of myelin.
+ * Incorrect (D): The spinal cord is the major site of their location is false, as unmyelinated fibers (such as postganglionic autonomic and slow pain C-fibers) are widely distributed in the periphery.
+ * Incorrect (E): The synaptic transmission is completely blocked statement is false, as unmyelinated fibers successfully release neurotransmitters to propagate signals across synapses.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question 27: The nerve fibers having the slowest conduction velocity are:
+A. Type A-alpha
+B. Type A-beta
+C. Type A-delta
+D. Type B
+E. Type C
+Correct Option: E
+Explanation:
+ * Correct (E): Type C fibers are small, completely unmyelinated postganglionic autonomic and sensory fibers, which gives them the slowest conduction velocity of all nerve fiber categories.
+ * Incorrect (A): Type A-alpha fibers are large, heavily myelinated motor and proprioceptive fibers with the fastest conduction velocity.
+ * Incorrect (B): Type A-beta fibers are large, myelinated mechanoreceptive fibers that conduct impulses much faster than Type C fibers.
+ * Incorrect (C): Type A-delta fibers are thinly myelinated sensory fibers carrying fast pain and temperature, conducting significantly faster than unmyelinated C fibers.
+ * Incorrect (D): Type B fibers are small, myelinated preganglionic autonomic fibers that conduct faster than the unmyelinated Type C fibers.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question 28: Nodes of Ranvier are:
+A. having Nissl granules in them
+B. highly permeable to ions
+C. present on nerve fibers at irregular intervals
+D. present on unmyelinated nerve fibers
+E. sites of high lipid content
+Correct Option: B
+Explanation:
+ * Correct (B): Nodes of Ranvier are bare patches of axonal membrane containing a high density of voltage-gated channels, making them highly permeable to ions during depolarization.
+ * Incorrect (A): The property of having Nissl granules in them is incorrect because these protein-synthesizing structures are confined to the neuronal soma and dendrites, not axon nodes.
+ * Incorrect (C): The statement present on nerve fibers at irregular intervals is factually incorrect; these nodes occur at highly regular, precise intervals along myelinated axons.
+ * Incorrect (D): The statement present on unmyelinated nerve fibers is false, as these nodes are defined as the structural gaps between adjacent myelin segments.
+ * Incorrect (E): Being sites of high lipid content describes the myelin sheath segments themselves, whereas the nodes represent an absence of lipid-rich myelin.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question 34: In Multiple sclerosis, neurological deficits mainly occur due to:
+A. degeneration of muscle fibers
+B. demyelination of central nervous system neurons
+C. destruction of neuromuscular junctions
+D. excess acetylcholine breakdown
+E. hypertrophy of peripheral myelin sheaths
+Correct Option: B
+Explanation:
+ * Correct (B): Multiple sclerosis is an autoimmune disease characterized by immune-mediated demyelination of central nervous system neurons, which impairs axonal signal transmission.
+ * Incorrect (A): The degeneration of muscle fibers describes primary myopathies (like muscular dystrophies), whereas Multiple sclerosis is strictly a primary neurological disorder.
+ * Incorrect (C): The destruction of neuromuscular junctions is the primary pathophysiological mechanism behind Myasthenia gravis, not Multiple sclerosis.
+ * Incorrect (D): An excess acetylcholine breakdown is not the root cause of MS; acetylcholine levels at the NMJ remain structurally unaffected by central demyelination.
+ * Incorrect (E): The disease causes the destruction and loss of myelin rather than the hypertrophy of peripheral myelin sheaths, which are made by unaffected Schwann cells.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question 38: In Multiple sclerosis, which cells are primarily destroyed leading to demyelination:
+A. astrocytes
+B. microglia
+C. oligodendrocytes
+D. Purkinje cells
+E. Schwann cells
+Correct Option: C
+Explanation:
+ * Correct (C): Multiple sclerosis is an autoimmune disease of the central nervous system, meaning the oligodendrocytes (which form CNS myelin) are targeted and destroyed.
+ * Incorrect (A): While astrocytes are involved in forming the characteristic sclerotic scars (plaques) later on, they are not the primary target cell destroyed to cause demyelination.
+ * Incorrect (B): The microglia function as resident macrophages that become activated and contribute to the inflammatory damage, rather than being the targets destroyed.
+ * Incorrect (D): The Purkinje cells are specialized inhibitory neurons located in the cerebellar cortex and are not the myelin-producing cells destroyed in MS.
+ * Incorrect (E): The Schwann cells produce myelin in the peripheral nervous system, which is spared in Multiple sclerosis because the disease selectively targets the CNS.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question 39: Compared with Myasthenia gravis, Multiple sclerosis primarily affects:
+A. central nervous system pathways
+B. muscle contractile proteins
+C. neuromuscular junction
+D. postsynaptic membrane receptors
+E. peripheral nerves
+Correct Option: A
+Explanation:
+ * Correct (A): Multiple sclerosis is an autoimmune condition localized strictly within the white matter of the brain and spinal cord, meaning it primarily affects central nervous system pathways.
+ * Incorrect (B): Neither disease targets muscle contractile proteins (like actin or myosin); both are neuro-immunological rather than primary muscular disorders.
+ * Incorrect (C): Affecting the neuromuscular junction is the defining pathophysiological and anatomical feature of Myasthenia gravis, not Multiple sclerosis.
+ * Incorrect (D): Targeting postsynaptic membrane receptors (specifically nicotinic ACh receptors) is the direct autoimmune mechanism of Myasthenia gravis.
+ * Incorrect (E): Multiple sclerosis leaves peripheral nerves intact because peripheral myelin is produced by Schwann cells, which are not targeted by the MS disease process.
+   Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+Question: Cell membrane is?
+ A. Composed of proteins and lipids
+ B. Made up of carbohydrates only
+ C. Thick and fibrous
+ D. Thin and non-elastic
+ E. Uniformly crystalline
+ Correct Option: A
+ Explanation:
+ • Correct (A): Composed of proteins and lipids — the fluid mosaic model describes the bilayer of phospholipids with embedded proteins.
+ • Incorrect (B): Carbohydrates only — carbohydrates are minor components attached to proteins/lipids, not the main structure.
+ • Incorrect (C): Thick and fibrous — membranes are thin, flexible bilayers, not fibrous sheets.
+ • Incorrect (D): Thin and non-elastic — membranes are thin but highly elastic and dynamic.
+ • Incorrect (E): Uniformly crystalline — membranes are fluid, not crystalline.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Ribosomes?
+ A. Are entirely synthesized in the cytoplasm
+ B. Control biochemical activity of the cell
+ C. Have about 60% RNA in their structure
+ D. Have two different types of proteins
+ E. Lack rRNA completely
+ Correct Option: C
+ Explanation:
+ • Correct (C): Have about 60% RNA in their structure — ribosomes are ribonucleoprotein complexes with majority rRNA.
+ • Incorrect (A): Entirely synthesized in the cytoplasm — ribosomal subunits are partly assembled in nucleolus.
+ • Incorrect (B): Control biochemical activity of the cell — ribosomes synthesize proteins, not regulate all activity.
+ • Incorrect (D): Two different types of proteins — ribosomes contain many proteins, not just two types.
+ • Incorrect (E): Lack rRNA completely — rRNA is essential structural and functional component.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: The intercellular connections having high permeability for various ions are?
+ A. Desmosomes
+ B. Focal adhesions
+ C. Gap junctions
+ D. Hemidesmosomes
+ E. Tight junctions
+ Correct Option: C
+ Explanation:
+ • Correct (C): Gap junctions — allow direct ion and small molecule passage between cells.
+ • Incorrect (A): Desmosomes — provide mechanical adhesion, not ion permeability.
+ • Incorrect (B): Focal adhesions — anchor cells to extracellular matrix, not ion transfer.
+ • Incorrect (D): Hemidesmosomes — connect cells to basement membrane, not ion exchange.
+ • Incorrect (E): Tight junctions — restrict permeability, not increase it.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: The structure not involved in protein synthesis is?
+ A. Nucleolus
+ B. Ribosomes
+ C. Rough endoplasmic reticulum
+ D. Smooth endoplasmic reticulum
+ E. Polysomes
+ Correct Option: D
+ Explanation:
+ • Correct (D): Smooth endoplasmic reticulum — involved in lipid metabolism, not protein synthesis.
+ • Incorrect (A): Nucleolus — synthesizes rRNA and assembles ribosomal subunits.
+ • Incorrect (B): Ribosomes — directly synthesize proteins.
+ • Incorrect (C): Rough endoplasmic reticulum — site of protein synthesis.
+ • Incorrect (E): Polysomes — clusters of ribosomes actively translating proteins.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Exocytosis is a process that?
+ A. Engulfs large particles from the extracellular space
+ B. Is always employed by cells for secretion
+ C. Is used to deliver material into the extracellular space
+ D. Takes up large molecules from the extracellular space
+ E. Internalizes extracellular fluid
+ Correct Option: C
+ Explanation:
+ • Correct (C): Deliver material into extracellular space — exocytosis expels vesicular contents outside.
+ • Incorrect (A): Engulfs large particles — that is phagocytosis.
+ • Incorrect (B): Always employed — secretion can occur by other mechanisms, not always exocytosis.
+ • Incorrect (D): Takes up large molecules — that is endocytosis.
+ • Incorrect (E): Internalizes extracellular fluid — that is pinocytosis.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Which nucleotide base is absent in DNA?
+ A. Adenine
+ B. Guanine
+ C. Thymine
+ D. Uracil
+ E. Cytosine
+ Correct Option: D
+ Explanation:
+ • Correct (D): Uracil — DNA contains thymine instead of uracil, which is found in RNA.
+ • Incorrect (A): Adenine — present in DNA as a purine base.
+ • Incorrect (B): Guanine — present in DNA as a purine base.
+ • Incorrect (C): Thymine — present in DNA as a pyrimidine base.
+ • Incorrect (E): Cytosine — present in DNA as a pyrimidine base.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Which organelle contains hydrolytic enzymes?
+ A. Golgi apparatus
+ B. Lysosomes
+ C. Ribosomes
+ D. Smooth endoplasmic reticulum
+ E. Peroxisomes
+ Correct Option: B
+ Explanation:
+ • Correct (B): Lysosomes — contain acid hydrolases for intracellular digestion.
+ • Incorrect (A): Golgi apparatus — modifies and packages proteins, not hydrolytic enzymes.
+ • Incorrect (C): Ribosomes — synthesize proteins, not hydrolytic enzymes.
+ • Incorrect (D): Smooth endoplasmic reticulum — involved in lipid metabolism, not hydrolysis.
+ • Incorrect (E): Peroxisomes — contain oxidative enzymes, not hydrolytic enzymes.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Double membrane-bounded organelle containing linear DNA is?
+ A. Mitochondria
+ B. Nucleolus
+ C. Nucleus
+ D. Ribosome
+ E. Chloroplast
+ Correct Option: C
+ Explanation:
+ • Correct (C): Nucleus — bounded by double membrane and contains linear DNA.
+ • Incorrect (A): Mitochondria — contain circular DNA, not linear.
+ • Incorrect (B): Nucleolus — site of rRNA synthesis, not DNA storage.
+ • Incorrect (D): Ribosome — lacks DNA entirely.
+ • Incorrect (E): Chloroplast — contains circular DNA, not linear.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Which organelle is continuous with the nuclear membrane?
+ A. Golgi apparatus
+ B. Peroxisome
+ C. Rough endoplasmic reticulum
+ D. Smooth endoplasmic reticulum
+ E. Lysosome
+ Correct Option: C
+ Explanation:
+ • Correct (C): Rough endoplasmic reticulum — continuous with outer nuclear membrane.
+ • Incorrect (A): Golgi apparatus — separate organelle, not continuous.
+ • Incorrect (B): Peroxisome — independent, not connected to nuclear membrane.
+ • Incorrect (D): Smooth endoplasmic reticulum — not directly continuous with nuclear envelope.
+ • Incorrect (E): Lysosome — separate vesicular organelle.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+
+Question: Pinocytosis differs from phagocytosis in that?
+ A. Both require receptor-mediated endocytosis
+ B. Neither consumes ATP
+ C. Pinocytosis engulfs extracellular fluid and solutes; phagocytosis engulfs solid particles
+ D. Pinocytosis engulfs large particles; phagocytosis engulfs fluids
+ E. Pinocytosis is limited to red blood cells
+ Correct Option: C
+ Explanation:
+ • Correct (C): Pinocytosis — fluid uptake; phagocytosis — solid particle uptake.
+ • Incorrect (A): Both require receptor-mediated endocytosis — not true, pinocytosis is nonspecific.
+ • Incorrect (B): Neither consumes ATP — both are active processes requiring ATP.
+ • Incorrect (D): Pinocytosis engulfs large particles — incorrect, it engulfs fluids.
+ • Incorrect (E): Limited to red blood cells — pinocytosis occurs in many cell types.
+ Tags: Easy, Physiology, Foundation, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+

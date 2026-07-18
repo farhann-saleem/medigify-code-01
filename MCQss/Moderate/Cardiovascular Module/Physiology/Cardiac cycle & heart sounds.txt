@@ -1,0 +1,174 @@
+Question: A harsh crescendo-decrescendo systolic murmur at the second right intercostal space indicates:
+ A. Mitral stenosis
+ B. Aortic stenosis
+ C. Aortic regurgitation
+ D. Tricuspid regurgitation
+ E. Pulmonary stenosis
+ Correct Option: B
+ Explanation:
+ • Correct (B): Aortic stenosis produces a systolic ejection murmur at the right second intercostal space radiating to carotids.
+ • Incorrect (A): Mitral stenosis causes diastolic rumbling murmur at apex.
+ • Incorrect (C): Aortic regurgitation causes diastolic murmur.
+ • Incorrect (D): Tricuspid regurgitation is best heard at lower left sternal border.
+ • Incorrect (E): Pulmonary stenosis is best heard at left second intercostal space.
+ Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A blowing, high-pitched diastolic decrescendo murmur along the left sternal border is characteristic of:
+ A. Mitral stenosis
+ B. Aortic stenosis
+ C. Aortic regurgitation
+ D. Pulmonary stenosis
+ E. Tricuspid regurgitation
+ Correct Option: C
+ Explanation:
+ • Correct (C): Aortic regurgitation causes diastolic backflow into LV producing decrescendo murmur.
+ • Incorrect (A): Mitral stenosis is a diastolic rumble at apex, not blowing.
+ • Incorrect (B): Aortic stenosis is systolic, not diastolic.
+ • Incorrect (D): Pulmonary stenosis causes systolic murmur.
+ • Incorrect (E): Tricuspid regurgitation is systolic holosystolic murmur.
+ Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A holosystolic murmur at the apex radiating to the axilla indicates:
+ A. Aortic stenosis
+ B. Mitral stenosis
+ C. Mitral regurgitation
+ D. Pulmonary regurgitation
+ E. Tricuspid stenosis
+ Correct Option: C
+ Explanation:
+ • Correct (C): Mitral regurgitation causes holosystolic backflow into left atrium radiating to axilla.
+ • Incorrect (A): Aortic stenosis radiates to carotids, not axilla.
+ • Incorrect (B): Mitral stenosis is diastolic rumble.
+ • Incorrect (D): Pulmonary regurgitation is diastolic and left upper sternal border.
+ • Incorrect (E): Tricuspid stenosis is diastolic murmur.
+ Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A harsh, loud, crescendo-decrescendo systolic murmur heard best at the second right intercostal space is characteristic of:
+A. Aortic regurgitation.
+B. Aortic stenosis.
+C. Mitral regurgitation.
+D. Mitral stenosis.
+E. Tricuspid regurgitation.
+Correct Option: B
+Explanation:
+Correct (B): Aortic stenosis classically produces a harsh crescendo-decrescendo systolic murmur best heard at the second right intercostal space.
+Incorrect (A): Aortic regurgitation causes a diastolic decrescendo murmur.
+Incorrect (C): Mitral regurgitation typically causes a holosystolic murmur at the apex.
+Incorrect (D): Mitral stenosis produces a low-pitched diastolic rumble.
+Incorrect (E): Tricuspid regurgitation is usually best heard along the lower left sternal border.
+Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A blowing, high-pitched diastolic decrescendo murmur heard best along the left sternal border is characteristic of:
+A. Aortic regurgitation.
+B. Mitral regurgitation.
+C. Patent ductus arteriosus.
+D. Tricuspid stenosis.
+E. Pulmonary stenosis.
+Correct Option: A
+Explanation:
+Correct (A): Aortic regurgitation produces a blowing, high-pitched diastolic decrescendo murmur along the left sternal border.
+Incorrect (B): Mitral regurgitation causes a systolic rather than diastolic murmur.
+Incorrect (C): Patent ductus arteriosus produces a continuous machinery-like murmur.
+Incorrect (D): Tricuspid stenosis causes a diastolic murmur but not the classic high-pitched decrescendo pattern.
+Incorrect (E): Pulmonary stenosis generates a systolic ejection murmur.
+Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A patient presents with a holosystolic (pansystolic) murmur heard loudest at the apex that radiates to the left axilla. This finding indicates:
+A. Aortic stenosis.
+B. Interventricular septal defect.
+C. Mitral regurgitation.
+D. Mitral stenosis.
+E. Tricuspid stenosis.
+Correct Option: C
+Explanation:
+Correct (C): Mitral regurgitation classically causes a holosystolic (pansystolic) murmur at the apex radiating to the left axilla.
+Incorrect (A): Aortic stenosis produces a systolic ejection murmur at the aortic area.
+Incorrect (B): Interventricular septal defect may cause a holosystolic murmur but is not characteristically maximal at the apex with axillary radiation.
+Incorrect (D): Mitral stenosis produces a diastolic rumbling murmur.
+Incorrect (E): Tricuspid stenosis causes a diastolic murmur rather than a pansystolic apical murmur.
+Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A continuous machinery-like murmur heard throughout both systole and diastole in a newborn child is diagnostic of:
+A. Coarctation of the aorta.
+B. Patent ductus arteriosus.
+C. Tetralogy of Fallot.
+D. Transposition of the great vessels.
+E. Ventricular septal defect.
+Correct Option: B
+Explanation:
+Correct (B): Patent ductus arteriosus produces continuous flow between the aorta and pulmonary artery, creating a machinery-like murmur throughout systole and diastole.
+Incorrect (A): Coarctation of the aorta does not produce the classic continuous machinery murmur.
+Incorrect (C): Tetralogy of Fallot is typically associated with a systolic murmur from right ventricular outflow obstruction.
+Incorrect (D): Transposition of the great vessels is defined by abnormal vessel connections rather than a machinery murmur.
+Incorrect (E): Ventricular septal defect usually causes a holosystolic murmur.
+Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+
+Question: During the "Isovolumic Contraction" phase of the cardiac cycle?
+A. All heart valves are closed
+B. All heart valves are open
+C. The A-V valves are closed and semilunar valves are open
+D. The A-V valves are open and semilunar valves are closed
+E. The semilunar valves are open and A-V valves are open
+Correct Option: A
+Explanation:
+Correct (A): During isovolumic contraction, ventricular pressure rises rapidly while both A-V and
+semilunar valves remain closed, so ventricular volume does not change.
+Incorrect (B): All heart valves are never open during this phase.
+Incorrect (C): Semilunar valves do not open until ventricular pressure exceeds arterial pressure.
+Incorrect (D): A-V valves close at the start of ventricular systole.
+Incorrect (E): Simultaneous opening of semilunar and A-V valves does not occur physiologically.
+Tags: Moderate, Physiology, Cardiovascular, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question : In Atrial Fibrillation, the ventricles still fill significantly because:
+A. Atrial contraction becomes stronger
+B. Atrioventricular nodal conduction accelerates
+C. Most ventricular filling occurs passively before atrial contraction
+D. Semilunar valves remain partially open during diastole
+E. Ventricular relaxation becomes independent of preload
+Correct Option: C
+Explanation:
+Correct (C): Most ventricular filling normally occurs passively during diastole before atrial
+contraction.
+Incorrect (A): Effective atrial contraction is absent in atrial fibrillation.
+Incorrect (B): Accelerated AV nodal conduction does not explain preserved filling.
+Incorrect (D): Semilunar valves remain closed during diastole.
+Incorrect (E): Ventricular filling continues to depend on preload.
+Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+
+Question: A "Physiological Gallop" or S3 heart sound is most likely heard during:
+A. Atrial contraction
+B. Early rapid ventricular filling
+C. Isovolumic contraction
+D. Late systolic ejection
+E. Ventricular isovolumic relaxation
+Correct Option: B
+Explanation:
+Correct (B): S3 occurs during early rapid ventricular filling when blood enters a compliant
+ventricle.
+Incorrect (A): Atrial contraction is associated with the S4 heart sound.
+Incorrect (C): Isovolumic contraction produces no S3 sound.
+Incorrect (D): S3 occurs in early diastole, not systolic ejection.
+Incorrect (E): Ventricular isovolumic relaxation precedes rapid filling.
+Tags: Moderate, Physiology, Cardiovascular System, Cardiac Cycle & Heart Sounds
+
+--------------------------------------------------
+

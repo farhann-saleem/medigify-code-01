@@ -1,0 +1,51 @@
+​Question: The plateau phase of cardiac muscle action potential is mainly due to:
+A. Increased chloride permeability
+B. Opening of fast Na⁺ channels
+C. Prolonged opening of slow Ca²⁺–Na⁺ channels
+D. Rapid efflux of K⁺ ions
+E. Rapid influx of Cl⁻ ions
+Correct Option: C
+Explanation:
+​Correct (C): Prolonged opening of slow Ca²⁺–Na⁺ channels permits a sustained influx of calcium ions that balances potassium efflux, maintaining the prolonged depolarization state.
+​Incorrect (A): Increased chloride permeability causes hyperpolarization or small transient repolarization, not the sustained depolarization of the plateau phase.
+​Incorrect (B): Opening of fast Na⁺ channels is responsible for the initial rapid depolarization upstroke (Phase 0), not the plateau phase (Phase 2).
+​Incorrect (D): Rapid efflux of K⁺ ions mediates the phase 3 repolarization that brings the action potential to an end, rather than maintaining the plateau.
+​Incorrect (E): Rapid influx of Cl⁻ ions would introduce negative charge into the cell, terminating or preventing the plateau phase instead of sustaining it.
+Tags: Moderate, Physiology, Musculoskeletal, Cardiac Muscle Physiology & Electrophysiology
+
+--------------------------------------------------
+
+​Question: The refractory period of cardiac muscle is long mainly because of:
+A. Absence of T-tubules
+B. Plateau phase caused by Ca²⁺ influx
+C. Rapid Cl⁻ influx
+D. Rapid K⁺ efflux
+E. Slow Na⁺ channel activation
+Correct Option: B
+Explanation:
+​Correct (B): Plateau phase caused by Ca²⁺ influx prolongs the action potential duration, keeping voltage-gated sodium channels inactivated for an extended period and preventing early re-excitation.
+​Incorrect (A): Absence of T-tubules is structurally inaccurate, as ventricular cardiac muscle possesses an extensive T-tubule network, and it has no role in channel refractoriness.
+​Incorrect (C): Rapid Cl⁻ influx participates briefly in early transient repolarization (Phase 1) and does not extend the total refractory length.
+​Incorrect (D): Rapid K⁺ efflux serves to repolarize the cell, shortening the action potential rather than lengthening its refractory period.
+​Incorrect (E): Slow Na⁺ channel activation is factually incorrect; cardiac fast sodium channels activate rapidly during Phase 0 to drive the upstroke.
+Tags: Moderate, Physiology, Musculoskeletal, Cardiac Muscle Physiology & Electrophysiology
+
+--------------------------------------------------
+
+​Question: Tetanization does not occur in cardiac muscle because:
+A. Due to decreased refractory period
+B. Due to gap junctions
+C. Due to plateau phase
+D. Due to prolonged refractory period
+E. Due to rapid repolarization
+Correct Option: D
+Explanation:
+​Correct (D): Due to prolonged refractory period, cardiac muscle cannot be re-excited until the mechanical contraction is almost complete, preventing wave summation and tetanic spasm.
+​Incorrect (A): Due to decreased refractory period would allow rapid repeated stimulation and increase the risk of tetanization, which is the opposite of cardiac physiology.
+​Incorrect (B): Due to gap junctions facilitates electrical syncytium-like spread between adjacent cells but does not dictate the individual cell's mechanical or electrical refractory duration.
+​Incorrect (C): Due to plateau phase is the underlying cellular mechanism that generates the long action potential, but it is the resulting prolonged refractory period itself that directly prevents tetanization.
+​Incorrect (E): Due to rapid repolarization would shorten the action potential duration, making tetanization more likely rather than preventing it.
+Tags: Moderate, Physiology, Musculoskeletal, Cardiac Muscle Physiology & Electrophysiology
+
+--------------------------------------------------
+

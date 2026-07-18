@@ -1,0 +1,59 @@
+﻿Question: The diaphragm is NOT derived from which of the following:
+A. anterior thoracic fascia
+B. dorsal mesentery of the esophagus
+C. muscular components from lateral and dorsal body walls
+D. pleuroperitoneal membranes
+E. septum transversum
+Correct Option: A
+Explanation:
+* Correct (A): The anterior thoracic fascia does not contribute to embryonic diaphragmatic development, which instead relies on four distinct primitive structures.
+* Incorrect (B): The dorsal mesentery of the esophagus forms the median portion of the diaphragm, specifically the crura.
+* Incorrect (C): The muscular components from lateral and dorsal body walls migrate inward to form the peripheral muscular part of the diaphragm.
+* Incorrect (D): The pleuroperitoneal membranes fuse with the other components to close the pericardioperitoneal canals, forming the posterolateral portions.
+* Incorrect (E): The septum transversum is the major primordium that gives rise to the large central tendon of the diaphragm.
+Tags: Easy, Embryology, Respiratory Module, Systemic: Diaphragm & Body Cavities
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: The diaphragm is innervated by the phrenic nerve, which arises from which spinal nerve roots:
+A. C3, C4, C5
+B. L1, L2, L3
+C. S2, S3, S4
+D. T3, T4, T5
+E. T8, T9, T10
+Correct Option: A
+Explanation:
+* Correct (A): The phrenic nerve arises from the ventral rami of C3, C4, C5 spinal nerve roots, reflecting the embryonic origin of the diaphragm musculature from cervical somites.
+* Incorrect (B): L1, L2, L3 spinal nerve roots form the lumbar plexus, which provides motor and sensory supply to the lower abdominal wall and lower limb.
+* Incorrect (C): S2, S3, S4 spinal nerve roots form the pelvic splanchnic nerves that supply parasympathetic innervation to hindgut and pelvic viscera.
+* Incorrect (D): T3, T4, T5 spinal nerve roots give rise to intercostal nerves that supply the thoracic wall muscles and overlying skin.
+* Incorrect (E): T8, T9, T10 spinal nerve roots give rise to lower intercostal nerves supplying the anterolateral abdominal wall.
+Tags: Easy, Embryology, Respiratory Module, Systemic: Diaphragm & Body Cavities
+--------------------------------------------------
+

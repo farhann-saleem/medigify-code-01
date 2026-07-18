@@ -1,0 +1,18 @@
+
+Question: An 18-year-old female patient is brought to the emergency department due to drug overdose. Which route of administration is most desirable for administering an antidote:
+ A. Intramuscular
+ B. Intravenous
+ C. Oral
+ D. Subcutaneous
+ E. Transdermal
+ Correct Option: B
+ Explanation:
+​Correct (B): The intravenous route is the most desirable in an overdose emergency because it bypasses all absorptive barriers to deliver the antidote directly into the systemic circulation with zero delay.
+​Incorrect (A): Intramuscular injection requires the antidote to diffuse out of muscle tissue into capillaries, creating an unacceptable delay in plasma therapeutic levels during an acute crisis.
+​Incorrect (C): Oral administration is too slow and unreliable due to unpredictable gastric emptying, and it poses a severe aspiration risk if the overdose patient has a depressed level of consciousness.
+​Incorrect (D): Subcutaneous delivery relies on slow absorption through adipose tissue, which is inadequate when trying to rapidly counteract a life-threatening toxicity.
+​Incorrect (E): Transdermal systems are designed for slow, steady absorption over days, making them completely ineffective for treating an acute, time-sensitive drug overdose.
+ Tags: Moderate, Pharmacology, Foundation, General: Drug Sources & Dosage Forms
+
+--------------------------------------------------
+

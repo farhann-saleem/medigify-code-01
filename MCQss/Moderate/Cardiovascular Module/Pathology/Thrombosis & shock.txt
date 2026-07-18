@@ -1,0 +1,365 @@
+Question: A 31-year-old man is on a scuba diving trip and descends to a depth of 50 m in the Blue Hole off the coast of Belize. After 30 minutes, he has a malfunction in his equipment and quickly returns to the boat on the surface. He develops dyspnea, substernal chest pain, severe headache, vertigo, followed by painful myalgias and arthralgias. Which of the following is most likely occluding his arterioles:
+ A. cholesterol crystals.
+ B. fat globules.
+ C. fibrin clots.
+ D. nitrogen gas bubbles.
+ E. platelet thrombi.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Rapid ascent causes dissolved nitrogen to form gas bubbles that obstruct vessels and tissues.
+ •	Incorrect (A): Cholesterol crystals cause atheroembolism, not decompression sickness.
+ •	Incorrect (B): Fat globules are associated with long-bone fractures and trauma.
+ •	Incorrect (C): Fibrin clots cause thromboembolism rather than diving-related illness.
+ •	Incorrect (E): Platelet thrombi do not explain the classic decompression syndrome presentation.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: A 22-year-old woman with an uncomplicated pregnancy develops sudden dyspnea with cyanosis and hypotension during vaginal delivery of a term infant. She develops seizures and coma. Which of the following is most likely to be present in her peripheral pulmonary arteries:
+ A. aggregates of platelets.
+ B. amniotic fluid.
+ C. fat globules.
+ D. fibrin thrombi.
+ E. gas bubbles.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Amniotic fluid embolism occurs during labor when fetal material enters maternal circulation.
+ •	Incorrect (A): Platelet aggregates do not explain the obstetric emergency syndrome.
+ •	Incorrect (C): Fat globules are typically related to skeletal trauma.
+ •	Incorrect (D): Fibrin thrombi may occur secondarily but are not the primary embolic material.
+ •	Incorrect (E): Gas bubbles are characteristic of decompression sickness.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: In which of the following types of shock is vital organ perfusion maintained:
+ A. cardiogenic shock.
+ B. irreversible shock.
+ C. non-progressive shock.
+ D. progressive shock.
+ E. septic shock.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Non-progressive shock is compensated by neurohumoral mechanisms that preserve perfusion to vital organs.
+ •	Incorrect (A): Cardiogenic shock causes inadequate tissue perfusion due to pump failure.
+ •	Incorrect (B): Irreversible shock is characterized by severe organ damage despite therapy.
+ •	Incorrect (D): Progressive shock results in worsening tissue hypoperfusion.
+ •	Incorrect (E): Septic shock eventually leads to circulatory dysfunction and organ hypoperfusion.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: A 55-year-old woman develops swelling and tenderness of the left leg after major abdominal surgery. Doppler sonography shows thrombosis of deep leg veins. Which of the following mechanisms most likely contributed to her condition:
+ A. endothelial injury.
+ B. hypercoagulability.
+ C. immobilization.
+ D. stasis of blood flow.
+ E. turbulent blood flow.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Postoperative immobilization promotes venous stasis and deep vein thrombosis.
+ •	Incorrect (A): Endothelial injury can contribute but is not the most likely factor emphasized here.
+ •	Incorrect (B): Hypercoagulability may occur after surgery but immobilization is the key risk factor.
+ •	Incorrect (D): Stasis is the mechanism produced by immobilization rather than the precipitating factor listed.
+ •	Incorrect (E): Turbulent blood flow is more relevant to arterial thrombosis.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: A 32-year-old man with fractures of the femur and tibia suddenly develops severe dyspnea two days after surgical stabilization. Which of the following complications is the most likely cause:
+ A. cardiac tamponade.
+ B. fat embolism.
+ C. pulmonary edema.
+ D. pulmonary infarction.
+ E. tension pneumothorax.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Fat embolism typically occurs 1–3 days after long-bone fractures and causes acute respiratory distress.
+ •	Incorrect (A): Cardiac tamponade is not a typical delayed complication of limb fractures.
+ •	Incorrect (C): Pulmonary edema lacks the characteristic fracture association.
+ •	Incorrect (D): Pulmonary infarction is less common and not the classic post-fracture syndrome.
+ •	Incorrect (E): Tension pneumothorax usually follows thoracic injury.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Blood supply to the left ventricle of a 60-year-old man suddenly stops and myocardial infarction develops. Which type of infarct is most likely:
+ A. brown.
+ B. gray.
+ C. red.
+ D. white.
+ E. yellow.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Myocardial infarction is a classic white (anemic) infarct occurring in a solid organ with end-arterial supply.
+ •	Incorrect (A): Brown infarct is not a recognized infarct classification.
+ •	Incorrect (B): Gray is not the standard description of acute myocardial infarction.
+ •	Incorrect (C): Red infarcts occur in tissues with dual blood supply or venous occlusion.
+ •	Incorrect (E): Yellow is not the primary infarct classification.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: A 75-year-old man develops swelling and tenderness of the left leg two weeks after a femoral fracture. Which of the following complications is most likely to occur:
+ A. disseminated intravascular coagulation.
+ B. fat embolism syndrome.
+ C. gangrenous necrosis of the foot.
+ D. pulmonary thromboembolism.
+ E. renal infarction.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Deep venous thrombosis after immobilization may embolize to the lungs causing pulmonary thromboembolism.
+ •	Incorrect (A): Disseminated intravascular coagulation is not the usual complication of leg DVT.
+ •	Incorrect (B): Fat embolism syndrome occurs earlier after fractures.
+ •	Incorrect (C): Gangrenous necrosis is usually due to severe arterial insufficiency.
+ •	Incorrect (E): Renal infarction generally results from arterial emboli.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Which one among the following is the most important factor in reducing damage in case of occlusion of a coronary vessel:
+ A. age of the patient.
+ B. alternative blood supply.
+ C. collateral circulation.
+ D. rate of occlusion.
+ E. ventricular wall thickness.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Availability of alternative blood supply limits ischemia and reduces infarct size.
+ •	Incorrect (A): Age influences recovery but not the primary determinant of tissue survival.
+ •	Incorrect (C): Collateral circulation is one form of alternative blood supply but not the keyed option.
+ •	Incorrect (D): Rate of occlusion affects adaptation but is less important than blood supply.
+ •	Incorrect (E): Ventricular wall thickness does not directly prevent ischemic injury.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: A 31-year-old man is on a scuba diving trip and descends to a depth of 50 m in the Blue Hole off the coast of Belize. After 30 minutes, he has a malfunction in his equipment and quickly returns to the boat on the surface. He develops dyspnea, substernal chest pain, severe headache, vertigo, followed by painful myalgias and arthralgias. Which of the following is most likely occluding his arterioles:
+ A. cholesterol crystals.
+ B. fat globules.
+ C. fibrin clots.
+ D. nitrogen gas bubbles.
+ E. platelet thrombi.
+Correct Option: D
+Explanation:
+Correct (D): Rapid ascent causes dissolved nitrogen to form gas bubbles that obstruct vessels and tissues.
+ Incorrect (A): Cholesterol crystals cause atheroembolism, not decompression sickness.
+ Incorrect (B): Fat globules are associated with long-bone fractures and trauma.
+ Incorrect (C): Fibrin clots cause thromboembolism rather than diving-related illness.
+ Incorrect (E): Platelet thrombi do not explain the classic decompression syndrome presentation.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: A 22-year-old woman with an uncomplicated pregnancy develops sudden dyspnea with cyanosis and hypotension during vaginal delivery of a term infant. She develops seizures and coma. Which of the following is most likely to be present in her peripheral pulmonary arteries:
+ A. aggregates of platelets.
+ B. amniotic fluid.
+ C. fat globules.
+ D. fibrin thrombi.
+ E. gas bubbles.
+Correct Option: B
+Explanation:
+Correct (B): Amniotic fluid embolism occurs during labor when fetal material enters maternal circulation.
+ Incorrect (A): Platelet aggregates do not explain the obstetric emergency syndrome.
+ Incorrect (C): Fat globules are typically related to skeletal trauma.
+ Incorrect (D): Fibrin thrombi may occur secondarily but are not the primary embolic material.
+ Incorrect (E): Gas bubbles are characteristic of decompression sickness.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: In which of the following types of shock is vital organ perfusion maintained:
+ A. cardiogenic shock.
+ B. irreversible shock.
+ C. non-progressive shock.
+ D. progressive shock.
+ E. septic shock.
+Correct Option: C
+Explanation:
+Correct (C): Non-progressive shock is compensated by neurohumoral mechanisms that preserve perfusion to vital organs.
+ Incorrect (A): Cardiogenic shock causes inadequate tissue perfusion due to pump failure.
+ Incorrect (B): Irreversible shock is characterized by severe organ damage despite therapy.
+ Incorrect (D): Progressive shock results in worsening tissue hypoperfusion.
+ Incorrect (E): Septic shock eventually leads to circulatory dysfunction and organ hypoperfusion.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: A 55-year-old woman develops swelling and tenderness of the left leg after major abdominal surgery. Doppler sonography shows thrombosis of deep leg veins. Which of the following mechanisms most likely contributed to her condition:
+ A. endothelial injury.
+ B. hypercoagulability.
+ C. immobilization.
+ D. stasis of blood flow.
+ E. turbulent blood flow.
+Correct Option: C
+Explanation:
+Correct (C): Postoperative immobilization promotes venous stasis and deep vein thrombosis.
+ Incorrect (A): Endothelial injury can contribute but is not the most likely factor emphasized here.
+ Incorrect (B): Hypercoagulability may occur after surgery but immobilization is the key risk factor.
+ Incorrect (D): Stasis is the mechanism produced by immobilization rather than the precipitating factor listed.
+ Incorrect (E): Turbulent blood flow is more relevant to arterial thrombosis.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: A 32-year-old man with fractures of the femur and tibia suddenly develops severe dyspnea two days after surgical stabilization. Which of the following complications is the most likely cause:
+ A. cardiac tamponade.
+ B. fat embolism.
+ C. pulmonary edema.
+ D. pulmonary infarction.
+ E. tension pneumothorax.
+Correct Option: B
+Explanation:
+Correct (B): Fat embolism typically occurs 1–3 days after long-bone fractures and causes acute respiratory distress.
+ Incorrect (A): Cardiac tamponade is not a typical delayed complication of limb fractures.
+ Incorrect (C): Pulmonary edema lacks the characteristic fracture association.
+ Incorrect (D): Pulmonary infarction is less common and not the classic post-fracture syndrome.
+ Incorrect (E): Tension pneumothorax usually follows thoracic injury.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: Blood supply to the left ventricle of a 60-year-old man suddenly stops and myocardial infarction develops. Which type of infarct is most likely:
+ A. brown.
+ B. gray.
+ C. red.
+ D. white.
+ E. yellow.
+Correct Option: D
+Explanation:
+Correct (D): Myocardial infarction is a classic white (anemic) infarct occurring in a solid organ with end-arterial supply.
+ Incorrect (A): Brown infarct is not a recognized infarct classification.
+ Incorrect (B): Gray is not the standard description of acute myocardial infarction.
+ Incorrect (C): Red infarcts occur in tissues with dual blood supply or venous occlusion.
+ Incorrect (E): Yellow is not the primary infarct classification.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: A 75-year-old man develops swelling and tenderness of the left leg two weeks after a femoral fracture. Which of the following complications is most likely to occur:
+ A. disseminated intravascular coagulation.
+ B. fat embolism syndrome.
+ C. gangrenous necrosis of the foot.
+ D. pulmonary thromboembolism.
+ E. renal infarction.
+Correct Option: D
+Explanation:
+Correct (D): Deep venous thrombosis after immobilization may embolize to the lungs causing pulmonary thromboembolism.
+ Incorrect (A): Disseminated intravascular coagulation is not the usual complication of leg DVT.
+ Incorrect (B): Fat embolism syndrome occurs earlier after fractures.
+ Incorrect (C): Gangrenous necrosis is usually due to severe arterial insufficiency.
+ Incorrect (E): Renal infarction generally results from arterial emboli.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: In an experiment on vascular injury, propagation of thrombus to adjacent normal vessels is prevented by activation of protein C. Which of the following substances is responsible:
+ A. calcium.
+ B. fibrin.
+ C. prothrombin.
+ D. thrombomodulin.
+ E. von Willebrand factor.
+Correct Option: D
+Explanation:
+Correct (D): Thrombomodulin binds thrombin and activates protein C, producing anticoagulant effects.
+ Incorrect (A): Calcium participates in coagulation rather than activating protein C.
+ Incorrect (B): Fibrin forms the clot matrix and promotes thrombosis.
+ Incorrect (C): Prothrombin is a clotting factor precursor.
+ Incorrect (E): von Willebrand factor mediates platelet adhesion.
+Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: A 23-year-old man undergoes surgery for fractures of the pelvis and femur after a motor vehicle accident. The next day he develops dyspnea, neurological symptoms, and a petechial rash. Which type of embolism is most likely responsible:
+ A. air embolism.
+ B. amniotic fluid embolism.
+ C. fat embolism.
+ D. paradoxical embolism.
+ E. septic embolism.
+Correct Option: C
+Explanation:
+ •	Correct (C): The triad of respiratory distress, neurologic signs, and petechial rash is characteristic of fat embolism syndrome.
+ •	Incorrect (A): Air embolism is associated with vascular trauma or decompression injury.
+ •	Incorrect (B): Amniotic fluid embolism occurs during labor or postpartum.
+ •	Incorrect (D): Paradoxical embolism requires a right-to-left cardiac shunt.
+ •	Incorrect (E): Septic embolism contains infected material and causes septic foci.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: An 86-year-old man with recurrent urinary tract infections presents with fever, tachycardia, hypotension, and altered mental status. Which type of shock is most likely:
+  A. anaphylactic shock
+  B. cardiogenic shock
+  C. hypovolemic shock
+  D. neurogenic shock
+  E. septic shock
+  Correct Option: E
+  Explanation:
+ •	Correct (E): Septic shock results from systemic infection causing vasodilation and hypotension.
+ •	Incorrect (A): Anaphylactic shock is allergic IgE-mediated reaction.
+ •	Incorrect (B): Cardiogenic shock is pump failure.
+ •	Incorrect (C): Hypovolemic shock results from fluid loss.
+ •	Incorrect (D): Neurogenic shock results from loss of sympathetic tone.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: A bedridden elderly patient suddenly develops pleuritic chest pain and hemoptysis. The most likely site of origin of the embolus is:
+  A. hepatic veins
+  B. lower extremity veins
+  C. pelvic veins
+  D. portal vein
+  E. pulmonary veins
+  Correct Option: B
+  Explanation:
+ •	Correct (B): Deep vein thrombosis in lower extremities is the most common source of pulmonary emboli.
+ •	Incorrect (A): Hepatic veins are not typical thrombus sources.
+ •	Incorrect (C): Pelvic veins can contribute but are less common than leg veins.
+ •	Incorrect (D): Portal vein thrombosis does not cause pulmonary emboli.
+ •	Incorrect (E): Pulmonary veins drain oxygenated blood, not thrombus source.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Which of the following is not a cause of thrombosis:
+  A. aspirin therapy
+  B. endothelial damage
+  C. high antithrombin III
+  D. polycythemia
+  E. thrombolytic therapy
+  Correct Option: C
+  Explanation:
+ •	Correct (C): High antithrombin III is anticoagulant and protects against thrombosis.
+ •	Incorrect (A): Aspirin therapy reduces platelet aggregation but imbalance scenarios may be tested; not primary cause.
+ •	Incorrect (B): Endothelial damage promotes thrombosis.
+ •	Incorrect (D): Polycythemia increases blood viscosity and thrombosis risk.
+ •	Incorrect (E): Thrombolytic therapy dissolves clots, not causes them.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: In a state of shock, there is:
+  A. cardiovascular collapse.
+  B. decreased hydrostatic pressure and increased osmotic pressure.
+  C. decreased pulse rate.
+  D. fever.
+  E. increased tissue perfusion.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Shock is characterized by cardiovascular collapse resulting in inadequate tissue perfusion and oxygen delivery.
+ •	Incorrect (B): Alterations in hydrostatic and osmotic pressures do not define shock.
+ •	Incorrect (C): Shock usually causes compensatory tachycardia rather than decreased pulse rate.
+ •	Incorrect (D): Fever may occur in septic shock but is not a universal feature of shock.
+ •	Incorrect (E): Shock causes decreased, not increased, tissue perfusion.
+ Tags: Moderate, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+

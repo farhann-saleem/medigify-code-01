@@ -1,0 +1,173 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Your 26-year-old patient has thoracic outlet syndrome, which is associated with impingement on structures passing through the superior thoracic aperture. This syndrome is associated with:
+A. a cervical (supernumerary) rib
+B. a depressed sternal angle
+C. a depressed xiphoid process
+D. a fractured 1st rib
+E. a fractured 10th rib
+Correct Option: A
+Explanation:
+* Correct (A): A cervical (supernumerary) rib arises from the C7 vertebra and directly impinges upon the brachial plexus and subclavian vessels within the superior thoracic aperture.
+* Incorrect (B): A depressed sternal angle alters the anterior chest wall geometry but does not compress structures traversing the thoracic inlet.
+* Incorrect (C): A depressed xiphoid process sits at the inferior margin of the sternum and cannot impinge upon the superior thoracic aperture.
+* Incorrect (D): A fractured 1st rib typically causes acute vascular injury or pneumothorax rather than chronic thoracic outlet syndrome.
+* Incorrect (E): A fractured 10th rib involves the lower costal margin and has no anatomical relationship with the superior thoracic aperture.
+Tags: Hard, Embryology, Respiratory Module, Systemic: Vertebral Column & Ribs
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which vertebral defect is characterized by hemivertebrae:
+A. kyphosis
+B. scoliosis
+C. spina bifida
+D. spina bifida cystica
+E. spina bifida occulta
+Correct Option: B
+Explanation:
+* Correct (B): Scoliosis is a lateral curvature of the spine frequently caused by hemivertebrae, where one side of a vertebra fails to form completely.
+* Incorrect (A): Kyphosis is an exaggerated anterior-posterior curvature of the thoracic spine, typically resulting from wedge fractures or osteoporosis rather than asymmetric hemivertebrae.
+* Incorrect (C): Spina bifida is a broad category of neural tube defects defined by the failure of the vertebral arches to fuse posteriorly.
+* Incorrect (D): Spina bifida cystica is a severe neural tube defect marked by a visible fluid-filled sac protruding through the unfused vertebral arches.
+* Incorrect (E): Spina bifida occulta is a mild, asymptomatic failure of vertebral arch fusion covered by intact overlying skin.
+Tags: Hard, Embryology, Respiratory Module, Systemic: Vertebral Column & Ribs
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is the name of congenital vertebral defect that involves fusion of two or more cervical vertebrae:
+A. klippel–Feil syndrome
+B. kyphosis
+C. lordosis
+D. scoliosis
+E. spondylolisthesis
+Correct Option: A
+Explanation:
+* Correct (A): Klippel–Feil syndrome is a congenital anomaly characterized by the improper segmentation and subsequent fusion of two or more cervical vertebrae.
+* Incorrect (B): Kyphosis refers to an abnormal posterior curvature of the thoracic vertebrae, not a structural fusion defect of the cervical region.
+* Incorrect (C): Lordosis describes an exaggerated anterior curvature of the lumbar or cervical spine, unrelated to congenital vertebral fusion.
+* Incorrect (D): Scoliosis involves an abnormal lateral curvature of the spinal column rather than localized cervical vertebral fusion.
+* Incorrect (E): Spondylolisthesis is the anterior displacement or slipping of a vertebra over the one below it, typically occurring in the lumbar spine.
+Tags: Hard, Embryology, Respiratory Module, Systemic: Vertebral Column & Ribs
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is the type of spina bifida characterized by a sac-like protrusion of spinal cord and meninges through an opening in the spine:
+A. lipomyelomeningocele
+B. meningocele
+C. myelomeningocele
+D. occulta
+E. schizencephaly
+Correct Option: C
+Explanation:
+* Correct (C): Myelomeningocele is a severe form of spina bifida cystica where both the meninges and the spinal cord herniate through the open vertebral defect into a visible external sac.
+* Incorrect (A): Lipomyelomeningocele features an abnormal fatty mass attached to the spinal cord, rather than an open fluid-filled sac containing neural tissue.
+* Incorrect (B): Meningocele involves the herniation of the meninges alone through the bony defect, leaving the spinal cord intact within the canal.
+* Incorrect (D): Occulta is a hidden neural tube defect characterized by an incomplete vertebral arch without any external cystic sac or neural protrusion.
+* Incorrect (E): Schizencephaly is a rare developmental disorder marked by abnormal clefts in the cerebral hemispheres, not a spinal column defect.
+Tags: Hard, Embryology, Respiratory Module, Systemic: Vertebral Column & Ribs
+--------------------------------------------------
+

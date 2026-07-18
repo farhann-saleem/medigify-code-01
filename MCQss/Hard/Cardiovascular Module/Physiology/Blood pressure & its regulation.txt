@@ -1,0 +1,170 @@
+Question: Why does aortic regurgitation cause a wide pulse pressure (waterhammer pulse)?
+ A. Reduced heart rate prolongs diastole
+ B. Increased stroke volume with rapid diastolic backflow
+ C. Increased total peripheral resistance in systole
+ D. Complete loss of arterial compliance
+ E. Equalization of pulmonary and systemic pressures
+ Correct Option: B
+ Explanation:
+ • Correct (B): High systolic volume plus rapid diastolic runoff into LV widens pulse pressure.
+ • Incorrect (A): Heart rate is not primary determinant.
+ • Incorrect (C): TPR does not explain wide pulse pressure mechanism.
+ • Incorrect (D): Compliance changes are not primary cause.
+ • Incorrect (E): Pulmonary pressures are unrelated to systemic pulse pressure.
+ Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: A patient presents with severe polycythemia vera, causing hematocrit to rise to 65%. Simultaneously, arteriosclerosis has decreased the compliance of their large arteries. How do these combined biophysical alterations affect total peripheral resistance (TPR) and arterial pulse pressure?
+A. TPR decreases and pulse pressure decreases due to reduced flow velocity
+B. TPR increases and pulse pressure increases due to viscosity and stiffness
+C. TPR remains unchanged and pulse pressure decreases due to damping
+D. TPR decreases and pulse pressure remains unchanged due to compensation
+E. TPR increases and pulse pressure decreases due to vascular collapse
+Correct Option: B
+Explanation:
+Correct (B): Increased viscosity raises TPR and arterial stiffness increases pulse pressure.
+Incorrect (A): Both viscosity and stiffness increase, not decrease pressures.
+Incorrect (C): Ignores hemorheology and compliance effects.
+Incorrect (D): No compensatory normalization of both variables.
+Incorrect (E): Collapse is not physiologic in this context.
+Tags: Hard, Physiology, Cardiovascular, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: During an experiment, both vagus nerves and both glossopharyngeal nerves are surgically cut in an animal model. What is the immediate effect on the animal's arterial blood pressure profile?
+A. Acute hypotension with complete circulatory collapse
+B. Acute hypertension with wide fluctuations in arterial pressure
+C. Stable normalization of blood pressure at 100 mmHg
+D. Complete loss of cardiac output due to vagal denervation
+E. Permanent suppression of sympathetic vasoconstrictor tone
+Correct Option: B
+Explanation:
+Correct (B): Loss of CN IX and X abolishes baroreceptor afferent input, removing buffering and causing labile hypertension with wide BP fluctuations.
+Incorrect (A): Hypotension does not result from loss of baroreceptor input.
+Incorrect (C): Blood pressure cannot remain stable without reflex buffering.
+Incorrect (D): Vagal loss does not eliminate cardiac output; it increases heart rate.
+Incorrect (E): Sympathetic tone persists and becomes unmodulated.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: A neurosurgery patient develops an intracranial tumor that causes a rapid rise in cerebrospinal fluid (CSF) pressure to 160 mmHg. This triggers the Cushing reaction. Describe the physiological steps of this response.
+A. CSF pressure compresses brain vessels causing ischemia and triggering massive sympathetic discharge to raise arterial pressure
+B. Parasympathetic activation causes immediate bradycardia and hypotension collapse
+C. Renal compensation increases CSF excretion to normalize intracranial pressure
+D. Baroreceptor resetting occurs to a lower pressure set point of 20 mmHg
+E. Cerebellar inhibition of vasomotor center reduces systemic vascular resistance
+Correct Option: A
+Explanation:
+
+Incorrect (B): Parasympathetic dominance is secondary (bradycardia) and not the initiating compensatory mechanism.
+Incorrect (C): CSF pressure is not regulated by renal excretion acutely.
+Incorrect (D): Baroreceptors do not reset downward in Cushing response.
+Incorrect (E): Cerebellum does not mediate this systemic vasomotor failure.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: An animal is exposed to severe hypoxia (low oxygen). Arterial chemoreceptors in the carotid and aortic bodies are activated. What is the reflex cardiovascular response in a ventilated animal?
+A. Generalized vasodilation due to vasomotor center inhibition
+B. Widespread peripheral vasoconstriction with increased arterial pressure
+C. Complete cessation of cardiac activity due to vagal dominance
+D. Renal vasodilation with natriuresis-mediated hypotension
+E. Selective pulmonary vasodilation with systemic collapse
+Correct Option: B
+Explanation:
+Correct (B): Peripheral chemoreceptor activation increases sympathetic outflow causing systemic vasoconstriction and elevated arterial pressure.
+Incorrect (A): Chemoreceptor activation stimulates, not inhibits, the vasomotor center.
+Incorrect (C): Cardiac arrest does not occur in this reflex pathway.
+Incorrect (D): Renal vasodilation is not the primary systemic response.
+Incorrect (E): Pulmonary circulation tends toward vasoconstriction in hypoxia, not vasodilation.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: A patient is found to have severe stenosis of the left renal artery with a normal right renal artery. Explain the development of One-Kidney (Goldblatt) hypertension in this condition?
+A. Both kidneys become completely nonfunctional due to ischemic necrosis
+B. The ischemic kidney releases renin, activating angiotensin II and aldosterone, increasing systemic vasoconstriction and sodium retention
+C. The healthy kidney excretes excess sodium leading to persistent hypotension
+D. The baroreceptors permanently abolish sympathetic tone in circulation
+E. The ischemic kidney suppresses renin release due to negative feedback inhibition
+Correct Option: B
+Explanation:
+Correct (B): The ischemic kidney releases renin, triggering angiotensin II–mediated vasoconstriction and aldosterone-driven sodium retention, producing sustained hypertension in one-kidney (Goldblatt) physiology.
+Incorrect (A): Severe stenosis does not cause bilateral renal necrosis in one-kidney Goldblatt hypertension.
+Incorrect (C): The normal kidney may excrete sodium initially but cannot fully counteract RAAS-driven sodium retention and hypertension.
+Incorrect (D): Baroreceptors adapt but do not permanently abolish sympathetic tone.
+Incorrect (E): Ischemia stimulates, not suppresses, renin release.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: In volume-loading hypertension due to reduced renal mass and high salt intake, what is the secondary long-term hemodynamic change after initial high cardiac output?
+A. Cardiac output remains high while total peripheral resistance falls to zero
+B. High cardiac output state converts to high total peripheral resistance due to tissue autoregulation
+C. Immediate cessation of cardiac pumping due to volume overload
+D. Systemic vasodilation persists indefinitely despite pressure rise
+E. Progressive renal vasodilation reduces arterial pressure to normal baseline
+Correct Option: B
+Explanation:
+Correct (B): Chronic volume-loading hypertension transitions from high cardiac output to elevated total peripheral resistance due to tissue autoregulation-induced vasoconstriction.
+Incorrect (A): Total peripheral resistance does not fall to zero in chronic hypertension.
+Incorrect (C): The heart does not cease pumping; compensatory mechanisms maintain circulation.
+Incorrect (D): Systemic vasodilation is not sustained once autoregulatory vasoconstriction develops.
+Incorrect (E): Renal vasodilation cannot fully normalize arterial pressure in chronic volume overload.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: Why does a patient with severe, chronic aortic regurgitation demonstrate a very large arterial pulse pressure (e.g., 160/45 mmHg), often called a waterhammer pulse?
+A. The heart rate drops to 20 beats/min, allowing arterial pressure to normalize.
+B. Left ventricular stroke volume increases significantly during systole, while rapid backflow of blood into the ventricle during diastole causes aortic pressure to drop very low.
+C. Pulmonary veins absorb the aortic pressure wave during diastole.
+D. Total peripheral resistance rises to extreme levels during diastole.
+E. Ventricular compliance decreases abruptly, narrowing pulse pressure.
+Correct Option: B
+Explanation:
+Correct (B): Increased left ventricular stroke volume elevates systolic pressure, while rapid diastolic backflow markedly lowers aortic pressure, creating a wide pulse pressure.
+Incorrect (A): Bradycardia to 20 beats/min is not the mechanism of a waterhammer pulse.
+Incorrect (C): Pulmonary veins do not absorb the aortic pressure wave in this manner.
+Incorrect (D): Extreme increases in total peripheral resistance would tend to maintain diastolic pressure rather than lower it.
+Incorrect (E): Decreased ventricular compliance does not explain the markedly widened pulse pressure.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: A patient is brought to the emergency department with a severe spinal cord injury from a motorcycle accident. Their blood pressure is 75/40 mmHg, but their heart rate is slow at 50 beats/min and their skin is warm and dry. What type of shock is this, and what is the mechanism?
+A. Cardiogenic shock due to direct heart trauma
+B. Neurogenic shock caused by loss of sympathetic vasomotor tone, leading to widespread vasodilation and bradycardia
+C. Hypovolemic shock due to internal bleeding
+D. Septic shock from an infected wound
+E. Obstructive shock due to pulmonary embolism
+Correct Option: B
+Explanation:
+Correct (B): Neurogenic shock results from loss of sympathetic vasomotor tone after spinal cord injury, causing vasodilation, hypotension, and bradycardia with warm dry skin.
+Incorrect (A): Cardiogenic shock would present with tachycardia and cold clammy skin due to pump failure.
+Incorrect (C): Hypovolemic shock causes tachycardia and cool clammy skin, not bradycardia and warmth.
+Incorrect (D): Septic shock is associated with infection-driven systemic inflammation rather than isolated spinal injury.
+Incorrect (E): Obstructive shock (e.g., pulmonary embolism) causes tachycardia and hypoxia, not isolated bradycardia with warm skin.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+
+Question: Explain the positive feedback loops that drive a patient from progressive shock into the irreversible stage of circulatory shock.
+
+
+
+
+
+Correct Option: B
+Explanation:
+Correct (B): Hypotension reduces coronary perfusion, worsening myocardial function and cardiac output, which amplifies tissue hypoxia, edema, and microvascular thrombosis in a self-perpetuating cycle.
+Incorrect (A): Hyperventilation does not directly drive the irreversible shock cascade described.
+Incorrect (C): Inactivation of the renin cascade would not produce fluid retention or hypertension.
+Incorrect (D): Sympathetic activation does not cause extreme bradycardia as a primary feature of shock progression.
+Incorrect (E): Systemic vasoconstriction in advanced shock worsens, not restores, tissue perfusion.
+Tags: Hard, Physiology, Cardiovascular System, Blood Pressure & Its Regulation
+
+--------------------------------------------------
+

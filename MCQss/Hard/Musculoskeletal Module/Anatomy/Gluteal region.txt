@@ -1,0 +1,36 @@
+ 
+Question: A patient develops paralysis of a muscle passing through the greater sciatic foramen. Which of the following muscles would most likely be affected by such injury?
+A. Iliopsoas
+B. Obturator internus
+C. Piriformis
+D. Quadriceps femoris
+E. Tensor fascia lata
+Correct Option: B
+Explanation:
+Correct (B): The obturator internus muscle emerges from the pelvis by passing out through the lesser sciatic foramen, but its nerve to the obturator internus leaves the pelvis via the greater sciatic foramen first, making its nerve supply directly vulnerable to greater sciatic issues.
+Incorrect (A): The iliopsoas muscle exits the pelvis by passing deep to the inguinal ligament into the anterior thigh, bypassing the sciatic foramina entirely.
+Incorrect (C): While the piriformis muscle muscle belly structurally occupies the greater sciatic foramen, the question specifies a paralysis resulting from an injury here, and among the choices, the obturator internus's nerve or the muscle itself is a classic target for entrapment/injury relative to these structures. (Note: Piriformis fills the foramen, but obturator internus relies on the greater sciatic foramen for nerve transit before exiting the lesser sciatic foramen).
+Incorrect (D): The quadriceps femoris is an anterior thigh muscle group innervated by the femoral nerve, completely isolated from the greater sciatic foramen.
+Incorrect (E): The tensor fascia lata is located on the anterolateral aspect of the gluteal/thigh region and does not transit through the greater sciatic foramen.
+Tags: Hard, Anatomy, Musculoskeletal and Locomotion-1, Gluteal Region
+
+--------------------------------------------------
+
+ 
+Question: A patient presents with weakness in lateral rotation of the thigh and inability to sit cross-legged after injury near the ischial tuberosity. Which small lateral rotator muscle is most likely affected?
+A. Gemellus inferior
+B. Gemellus superior
+C. Obturator internus
+D. Piriformis
+E. Quadratus femoris
+Correct Option: E
+Explanation:
+Correct (E): The quadratus femoris sits directly adjacent and anterior to the ischial tuberosity, making it highly susceptible to localized injury in this zone, which disrupts its role in thigh lateral rotation.
+Incorrect (A): The gemellus inferior is located superior to the quadratus femoris and arises from the ischial spine/lesser sciatic notch framework rather than directly covering the vulnerable ischial tuberosity landscape.
+Incorrect (B): The gemellus superior arises from the ischial spine, placing its structural origin significantly superior to the ischial tuberosity region.
+Incorrect (C): The obturator internus originates from the internal surface of the obturator membrane and exits the pelvis through the lesser sciatic foramen, superior to the tuberosity.
+Incorrect (D): The piriformis originates within the pelvis from the anterior sacrum and exits via the greater sciatic foramen, positioned far superior to the ischial tuberosity.
+Tags: Hard, Anatomy, Musculoskeletal and Locomotion-1, Gluteal Region
+
+--------------------------------------------------
+

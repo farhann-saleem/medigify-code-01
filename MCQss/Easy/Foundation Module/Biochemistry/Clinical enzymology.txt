@@ -1,0 +1,323 @@
+
+Question: Serum acid phosphatase is raised in which condition?
+A. Acute pancreatitis
+B. Acute myocardial infarction
+C. Carcinoma of prostate
+D. Osteoblastic sarcoma
+E. Obstructive jaundice
+Correct Option: C
+Explanation:
+Correct (C): Prostate carcinoma elevates acid phosphatase (classical marker)
+Incorrect (A): Pancreatitis raises amylase/lipase
+Incorrect (B): MI raises CK-MB/troponin
+Incorrect (D): Osteoblastic lesions raise alkaline phosphatase
+Incorrect (E): Obstructive jaundice raises conjugated bilirubin/ALP
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: All of the following are liver enzyme markers except:
+A. Alkaline phosphatase
+B. Alanine transaminase
+C. Aspartate transaminase
+D. Gamma glutamyl transferase
+E. Amylase
+Correct Option: E
+Explanation:
+Correct (E): Amylase is pancreatic, not liver enzyme
+Incorrect (A): ALP rises in cholestasis
+Incorrect (B): ALT is hepatocellular marker
+Incorrect (C): AST is hepatic + muscle marker
+Incorrect (D): GGT indicates hepatobiliary injury
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Which enzyme is specifically raised in myocardial infarction?
+A. LDH
+B. SGPT
+C. Alkaline phosphatase
+D. Amylase
+E. Lipase
+Correct Option: A
+Explanation:
+Correct (A): LDH rises after MI (especially LDH1 flip)
+Incorrect (B): SGPT is liver enzyme
+Incorrect (C): ALP is biliary/bone marker
+Incorrect (D): Amylase is pancreatic
+Incorrect (E): Lipase is pancreatic
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: The most useful early test for diagnosis of acute pancreatitis is:
+A. SGOT
+B. Serum amylase
+C. Serum calcium
+D. LDH
+E. Bilirubin
+Correct Option: B
+Explanation:
+Correct (B): Serum amylase rises early in pancreatitis
+Incorrect (A): SGOT is nonspecific
+Incorrect (C): Calcium decreases but is late finding
+Incorrect (D): LDH is nonspecific tissue injury marker
+Incorrect (E): Bilirubin relates to biliary obstruction
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Important diagnostic marker for obstructive liver disease is:
+A. Alanine transaminase
+B. Aspartate transaminase
+C. Alkaline phosphatase
+D. Gamma glutamyl transferase
+E. Bilirubin
+Correct Option: C
+Explanation:
+Correct (C): ALP is markedly elevated in cholestasis/obstruction
+Incorrect (A): ALT reflects hepatocellular injury
+Incorrect (B): AST is non-specific hepatic/muscle enzyme
+Incorrect (D): GGT supports diagnosis but less primary
+Incorrect (E): Bilirubin rises but is not enzyme marker
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Alkaline phosphatase is increased in:
+A. carcinoma head of pancreas
+B. carcinoma of prostate
+C. cholecystitis
+D. pancreatitis
+E. rickets
+Correct Option: E
+Explanation:
+Correct (E): Alkaline phosphatase rises markedly in rickets due to increased osteoblastic activity during defective bone mineralization.
+Incorrect (A): Carcinoma head of pancreas may elevate alkaline phosphatase only if biliary obstruction occurs, not as the classic association.
+Incorrect (B): Carcinoma of prostate is more strongly associated with acid phosphatase as a tumor marker.
+Incorrect (C): Cholecystitis may cause mild enzyme elevation but not the characteristic marked increase seen in bone disease.
+Incorrect (D): Pancreatitis primarily elevates amylase and lipase rather than alkaline phosphatase.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: All of the following enzymes are important diagnostic markers of liver disease except:
+A. alkaline phosphatase
+B. alanine transaminase
+C. amylase
+D. aspartate transaminase
+E. gamma glutamyl transferase
+Correct Option: C
+Explanation:
+Correct (C): Amylase is primarily a marker of pancreatic disease rather than liver disease.
+Incorrect (A): Alkaline phosphatase is elevated in cholestatic liver disorders.
+Incorrect (B): Alanine transaminase is a sensitive indicator of hepatocellular injury.
+Incorrect (D): Aspartate transaminase rises in liver cell damage.
+Incorrect (E): Gamma glutamyl transferase is commonly elevated in hepatobiliary disease and alcoholism.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Which of the following is a tumor marker:
+A. acid phosphatase
+B. alanine transaminase
+C. aldolase
+D. creatine kinase
+E. lipase
+Correct Option: A
+Explanation:
+Correct (A): Acid phosphatase is a classic tumor marker associated with carcinoma of prostate.
+Incorrect (B): Alanine transaminase is mainly a marker of liver injury.
+Incorrect (C): Aldolase rises in muscle disorders rather than malignancy.
+Incorrect (D): Creatine kinase indicates muscle or myocardial damage.
+Incorrect (E): Lipase is primarily elevated in pancreatitis.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+A rise in serum acid phosphatase indicates:
+A. acute hepatitis
+B. carcinoma of pancreas
+C. carcinoma of prostate
+D. mumps
+E. recent myocardial infarction
+Correct Option: C
+Explanation:
+Correct (C): Serum acid phosphatase is classically elevated in carcinoma of prostate, especially metastatic disease.
+Incorrect (A): Acute hepatitis is more strongly associated with elevated transaminases.
+Incorrect (B): Carcinoma of pancreas does not characteristically raise acid phosphatase.
+Incorrect (D): Mumps commonly elevates salivary enzymes rather than acid phosphatase.
+Incorrect (E): Recent myocardial infarction raises cardiac enzymes such as CK-MB and troponins.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Enzyme acid phosphatase is raised in:
+A. acute myocardial infarction
+B. acute pancreatitis
+C. carcinoma of prostate
+D. obstructive jaundice
+E. osteoblastic sarcoma
+Correct Option: C
+Explanation:
+Correct (C): Acid phosphatase is markedly elevated in carcinoma of prostate, particularly with bone metastasis.
+Incorrect (A): Acute myocardial infarction elevates CK-MB and troponins instead.
+Incorrect (B): Acute pancreatitis is associated mainly with increased amylase and lipase.
+Incorrect (D): Obstructive jaundice typically raises alkaline phosphatase.
+Incorrect (E): Osteoblastic sarcoma is more commonly associated with alkaline phosphatase elevation.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+The subunit composition of LDH1 isoenzyme of lactate dehydrogenase is:
+A. HHHH
+B. HHHM
+C. HHMM
+D. HMMM
+E. MMMM
+Correct Option: A
+Explanation:
+Correct (A): LDH1 isoenzyme of lactate dehydrogenase is composed entirely of four H subunits (HHHH).
+Incorrect (B): HHHM corresponds to LDH2.
+Incorrect (C): HHMM corresponds to LDH3.
+Incorrect (D): HMMM corresponds to LDH4.
+Incorrect (E): MMMM corresponds to LDH5.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Which one of the following enzymes is plasma-specific:
+A. ceruloplasmin
+B. coagulation factor X
+C. lipoprotein lipase
+D. plasmin
+E. pseudocholinesterase
+Correct Option: E
+Explanation:
+Correct (E): Pseudocholinesterase is a plasma-specific enzyme synthesized in the liver and normally present in plasma.
+Incorrect (A): Ceruloplasmin is a plasma protein but not an enzyme.
+Incorrect (B): Coagulation factor X is a clotting factor, not classified as a plasma-specific enzyme.
+Incorrect (C): Lipoprotein lipase acts mainly on endothelial surfaces.
+Incorrect (D): Plasmin is generated transiently during fibrinolysis rather than being plasma-specific.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Creatine phosphokinase (CPK) is NOT found in:
+A. brain
+B. kidneys
+C. liver
+D. myocardium
+E. skeletal muscles
+Correct Option: C
+Explanation:
+Correct (C): Creatine phosphokinase (CPK) is essentially absent in liver tissue.
+Incorrect (A): Brain contains the CK-BB isoenzyme.
+Incorrect (B): Kidneys contain measurable CPK activity.
+Incorrect (D): Myocardium contains CK-MB.
+Incorrect (E): Skeletal muscles contain abundant CK-MM.
+Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+Question: All of the following are liver enzyme markers except:
+ A. Alkaline phosphatase
+ B. Alanine transaminase
+ C. Aspartate transaminase
+ D. Gamma glutamyl transferase
+ E. Amylase
+ Correct Option: E
+ Explanation:
+ Correct (E): Amylase is pancreatic, not liver enzyme
+ Incorrect (A): ALP rises in cholestasis
+ Incorrect (B): ALT is hepatocellular marker
+ Incorrect (C): AST is hepatic + muscle marker
+ Incorrect (D): GGT indicates hepatobiliary injury
+ Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Serum acid phosphatase is raised in which condition?
+ A. Acute pancreatitis
+ B. Acute myocardial infarction
+ C. Carcinoma of prostate
+ D. Osteoblastic sarcoma
+ E. Obstructive jaundice
+ Correct Option: C
+ Explanation:
+ Correct (C): Prostate carcinoma elevates acid phosphatase (classical marker)
+ Incorrect (A): Pancreatitis raises amylase/lipase
+ Incorrect (B): MI raises CK-MB/troponin
+ Incorrect (D): Osteoblastic lesions raise alkaline phosphatase
+ Incorrect (E): Obstructive jaundice raises conjugated bilirubin/ALP
+ Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: All of the following are liver enzyme markers except:
+ A. Alkaline phosphatase
+ B. Alanine transaminase
+ C. Aspartate transaminase
+ D. Gamma glutamyl transferase
+ E. Amylase
+ Correct Option: E
+ Explanation:
+ Correct (E): Amylase is pancreatic, not liver enzyme
+ Incorrect (A): ALP rises in cholestasis
+ Incorrect (B): ALT is hepatocellular marker
+ Incorrect (C): AST is hepatic + muscle marker
+ Incorrect (D): GGT indicates hepatobiliary injury
+ Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Which enzyme is specifically raised in myocardial infarction?
+ A. LDH
+ B. SGPT
+ C. Alkaline phosphatase
+ D. Amylase
+ E. Lipase
+ Correct Option: A
+ Explanation:
+ Correct (A): LDH rises after MI (especially LDH1 flip)
+ Incorrect (B): SGPT is liver enzyme
+ Incorrect (C): ALP is biliary/bone marker
+ Incorrect (D): Amylase is pancreatic
+ Incorrect (E): Lipase is pancreatic
+ Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: The most useful early test for diagnosis of acute pancreatitis is:
+ A. SGOT
+ B. Serum amylase
+ C. Serum calcium
+ D. LDH
+ E. Bilirubin
+ Correct Option: B
+ Explanation:
+ Correct (B): Serum amylase rises early in pancreatitis
+ Incorrect (A): SGOT is nonspecific
+ Incorrect (C): Calcium decreases but is late finding
+ Incorrect (D): LDH is nonspecific tissue injury marker
+ Incorrect (E): Bilirubin relates to biliary obstruction
+ Tags: Easy, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+

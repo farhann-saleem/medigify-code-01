@@ -1,0 +1,19 @@
+
+Question: Ms Brown, a 28-year-old accountant, has been treated for myasthenia gravis for several years. She reports recent onset of weakness of her hands, diplopia, and difficulty swallowing. Which of the following is the best drug for distinguishing between myasthenic crisis and cholinergic crisis?
+A. Ambenonium
+B. Edrophonium
+C. Neostigmine
+D. Physostigmine
+E. Pyridostigmine
+Correct Option: B
+Explanation:
+
+* ​Correct (B): Edrophonium is a very short-acting acetylcholinesterase inhibitor that rapidly and briefly improves muscle strength if the patient is experiencing a myasthenic crisis, while worsening symptoms if they are in a cholinergic crisis.
+* ​Incorrect (A): Ambenonium is a long-acting acetylcholinesterase inhibitor whose prolonged duration of action makes it dangerous and unsuitable for a rapid diagnostic differentiation.
+* ​Incorrect (C): Neostigmine has an intermediate duration of action that presents an unnecessary risk of prolonged respiratory or cholinergic distress during diagnostic differentiation.
+* ​Incorrect (D): Physostigmine is a tertiary amine acetylcholinesterase inhibitor that crosses the blood-brain barrier, making it inappropriate and unsafe for diagnosing peripheral neuromuscular crises.
+* ​Incorrect (E): Pyridostigmine is a long-acting maintenance drug used for daily treatment of myasthenia gravis rather than acute diagnostic differentiation.
+    Tags: Hard, Pharmacology, Musculoskeletal, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+

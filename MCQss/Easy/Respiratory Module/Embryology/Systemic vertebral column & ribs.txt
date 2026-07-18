@@ -1,0 +1,17 @@
+﻿Question: Ribs are formed from which of the following:
+A. ectodermal invagination
+B. endodermal migration
+C. lateral plate mesoderm
+D. sclerotome portion of paraxial mesoderm
+E. somatopleuric portion of lateral plate mesoderm
+Correct Option: D
+Explanation:
+* Correct (D): The ribs develop from the sclerotome portion of paraxial mesoderm, which migrates into the body wall during embryonic development.
+* Incorrect (A): Ectodermal invagination gives rise to structures like the neural tube and various glands, not the bony thoracic skeleton.
+* Incorrect (B): Endodermal migration forms the epithelial linings of the respiratory and gastrointestinal tracts, rather than musculoskeletal components.
+* Incorrect (C): Lateral plate mesoderm forms the dermis, body wall parietes, and limb skeleton, but not the ribs.
+* Incorrect (E): The somatopleuric portion of lateral plate mesoderm contributes to the sternum and limb bones, rather than the ribs.
+Tags: Easy, Embryology, Respiratory Module, Systemic: Vertebral Column & Ribs
+
+--------------------------------------------------
+

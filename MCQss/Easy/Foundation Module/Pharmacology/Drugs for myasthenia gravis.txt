@@ -1,0 +1,23 @@
+Question: Which drug test is used to diagnose Myasthenia gravis: 
+Options:
+ a) Tensilon test 
+b) Atropine test 
+c) Succinylcholine test 
+d) Pilocarpine test
+ Correct Option: Ans. Tensilon test 
+Explanation: To distinguish between a myasthenic crisis (under-medicated) and a cholinergic crisis (over-medicated), clinicians use the Tensilon test (edrophonium); a brief improvement in symptoms confirms the need for more medication.
+ Tags: Easy, Pharmacology, Block 2, Module 3, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+
+Question: Neostigmine acts on: 
+Options: a) Nerve axon
+ b) Receptor at adrenergic junction 
+c) Acetylcholinesterase 
+d) Neuromuscular end plates 
+Correct Option: Ans. Acetylcholinesterase 
+Explanation: Neostigmine acts primarily by reversibly inhibiting the enzyme acetylcholinesterase, thereby increasing the amount of acetylcholine available at both muscarinic and nicotinic sites. 
+Tags: Easy, Pharmacology, Block 2, Module 3, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+

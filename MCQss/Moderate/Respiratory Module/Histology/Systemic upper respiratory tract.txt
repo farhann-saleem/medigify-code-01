@@ -1,0 +1,17 @@
+Question 7: All the following about the olfactory epithelium are true EXCEPT:
+A. basal cells rest on Descemet’s membrane.
+B. Bowman's glands are present underneath.
+C. sustentacular cells have prominent microvilli.
+D. the lamina propria contains unmyelinated axons.
+E. the neuro-epithelium have olfactory vesicles.
+Correct Option: A
+Explanation:
+Correct (A): Basal cells rest on a standard epithelial basement membrane, whereas Descemet’s membrane is a specialized basement membrane located exclusively in the cornea of the eye.
+Incorrect (B): Bowman's glands are present underneath the epithelium in the lamina propria, where they produce a serous fluid to dissolve odorants.
+Incorrect (C): Sustentacular cells have prominent microvilli on their apical surfaces to support olfactory cilia and maintain the ionic microenvironment.
+Incorrect (D): The lamina propria contains unmyelinated axons originating from olfactory receptor neurons that coalesce to form the olfactory nerve fascicles.
+Incorrect (E): The neuro-epithelium have olfactory vesicles, which are the bulbous apical terminations of olfactory neurons from which non-motile cilia project.
+Tags: Moderate, Histology, Respiratory, Systemic: Upper Respiratory Tract
+
+--------------------------------------------------
+

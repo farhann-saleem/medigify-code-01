@@ -1,0 +1,122 @@
+Question 19
+Which functional component of the systemic circulation contains the highest percentage of the total blood volume (approximately 64%) under normal resting conditions?
+A. Capillaries
+B. Pulmonary circulation
+C. Systemic arteries
+D. Venae cavae
+E. Veins, venules, and venous sinuses
+Correct Option: E
+Explanation:
+Correct (E): Veins, venules, and venous sinuses serve as capacitance vessels and contain approximately 64% of total blood volume at rest.
+Incorrect (A): Capillaries contain only a small fraction of circulating blood volume.
+Incorrect (B): The pulmonary circulation contains substantially less blood than the systemic venous system.
+Incorrect (C): Systemic arteries are low-capacitance vessels and store relatively little blood.
+Incorrect (D): The venae cavae alone do not contain as much blood as the entire venous system.
+Tags: Easy, Physiology, Cardiovascular, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question 20
+Which vessel type exhibits the smallest individual diameter but possesses the largest total cross-sectional area in the body?
+A. Aorta
+B. Arterioles
+C. Capillaries
+D. Small arteries
+E. Vena cava
+Correct Option: C
+Explanation:
+Correct (C): Capillaries have the smallest individual diameter and, because of their enormous number, the largest total cross-sectional area.
+Incorrect (A): The aorta has the largest individual diameter and a relatively small total cross-sectional area.
+Incorrect (B): Arterioles are larger than capillaries and have a smaller total cross-sectional area.
+Incorrect (D): Small arteries do not collectively exceed capillaries in total cross-sectional area.
+Incorrect (E): The vena cava has a large individual diameter but not the greatest total cross-sectional area.
+Tags: Easy, Physiology, Cardiovascular, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Below are the explanations in the exact required format. Since the input set is duplicated, the same 20-question block is repeated twice (Total = 40 explanation blocks).
+Question: What is the mathematical definition of vascular compliance (capacitance)?
+A. Change in pressure divided by change in volume (ΔP / ΔV)
+B. Change in volume divided by change in pressure (ΔV / ΔP)
+C. Flow divided by resistance (F / R)
+D. Pressure multiplied by resistance (P × R)
+E. Velocity divided by cross-sectional area (v / A)
+Correct Option: B
+Explanation:
+Correct (B): Vascular compliance is defined as ΔV / ΔP, representing volume change per unit pressure change.
+Incorrect (A): ΔP / ΔV represents elastance, not compliance.
+Incorrect (C): F / R describes Ohm-like flow relation, not vessel compliance.
+Incorrect (D): P × R has no physiological definition in compliance.
+Incorrect (E): v / A is not a compliance parameter but relates to flow geometry.
+Tags: Easy, Physiology, Cardiovascular, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question: According to the vasodilator theory, which metabolic byproduct released by hypoxic tissue acts as a potent vasodilator?
+A. Angiotensin II
+B. Adenosine
+C. Serotonin
+D. Oxygen
+E. Endothelin-1
+Correct Option: B
+Explanation:
+Correct (B): Adenosine accumulates in hypoxia and causes vasodilation.
+Incorrect (A): Angiotensin II is a vasoconstrictor.
+Incorrect (C): Serotonin is not primary metabolic vasodilator here.
+Incorrect (D): Oxygen is not a vasodilator metabolite.
+Incorrect (E): Endothelin-1 is strongly vasoconstrictive.
+Tags: Easy, Physiology, Cardiovascular System, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question: What enzyme in endothelial cells is activated by shear stress to synthesize nitric oxide from L-arginine?
+A. Angiotensin converting enzyme (ACE)
+B. Cyclooxygenase (COX-1)
+C. Endothelial nitric oxide synthase (eNOS)
+D. Protein kinase C (PKC)
+E. Phospholipase C (PLC)
+Correct Option: C
+Explanation:
+Correct (C): eNOS converts L-arginine to NO under shear stress.
+Incorrect (A): ACE regulates angiotensin II, not NO synthesis.
+Incorrect (B): COX produces prostaglandins, not NO.
+Incorrect (D): PKC is a signaling kinase, not NO enzyme.
+Incorrect (E): PLC is a second messenger enzyme, not NO synthase.
+Tags: Easy, Physiology, Cardiovascular System, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question: Which of the following chemical substances is a powerful humoral vasoconstrictor?
+A. Atrial natriuretic peptide
+B. Bradykinin
+C. Histamine
+D. Vasopressin (ADH)
+E. Nitric oxide
+Correct Option: D
+Explanation:
+Correct (D): Vasopressin (ADH) causes potent vasoconstriction via V1 receptors.
+Incorrect (A): ANP is vasodilatory and natriuretic.
+Incorrect (B): Bradykinin causes vasodilation.
+Incorrect (C): Histamine induces vasodilation and permeability.
+Incorrect (E): Nitric oxide is a vasodilator.
+Tags: Easy, Physiology, Cardiovascular System, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+
+Question: When skeletal muscle blood supply is temporarily occluded and then released, causing a surge in blood flow, this phenomenon is known as:
+A. Active hyperemia
+B. Autoregulatory escape
+C. Myogenic response
+D. Reactive hyperemia
+E. Functional shunting
+Correct Option: D
+Explanation:
+Correct (D): Reactive hyperemia is increased flow after transient occlusion.
+Incorrect (A): Active hyperemia occurs during increased metabolic activity.
+Incorrect (B): Autoregulatory escape is response to sustained pressure changes.
+Incorrect (C): Myogenic response is pressure-induced vessel constriction/dilation.
+Incorrect (E): Functional shunting redistributes flow, not post-occlusion surge.
+Tags: Easy, Physiology, Cardiovascular System, Hemodynamics & Blood Flow
+
+--------------------------------------------------
+

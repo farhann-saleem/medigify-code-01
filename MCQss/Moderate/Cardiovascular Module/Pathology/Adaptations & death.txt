@@ -1,0 +1,34 @@
+Question: Two days after myocardial infarction, histology of the heart shows:
+  A. collagen deposition.
+  B. granulation tissue formation.
+  C. mature fibrous scar.
+  D. necrotic myocardium with neutrophilic infiltration.
+  E. organization with macrophage predominance.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): At 1–3 days after myocardial infarction, coagulative necrosis is accompanied by prominent neutrophilic infiltration of the necrotic myocardium.
+ •	Incorrect (A): Collagen deposition begins later during the healing phase, not within the first 2 days.
+ •	Incorrect (B): Granulation tissue develops approximately 1–2 weeks after infarction.
+ •	Incorrect (C): Mature fibrous scar formation occurs several weeks to months after myocardial infarction.
+ •	Incorrect (E): Macrophage predominance is characteristic of the 3–7 day period following infarction.
+ Tags: Moderate, Pathology, Cardiovascular, Cell Injury, Adaptations & Death
+
+--------------------------------------------------
+
+Question: Which of the following organelles is first affected in myocardial infarction:
+ A. endoplasmic reticulum
+ B. lysosomes
+ C. mitochondria
+ D. nucleus
+ E. ribosomes
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Ribosomal detachment from RER occurs early due to ATP depletion, halting protein synthesis.
+ •	Incorrect (A): Endoplasmic reticulum changes occur later in cell injury progression.
+ •	Incorrect (B): Lysosomal rupture is a later irreversible injury event.
+ •	Incorrect (C): Mitochondrial dysfunction occurs early but ribosomal detachment is the earliest structural change.
+ •	Incorrect (D): Nuclear changes represent irreversible injury stages.
+ Tags: Moderate, Pathology, Cell Injury, Adaptations & Death
+
+--------------------------------------------------
+

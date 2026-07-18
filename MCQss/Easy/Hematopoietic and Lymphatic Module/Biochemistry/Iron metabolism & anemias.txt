@@ -1,0 +1,18 @@
+
+Question: Erythroblastosis fetalis is caused by:
+A. decreased albumin level in blood.
+B. hepatitis.
+C. increased glucuronyl transferase.
+D. Rh incompatibility.
+E. viral infection.
+Correct Option: D
+Explanation:
+Correct (D): Rh incompatibility causes maternal anti-Rh antibodies to destroy fetal RBCs, producing erythroblastosis fetalis.
+Incorrect (A): decreased albumin level in blood does not cause immune hemolysis of fetal RBCs.
+Incorrect (B): hepatitis causes liver inflammation, not erythroblastosis fetalis.
+Incorrect (C): increased glucuronyl transferase does not cause fetal hemolytic disease.
+Incorrect (E): viral infection is not the classic cause of erythroblastosis fetalis.
+Tags: Easy, Biochemistry, Hematopoietic, Iron Metabolism & Anemias
+
+--------------------------------------------------
+

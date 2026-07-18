@@ -1,0 +1,34 @@
+Question: A study was carried out in isolated skeletal muscle preparations to determine the action of a new drug “succinylcholine,” which in separate studies is bound to the same receptors as acetylcholine. In the absence of succinylcholine, acetylcholine caused contraction of the muscle & in presence of succinylcholine, acetylcholine did not cause contraction. But when the concentration of acetylcholine was increased, muscle contraction occurred. Which of the following best describes succinylcholine?
+ A. Chemical antagonist
+ B. Competitive antagonist
+ C. Irreversible antagonist
+ D. Noncompetitive antagonist
+ E. Physiologic antagonist
+ Correct Option: B
+ Explanation:
+​Correct (B): Succinylcholine acts as a competitive antagonist under these experimental conditions because it binds reversibly to the same orthosteric site as acetylcholine, allowing an increased concentration of the native agonist to fully overcome the blockade.
+​Incorrect (A): A chemical antagonist suppresses signaling by binding directly to the agonist molecule in solution to neutralize it, rather than interacting with the tissue receptor site.
+​Incorrect (C): An irreversible antagonist binds covalently or with extremely high affinity to the receptor, preventing an increased concentration of agonist from restoring the maximal tissue response.
+​Incorrect (D): A noncompetitive antagonist binds to an allosteric site or permanently deactivates the receptor downstream, meaning an increased concentration of agonist cannot overcome the block.
+​Incorrect (E): A physiologic antagonist acts on a completely independent receptor system to trigger an opposing biological pathway, rather than competing for the primary receptor site.
+Tags: Hard, Pharmacology, Foundation, Autonomic Pharmacology & Receptors
+
+--------------------------------------------------
+
+Question: A study was carried out in isolated skeletal muscle preparations to determine the action of a new drug “succinylcholine,” which in separate studies is bound to the same receptors as acetylcholine. In the absence of succinylcholine, acetylcholine caused contraction of the muscle & in presence of succinylcholine, acetylcholine did not cause contraction. But when the concentration of acetylcholine was increased, muscle contraction occurred. Which of the following best describes succinylcholine?
+ A. Chemical antagonist
+ B. Competitive antagonist
+ C. Irreversible antagonist
+ D. Noncompetitive antagonist
+ E. Physiologic antagonist
+ Correct Option: B
+ Explanation:
+​Correct (B): Succinylcholine acts as a competitive antagonist under these experimental conditions because it binds reversibly to the same orthosteric site as acetylcholine, allowing an increased concentration of the native agonist to fully overcome the blockade.
+​Incorrect (A): A chemical antagonist suppresses signaling by binding directly to the agonist molecule in solution to neutralize it, rather than interacting with the tissue receptor site.
+​Incorrect (C): An irreversible antagonist binds covalently or with extremely high affinity to the receptor, preventing an increased concentration of agonist from restoring the maximal tissue response.
+​Incorrect (D): A noncompetitive antagonist binds to an allosteric site or permanently deactivates the receptor downstream, meaning an increased concentration of agonist cannot overcome the block.
+​Incorrect (E): A physiologic antagonist acts on a completely independent receptor system to trigger an opposing biological pathway, rather than competing for the primary receptor site.
+ Tags: Hard, Pharmacology, Foundation, Autonomic Pharmacology & Receptors
+
+--------------------------------------------------
+

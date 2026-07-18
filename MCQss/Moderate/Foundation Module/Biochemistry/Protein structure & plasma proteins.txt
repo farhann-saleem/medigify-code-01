@@ -1,0 +1,142 @@
+Question: In dialysis, the protein particles are separated from crystalloids based on:
+A. charge gradient across the membrane.
+B. electrical charge.
+C. facilitated diffusion.
+D. molecular size.
+E. solubility.
+Correct Option: D
+Explanation:
+Correct (D): Dialysis separates protein particles from crystalloids because proteins are too large to pass through the semipermeable membrane.
+Incorrect (A): Charge gradient across the membrane is not the principal mechanism in dialysis separation.
+Incorrect (B): Electrical charge alone does not determine passage through dialysis membranes.
+Incorrect (C): Facilitated diffusion requires carrier proteins and is unrelated to dialysis.
+Incorrect (E): Solubility differences are not the basis of dialysis separation.
+Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Acute phase proteins are plasma proteins secreted in response to inflammation. Which of the following does not belong to this category:
+A. albumin
+B. crp
+C. fibrinogen
+D. alpha1-antitrypsin
+E. haptoglobin
+Correct Option: A
+Explanation:
+Correct (A): albumin is a negative acute phase reactant and decreases in inflammation.
+Incorrect (B): crp is a classic positive acute phase protein.
+Incorrect (C): fibrinogen increases during inflammation.
+Incorrect (D): alpha1-antitrypsin is a positive acute phase protein.
+Incorrect (E): haptoglobin rises in inflammatory states.
+Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Denaturation of proteins causes all of the following changes EXCEPT:
+A. Decrease in solubility
+B. Increase in susceptibility to proteolysis
+C. Loss of biological functions
+D. Loss of primary structure
+E. Unfolding of native proteins
+Correct Option: D
+Explanation:
+Correct (D): Denaturation does not disrupt the primary structure because peptide bonds remain intact.
+Incorrect (A): Denaturation commonly decreases protein solubility.
+Incorrect (B): Denatured proteins become more susceptible to proteolysis due to unfolding.
+Incorrect (C): Loss of biological functions is a hallmark of denaturation.
+Incorrect (E): Unfolding of native proteins is the defining process of denaturation.
+Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: When the pH is greater than the isoelectric point, the net charge on a protein:
+A. becomes negative.
+B. becomes positive.
+C. depends on amino acid composition.
+D. depends on carboxyl group dissociation.
+E. depends on amino group dissociation.
+Correct Option: A
+Explanation:
+Correct (A): At pH greater than the isoelectric point, proteins lose protons and acquire a net negative charge.
+Incorrect (B): Proteins become positive at pH below the isoelectric point.
+Incorrect (C): Net charge at a given pH relative to pI follows predictable ionization behavior.
+Incorrect (D): Both amino and carboxyl groups influence charge, not only carboxyl groups.
+Incorrect (E): Both amino and carboxyl groups contribute to the overall net charge.
+Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Which of the following amino acids is most compatible with an alpha-helical structure?
+A. Glycine
+B. Proline
+C. Serine
+D. Tryptophan
+E. Valine
+Correct Option: C
+Explanation:
+Correct (C): Serine can participate in alpha-helical structures without markedly disrupting hydrogen bonding.
+Incorrect (A): Glycine destabilizes alpha-helices because of excessive conformational flexibility.
+Incorrect (B): Proline disrupts alpha-helical structure due to its rigid cyclic structure.
+Incorrect (D): Tryptophan is bulky and less favorable for alpha-helix formation.
+Incorrect (E): Valine favors beta-sheet formation more than alpha-helices.
+Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Primary structure of proteins is broken by:
+A. ammonium sulphate
+B. change in pH
+C. heat
+D. ninhydrin reagent
+E. pepsin
+Correct Option: E
+Explanation:
+Correct (E): Pepsin hydrolyzes peptide bonds, destroying primary structure
+Incorrect (A): Ammonium sulphate causes salting out, not bond cleavage
+Incorrect (B): pH change denatures secondary/tertiary structure
+Incorrect (C): Heat denatures higher structure only
+Incorrect (D): Ninhydrin is a detection reagent, not a breaker
+Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+Question: Regarding colloids, all are true EXCEPT:
+ A. 20% albumin is a colloidal solution.
+ B. a colloidal solution has dispersed and continuous phases.
+ C. particle size ranges between 10 - 100 nm.
+ D. the path of light through a colloidal solution is always invisible.
+ E. they do not form true solutions.
+ Correct Option: D
+ Explanation:
+ Correct (D): Colloidal solutions exhibit the Tyndall effect, making the path of light visible.
+ Incorrect (A): Albumin solutions behave as colloidal dispersions because albumin particles are large molecules.
+ Incorrect (B): Colloids consist of disperse and continuous phases.
+ Incorrect (C): Colloidal particle size commonly falls within the nanometer range.
+ Incorrect (E): Colloids are heterogeneous dispersions and not true solutions.
+ Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+
+
+Question: Which of the following is most useful for diagnosis of multiple myeloma?
+ A. Albumin in urine
+ B. Bence Jones proteins
+ C. Plasma A/G ratio
+ D. Serum creatinine
+ E. Serum calcium
+ Correct Option: B
+ Explanation:
+ Correct (B): Bence Jones proteins (light chains) are diagnostic hallmark
+ Incorrect (A): Albumin in urine is not characteristic
+ Incorrect (C): A/G ratio may change but is non-specific
+ Incorrect (D): Creatinine reflects renal damage, not diagnosis
+ Incorrect (E): Calcium rises but is secondary finding
+ Tags: Moderate, Biochemistry, Foundation, Protein Structure & Plasma Proteins
+
+--------------------------------------------------
+

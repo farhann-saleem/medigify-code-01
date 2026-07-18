@@ -1,0 +1,34 @@
+Question: Trace the physiological steps that lead to cardiac dyspnea and acute pulmonary edema in left ventricular myocardial infarction.
+ A. Right ventricular failure causes systemic venous collapse
+ B. SA node degeneration leads to conduction block
+ C. Left ventricular failure causes pulmonary venous pressure rise and alveolar edema
+ D. Aortic valve closure failure causes systemic hypotension only
+ E. Coronary artery spasm reduces pulmonary vascular resistance
+ Correct Option: C
+ Explanation:
+ • Correct (C): LV failure elevates left atrial and pulmonary venous pressures, driving fluid into alveoli and causing dyspnea.
+ • Incorrect (A): RV failure causes systemic congestion, not pulmonary edema.
+ • Incorrect (B): SA node degeneration is a conduction disorder, not pulmonary edema mechanism.
+ • Incorrect (D): Aortic valve issues do not directly explain alveolar fluid accumulation.
+ • Incorrect (E): Coronary spasm affects myocardial perfusion, not pulmonary vascular resistance.
+ Tags: Hard, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+
+Question: A 22-year-old female presents with severe dyspnea, hemoptysis, and a low-pitched, rumbling diastolic murmur heard best at the apex with the patient in the left lateral decubitus position. Explain the pathophysiology connecting her valvular lesion to her pulmonary symptoms.
+
+
+C. Pulmonary valve stenosis causes left ventricular volume overload and pulmonary edema.
+D. Tricuspid regurgitation induces severe left atrial atrophy and alveolar hemorrhage.
+E. Ventricular septal defect lowers pulmonary capillary pressure and causes hemoptysis.
+Correct Option: A
+Explanation:
+Correct (A): Mitral stenosis elevates left atrial and pulmonary capillary pressures, causing pulmonary edema and leakage of erythrocytes into alveoli, leading to hemoptysis.
+Incorrect (B): Aortic regurgitation does not produce pulmonary symptoms through suppression of erythrocyte destruction.
+Incorrect (C): Pulmonary valve stenosis does not directly cause left ventricular volume overload.
+Incorrect (D): Tricuspid regurgitation does not cause severe left atrial atrophy as the mechanism of hemoptysis.
+Incorrect (E): Ventricular septal defect generally increases, not lowers, pulmonary blood flow and pressure.
+Tags: Hard, Physiology, Cardiovascular System, Microcirculation & Lymphatic System
+
+--------------------------------------------------
+

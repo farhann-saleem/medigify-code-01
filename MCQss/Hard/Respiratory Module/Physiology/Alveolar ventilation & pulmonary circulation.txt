@@ -1,0 +1,16 @@
+​Question: The acute safety factor against pulmonary edema is equal to:
+A. 1 mmHg
+B. 7 mmHg
+C. 14 mmHg
+D. 21 mmHg
+E. 28 mmHg
+Correct Option: D
+Explanation:
+​Correct (D): The normal pulmonary capillary hydrostatic pressure must rise from 7 mmHg to equal the plasma colloid osmotic pressure of 28 mmHg before edema occurs, making the acute safety factor against pulmonary edema equal to 21 mmHg.
+​Incorrect (A): A value of 1 mmHg is insufficient to represent the massive pressure buffer required to overwhelm the normal colloid osmotic forces.
+​Incorrect (B): A value of 7 mmHg represents the normal, baseline pulmonary capillary hydrostatic pressure, not the safety margin.
+​Incorrect (C): A value of 14 mmHg underestimates the safety threshold required to trigger acute transudation into the alveolar spaces.
+​Incorrect (E): A value of 28 mmHg represents the total plasma colloid osmotic pressure itself, rather than the net pressure safety margin.
+Tags: Hard, Physiology, Respiratory, Alveolar Ventilation & Pulmonary Circulation
+--------------------------------------------------
+

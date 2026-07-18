@@ -1,0 +1,18 @@
+ 
+Question: A patient falls on a flexed hip and experiences posterior dislocation. On examination, adduction and internal rotation of the thigh are observed. Which ligament is most likely ruptured?
+A. Iliofemoral ligament
+B. Ischiofemoral ligament
+C. Ligamentum teres
+D. Pubofemoral ligament
+E. Zona orbicularis
+Correct Option: B
+Explanation:
+Correct (B): The ischiofemoral ligament reinforces the hip joint capsule posteriorly and is structurally ruptured or severely torn when a posterior dislocation occurs.
+Incorrect (A): The iliofemoral ligament is located anteriorly and resists hyperextension, remaining intact during standard posterior dislocation mechanics.
+Incorrect (C): The ligamentum teres is an intracapsular conduit for a small artery to the head of the femur; while it may tear, it is not a primary capsular reinforcing ligament stabilizing posterior displacement.
+Incorrect (D): The pubofemoral ligament is positioned anteroinferiorly on the joint capsule, preventing excessive abduction rather than posterior displacement.
+Incorrect (E): The zona orbicularis forms a circular collar around the femoral neck but is not a directional reinforcing ligament stabilizing against posterior luxation.
+Tags: Hard, Anatomy, Musculoskeletal and Locomotion-1, Skeletal System Basics
+
+--------------------------------------------------
+

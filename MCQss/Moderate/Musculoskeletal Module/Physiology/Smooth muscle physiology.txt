@@ -1,0 +1,156 @@
+
+
+───
+
+Question: Multiunit smooth muscle?
+A. Has discrete neuromuscular junctions
+B. Is controlled mainly by hormonal stimuli
+C. Is controlled mainly by nervous stimuli
+D. Is found in the iris
+E. Lacks gap junctions
+Correct Option: C
+Explanation:
+
+Correct (C): Multiunit smooth muscle is controlled mainly by nervous stimuli, acting independently much like skeletal muscle units.
+
+Incorrect (A): While it has more localized nerve endings than visceral muscle, describing it broadly across all criteria makes nervous control its defining operational feature.
+
+Incorrect (B): Multiunit smooth muscle is not controlled mainly by hormonal stimuli, as it relies primarily on direct autonomic neural inputs.
+
+Incorrect (D): Although it is found in the iris, the core operational definition in this physiological context centers on its primary regulatory mechanism.
+
+Incorrect (E): Multiunit smooth muscle lacks gap junctions structural connections, but this is a structural absence rather than its primary physiological regulatory feature.
+Tags: Moderate, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: Visceral smooth muscles?
+A. Are electrically coupled by gap junctions
+B. Contain diffuse neuromuscular junctions
+C. Exhibit spontaneous contractions
+D. Present in the wall of hollow viscera
+E. Respond as a functional synctium
+Correct Option: C
+Explanation:
+
+Correct (C): Visceral smooth muscles exhibit spontaneous contractions due to intrinsic pacemaker activity independent of external nervous input.
+
+Incorrect (A): They are electrically coupled by gap junctions, but this describes their structural connectivity rather than their independent contractile behavior.
+
+Incorrect (B): They contain diffuse neuromuscular junctions, which describes their autonomic innervation pattern rather than their intrinsic operational capability.
+
+Incorrect (D): They are present in the wall of hollow viscera, which is their anatomical location rather than a functional contraction dynamic.
+
+Incorrect (E): They respond as a functional synctium, which reflects their coordinated tissue response rather than their baseline contractile origin.
+Tags: Moderate, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: Unitary smooth muscle?
+A. Contracts spontaneously on stretching
+B. Contain numerous gap junctions
+C. Function as a syncytium
+D. Is present in the wall of viscera
+E. Shows coordinated contraction
+Correct Option: A
+Explanation:
+
+Correct (A): Unitary smooth muscle contracts spontaneously on stretching because mechanical distortion depolarizes the cell membrane.
+
+Incorrect (B): It does contain numerous gap junctions, but this structural feature serves to enable its operational behavior rather than define its mechanical reflex.
+
+Incorrect (C): It functions as a syncytium, which describes its net electrical behavior rather than its intrinsic mechanical response to stretch stimuli.
+
+Incorrect (D): It is present in the wall of viscera, which defines its broad anatomical distribution rather than its physiological activation property.
+
+Incorrect (E): It shows coordinated contraction, which is the functional outcome of its syncytial nature rather than an initial physiological trigger.
+Tags: Moderate, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: Ca²⁺–calmodulin complex causes phosphorylation of myosin by activating?
+A. Myosin ATPase
+B. Myosin light chain kinase (MLCK)
+C. Myosin light chain phosphatase (MLCP)
+D. Protein kinase A (PKA)
+E. Rho kinase (ROCK)
+Correct Option: B
+Explanation:
+
+Correct (B): Myosin light chain kinase (MLCK) is directly activated by the calcium-calmodulin complex to phosphorylate the regulatory light chains of myosin.
+
+Incorrect (A): Myosin ATPase activity is enhanced downstream as a consequence of phosphorylation, not directly activated by the calcium-calmodulin complex itself.
+
+Incorrect (C): Myosin light chain phosphatase (MLCP) dephosphorylates myosin to induce relaxation, opposing MLCK action.
+
+Incorrect (D): Protein kinase A (PKA) is activated by cyclic AMP (cAMP) and typically promotes smooth muscle relaxation rather than contraction.
+
+Incorrect (E): Rho kinase (ROCK) inhibits phosphatase activity to sustain contraction, acting independently of direct calcium-calmodulin complex binding.
+Tags: Moderate, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: In smooth muscle contraction, phosphorylation of myosin light chains leads to?
+A. Activation of myosin ATPase activity
+B. Exposure of actin binding sites
+C. Increased Ca²⁺ storage in sarcoplasmic reticulum
+D. Opening of sodium channels
+E. Release of acetylcholine from nerve endings
+Correct Option: A
+Explanation:
+
+Correct (A): Activation of myosin ATPase activity occurs immediately upon phosphorylation, enabling cross-bridge cycling and force generation.
+
+Incorrect (B): Exposure of actin binding sites is the regulatory mechanism characteristic of striated muscle via troponin-tropomyosin shifts, not smooth muscle myosin phosphorylation.
+
+Incorrect (C): Increased Ca²⁺ storage in sarcoplasmic reticulum is driven by SERCA pumps during muscle relaxation, not myosin phosphorylation.
+
+Incorrect (D): Opening of sodium channels is involved in upstream membrane depolarization, long before myosin light chain modification occurs.
+
+Incorrect (E): Release of acetylcholine from nerve endings is an early neuromuscular transmission event that occurs upstream of intracellular cross-bridge activation.
+Tags: Moderate, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+
+
+
+───
+
+Question: The latch mechanism in smooth muscle primarily allows?
+A. Continuous depolarization of the membrane
+B. Increased intracellular Ca²⁺ concentration
+C. Maintenance of tension with minimal ATP usage
+D. Rapid contraction with high ATP consumption
+E. Repeated action potential generation
+Correct Option: C
+Explanation:
+
+Correct (C): Maintenance of tension with minimal ATP usage is achieved through the latch state, where dephosphorylated myosin cross-bridges remain attached to actin longer.
+
+Incorrect (A): Continuous depolarization of the membrane describes an electrical state, whereas the latch mechanism is a mechanical cross-bridge phenomenon.
+
+Incorrect (B): Increased intracellular Ca²⁺ concentration triggers initial contraction, whereas the latch mechanism persists even as calcium levels drop.
+
+Incorrect (D): Rapid contraction with high ATP consumption is the exact opposite of the slow, hyper-efficient latch state.
+
+Incorrect (E): Repeated action potential generation is a membrane electrical property completely distinct from the myofilament latch mechanism.
+Tags: Moderate, Physiology, Musculoskeletal, Smooth Muscle Physiology
+
+--------------------------------------------------
+

@@ -207,10 +207,20 @@ export default function FlashcardsPage() {
                       {question?.statement ?? 'This question is no longer available in the local bank, but the flashcard record still exists.'}
                     </p>
                     {question?.explanation && (
-                      <div className="border-l-2 border-accent bg-bg-primary rounded-r-xl p-4">
-                        <p className="text-sm text-text-secondary leading-relaxed">
-                          {question.explanation}
-                        </p>
+                      <div className="border-l-2 border-accent bg-bg-primary rounded-r-xl p-4 space-y-1.5">
+                        {question.explanation[question.correct_option as keyof typeof question.explanation] && (
+                          <p className="text-sm leading-relaxed text-text-secondary">
+                            <span className="font-medium text-success">{question.correct_option.toUpperCase()}:</span>{' '}
+                            {question.explanation[question.correct_option as keyof typeof question.explanation]}
+                          </p>
+                        )}
+                        {Object.entries(question.explanation)
+                          .filter(([key]) => key !== question.correct_option)
+                          .map(([key, text]) => (
+                            <p key={key} className="text-sm text-text-secondary leading-relaxed">
+                              <span className="font-medium">{key.toUpperCase()}:</span> {text}
+                            </p>
+                          ))}
                       </div>
                     )}
                   </div>

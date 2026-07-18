@@ -1,0 +1,51 @@
+
+Question 7:
+ FEV₁/FVC ratio?
+ A. Decreases in obstructive lung diseases
+ B. Decreases in restrictive lung diseases
+ C. Decreases in old age
+ D. Is normally about 50%
+ E. Is normally about 80%
+ Correct Option: A
+ Explanation:
+ • Correct (A): Obstructive lung diseases reduce FEV₁ disproportionately, lowering FEV₁/FVC ratio.
+ • Incorrect (B): Restrictive lung diseases reduce both FEV₁ and FVC proportionally, ratio remains normal or high.
+ • Incorrect (C): Old age reduces lung elasticity but does not specifically lower FEV₁/FVC ratio.
+ • Incorrect (D): Normal ratio is not 50%; this is too low.
+ • Incorrect (E): Normal ratio is about 80%, but this is not the best distinguishing feature.
+
+ Tags: Moderate, Physiology, Respiratory, Lung Volumes & Capacities
+
+--------------------------------------------------
+
+
+
+Question: Vital capacity minus expiratory reserve volume is equal to:
+A. functional residual capacity
+B. inspiratory capacity
+C. inspiratory reserve volume
+D. residual volume
+E. total lung capacity
+Correct Option: B
+Explanation:
+
+Correct (B): The inspiratory capacity equals tidal volume plus inspiratory reserve volume,
+which matches the exact volume remaining when expiratory reserve volume is subtracted from
+vital capacity.
+
+Incorrect (A): The functional residual capacity is comprised of expiratory reserve volume plus
+residual volume, which cannot be derived from subtracting expiratory reserve volume from vital
+capacity.
+
+Incorrect (C): The inspiratory reserve volume is only one component of inspiratory capacity,
+lacking the tidal volume component.
+
+Incorrect (D): The residual volume is not a component of vital capacity at all, making its
+derivation via this subtraction impossible.
+
+Incorrect (E): The total lung capacity requires the addition of residual volume to vital capacity,
+rather than a subtraction of expiratory reserve volume.
+Tags: Moderate, Physiology, Respiratory, Lung Volumes & Capacities
+
+--------------------------------------------------
+

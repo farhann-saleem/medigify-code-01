@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following bones develop by endochondral ossification:
+A. the clavicle and neurocranium
+B. the maxilla and mandible
+C. the ribs and sternum
+D. the ribs, sternum, and clavicle
+E. the ribs, sternum, clavicle, and vertebrae Correct Option: C
+Explanation:
+* Correct (C): The ribs and sternum develop entirely through endochondral ossification, where a hyaline cartilage model is gradually replaced by bone.
+* Incorrect (A): The clavicle and neurocranium primarily develop via intramembranous ossification, though parts of the cranial base use endochondral paths.
+* Incorrect (B): The maxilla and mandible are components of the viscerocranium that develop predominantly via intramembranous ossification.
+* Incorrect (D): The ribs, sternum, and clavicle is incorrect because the clavicle relies on intramembranous ossification for its medial and lateral development.
+* Incorrect (E): The ribs, sternum, clavicle, and vertebrae is incorrect because the inclusion of the clavicle violates the pure endochondral criteria.
+Tags: Moderate, Embryology, Respiratory Module, Systemic: Bones, Cartilage & Muscles
+
+--------------------------------------------------
+

@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Lymph vessels are NOT present in: A. gastrointestinal tract 
+B. myocardium of heart 
+C. sclera of eye 
+D. spinal cord 
+E. vermiform appendix 
+Correct Option: D 
+Explanation:
+* Correct (D): Lymph vessels are not present in the spinal cord, as the central nervous system relies instead on the cerebrospinal fluid and glymphatic system for waste clearance.
+* Incorrect (A): The gastrointestinal tract contains specialized lymph vessels called lacteals crucial for dietary fat absorption.
+* Incorrect (B): The myocardium of heart possesses an extensive network of lymphatic vessels to drain interstitial fluid from the contracting cardiac tissue.
+* Incorrect (C): While the cornea is avascular, lymphatic vessels are structurally absent in the deep sclera of eye, but the spinal cord represents a definitive avascular/alymphatic organ system.
+* Incorrect (E): The vermiform appendix is a highly specialized lymphoid organ densely populated with intrinsic lymphatic vessels. 
+Tags: Moderate, Anatomy, Foundation Module, Lymphatic System Basics
+
+--------------------------------------------------
+

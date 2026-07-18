@@ -1,0 +1,50 @@
+Question: Hb Bart’s hydrops fetalis is due to deletion of:
+A. four alpha genes
+B. four beta genes
+C. one alpha gene
+D. three alpha genes
+E. two alpha genes
+Correct Option: A
+Explanation:
+ * Correct (A): Deletion of four alpha genes leaves the fetus entirely incapable of synthesizing alpha-globin chains, forcing the assembly of non-functional gamma-chain tetramers (\gamma_4) known as Hb Bart's.
+ * Incorrect (B): Deletion of four beta genes is not a standard genetic mechanism; beta genes are present in only two copies per diploid genome and their absence manifests postnatally as beta-thalassemia major, not hydrops fetalis.
+ * Incorrect (C): Deletion of one alpha gene produces an asymptomatic silent carrier state with normal hematological indices and no pathological production of Hb Bart's at birth.
+ * Incorrect (D): Deletion of three alpha genes results in HbH disease, a condition characterized by moderate to severe hemolytic anemia featuring beta-chain tetramers (\beta_4) in adults, rather than fatal hydrops fetalis.
+ * Incorrect (E): Deletion of two alpha genes results in alpha-thalassemia minor (trait), which causes a mild, microcytic anemia without presenting a risk for intrauterine lethality or hydrops fetalis.
+   Tags: Hard, Biochemistry, Hematopoietic, Genetics & Inherited Disorders
+
+--------------------------------------------------
+
+Question: A 4-year-old infant develops severe jaundice and is found to have complete lack of UDP-glucuronyl transferase. Which of the following disorders does the infant have:
+A. Crigler–Najjar syndrome
+B. Dubin–Johnson syndrome
+C. Gilbert syndrome
+D. gout
+E. hereditary orotic aciduria
+Correct Option: A
+Explanation:
+ * Correct (A): Crigler–Najjar syndrome type I is characterized by a complete lack of UDP-glucuronyl transferase activity, resulting in severe, fatal neonatal unconjugated hyperbilirubinemia.
+ * Incorrect (B): Dubin–Johnson syndrome features normal enzyme levels but defective canalicular transport of bilirubin, causing conjugated hyperbilirubinemia.
+ * Incorrect (C): Gilbert syndrome features a mild, partial reduction in enzyme activity (~30% of normal), never a complete lack of UDP-glucuronyl transferase.
+ * Incorrect (D): Gout is a metabolic disorder of purine catabolism leading to monosodium urate deposition, completely unrelated to UDP-glucuronyl transferase.
+ * Incorrect (E): Hereditary orotic aciduria is a defect in pyrimidine synthesis caused by deficient UMP synthase, bearing no relationship to bilirubin metabolism.
+   Tags: Hard, Biochemistry, Hematopoietic, Genetics & Inherited Disorders
+
+--------------------------------------------------
+
+Question: Which of the following enzyme is deficient in variegate porphyria:
+A. coproporphyrinogen oxidase
+B. ferrochelatase
+C. porphobilinogen deaminase
+D. protoporphyrinogen oxidase
+E. uroporphyrinogen III synthase
+Correct Option: D
+Explanation:
+ * Correct (D): Variegate porphyria is caused by a structural deficiency in protoporphyrinogen oxidase, blocking the metabolic conversion of protoporphyrinogen IX into protoporphyrin IX.
+ * Incorrect (A): A deficiency in coproporphyrinogen oxidase leads directly to hereditary coproporphyria, not variegate porphyria.
+ * Incorrect (B): A deficiency in ferrochelatase restricts iron insertion into the porphyrin macrocycle, causing erythropoietic protoporphyria rather than variegate porphyria.
+ * Incorrect (C): A deficiency in porphobilinogen deaminase limits the production of hydroxymethylbilane, resulting in acute intermittent porphyria.
+ * Incorrect (E): A deficiency in uroporphyrinogen III synthase leads to the accumulation of asymmetric type I porphyrinogens, resulting in congenital erythropoietic porphyria.
+   Tags: Hard, Biochemistry, Hematopoietic, Genetics & Inherited Disorders
+--------------------------------------------------
+

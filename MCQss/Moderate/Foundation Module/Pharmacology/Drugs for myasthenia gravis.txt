@@ -1,0 +1,22 @@
+Question: In patients with myasthenia, an acute worsening of symptoms is usually relieved by: Options: 
+a) Increasing cholinesterase inhibitor 
+b) Nicotinic agonist 
+c) Nicotinic antagonist 
+d) Cholinergic antagonist 
+Correct Option: Ans. Increasing cholinesterase inhibitor 
+Explanation: Myasthenia gravis is characterized by an autoimmune-mediated reduction in nicotinic receptors at the NMJ, which is managed by increasing the concentration of acetylcholine via cholinesterase inhibitors like neostigmine (in order to maximize the amount of ACh present in the junction, thereby increasing the likelihood of it binding to post-synaptic receptors). 
+Tags: Moderate, Pharmacology, Block 2, Module 3, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+
+Question: Neostigmine differs from pilocarpine (muscarinic agonist) in having effects on: Options: 
+a) Bladder tone 
+b) Bowel motility 
+c) Sweat gland 
+d) Skeletal muscle 
+Correct Option: Ans. Skeletal muscle 
+Explanation: Skeletal muscle is the correct answer as pilocarpine is unable to bind to the nicotinic receptors found there, whilst neostigmine can.
+ Tags: Moderate, Pharmacology, Block 2, Module 3, Drugs for Myasthenia Gravis
+
+--------------------------------------------------
+

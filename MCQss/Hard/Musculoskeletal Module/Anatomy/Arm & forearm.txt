@@ -1,0 +1,108 @@
+
+Question: All the following statements are true except:
+A. basilic vein continues into the axilla as the axillary vein.
+B. cephalic vein arises from the lateral side of the venous arch.
+C. deep veins have more numerous valves than superficial veins.
+D. dorsal metacarpal veins unite to form the dorsal venous arch.
+E. medial cubital vein shunts blood from basilic to cephalic vein.
+Correct Option: E
+Explanation:
+ * Correct (E): medial cubital vein shunts blood from basilic to cephalic vein. is the false statement because blood flow through the median (medial) cubital vein runs obliquely upward from the *cephalic* vein to the *basilic* vein.
+ * Incorrect (A): basilic vein continues into the axilla as the axillary vein. is a true anatomical fact occurring at the inferior margin of the teres major muscle.
+ * Incorrect (B): cephalic vein arises from the lateral side of the venous arch. is anatomically true as it originates from the radial side of the dorsal venous network.
+ * Incorrect (C): deep veins have more numerous valves than superficial veins. is a true vascular physiology principle designed to counter higher hydrostatic pressures deep in musculature.
+ * Incorrect (D): dorsal metacarpal veins unite to form the dorsal venous arch. is a true anatomical statement regarding the formation of the superficial venous system on the dorsum of the hand.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Arm & Forearm
+
+--------------------------------------------------
+
+
+Question: In the upper limb:
+A. lower trunk lesions of brachial plexus will affect abduction of fingers
+B. proximal humeral epiphyses fuses at 12 years of age
+C. proximal radioulnar joint does not communicate with elbow joint
+D. radial artery is the main arterial supply of the forearm
+E. section of radial nerve in radial groove leads to weakness of extension
+**Correct Option: A**
+**Explanation:**
+ * **Correct (A):** A lower trunk lesion (C_8, T_1) damages the axons destined for the ulnar nerve, paralyzing all interossei muscles which leads to a loss of abduction of fingers.
+ * **Incorrect (B):** The proximal humeral epiphyses fuses significantly later, typically between 18 to 21 years of age, not at 12 years.
+ * **Incorrect (C):** The proximal radioulnar joint shares its synovial cavity directly and communicates freely with the elbow joint.
+ * **Incorrect (D):** The ulnar artery, through its larger caliber and common interosseous branch, is typically considered the main arterial supply of the forearm.
+ * **Incorrect (E):** Sectioning the radial nerve in the radial groove leaves the long head of triceps intact but causes a total loss (paralysis) of wrist and finger extension, rather than mere "weakness" of extension.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Arm & Forearm
+
+--------------------------------------------------
+
+
+Question:  All the following statements are true except:
+A. basilic vein continues into the axilla as the axillary vein
+B. cephalic vein arises from the lateral side of the dorsal venous arch
+C. deep veins have more numerous valves as compared to the superficial veins
+D. dorsal metacarpal veins form the dorsal venous arch
+E. medial cubital vein shunts blood from the basilic vein into the cephalic vein
+**Correct Option: E**
+**Explanation:**
+ * **Correct (E):** The median cubital vein shunts blood in the opposite direction, running obliquely upward from the lateral *cephalic vein* into the medial *basilic vein* within the cubital fossa.
+ * **Incorrect (A):** The basilic vein passes deep near the lower border of the teres major muscle to directly continue into the axilla as the axillary vein.
+ * **Incorrect (B):** The cephalic vein reliably originates anatomically from the lateral side of the dorsal venous network of the hand.
+ * **Incorrect (C):** Deep veins of the upper limb run against gravity accompanied by muscular action, thereby possessing more numerous valves than superficial veins.
+ * **Incorrect (D):** The dorsal metacarpal veins merge proximally to form the clinical dorsal venous arch on the dorsum of the hand.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Arm & Forearm
+
+--------------------------------------------------
+
+
+Question: The forearm remains in supination because of loss of function of this nerve:
+A. axillary nerve
+B. median nerve
+C. musculocutaneous nerve
+D. radial nerve
+E. ulnar nerve
+**Correct Option: B**
+**Explanation:**
+ * **Correct (B):** The median nerve innervates both the pronator teres and pronator quadratus muscles; losing its function leaves the supinator muscles unopposed, keeping the forearm in supination.
+ * **Incorrect (A):** The axillary nerve supplies the deltoid and teres minor muscles and exerts no motor control over forearm rotation.
+ * **Incorrect (C):** The musculocutaneous nerve supplies the biceps brachii (a powerful supinator); its loss would favor pronation rather than leaving the arm stuck in supination.
+ * **Incorrect (D):** The radial nerve supplies the supinator muscle; an isolated loss would impair supination, leaving the forearm prone to unresisted pronation.
+ * **Incorrect (E):** The ulnar nerve controls intrinsic hand muscles and specific wrist flexors but plays no mechanical role in forearm pronation or supination.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Arm & Forearm
+
+--------------------------------------------------
+
+
+Question: Regarding the venous drainage of the upper limb, which of the following statements is incorrect?
+A. The basilic vein continues superiorly into the axilla as the axillary vein.
+B. The cephalic vein arises anatomically from the lateral side of the dorsal venous arch.
+C. The deep veins of the upper limb possess fewer valves than the corresponding superficial veins.
+D. The dorsal metacarpal veins coalesce superiorly to form the formal dorsal venous arch.
+E. The median cubital vein shunts blood directly from the cephalic vein into the basilic vein.
+Correct Option: C
+Explanation:
+ * **Correct (C):** The statement is incorrect because deep veins (venae comitantes) of limbs actually possess *more* valves than superficial veins to effectively counteract gravity via the skeletal muscle pump.
+ * **Incorrect (A):** This statement is correct; the basilic vein merges with the brachial veins at the lower border of the teres major to form the axillary vein.
+ * **Incorrect (B):** This statement is correct; the cephalic vein originates from the lateral side of the dorsal venous network of the hand.
+ * **Incorrect (D):** This statement is correct; the dorsal metacarpal veins drain upward from the fingers to establish the formal dorsal venous arch.
+ * **Incorrect (E):** This statement is correct; the median cubital vein runs obliquely in the cubital fossa, shunting blood from the lateral cephalic vein to the medial basilic vein.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Arm & Forearm
+
+--------------------------------------------------
+
+
+Question: All of the following statements are true EXCEPT:
+A. Basilic vein continues into the axilla as the axillary vein
+B. Cephalic vein arises from the dorsal venous arch
+C. Deep veins have more numerous valves as compared to the superficial veins
+D. Dorsal metacarpal veins form the dorsal venous arch
+E. Medial cubital vein shunts blood from the basilic vein into the cephalic vein
+Correct Option: E
+Explanation:
+ * **Correct (E):** The median cubital vein shunts blood in the opposite direction, diverting blood from the cephalic vein into the basilic vein within the cubital fossa.
+ * **Incorrect (A):** The basilic vein runs deeply at the lower border of the teres major to directly continue into the axilla as the axillary vein.
+ * **Incorrect (B):** The cephalic vein originates laterally from the dorsal venous arch of the hand before ascending the arm.
+ * **Incorrect (C):** To counter high muscular pressures, deep veins have more numerous valves as compared to the superficial veins.
+ * **Incorrect (D):** The dorsal metacarpal veins drain the digits and coalesce proximally to form the dorsal venous arch on the back of the hand.
+   Tags: Hard, Anatomy, Musculo skeletal module (MSK), Arm & Forearm
+
+--------------------------------------------------
+

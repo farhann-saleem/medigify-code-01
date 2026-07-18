@@ -1,0 +1,241 @@
+Question: Which of the following organs is least likely to be affected by ischemic infarct:
+ A. heart.
+ B. kidney.
+ C. liver.
+ D. spleen.
+ E. lung.
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Liver has dual blood supply from the hepatic artery and portal vein, making ischemic infarction uncommon.
+ •	Incorrect (A): Heart depends on coronary arteries and is highly susceptible to ischemic infarction.
+ •	Incorrect (B): Kidney has end-arterial circulation with limited collateral supply.
+ •	Incorrect (D): Spleen has end arteries and commonly develops pale infarcts.
+ •	Incorrect (E): Lung can infarct despite dual supply, particularly with compromised bronchial circulation.
+ Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Which of the following is associated with fat embolism:
+ A. fracture of long bones.
+ B. hypercholesterolemia.
+ C. hypertriglyceridemia.
+ D. megaloblastic anemia.
+ E. sickle cell anemia.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Fat embolism most commonly follows fractures of long bones that release marrow fat into circulation.
+ •	Incorrect (B): Hypercholesterolemia promotes atherosclerosis, not fat embolism.
+ •	Incorrect (C): Hypertriglyceridemia does not produce embolic fat globules.
+ •	Incorrect (D): Megaloblastic anemia has no association with fat embolism.
+ •	Incorrect (E): Sickle cell anemia causes vaso-occlusion by sickled erythrocytes, not fat emboli.
+ Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: What is the usual site of lodging of venous emboli:
+ A. bones.
+ B. brain.
+ C. liver.
+ D. lungs.
+ E. spleen.
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Venous emboli typically travel through the right heart and lodge in pulmonary arteries.
+ •	Incorrect (A): Bones are not the first capillary bed encountered by venous emboli.
+ •	Incorrect (B): Brain embolization usually arises from arterial or paradoxical emboli.
+ •	Incorrect (C): Liver is not a common destination for systemic venous emboli.
+ •	Incorrect (E): Spleen receives arterial rather than venous emboli.
+ Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Which one among the following is a component of Virchow’s triad:
+ A. endothelial hypertrophy.
+ B. endothelial injury.
+ C. increased factor II levels.
+ D. thrombocytopenia.
+ E. vascular calcification.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Endothelial injury is one of the three major factors predisposing to thrombosis.
+ •	Incorrect (A): Endothelial hypertrophy is not a recognized component of Virchow’s triad.
+ •	Incorrect (C): Increased factor II levels may promote thrombosis but are not a triad component.
+ •	Incorrect (D): Thrombocytopenia generally predisposes to bleeding rather than thrombosis.
+ •	Incorrect (E): Vascular calcification is not included in Virchow’s triad.
+ Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Which of the following organs is least likely to be affected by ischemic infarct:
+ A. heart.
+ B. kidney.
+ C. liver.
+ D. spleen.
+ E. lung.
+Correct Option: C
+Explanation:
+Correct (C): Liver has dual blood supply from the hepatic artery and portal vein, making ischemic infarction uncommon.
+ Incorrect (A): Heart depends on coronary arteries and is highly susceptible to ischemic infarction.
+ Incorrect (B): Kidney has end-arterial circulation with limited collateral supply.
+ Incorrect (D): Spleen has end arteries and commonly develops pale infarcts.
+ Incorrect (E): Lung can infarct despite dual supply, particularly with compromised bronchial circulation.
+Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: Which of the following is associated with fat embolism:
+ A. fracture of long bones.
+ B. hypercholesterolemia.
+ C. hypertriglyceridemia.
+ D. megaloblastic anemia.
+ E. sickle cell anemia.
+Correct Option: A
+Explanation:
+Correct (A): Fat embolism most commonly follows fractures of long bones that release marrow fat into circulation.
+ Incorrect (B): Hypercholesterolemia promotes atherosclerosis, not fat embolism.
+ Incorrect (C): Hypertriglyceridemia does not produce embolic fat globules.
+ Incorrect (D): Megaloblastic anemia has no association with fat embolism.
+ Incorrect (E): Sickle cell anemia causes vaso-occlusion by sickled erythrocytes, not fat emboli.
+Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: What is the usual site of lodging of venous emboli:
+ A. bones.
+ B. brain.
+ C. liver.
+ D. lungs.
+ E. spleen.
+Correct Option: D
+Explanation:
+Correct (D): Venous emboli typically travel through the right heart and lodge in pulmonary arteries.
+ Incorrect (A): Bones are not the first capillary bed encountered by venous emboli.
+ Incorrect (B): Brain embolization usually arises from arterial or paradoxical emboli.
+ Incorrect (C): Liver is not a common destination for systemic venous emboli.
+ Incorrect (E): Spleen receives arterial rather than venous emboli.
+Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+
+Question: Which one among the following is a component of Virchow’s triad:
+ A. endothelial hypertrophy.
+ B. endothelial injury.
+ C. increased factor II levels.
+ D. thrombocytopenia.
+ E. vascular calcification.
+Correct Option: B
+Explanation:
+Correct (B): Endothelial injury is one of the three major factors predisposing to thrombosis.
+ Incorrect (A): Endothelial hypertrophy is not a recognized component of Virchow’s triad.
+ Incorrect (C): Increased factor II levels may promote thrombosis but are not a triad component.
+ Incorrect (D): Thrombocytopenia generally predisposes to bleeding rather than thrombosis.
+ Incorrect (E): Vascular calcification is not included in Virchow’s triad.
+Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Organs less susceptible to infarction because of dual blood supply:
+ A. heart and brain
+ B. liver and kidney
+ C. lungs and liver
+ D. lungs and spleen
+ E. spleen and kidney
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Lungs (bronchial + pulmonary circulation) and liver (hepatic artery + portal vein) have dual blood supply.
+ •	Incorrect (A): Heart and brain depend mainly on end-arterial circulation.
+ •	Incorrect (B): Kidney has end-arterial system despite high perfusion.
+ •	Incorrect (D): Spleen lacks dual blood supply.
+ •	Incorrect (E): Spleen and kidney are highly susceptible to infarction.
+ Tags: Easy, Pathology, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Which of the following does not predispose to thrombosis:
+ A. endothelial damage
+ B. hypercoagulability
+ C. platelet aggregates
+ D. thrombocytopenia
+ E. vascular stasis
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Thrombocytopenia reduces platelet availability, decreasing thrombosis risk.
+ •	Incorrect (A): Endothelial damage promotes clot formation.
+ •	Incorrect (B): Hypercoagulability increases thrombotic tendency.
+ •	Incorrect (C): Platelet aggregation is central to thrombus formation.
+ •	Incorrect (E): Vascular stasis promotes coagulation activation.
+ Tags: Easy, Pathology, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Paradoxical emboli are:
+ A. caused by atmospheric pressure changes
+ B. caused by myocardial infarction
+ C. due to interventricular or interatrial septal defect
+ D. fat embolism phenomenon
+ E. pulmonary emboli in lungs
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Paradoxical emboli pass through septal defects from right to left circulation.
+ •	Incorrect (A): Atmospheric pressure changes relate to decompression sickness.
+ •	Incorrect (B): Myocardial infarction does not cause paradoxical embolism.
+ •	Incorrect (D): Fat embolism arises from long bone fractures.
+ •	Incorrect (E): Pulmonary emboli remain within pulmonary circulation.
+ Tags: Easy, Pathology, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: The following predispose to deep vein thrombosis except:
+ A. abdominal surgery
+ B. factor VIII deficiency
+ C. immobilization
+ D. malnutrition
+ E. pregnancy
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Factor VIII deficiency causes bleeding tendency, not thrombosis.
+ •	Incorrect (A): Surgery induces stasis and endothelial injury.
+ •	Incorrect (C): Immobilization leads to venous stasis.
+ •	Incorrect (D): Malnutrition may contribute to hypercoagulability states indirectly.
+ •	Incorrect (E): Pregnancy increases hypercoagulability.
+ Tags: Easy, Pathology, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: At autopsy, the pathologist identifies “heart failure cells.” This finding results from:
+  A. activation of coagulation cascade
+  B. chronic passive congestion of the lungs
+  C. hypoxic myocardial injury
+  D. myocardial hyperemia
+  E. pulmonary edema
+  Correct Option: B
+  Explanation:
+ •	Correct (B): Heart failure cells are hemosiderin-laden macrophages from chronic passive pulmonary congestion.
+ •	Incorrect (A): Coagulation cascade activation is unrelated to these cells.
+ •	Incorrect (C): Myocardial hypoxia affects heart muscle, not alveolar macrophages.
+ •	Incorrect (D): Hyperemia is acute increased blood flow, not chronic congestion.
+ •	Incorrect (E): Pulmonary edema is a consequence, not the cellular cause.
+ Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+
+Question: Most frequent site of venous thrombosis:
+  A. cerebral venous sinuses
+  B. hepatic vein
+  C. lower extremity veins
+  D. portal vein
+  E. pulmonary vein
+  Correct Option: C
+  Explanation:
+ •	Correct (C): Lower extremity deep veins are the most common site of venous thrombosis.
+ •	Incorrect (A): Cerebral venous thrombosis is rare.
+ •	Incorrect (B): Hepatic vein thrombosis is uncommon (Budd-Chiari syndrome).
+ •	Incorrect (D): Portal vein thrombosis is less common.
+ •	Incorrect (E): Pulmonary veins are not typical sites of thrombosis.
+ Tags: Easy, Pathology, Cardiovascular, Hemodynamic Disorders, Thrombosis & Shock
+
+--------------------------------------------------
+

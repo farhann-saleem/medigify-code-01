@@ -1,0 +1,180 @@
+ 
+---
+ 
+Question: The postnatal derivative of the umbilical artery is the:
+A. Ligamentum arteriosum
+B. Ligamentum venosum
+C. Medial umbilical ligament
+D. Median umbilical ligament
+E. Round ligament of the liver
+Correct Option: C
+ 
+Explanation:
+ 
+Correct (C): The distal portions of the paired intra-embryonic umbilical arteries occlude after birth to form the fibrous cords known as the medial umbilical ligament.
+Incorrect (A): The ligamentum arteriosum is the postnatal fibrous remnant of the ductus arteriosus, which connects the pulmonary artery to the aorta in utero.
+Incorrect (B): The ligamentum venosum is the fibrous postnatal remnant of the ductus venosus, which shunts umbilical vein blood away from the fetal liver.
+Incorrect (D): The median umbilical ligament is an entirely different midline structure formed from the fibrous remnant of the urachus/allantois.
+Incorrect (E): The round ligament of the liver (ligamentum teres hepatis) is the fibrous postnatal remnant of the left umbilical vein.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: Ligamentum teres of the liver is the postnatal derivative of the:
+A. Allantois
+B. Umbilical artery
+C. Umbilical vein
+D. Urachus
+E. Vitelline vein
+Correct Option: C
+ 
+Explanation:
+ 
+Correct (C): Following the cessation of placental blood flow at birth, the intra-abdominal portion of the left umbilical vein undergoes fibrous degeneration to form the ligamentum teres of the liver (round ligament of the liver).
+Incorrect (A): The allantois is an outpouching of the hindgut that transforms into the urachal cord, not a hepatic vascular ligament.
+Incorrect (B): The umbilical artery obliterates to form the medial umbilical ligament on the anterior abdominal wall, not a structure within the liver falciform margin.
+Incorrect (D): The urachus represents the fibrotic remains of the allantois extending from the bladder apex to the umbilicus, forming the median umbilical ligament.
+Incorrect (E): The vitelline vein branches give rise to the hepatic sinusoids, the portal vein system, and parts of the inferior vena cava, but not the ligamentum teres.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: The factor that keeps the ductus arteriosus patent during fetal life is:
+A. Nitric oxide
+B. Placental blood flow
+C. Prostacyclin
+D. Prostaglandin E2
+E. Prostaglandin F2
+Correct Option: D
+ 
+Explanation:
+ 
+Correct (D): Prostaglandin E2, produced continuously by the placenta and the ductal wall, acts on specific EP4 receptors to relax the vascular smooth muscle and maintain patency of the ductus arteriosus throughout gestation.
+Incorrect (A): While nitric oxide exerts a minor vasodilatory tone, it is not the primary physiologic factor responsible for maintaining fetal ductus arteriosus patency.
+Incorrect (B): Placental blood flow provides kinetic pressure, but does not provide the active biochemical smooth-muscle-relaxing signal needed to keep the ductus patent.
+Incorrect (C): Prostacyclin (PGI2) is a vasodilator produced by vascular endothelium, but it plays a secondary role compared to the dominant action of prostaglandin E2.
+Incorrect (E): Prostaglandin F2 (PGF2-alpha) functions physiologically as a smooth muscle vasoconstrictor or uterine stimulant rather than a ductal dilator.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: In fetal circulation, the ductus arteriosus connects the pulmonary artery to the:
+A. Aortic arch
+B. Ascending aorta
+C. Carotid artery
+D. Descending aorta
+E. Right pulmonary artery
+Correct Option: D
+Explanation:
+ 
+Correct (D): The ductus arteriosus shunts poorly oxygenated blood away from the non-functional lungs by connecting the pulmonary artery directly to the Descending aorta, distal to the origin of the left subclavian artery.
+Incorrect (A): The Aortic arch is proximal to the junction site where the ductus arteriosus unloads its shunt into the systemic circulation.
+Incorrect (B): The Ascending aorta carries highly oxygenated blood from the left ventricle before the entry point of the ductus arteriosus.
+Incorrect (C): The Carotid artery branches off the aortic arch superiorly and does not directly receive the ductus arteriosus shunt.
+Incorrect (E): The Right pulmonary artery branches off the pulmonary trunk but does not serve as the distal attachment site for the ductus arteriosus.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: The adult remnant of the allantois is the:
+A. Ligamentum venosum
+B. Medial umbilical ligaments
+C. Median arcuate ligament
+D. Median umbilical ligament
+E. Round ligament of liver
+Correct Option: D
+Explanation:
+ 
+Correct (D): The urachus, which is the obliterated lumen of the allantois, persists in adult anatomy as the fibrous Median umbilical ligament extending from the bladder to the umbilicus.
+Incorrect (A): The Ligamentum venosum is the adult fibrotic remnant of the fetal ductus venosus.
+Incorrect (B): Medial umbilical ligaments represent the obliterated occluded distal segments of the fetal umbilical arteries.
+Incorrect (C): The Median arcuate ligament is a tendinous arch of the diaphragm crossing the aorta and is not derived from fetal structures.
+Incorrect (E): The Round ligament of liver (ligamentum teres hepatis) is the anatomical remnant of the left umbilical vein.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: Maternal rubella infection during the first trimester is most commonly associated with which cardiac defect:
+A. Coarctation of aorta
+B. Ebstein anomaly
+C. Patent ductus arteriosus
+D. Tetralogy of Fallot
+E. Ventricular septal defect
+Correct Option: C
+Explanation:
+ 
+Correct (C): Congenital rubella syndrome classically presents with a triad of cataracts, sensorineural deafness, and cardiovascular defects, most commonly Patent ductus arteriosus.
+Incorrect (A): Coarctation of aorta is most strongly associated with Turner syndrome, not maternal rubella infection.
+Incorrect (B): Ebstein anomaly is highly correlated with maternal lithium use rather than congenital viral exanthems.
+Incorrect (D): Tetralogy of Fallot is linked with DiGeorge syndrome and chromosome 22q11.2 deletions rather than congenital rubella.
+Incorrect (E): Ventricular septal defect is the most common generic congenital heart defect but is not the specific signature lesion linked to maternal rubella.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: In fetal circulation, preferential streaming of oxygenated blood from the inferior vena cava across the foramen ovale into the left atrium occurs primarily due to the position of the:
+A. Crista terminalis
+B. Endocardial cushions
+C. Septum secundum
+D. Septum spurium
+E. Valve of inferior vena cava (Eustachian valve)
+Correct Option: E
+Explanation:
+ 
+Correct (E): The Valve of inferior vena cava (Eustachian valve) is structurally positioned to direct highly oxygenated blood from the inferior vena cava stream directly through the foramen ovale.
+Incorrect (A): The Crista terminalis marks the internal boundary between the smooth and rough parts of the right atrium and does not divert blood flow patterns.
+Incorrect (B): Endocardial cushions form the atrioventricular valves and septa but do not actively redirect streaming blood from the inferior vena cava.
+Incorrect (C): The Septum secundum provides the anatomical ring margin for the shunt but does not mechanically deflect the incoming inferior vena cava stream.
+Incorrect (D): The Septum spurium is a temporary embryologic ridge formed by fused venous valves and plays no role in active fetal blood streaming.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+
+ 
+---
+ 
+Question: The ligamentum venosum in the adult liver represents the obliterated remnant of the fetal:
+A. ductus venosus
+B. portal vein
+C. umbilical artery
+D. umbilical vein
+E. vitelline vein
+Correct Option: A
+ 
+Explanation:
+ 
+Correct (A): The ligamentum venosum in the adult liver represents the obliterated remnant of the fetal ductus venosus, which shunted oxygenated placental blood past the liver directly into the inferior vena cava.
+Incorrect (B): The fetal portal vein does not obliterate; it persists postnatally to carry nutrient-rich blood from the gastrointestinal tract to the functional hepatic sinusoids.
+Incorrect (C): The fetal umbilical artery obliterates to form the medial umbilical ligament on the anterior abdominal wall, completely independent of intrahepatic vascular remnants.
+Incorrect (D): The fetal umbilical vein collapses after birth to form the ligamentum teres hepatis (round ligament of the liver), running within the free edge of the falciform ligament.
+Incorrect (E): The vitelline vein gives rise to the hepatic sinusoids, the portal vein system, and a portion of the inferior vena cava, rather than collapsing into the ligamentum venosum.
+ 
+Tags: Easy, Anatomy, Cardiovascular System, Fetal Circulation & Postnatal Remnants
+
+--------------------------------------------------
+

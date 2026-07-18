@@ -1,0 +1,105 @@
+
+Question: Unconjugated bilirubin is increased in:
+A. crigler–Najjar syndrome.
+B. dubin–Johnson syndrome.
+C. obstructive jaundice.
+D. rotor syndrome.
+E. viral hepatitis.
+Correct Option: A
+Explanation:
+Correct (A): Crigler–Najjar syndrome causes impaired bilirubin conjugation due to UDP-glucuronyl transferase deficiency, increasing unconjugated bilirubin.
+Incorrect (B): Dubin–Johnson syndrome mainly causes conjugated hyperbilirubinemia due to impaired hepatic excretion.
+Incorrect (C): obstructive jaundice mainly increases conjugated bilirubin because bile flow is blocked after conjugation.
+Incorrect (D): Rotor syndrome causes predominantly conjugated hyperbilirubinemia due to hepatic storage/transport defects.
+Incorrect (E): viral hepatitis often produces mixed or conjugated hyperbilirubinemia from hepatocellular injury, not isolated unconjugated bilirubin increase.
+Tags: Moderate, Biochemistry, Hematopoietic, Bilirubin & Heme Degradation
+
+--------------------------------------------------
+
+Question: Elevated unconjugated bilirubin is a manifestation of:
+A. bile duct stones.
+B. biliary atresia.
+C. hemolytic anemia.
+D. tumor of head of pancreas.
+E. viral hepatitis.
+Correct Option: C
+Explanation:
+Correct (C): hemolytic anemia increases RBC breakdown, producing excess unconjugated bilirubin before hepatic conjugation.
+Incorrect (A): bile duct stones mainly cause obstructive conjugated hyperbilirubinemia.
+Incorrect (B): biliary atresia causes impaired bile drainage with conjugated hyperbilirubinemia.
+Incorrect (D): tumor of head of pancreas causes extrahepatic obstruction with conjugated hyperbilirubinemia.
+Incorrect (E): viral hepatitis usually causes hepatocellular jaundice with impaired handling of conjugated and unconjugated bilirubin, not isolated unconjugated bilirubin.
+Tags: Moderate, Biochemistry, Hematopoietic, Bilirubin & Heme Degradation
+
+--------------------------------------------------
+
+
+Question: A 4-year-old infant develops severe jaundice and is found to have complete lack of UDP-glucuronyl transferase. Which of the following disorders does the infant have:
+A. crigler–najjar syndrome.
+B. dubin–johnson syndrome.
+C. gilbert syndrome.
+D. hereditary orotic aciduria.
+E. rotor syndrome.
+Correct Option: A
+Explanation:
+Correct (A): crigler–najjar syndrome type I is due to complete lack of UDP-glucuronyl transferase, causing severe unconjugated hyperbilirubinemia.
+Incorrect (B): dubin–johnson syndrome causes conjugated hyperbilirubinemia due to defective hepatic excretion.
+Incorrect (C): gilbert syndrome has mild reduced UDP-glucuronyl transferase activity, not complete lack.
+Incorrect (D): hereditary orotic aciduria is a pyrimidine synthesis disorder, not a bilirubin conjugation disorder.
+Incorrect (E): rotor syndrome causes conjugated hyperbilirubinemia due to impaired hepatic storage/excretion.
+Tags: Moderate, Biochemistry, Hematopoietic, Bilirubin & Heme Degradation
+
+--------------------------------------------------
+
+
+Question: In Crigler–Najjar syndrome there is:
+A. conjugated hyperbilirubinemia.
+B. increased glucuronyl transferase activity.
+C. increased hemolytic activity.
+D. normal serum bilirubin.
+E. unconjugated hyperbilirubinemia.
+Correct Option: E
+Explanation:
+Correct (E): unconjugated hyperbilirubinemia occurs because deficient UDP-glucuronyl transferase prevents bilirubin conjugation.
+Incorrect (A): conjugated hyperbilirubinemia is typical of cholestatic or excretory defects, not Crigler–Najjar syndrome.
+Incorrect (B): increased glucuronyl transferase activity is opposite to the enzyme defect in Crigler–Najjar syndrome.
+Incorrect (C): increased hemolytic activity is not the primary mechanism of Crigler–Najjar syndrome.
+Incorrect (D): normal serum bilirubin is incompatible with Crigler–Najjar syndrome.
+Tags: Moderate, Biochemistry, Hematopoietic, Bilirubin & Heme Degradation
+
+--------------------------------------------------
+
+Question: Unconjugated bilirubin is increased in:
+A. Crigler–Najjar syndrome
+B. Dubin–Johnson syndrome
+C. obstructive jaundice
+D. Rotor syndrome
+E. viral hepatitis
+Correct Option: A
+Explanation:
+ * Correct (A): Crigler–Najjar syndrome features a genetic deficiency or absolute absence of UDP-glucuronyl transferase activity, leading to an isolated, severe rise in unconjugated bilirubin.
+ * Incorrect (B): Dubin–Johnson syndrome is caused by a defect in the canalicular multi-specific organic anion transporter (MRP2), resulting in an isolated increase in conjugated bilirubin and a dark-pigmented liver.
+ * Incorrect (C): Obstructive jaundice physically blocks bile excretion from the biliary tree into the duodenum, causing a reflux of fully processed, conjugated bilirubin back into systemic circulation.
+ * Incorrect (D): Rotor syndrome arises from a storage and reuptake defect involving hepatic OATP1B1 and OATP1B3 transporters, driving an increase primarily in conjugated bilirubin.
+ * Incorrect (E): Viral hepatitis causes diffuse hepatocellular inflammation that impairs both excretion and conjugation, resulting in a mixed jaundice pattern that characteristically features a predominant increase in conjugated bilirubin.
+   Tags: Moderate, Biochemistry, Hematopoietic, Bilirubin & Heme Degradation
+
+--------------------------------------------------
+
+Question: Elevated unconjugated bilirubin is a manifestation of:
+A. Crigler–Najjar syndrome
+B. Dubin–Johnson syndrome
+C. hemolytic anemia
+D. obstructive choledocholithiasis
+E. viral hepatitis
+Correct Option: C
+Explanation:
+ * Correct (C): Hemolytic anemia causes excessive breakdown of erythrocytes, overwhelming the liver's capacity to conjugate bilirubin and resulting in elevated unconjugated bilirubin.
+ * Incorrect (A): Crigler–Najjar syndrome is a congenital genetic disorder of conjugation, not a general clinical manifestation of systemic disease processes.
+ * Incorrect (B): Dubin–Johnson syndrome impairs canalicular secretion of conjugated bilirubin, leading to elevated conjugated bilirubin rather than elevated unconjugated bilirubin.
+ * Incorrect (D): Obstructive choledocholithiasis prevents the excretion of already conjugated bile into the duodenum, causing elevated conjugated bilirubin.
+ * Incorrect (E): Viral hepatitis injures hepatocytes, primarily resulting in a mixed hyperbilirubinemia with a predominant elevation of conjugated bilirubin due to biliary leak.
+   Tags: Moderate, Biochemistry, Hematopoietic, Bilirubin & Heme Degradation
+
+--------------------------------------------------
+

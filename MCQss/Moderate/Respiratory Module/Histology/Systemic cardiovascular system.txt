@@ -1,0 +1,85 @@
+Question: Fenestrated capillaries have:
+A. a discontinuous basal lamina.
+B. a thickened endothelium containing large gaps.
+C. an altered basement membrane with broad clefts.
+D. extremely attenuated areas of endothelium with pores.
+E. pores that are evenly spaced over the entire surface.
+Correct Option: D
+Explanation:
+Correct (D): Fenestrated capillaries are characterized by extremely attenuated areas of endothelium with pores that span the thin cytoplasm of the endothelial cells.
+Incorrect (A): A discontinuous basal lamina is a defining structural feature of sinusoidal capillaries, not fenestrated capillaries.
+Incorrect (B): The endothelium of fenestrated capillaries is highly thinned and attenuated, not a thickened endothelium containing large gaps.
+Incorrect (C): They possess a continuous and structurally intact basement membrane rather than an altered basement membrane with broad clefts.
+Incorrect (E): The pores are organized in clustered patches or fenestrated fields rather than being pores that are evenly spaced over the entire surface.
+Tags: Moderate, Histology, Respiratory, Systemic: Cardiovascular System
+
+--------------------------------------------------
+
+Question: When compared to arteries, veins have each of the following characteristics except:
+A. high amount of elastic fibers.
+B. larger caliber and thinner walls.
+C. less developed muscle in tunica media.
+D. less developed elastic tissue in tunica media.
+E. the adventitia is often the thickest layer.
+Correct Option: A
+Explanation:
+Correct (A): This statement is false because veins operate under low-pressure conditions and contain a noticeably low amount of elastic fibers compared to high-pressure arteries.
+Incorrect (B): It is true that veins display a larger caliber and thinner walls than their companion arteries due to lower structural resistance demands.
+Incorrect (C): It is true that veins have a less developed muscle in tunica media, exhibiting fewer and more loosely organized smooth muscle strands.
+Incorrect (D): It is true that veins feature less developed elastic tissue in tunica media, lacking distinct, highly consolidated elastic lamellae.
+Incorrect (E): It is true that the adventitia is often the thickest layer in venous walls, composed primarily of collagenous connective tissue.
+Tags: Moderate, Histology, Respiratory, Systemic: Cardiovascular System
+
+--------------------------------------------------
+
+Question: The vessels whose adventitia is described as thick longitudinal bundles of collagen and elastic fibers and isolated longitudinal bundles of smooth muscle are:
+A. arterioles
+B. capillaries
+C. elastic arteries
+D. muscular arteries
+E. venules
+Correct Option: E
+Explanation:
+Correct (E): Large venules and medium-to-large veins characteristically display a thick tunica adventitia containing longitudinal bundles of collagen, elastic fibers, and isolated longitudinal bundles of smooth muscle.
+Incorrect (A): Arterioles are small, regulatory resistance vessels that completely lack longitudinal bundles of smooth muscle within their thin outer adventitial layer.
+Incorrect (B): Capillaries are minimal microscopic exchange channels composed solely of endothelium and a basal lamina, entirely lacking an adventitia.
+Incorrect (C): Elastic arteries possess a thin tunica adventitia composed of loose connective tissue, with a tunica media dominated by concentric, circular elastic lamellae.
+Incorrect (D): Muscular arteries feature an adventitia composed of dense collagen and elastic fibers, completely lacking isolated longitudinal bundles of smooth muscle cells.
+Tags: Moderate, Histology, Respiratory, Systemic: Cardiovascular System
+
+--------------------------------------------------
+
+Question: Which of the following statements about healthy, intact capillaries is true:
+A. They control systemic blood pressure.
+B. They inhibit intravascular clot formation.
+C. They are lined by a simple columnar epithelium.
+D. They have a continuous smooth muscle coat.
+E. They possess a thick tunica adventitia.
+Correct Option: B
+Explanation:
+Correct (B): Healthy, intact capillaries secrete antithrombotic factors like prostacyclin and nitric oxide to inhibit intravascular clot formation along their luminal surface.
+Incorrect (A): Systemic blood pressure is controlled and adjusted by the tone of muscular arterioles rather than by individual capillaries.
+Incorrect (C): Capillaries are lined by a simple squamous epithelium (endothelium), not by a simple columnar epithelium.
+Incorrect (D): Capillaries are completely devoid of smooth muscle, lacking a continuous smooth muscle coat entirely within their thin exchange walls.
+Incorrect (E): Capillaries consist only of an endothelial tube and a basal lamina, meaning they completely lack a thick tunica adventitia.
+Tags: Moderate, Histology, Respiratory, Systemic: Cardiovascular System
+
+--------------------------------------------------
+
+Question: Diameter of Sinusoidal Capillaries:
+A. 10–20 microns
+B. 30–40 microns
+C. 50–60 microns
+D. 60–80 microns
+E. 90–100 microns
+Correct Option: B
+Explanation:
+Correct (B): The diameter of Sinusoidal Capillaries characteristically ranges between 30–40 microns, providing an enlarged, slow-flowing luminal pathway that optimizes cellular and molecular exchange.
+Incorrect (A): A diameter of 10–20 microns corresponds to the luminal size of standard continuous capillaries, fenestrated capillaries, or small postcapillary venules.
+Incorrect (C): A span of 50–60 microns exceeds the normal physiological diameter of sinusoidal channels in lymphoid, hepatic, and hematopoietic organs.
+Incorrect (D): A range of 60–80 microns represents larger venular structures or small collecting veins rather than individual sinusoidal capillary beds.
+Incorrect (E): A diameter of 90–100 microns defines macroscopic venous channels and small veins, far exceeding the scale of microvascular sinusoidal networks.
+Tags: Moderate, Histology, Respiratory, Systemic: Cardiovascular System
+
+--------------------------------------------------
+

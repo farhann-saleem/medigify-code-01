@@ -1,0 +1,180 @@
+Question 1
+ Question: A 12-year-old girl, a known patient with asthma, presents to the emergency room with cough, dyspnea, and wheezing after visiting a riding stable. Which of the following is the most appropriate drug to rapidly reverse her bronchoconstriction?
+ A. Inhaled albuterol
+  B. Inhaled beclomethasone
+  C. Inhaled fluticasone
+  D. Inhaled salmeterol
+  E. Intravenous propranolol
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Inhaled albuterol is a short-acting β2-agonist that rapidly produces bronchodilation and is the drug of choice for acute bronchospasm.
+ •	Incorrect (B): Inhaled beclomethasone is an inhaled corticosteroid used for long-term control, not immediate relief.
+ •	Incorrect (C): Inhaled fluticasone has anti-inflammatory effects but does not rapidly reverse bronchoconstriction.
+ •	Incorrect (D): Inhaled salmeterol is a long-acting β2-agonist with a slower onset and is not used for acute attacks.
+ •	Incorrect (E): Intravenous propranolol is a nonselective β-blocker that can worsen bronchospasm.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 2
+ Question: Theophylline is believed to benefit patients with asthma by exerting all of the following actions except:
+ A. Augmentation of diaphragmatic contractility
+  B. Bronchodilatation
+  C. Inhibition of antigen-antibody reaction
+  D. Inhibition of inflammatory mediator release
+  E. Phosphodiesterase inhibition
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Theophylline does not inhibit the antigen-antibody reaction; its effects are mainly bronchodilation and modulation of inflammation.
+ •	Incorrect (A): Augmentation of diaphragmatic contractility improves respiratory muscle performance.
+ •	Incorrect (B): Bronchodilatation is a major therapeutic effect of theophylline.
+ •	Incorrect (D): Inhibition of inflammatory mediator release contributes to its antiasthmatic action.
+ •	Incorrect (E): Phosphodiesterase inhibition increases intracellular cAMP and promotes bronchodilation.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 3
+ Question: Which of the following is a leukotriene receptor antagonist used in the management of asthma?
+ A. Albuterol
+  B. Aminophylline
+  C. Ipratropium
+  D. Montelukast
+  E. Theophylline
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Montelukast blocks cysteinyl leukotriene receptors, reducing bronchoconstriction and airway inflammation.
+ •	Incorrect (A): Albuterol is a short-acting β2-agonist bronchodilator.
+ •	Incorrect (B): Aminophylline is a methylxanthine bronchodilator.
+ •	Incorrect (C): Ipratropium is an antimuscarinic bronchodilator.
+ •	Incorrect (E): Theophylline acts mainly through phosphodiesterase inhibition and adenosine receptor antagonism.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 4
+ Question: Which of the following pharmacologic agents antagonizes adenosine receptors?
+ A. Cromolyn sodium
+  B. Glucocorticoids
+  C. Montelukast
+  D. Terbutaline
+  E. Theophylline
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Theophylline antagonizes adenosine receptors, contributing to bronchodilation.
+ •	Incorrect (A): Cromolyn sodium stabilizes mast cells and does not block adenosine receptors.
+ •	Incorrect (B): Glucocorticoids suppress inflammation through gene regulation.
+ •	Incorrect (C): Montelukast blocks leukotriene receptors.
+ •	Incorrect (D): Terbutaline stimulates β2 receptors.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 5
+ Question: The following antiasthma drug is not a bronchodilator:
+ A. Formoterol
+  B. Ipratropium bromide
+  C. Salbutamol
+  D. Sodium cromoglycate
+  E. Theophylline
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Sodium cromoglycate prevents mast cell degranulation and has no direct bronchodilator action.
+ •	Incorrect (A): Formoterol is a long-acting β2-agonist bronchodilator.
+ •	Incorrect (B): Ipratropium bromide produces bronchodilation by muscarinic blockade.
+ •	Incorrect (C): Salbutamol is a short-acting β2-agonist bronchodilator.
+ •	Incorrect (E): Theophylline directly relaxes bronchial smooth muscle.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 7
+ Question: Cromolyn is useful in many patients with asthma because it:
+ A. Blocks adenosine receptors
+  B. Inhibits cyclooxygenase-2
+  C. Inhibits phosphodiesterase
+  D. Prevents antigen-induced degranulation of mast cells
+  E. Stimulates β2-adrenergic receptors
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Cromolyn prevents antigen-induced degranulation of mast cells, reducing mediator release.
+ •	Incorrect (A): Blocking adenosine receptors is characteristic of theophylline.
+ •	Incorrect (B): Cromolyn does not inhibit cyclooxygenase-2.
+ •	Incorrect (C): Phosphodiesterase inhibition is a methylxanthine action.
+ •	Incorrect (E): Cromolyn has no β2-adrenergic receptor agonist activity.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 9
+ Question: Which of the following is a direct bronchodilator that is commonly administered orally and may cause insomnia and seizures?
+ A. Cromolyn sodium
+  B. Epinephrine
+  C. Ipratropium bromide
+  D. Theophylline
+  E. Zafirlukast
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Theophylline is an oral bronchodilator with CNS stimulation that may cause insomnia and seizures.
+ •	Incorrect (A): Cromolyn sodium is a prophylactic mast cell stabilizer.
+ •	Incorrect (B): Epinephrine is usually administered parenterally in emergencies.
+ •	Incorrect (C): Ipratropium bromide is typically inhaled.
+ •	Incorrect (E): Zafirlukast is a leukotriene receptor antagonist, not a direct bronchodilator.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 11
+ Question: Which drug inhibits the effects of leukotrienes by blocking their receptors?
+ A. Albuterol
+  B. Fluticasone
+  C. Montelukast
+  D. Zafirlukast
+  E. Zileuton
+ Correct Option: D
+ Explanation:
+ •	Correct (D): Zafirlukast competitively blocks leukotriene receptors and prevents leukotriene-mediated effects.
+ •	Incorrect (A): Albuterol acts on β2 receptors.
+ •	Incorrect (B): Fluticasone is an inhaled corticosteroid.
+ •	Incorrect (C): Montelukast also blocks leukotriene receptors but is not the keyed answer.
+ •	Incorrect (E): Zileuton inhibits leukotriene synthesis rather than receptor activation.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 14
+ Question: Drug of choice for an acute asthma attack:
+ A. Antihistamine
+  B. Inhaled corticosteroid
+  C. Long-acting β2 agonist
+  D. Short-acting β2 agonist
+  E. Theophylline
+ Correct Option: D
+ Explanation:
+ •	Correct (D): A short-acting β2 agonist rapidly relieves acute bronchospasm.
+ •	Incorrect (A): Antihistamines do not effectively reverse acute airway obstruction.
+ •	Incorrect (B): Inhaled corticosteroids are controller medications.
+ •	Incorrect (C): Long-acting β2 agonists are not rescue drugs.
+ •	Incorrect (E): Theophylline has a slower onset and greater toxicity.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+
+Question 18
+ Question: Which of the following drugs does not have a direct bronchodilator effect?
+ A. Epinephrine
+  B. Ipratropium
+  C. Prednisolone
+  D. Salmeterol
+  E. Theophylline
+ Correct Option: C
+ Explanation:
+ •	Correct (C): Prednisolone improves asthma by reducing inflammation rather than causing direct bronchodilation.
+ •	Incorrect (A): Epinephrine directly relaxes bronchial smooth muscle via adrenergic stimulation.
+ •	Incorrect (B): Ipratropium directly bronchodilates by blocking muscarinic receptors.
+ •	Incorrect (D): Salmeterol directly stimulates β2 receptors to produce bronchodilation.
+ •	Incorrect (E): Theophylline directly relaxes airway smooth muscle.
+ Tags: Easy, Pharmacology, Respiratory Pathology, Anti-asthmatics
+
+--------------------------------------------------
+

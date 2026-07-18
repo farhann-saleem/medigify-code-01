@@ -1,0 +1,229 @@
+Question: Which of the following enzyme is the drug of choice in acute myocardial infarction used for thrombolysis?
+A. Asparaginase
+B. Hyaluronidase
+C. Streptokinase
+D. Tissue plasminogen activator
+E. Urokinase
+Correct Option: C
+Explanation:
+Correct (C): Streptokinase activates plasminogen → plasmin → fibrin clot breakdown in MI
+Incorrect (A): Asparaginase is used in acute lymphoblastic leukemia
+Incorrect (B): Hyaluronidase increases tissue permeability, not thrombolysis
+Incorrect (D): tPA is effective but not classical “enzyme of choice” in many exam keys
+Incorrect (E): Urokinase is thrombolytic but less commonly first-line in standard exams
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: A 55-year-old patient with chest pain radiating to left shoulder, with nausea and sweating. Which serum enzyme or isoenzyme is most appropriate in early assessment of MI?
+A. AST
+B. CK-MM
+C. CK-MB
+D. LDH
+E. Myoglobin
+Correct Option: C
+Explanation:
+Correct (C): CK-MB rises early and is relatively cardiac-specific
+Incorrect (A): AST rises later and is non-specific
+Incorrect (B): CK-MM is skeletal muscle isoenzyme
+Incorrect (D): LDH rises late and lacks early diagnostic value
+Incorrect (E): Myoglobin rises earliest but is not enzyme or specific
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Serum alkaline phosphatase in obstructive jaundice:
+A. markedly decreased
+B. markedly increased
+C. mildly decreased
+D. mildly increased
+E. normal
+Correct Option: B
+Explanation:
+Correct (B): Obstructive jaundice causes marked increase in serum alkaline phosphatase due to cholestasis and biliary epithelial damage.
+Incorrect (A): Obstructive jaundice does not decrease alkaline phosphatase levels.
+Incorrect (C): The elevation is usually marked rather than mild.
+Incorrect (D): Mild increase is less characteristic of biliary obstruction.
+Incorrect (E): Normal alkaline phosphatase is inconsistent with significant obstructive jaundice.
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: In muscle disorders, all of the following will increase except:
+A. acid phosphatase
+B. aldolase
+C. aspartate transaminase
+D. creatine phosphokinase
+E. lactate dehydrogenase
+Correct Option: A
+Explanation:
+Correct (A): Acid phosphatase is primarily associated with prostate tissue and lysosomes, not skeletal muscle injury.
+Incorrect (B): Aldolase increases in muscle damage due to release from injured muscle fibers.
+Incorrect (C): Aspartate transaminase may rise because it is present in skeletal muscle.
+Incorrect (D): Creatine phosphokinase is a major marker of muscle injury.
+Incorrect (E): Lactate dehydrogenase increases following muscle cell breakdown.
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Which enzyme/isozyme is more appropriate for assessing myocardial infarction (MI):
+A. alanine transaminase
+B. aspartate transaminase
+C. CK-BB
+D. CK-MB
+E. CK-MM
+Correct Option: D
+Explanation:
+Correct (D): CK-MB is the cardiac-specific creatine kinase isozyme classically used in myocardial infarction assessment.
+Incorrect (A): Alanine transaminase is more specific for liver injury.
+Incorrect (B): Aspartate transaminase lacks cardiac specificity.
+Incorrect (C): CK-BB is predominantly found in brain tissue.
+Incorrect (E): CK-MM is mainly present in skeletal muscle.
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Human serum alkaline phosphatase levels can provide information relevant to:
+A. bone disease associated with osteoblastic activity
+B. cholestatic liver disease
+C. Paget disease of bone
+D. rickets
+E. vitamin D deficiency
+Correct Option: A
+Explanation:
+Correct (A): Human serum alkaline phosphatase rises in bone disease associated with osteoblastic activity due to increased bone formation.
+Incorrect (B): Cholestatic liver disease elevates ALP but is not the keyed general category here.
+Incorrect (C): Paget disease is one example of increased osteoblastic activity.
+Incorrect (D): Rickets causes elevated ALP secondary to defective mineralization.
+Incorrect (E): Vitamin D deficiency may indirectly elevate ALP but is not the principal interpretation.
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+A 45-year-old lady was brought to the accident and tertiary care hospital with severe epigastric pain with vomiting. The pain was relieved on leaning forward. Which serum enzyme estimation would be more appropriate to assess pancreatitis?
+A. Acid phosphatase
+B. Alkaline phosphatase
+C. ALT
+D. Amylase
+E. AST
+Correct Option: D
+Explanation:
+Correct (D): Acute pancreatitis classically presents with severe epigastric pain relieved on leaning forward and is assessed by elevated serum amylase.
+Incorrect (A): Acid phosphatase is mainly associated with carcinoma of prostate.
+Incorrect (B): Alkaline phosphatase is primarily elevated in cholestasis and bone disorders.
+Incorrect (C): ALT is mainly a marker of hepatocellular injury.
+Incorrect (E): AST is nonspecific and more associated with liver and muscle injury.
+Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+Question: The most useful early test for diagnosis of acute pancreatitis is:
+ A. SGOT
+ B. Serum amylase
+ C. Serum calcium
+ D. LDH
+ E. Bilirubin
+ Correct Option: B
+ Explanation:
+ Correct (B): Serum amylase rises early in pancreatitis
+ Incorrect (A): SGOT is nonspecific
+ Incorrect (C): Calcium decreases but is late finding
+ Incorrect (D): LDH is nonspecific tissue injury marker
+ Incorrect (E): Bilirubin relates to biliary obstruction
+ Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+Question: Important diagnostic marker for obstructive liver disease is:
+ A. Alanine transaminase
+ B. Aspartate transaminase
+ C. Alkaline phosphatase
+ D. Gamma glutamyl transferase
+ E. Bilirubin
+ Correct Option: C
+ Explanation:
+ Correct (C): ALP is markedly elevated in cholestasis/obstruction
+ Incorrect (A): ALT reflects hepatocellular injury
+ Incorrect (B): AST is non-specific hepatic/muscle enzyme
+ Incorrect (D): GGT supports diagnosis but less primary
+ Incorrect (E): Bilirubin rises but is not enzyme marker
+ Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+Question: Serum alkaline phosphatase in obstructive jaundice:
+ A. markedly decreased
+ B. markedly increased
+ C. mildly decreased
+ D. mildly increased
+ E. normal
+ Correct Option: B
+ Explanation:
+ Correct (B): Obstructive jaundice causes marked increase in serum alkaline phosphatase due to cholestasis and biliary epithelial damage.
+ Incorrect (A): Obstructive jaundice does not decrease alkaline phosphatase levels.
+ Incorrect (C): The elevation is usually marked rather than mild.
+ Incorrect (D): Mild increase is less characteristic of biliary obstruction.
+ Incorrect (E): Normal alkaline phosphatase is inconsistent with significant obstructive jaundice.
+ Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+Module: Foundation
+Question: A 55-year-old patient with chest pain radiating to left shoulder, with nausea and sweating. Which serum enzyme or isoenzyme is most appropriate in early assessment of MI?
+ A. AST
+ B. CK-MM
+ C. CK-MB
+ D. LDH
+ E. Myoglobin
+ Correct Option: C
+ Explanation:
+ Correct (C): CK-MB rises early and is relatively cardiac-specific
+ Incorrect (A): AST rises later and is non-specific
+ Incorrect (B): CK-MM is skeletal muscle isoenzyme
+ Incorrect (D): LDH rises late and lacks early diagnostic value
+ Incorrect (E): Myoglobin rises earliest but is not enzyme or specific
+ Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+
+Question: Important diagnostic marker for obstructive liver disease is:
+ A. Alanine transaminase
+ B. Aspartate transaminase
+ C. Alkaline phosphatase
+ D. Gamma glutamyl transferase
+ E. Bilirubin
+ Correct Option: C
+ Explanation:
+ Correct (C): ALP is markedly elevated in cholestasis/obstruction
+ Incorrect (A): ALT reflects hepatocellular injury
+ Incorrect (B): AST is non-specific hepatic/muscle enzyme
+ Incorrect (D): GGT supports diagnosis but less primary
+ Incorrect (E): Bilirubin rises but is not enzyme marker
+ Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+
+Question: Allopurinol is a competitive inhibitor of:
+ a. carbonic anhydrase.
+ b. dihydrofolate reductase.
+ c. monoamine oxidase.
+ d. oxidase.
+ e. xanthine oxidase.
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Allopurinol inhibits xanthine oxidase, reducing uric acid formation in gout.
+ •	Incorrect (A): Carbonic anhydrase is inhibited by acetazolamide.
+ •	Incorrect (B): Dihydrofolate reductase is inhibited by methotrexate.
+ •	Incorrect (C): Monoamine oxidase is inhibited by MAO inhibitors.
+ •	Incorrect (D): “Oxidase” is nonspecific and not the target enzyme.
+ Tags: Moderate, Biochemistry, Foundation, Clinical Enzymology
+
+--------------------------------------------------
+

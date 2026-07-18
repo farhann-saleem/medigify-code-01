@@ -1,0 +1,347 @@
+Question: Warfarin is contraindicated in pregnancy. Which of the following abnormalities is commonly associated with warfarin use in the first trimester?
+A. Claw hand
+B. Dextrocardia
+C. Holoprosencephaly
+D. Nasal hypoplasia
+E. Renal agenesis
+Correct Option: D
+Explanation:
+• Correct (D): First-trimester warfarin exposure causes fetal warfarin syndrome characterized by nasal hypoplasia and stippled epiphyses.
+• Incorrect (A): Claw hand is not a recognized manifestation of warfarin embryopathy.
+• Incorrect (B): Dextrocardia is a laterality defect unrelated to warfarin teratogenicity.
+• Incorrect (C): Holoprosencephaly is more strongly linked to trisomy 13 and maternal diabetes.
+• Incorrect (E): Renal agenesis is classically associated with ACE inhibitor exposure rather than warfarin use.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: Concentration of alpha fetoprotein less than normal in the amniotic fluid may indicate:
+A. colorectal carcinoma
+B. down syndrome
+C. hepatoblastoma
+D. neural tube defect
+E. sacrococcygeal teratoma
+Correct Option: B
+Explanation:
+• Correct (B): Low AFP is associated with Down syndrome due to decreased fetal protein production.
+• Incorrect (A): Colorectal carcinoma is unrelated to amniotic AFP levels.
+• Incorrect (C): Hepatoblastoma increases AFP, not decreases it.
+• Incorrect (D): Neural tube defects increase AFP, not decrease it.
+• Incorrect (E): Sacrococcygeal teratoma increases AFP due to tumor secretion.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: When is amniocentesis recommended:
+A. before 9th week
+B. before 11th week
+C. before 13th week
+D. before 15th week
+E. before 17th week
+Correct Option: B
+Explanation:
+• Correct (B): Early diagnostic amniocentesis is recommended around/after 11 weeks depending on protocols.
+• Incorrect (A): Before 9th week is unsafe due to fetal risk.
+• Incorrect (C): Before 13th week increases complication risk in early sampling.
+• Incorrect (D): Before 15th week is later than optimal early testing window.
+• Incorrect (E): Before 17th week is beyond typical early diagnostic window definition.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: Concentration of alpha fetoprotein higher than normal in the amniotic fluid may indicate:
+A. bladder exstrophy
+B. colorectal carcinoma
+C. Down syndrome
+D. neural tube defect
+E. Poland syndrome
+Correct Option: D
+Explanation:
+• Correct (D): Elevated AFP indicates open neural tube defects due to fetal protein leakage.
+• Incorrect (A): Bladder exstrophy may elevate AFP but is less classic than NTD association.
+• Incorrect (B): Colorectal carcinoma is unrelated to amniotic AFP levels.
+• Incorrect (C): Down syndrome typically shows decreased AFP.
+• Incorrect (E): Poland syndrome has no AFP association.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: Chorionic villus sampling is done at which week:
+A. 12–14 week
+B. 14–16 week
+C. 16–20 week
+D. 18–20 week
+E. 8–9 week
+Correct Option: E
+Explanation:
+• Correct (E): Chorionic villus sampling is performed early, around 8–9 weeks for early genetic diagnosis.
+• Incorrect (A): 12–14 weeks is later than optimal CVS window.
+• Incorrect (B): 14–16 weeks is mid-trimester amniocentesis period.
+• Incorrect (C): 16–20 weeks is standard amniocentesis range.
+• Incorrect (D): 18–20 weeks is too late for CVS timing.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: A 32-year-old pregnant woman at 30 weeks of gestation comes to her physician because of excess weight gain in a 2-week period. Ultrasonography reveals polyhydramnios. Which fetal abnormality is most likely responsible for the polyhydramnios:
+A. bilateral renal agenesis.
+B. duodenal atresia.
+C. esophageal atresia.
+D. hypoplastic lungs.
+E. tracheoesophageal fistula.
+Correct Option: C
+Explanation:
+Correct (C): Esophageal atresia prevents fetal swallowing of amniotic fluid, leading to polyhydramnios.
+Incorrect (A): Bilateral renal agenesis causes oligohydramnios due to absent fetal urine production.
+Incorrect (B): Duodenal atresia can cause polyhydramnios but less directly impairs swallowing than esophageal atresia.
+Incorrect (D): Hypoplastic lungs are usually a consequence of oligohydramnios rather than a cause of polyhydramnios.
+Incorrect (E): Tracheoesophageal fistula alone may permit some fluid passage into the gastrointestinal tract.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: An ultrasound examination of a pregnant woman during the second trimester revealed multiple amniotic bands associated with the fetus. What produces these bands:
+A. amnion tear and delamination.
+B. chorionic villus edema.
+C. oligohydramnios.
+D. omphaloenteric duct persistence.
+E. polyhydramnios.
+Correct Option: A
+Explanation:
+Correct (A): Amniotic bands result from amnion tear and delamination, producing fibrous strands that can entrap fetal parts.
+Incorrect (B): Chorionic villus edema is characteristic of hydatidiform mole formation, not amniotic bands.
+Incorrect (C): Oligohydramnios causes fetal compression deformities rather than fibrous constriction bands.
+Incorrect (D): Persistence of the omphaloenteric duct causes intestinal anomalies such as Meckel diverticulum.
+Incorrect (E): Polyhydramnios involves excess amniotic fluid without formation of fibrous bands.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: What is the cause of polyhydramnios:
+A. anencephaly.
+B. bilateral renal agenesis.
+C. early rupture of amniotic membrane.
+D. posterior urethral valve obstruction.
+E. urinary bladder exstrophy.
+Correct Option: A
+Explanation:
+Correct (A): Anencephaly impairs fetal swallowing of amniotic fluid, leading to polyhydramnios.
+Incorrect (B): Bilateral renal agenesis causes severe oligohydramnios due to absent urine formation.
+Incorrect (C): Early rupture of amniotic membrane decreases amniotic fluid volume rather than increasing it.
+Incorrect (D): Posterior urethral valve obstruction reduces fetal urine output and commonly causes oligohydramnios.
+Incorrect (E): Urinary bladder exstrophy does not characteristically produce polyhydramnios.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: A new-born baby had intrauterine amputation of his right leg distal to middle third. The causative agent for amputation of his limb is:
+A. amniotic band.
+B. chromosomal aberration.
+C. connecting stalk anomaly.
+C. oligohydramnios.
+E. velamentous cord insertion.
+Correct Option: A
+Explanation:
+Correct (A): Amniotic bands can constrict developing limbs and cause intrauterine amputations.
+Incorrect (B): Chromosomal aberration causes generalized developmental defects rather than isolated constriction amputation.
+Incorrect (C): Connecting stalk anomaly produces severe ventral body wall defects, not distal limb amputation.
+Incorrect (D): Oligohydramnios causes compression deformities but not constrictive amputations.
+Incorrect (E): Velamentous cord insertion affects placental vessel support rather than limb development.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: A 20-year-old woman presents with severe right-sided abdominal pain and signs of internal bleeding. She has been sexually active without contraception and missed her last menstrual period. Which disorder must be considered in the diagnosis:
+a. appendicitis.
+b. ectopic pregnancy.
+c. ovarian cyst rupture.
+d. ovarian torsion.
+e. pelvic inflammatory disease.
+Correct Option: B
+Explanation:
+Correct (B): Missed menstruation with abdominal pain and internal bleeding strongly suggests ruptured ectopic pregnancy, most commonly in the uterine tube.
+Incorrect (A): Appendicitis causes right lower quadrant pain but does not explain missed menstruation with intra-abdominal bleeding.
+Incorrect (C): Ovarian cyst rupture may bleed but lacks the classic pregnancy-related history.
+Incorrect (D): Ovarian torsion produces acute pain without the typical association with missed menstrual period and hemorrhage.
+Incorrect (E): Pelvic inflammatory disease causes pelvic pain and infection signs rather than internal bleeding from pregnancy.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: Most common site for abnormal implantation:
+a. ampulla.
+b. cervix.
+c. intestine.
+d. ovary.
+e. pelvis.
+Correct Option: A
+Explanation:
+Correct (A): The ampulla of the uterine tube is the most common location for ectopic implantation.
+Incorrect (B): Cervical implantation is rare compared with tubal implantation.
+Incorrect (C): Intestinal implantation is an uncommon form of abdominal ectopic pregnancy.
+Incorrect (D): Ovarian ectopic pregnancy occurs infrequently.
+Incorrect (E): “Pelvis” is nonspecific and not the predominant implantation site.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: When is amniocentesis recommended:
+A. before 9th week
+B. before 11th week
+C. before 13th week
+D. before 15th week
+E. before 17th week
+Correct Option: B
+Explanation:
+Correct (B): Early diagnostic amniocentesis is recommended around/after 11 weeks depending on protocols.
+Incorrect (A): Before 9th week is unsafe due to fetal risk.
+Incorrect (C): Before 13th week increases complication risk in early sampling.
+Incorrect (D): Before 15th week is later than optimal early testing window.
+Incorrect (E): Before 17th week is beyond typical early diagnostic window definition.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: Concentration of alpha fetoprotein higher than normal in the amniotic fluid may indicate:
+A. bladder exstrophy
+B. colorectal carcinoma
+C. Down syndrome
+D. neural tube defect
+E. Poland syndrome
+Correct Option: D
+Explanation:
+Correct (D): Elevated AFP indicates open neural tube defects due to fetal protein leakage.
+Incorrect (A): Bladder exstrophy may elevate AFP but is less classic than NTD association.
+Incorrect (B): Colorectal carcinoma is unrelated to amniotic AFP levels.
+Incorrect (C): Down syndrome typically shows decreased AFP.
+Incorrect (E): Poland syndrome has no AFP association.
+Tags: Moderate, Embryology, Foundation Module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: When is amniocentesis recommended:
+A. before 7th week
+B. before 9th week
+C. before 11th week
+D. before 13th week
+E. before 15th week
+Correct Option: D
+Explanation:
+ * Correct (D): Amniocentesis is not safe early in pregnancy; it is recommended to perform it after adequate amniotic fluid accumulates, meaning it is traditionally avoided before 13th week to 14th week due to high miscarriage risk.
+ * Incorrect (A): Before 7th week, the amniotic sac is extremely small and lacks sufficient fluid volume, making amniocentesis technically impossible and highly lethal to the embryo.
+ * Incorrect (B): Performing amniocentesis before 9th week carries an unacceptably high risk of inducing fetal loss and severe limb-reduction deformities.
+ * Incorrect (C): Before 11th week, chorionic villus sampling is preferred if early testing is needed, as amniocentesis at this stage lacks adequate fluid safety margins.
+ * Incorrect (E): While it can be done later, the hard technical safety limit for avoiding early-amnion complications dictates that the procedure shouldn't be forced before 13th week to 14th week.
+   Tags: Moderate, Embryology, Foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: Chorionic villus sampling is done at which week:
+A. 08 - 09 week
+B. 10 - 12 week
+C. 12 - 14 week
+D. 14 - 16 week
+E. 16 - 20 week
+Correct Option: A
+Explanation:
+ * Correct (A): Chorionic villus sampling is traditionally performed early in pregnancy to detect genetic defects, with the earliest standard window starting around 08 - 09 week.
+ * Incorrect (B): The 10 - 12 week window represents a slightly later alternative phase, but it does not capture the earliest available clinical onset of the procedure option.
+ * Incorrect (C): The 12 - 14 week window is a transition zone where chorionic villus sampling begins to be replaced by amniocentesis as the preferred diagnostic option.
+ * Incorrect (D): The 14 - 16 week period is the classic timeframe reserved for amniocentesis, as the chorionic villi have already altered their primary accessible morphology.
+ * Incorrect (E): The 16 - 20 week interval is entirely too late for chorionic villus sampling and is exclusively used for mid-trimester amniocentesis or cordocentesis.
+   Tags: Moderate, Embryology, Foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+Question: Concentration of alpha fetoprotein less than normal in the amniotic fluid may indicate: A. colorectal cancer B. Down syndrome C. liver cancer D. neural tube defect E. Turner syndrome Correct Option: B Explanation: Correct (B): Decreased alpha fetoprotein in amniotic fluid is classically associated with Down syndrome. Incorrect (A): Colorectal cancer is not associated with reduced amniotic fluid alpha fetoprotein. Incorrect (C): Liver cancer typically increases alpha fetoprotein, not decreases it in this context. Incorrect (D): Neural tube defect causes increased alpha fetoprotein, not decreased. Incorrect (E): Turner syndrome is not primarily associated with altered alpha fetoprotein levels. Tags: Moderate, Embryology, foundation module, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: Warfarin is contraindicated in pregnancy. Which of the following abnormalities are commonly associated with warfarin use in first trimester: A. claw hand B. dextrocardia C. nasal hypoplasia D. neural tube defect E. renal agenesis Correct Option: C Explanation: Correct (C): Warfarin embryopathy in first trimester causes nasal hypoplasia and epiphyseal stippling due to inhibition of vitamin K–dependent bone development. Incorrect (A): Claw hand is seen in ulnar nerve injury or chromosomal syndromes, not warfarin teratogenicity. Incorrect (B): Dextrocardia is a laterality defect unrelated to vitamin K antagonism. Incorrect (D): Neural tube defects are linked to folate deficiency, not warfarin exposure. Incorrect (E): Renal agenesis is associated with renal developmental pathway defects, not warfarin use. Tags: Moderate, Embryology, foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: A 42-year-old woman presents with complaints of severe headaches, blurred vision, slurred speech, and loss of muscle coordination. Her last pregnancy 5 years ago resulted in a hydatidiform mole. Laboratory results show a high hCG level. Which of the following conditions is a probable diagnosis: Options: a) Vasa previa b) Placenta previa c) Choriocarcinoma d) Membranous placenta Correct Option: Ans. Choriocarcinoma Explanation: In some cases, trophoblasts develop and form placental membranes with little to no embryonic tissue present. This condition is called a hydatidiform mole. These moles secrete high levels of hCG and may produce benign or malignant tumors called choriocarcinoma. Tags: Moderate, Embryology, foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: A 26-year-old pregnant woman experiences repeated episodes of bright red vaginal bleeding at week 28, week 32, and week 34 of pregnancy. The bleeding spontaneously subsided each time. Use of ultrasound shows that the placenta is located in the lower right portion of the uterus over the internal os. What is the diagnosis: Options: a) Hydatidiform mole b) Vasa previa c) Placenta previa d) Placental abruption Correct Option: Ans. Placenta previa Explanation: Occasionally, the blastocyst implants close to the internal os (opening) of the cervix so that later in development, the placenta bridges the opening and causes severe, life-threatening bleeding in the second part of the pregnancy and during delivery. This is called placenta previa. Tags: Moderate, Embryology, foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: An ultrasound examination of a pregnant woman during the second trimester revealed multiple amniotic bands associated with the fetus. What produces these bands: Options: a) Oligohydramnios b) Amnion tear & delamination c) Omphaloenteric duct d) Polyhydramnios Correct Option: Ans. Amnion tear & delamination Explanation: Tears in the amnion result in amniotic bands that may encircle part of the fetus, particularly the limbs and digits. Amputations, ring constrictions, and craniofacial deformations may result. Tags: Moderate, Embryology, foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: What is the cause of polyhydroamnios: Options: a) Anencephaly b) Renal agensis c) Blockage of urinary system d) Early rupture of amniotic membrane Correct Option: Ans. Anencephaly Explanation: Primary causes of hydramnios (polyhydramnios) include idiopathic causes (35%), maternal diabetes (25%), and congenital malformations, including CNS disorders such as anencephaly and GIT disorders such as esophageal atresia. Tags: Moderate, Embryology, foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+Question: A new-born baby had intrauterine amputation of his right leg distal to middle third. The causative agent for amputation of his limb is: Options: a) Chromosomal aberration b) An extremely long cord c) Amniotic band d) Connecting stalk Correct Option: Ans. Amniotic band Explanation: Tears in the amnion result in amniotic bands that may encircle part of the fetus, particularly the limbs and digits. Amputations, ring constrictions, and craniofacial deformations may result. Tags: Moderate, Embryology, foundation, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+1. Question: Concentration of α-fetoprotein less than normal in the amniotic fluid may indicate?
+ A. Down syndrome
+ B. Edwards syndrome
+ C. Patau syndrome
+ D. Triploidy
+ E. Turner syndrome
+ Correct Option: A
+ Explanation:
+ • Correct (A): Down syndrome is associated with decreased α-fetoprotein levels in amniotic fluid due to altered fetal protein synthesis.
+ • Incorrect (B): Edwards syndrome shows abnormal karyotype but does not consistently lower α-fetoprotein.
+ • Incorrect (C): Patau syndrome involves trisomy 13 without characteristic α-fetoprotein reduction.
+ • Incorrect (D): Triploidy alters growth patterns but does not specifically reduce α-fetoprotein.
+ • Incorrect (E): Turner syndrome is linked to monosomy X, not decreased α-fetoprotein.
+ Tags: Moderate, Embryology, Fetal Period, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+7.Question: When is amniocentesis recommended?
+ A. Before 9th week
+ B. Before 11th week
+ C. Before 13th week
+ D. Before 15th week
+ E. Before 17th week
+ Correct Option: C
+ Explanation:
+ • Correct (C): Amniocentesis is recommended after 13 weeks to ensure adequate amniotic fluid and safety.
+ • Incorrect (A): Before 9th week, amniotic cavity is too small for safe sampling.
+ • Incorrect (B): Before 11th week, risk of complications is high.
+ • Incorrect (D): Before 15th week is later than standard recommendation.
+ • Incorrect (E): Before 17th week is beyond optimal timing.
+ Tags: Moderate, Embryology, Fetal Period, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+9. Question: Chorionic villus sampling is done at which week?
+ A. 8–9 weeks
+ B. 10–11 weeks
+ C. 12–14 weeks
+ D. 14–16 weeks
+ E. 16–20 weeks
+ Correct Option: A
+ Explanation:
+ • Correct (A): Chorionic villus sampling is performed at 8–9 weeks for early genetic diagnosis.
+ • Incorrect (B): 10–11 weeks is slightly later than standard practice.
+ • Incorrect (C): 12–14 weeks is beyond the optimal window.
+ • Incorrect (D): 14–16 weeks is appropriate for amniocentesis, not CVS.
+ • Incorrect (E): 16–20 weeks is too late for CVS.
+ Tags: Moderate, Embryology, Fetal Period, Teratology & Prenatal Diagnosis
+
+--------------------------------------------------
+
+
+

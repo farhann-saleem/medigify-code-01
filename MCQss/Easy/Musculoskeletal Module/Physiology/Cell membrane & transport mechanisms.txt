@@ -1,0 +1,36 @@
+​Question
+Which structural feature of neurons is primarily responsible for rapid intracellular transport of neurotransmitter vesicles from soma to axon terminal?
+A. Actin microfilaments
+B. Intermediate filaments
+C. Microtubule networks
+D. Neurofilament fibers
+E. Plasma membrane lipids
+Correct Option: C
+Explanation:
+Correct (C): Microtubule networks form the long longitudinal tracks within the axon that motor proteins utilize to carry secretory vesicles over extended distances from the cell body to the nerve terminal.
+Incorrect (A): The phrase "Actin microfilaments" is incorrect because these elements are concentrated in the cell cortex and growth cones for local structural changes rather than long-distance axonal cargo movement.
+Incorrect (B): The phrase "Intermediate filaments" is incorrect because these proteins provide mechanical scaffolding to support cell shape rather than serving as highways for active vesicular transport.
+Incorrect (D): The phrase "Neurofilament fibers" is incorrect because these neuron-specific structural elements establish internal axonal caliber and stability instead of acting as tracks for fast anterograde transport.
+Incorrect (E): The phrase "Plasma membrane lipids" is incorrect because the lipid bilayer encloses the cell boundaries and is not involved in driving directed intracellular cargo traffic along the axon.
+Tags: Easy, Physiology, Musculoskeletal, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+
+​Question
+Which type of axonal transport is responsible for returning degraded materials from the nerve terminal to the soma?
+A. Fast anterograde axonal transport mediated by dynein motor proteins
+B. Fast anterograde axonal transport mediated by kinesin motor proteins
+C. Passive structural diffusion directly through the neuronal axoplasm
+D. Retrograde axonal transport mediated by dynein motor proteins
+E. Retrograde axonal transport mediated by kinesin motor proteins
+Correct Option: D
+Explanation:
+Correct (D): Retrograde axonal transport mediated by dynein motor proteins operates along microtubule tracks to move aging organelles, endosomes, and recycled elements backward from distal terminals to the cell body.
+Incorrect (A): The phrase "Fast anterograde axonal transport mediated by dynein motor proteins" is incorrect because anterograde movement travels away from the cell body and is powered by different motor molecules.
+Incorrect (B): The phrase "Fast anterograde axonal transport mediated by kinesin motor proteins" is incorrect because this pathway carries newly synthesized proteins and vesicles forward toward the axon tip.
+Incorrect (C): The phrase "Passive structural diffusion directly through the neuronal axoplasm" is incorrect because macromolecular structures and spent organelles are too large to move effectively over long distances without active transport motors.
+Incorrect (E): The phrase "Retrograde axonal transport mediated by kinesin motor proteins" is incorrect because kinesin motors track toward the plus ends of microtubules, directing traffic in the anterograde direction.
+Tags: Easy, Physiology, Musculoskeletal, Cell Membrane & Transport Mechanisms
+
+--------------------------------------------------
+

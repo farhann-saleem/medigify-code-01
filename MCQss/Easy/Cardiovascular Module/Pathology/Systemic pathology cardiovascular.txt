@@ -1,0 +1,188 @@
+Question: Which of the following is a constitutional risk factor (non-modifiable) for cardiovascular disease:
+ A. advancing age.
+ B. family history.
+ C. male sex.
+ D. race.
+ E. genetic predisposition.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Family history reflects inherited susceptibility and is a classic non-modifiable risk factor.
+ •	Incorrect (A): Advancing age is non-modifiable but is not the designated answer here.
+ •	Incorrect (C): Male sex is a constitutional factor but not the keyed option.
+ •	Incorrect (D): Race may influence risk but is not the selected answer.
+ •	Incorrect (E): Genetic predisposition overlaps with family history but is not the keyed choice.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+
+Question: Which of the following is a constitutional risk factor (non-modifiable) for cardiovascular disease:
+ A. advancing age.
+ B. family history.
+ C. male sex.
+ D. race.
+ E. genetic predisposition.
+Correct Option: B
+Explanation:
+Correct (B): Family history reflects inherited susceptibility and is a classic non-modifiable risk factor.
+ Incorrect (A): Advancing age is non-modifiable but is not the designated answer here.
+ Incorrect (C): Male sex is a constitutional factor but not the keyed option.
+ Incorrect (D): Race may influence risk but is not the selected answer.
+ Incorrect (E): Genetic predisposition overlaps with family history but is not the keyed choice.
+Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: Which of the following is not a feature of right heart failure:
+ A. dyspnea.
+ B. heart failure cells.
+ C. nutmeg liver.
+ D. peripheral edema.
+ E. splenomegaly.
+Correct Option: B
+Explanation:
+ •	Correct (B): Heart failure cells result from pulmonary congestion and are characteristic of left heart failure.
+ •	Incorrect (A): Dyspnea may occur secondary to associated pulmonary congestion.
+ •	Incorrect (C): Nutmeg liver is a classic manifestation of chronic right-sided failure.
+ •	Incorrect (D): Peripheral edema reflects systemic venous congestion.
+ •	Incorrect (E): Splenomegaly can develop due to chronic venous congestion.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: Most sensitive and specific marker of myocardial infarction:
+ A. creatine kinase
+ B. CK-MB
+ C. lactate dehydrogenase
+ D. myoglobin
+ E. troponin T & I
+ Correct Option: E
+ Explanation:
+ •	Correct (E): Troponin T & I are highly cardiac-specific proteins with greatest sensitivity for myocardial necrosis.
+ •	Incorrect (A): Creatine kinase is non-specific and elevated in skeletal muscle injury as well.
+ •	Incorrect (B): CK-MB is more specific than CK but less sensitive than troponins.
+ •	Incorrect (C): Lactate dehydrogenase rises late and lacks cardiac specificity.
+ •	Incorrect (D): Myoglobin rises early but is not cardiac-specific.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: MI is an example of:
+ A. caseous necrosis
+ B. coagulative necrosis
+ C. fat necrosis
+ D. fibrinoid necrosis
+ E. liquefactive necrosis
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Myocardial infarction produces ischemic coagulative necrosis due to preserved tissue architecture initially.
+ •	Incorrect (A): Caseous necrosis is typical of tuberculosis granulomas.
+ •	Incorrect (C): Fat necrosis occurs in pancreatitis or trauma to adipose tissue.
+ •	Incorrect (D): Fibrinoid necrosis occurs in immune-mediated vascular injury.
+ •	Incorrect (E): Liquefactive necrosis is typical of brain infarcts or abscesses.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: A 55-year-old woman presents with chest pain that predictably occurs during exertion and is relieved by rest. Which condition best describes her state:
+  A. arrhythmia
+  B. myocardial infarction
+  C. stable angina
+  D. unstable angina
+  E. variant angina
+  Correct Option: C
+  Explanation:
+ •	Correct (C): Stable angina is exertional ischemia relieved by rest due to fixed atherosclerotic narrowing.
+ •	Incorrect (A): Arrhythmia is electrical rhythm disturbance, not ischemic pain pattern.
+ •	Incorrect (B): MI causes persistent pain with necrosis.
+ •	Incorrect (D): Unstable angina occurs at rest or increasing frequency.
+ •	Incorrect (E): Variant angina is due to coronary vasospasm at rest.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: Postmenopausal women have greater risk of:
+  A. asthma
+  B. cardiovascular disorders
+  C. leiomyoma
+  D. osteomalacia
+  E. rheumatoid arthritis
+  Correct Option: B
+  Explanation:
+ •	Correct (B): Loss of estrogen increases cardiovascular risk due to loss of vascular protection.
+ •	Incorrect (A): Asthma is not directly linked to menopause status.
+ •	Incorrect (C): Leiomyomas are estrogen-dependent and decrease postmenopause.
+ •	Incorrect (D): Osteomalacia is due to vitamin D deficiency, not menopause.
+ •	Incorrect (E): Rheumatoid arthritis is autoimmune, not specifically menopause-driven.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: Onion-skin appearance of blood vessels is seen in:
+  A. atherosclerosis.
+  B. hyperplastic arteriosclerosis.
+  C. hyaline arteriosclerosis.
+  D. medial calcific arteriosclerosis.
+  E. Monckeberg arteriosclerosis.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Hyperplastic arteriosclerosis shows concentric laminated smooth muscle thickening producing the classic onion-skin appearance.
+ •	Incorrect (A): Atherosclerosis produces intimal plaques rather than concentric arteriolar wall thickening.
+ •	Incorrect (C): Hyaline arteriosclerosis causes homogeneous hyaline thickening without onion-skin layering.
+ •	Incorrect (D): Medial calcific arteriosclerosis is characterized by calcification of the tunica media.
+ •	Incorrect (E): Monckeberg arteriosclerosis consists of medial calcification and is not associated with onion-skin lesions.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: First visible gross evidence for formation of atheroma:
+  A. calcification.
+  B. fatty streak.
+  C. fibrous plaque.
+  D. thrombus.
+  E. ulceration.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Fatty streaks are the earliest grossly visible lesions of atherosclerosis and consist of lipid-laden foam cells in the intima.
+ •	Incorrect (A): Calcification occurs in advanced atherosclerotic lesions.
+ •	Incorrect (C): Fibrous plaques develop after progression of fatty streaks.
+ •	Incorrect (D): Thrombus formation is a complication of advanced plaque disruption.
+ •	Incorrect (E): Ulceration occurs late due to plaque instability and rupture.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: Hyaline arteriosclerosis is characterized by:
+  A. concentric smooth muscle hyperplasia with onion-skin appearance.
+  B. diffuse homogeneous pink hyaline thickening.
+  C. focal calcification of the tunica media.
+  D. lipid-rich intimal plaque formation.
+  E. no luminal narrowing.
+ Correct Option: B
+ Explanation:
+ •	Correct (B): Hyaline arteriosclerosis shows diffuse homogeneous pink hyaline thickening of arteriolar walls with luminal narrowing.
+ •	Incorrect (A): Concentric smooth muscle hyperplasia with onion-skin appearance describes hyperplastic arteriosclerosis.
+ •	Incorrect (C): Focal calcification of the tunica media is characteristic of Monckeberg medial calcific arteriosclerosis.
+ •	Incorrect (D): Lipid-rich intimal plaque formation is the hallmark of atherosclerosis.
+ •	Incorrect (E): Hyaline arteriosclerosis typically causes narrowing of the vessel lumen.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
+Question: Most common symptom of myocardial infarction:
+  A. chest pain.
+  B. dyspnea.
+  C. edema.
+  D. palpitations.
+  E. syncope.
+ Correct Option: A
+ Explanation:
+ •	Correct (A): Severe, prolonged chest pain due to myocardial ischemia is the most common presenting symptom of myocardial infarction.
+ •	Incorrect (B): Dyspnea may occur but is less common than chest pain as the presenting symptom.
+ •	Incorrect (C): Edema is usually a manifestation of heart failure rather than acute myocardial infarction.
+ •	Incorrect (D): Palpitations may accompany arrhythmias but are not the most common symptom.
+ •	Incorrect (E): Syncope can occur in severe cases but is not the typical presentation.
+ Tags: Easy, Pathology, Cardiovascular, Systemic Pathology: Cardiovascular
+
+--------------------------------------------------
+
