@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { Check, Zap, BookOpen, BarChart3, FlaskConical, Shield } from 'lucide-react';
+import SubscribeButton from './SubscribeButton';
 
 export const metadata: Metadata = {
   title: 'Pricing — Medigify',
@@ -110,16 +111,7 @@ export default function PricingPage() {
             ))}
           </ul>
 
-          <a
-            href="mailto:medigifyglobal@gmail.com?subject=Medigify Pro Early Access"
-            className="relative block w-full py-3 px-6 rounded-lg bg-accent hover:bg-accent-hover text-white text-center font-semibold transition-colors duration-150"
-          >
-            <Zap className="w-4 h-4 inline mr-2 -mt-0.5" />
-            Get Early Access
-          </a>
-          <p className="text-center text-xs text-text-secondary mt-3 relative">
-            Email us to get Pro access while we set up payments.
-          </p>
+          <SubscribeButton />
         </div>
 
       </div>
