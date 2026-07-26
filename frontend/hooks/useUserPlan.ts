@@ -1,20 +1,24 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { createClient } from '@/lib/supabase/client';
 import type { Plan } from '@/lib/plans';
+import { hasAllModules, hasModuleAccess } from '@/lib/plans';
 
 interface UserPlanState {
   plan: Plan;
   isPro: boolean;
+  purchasedModules: string[];
   isLoading: boolean;
   error: string | null;
+  hasModule: (moduleId: string) => boolean;
 }
 
 export function useUserPlan(): UserPlanState {
-  const [state, setState] = useState<UserPlanState>({
+  const [state, setState] = useState<Omit<UserPlanState, 'hasModule'>>({
     plan: 'free',
     isPro: false,
+    purchasedModules: [],
     isLoading: true,
     error: null,
   });
@@ -27,8 +31,7 @@ export function useUserPlan(): UserPlanState {
         process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
 
       if (isMockMode) {
-        // In mock mode everyone is free
-        setState({ plan: 'free', isPro: false, isLoading: false, error: null });
+        setState({ plan: 'free', isPro: false, purchasedModules: [], isLoading: false, error: null });
         return;
       }
 
@@ -38,13 +41,13 @@ export function useUserPlan(): UserPlanState {
         } = await supabase.auth.getUser();
 
         if (!user) {
-          setState({ plan: 'free', isPro: false, isLoading: false, error: null });
+          setState({ plan: 'free', isPro: false, purchasedModules: [], isLoading: false, error: null });
           return;
         }
 
         const { data: profile, error } = await supabase
           .from('profiles')
-          .select('plan')
+          .select('plan, purchased_modules')
           .eq('id', user.id)
           .single();
 
@@ -52,18 +55,23 @@ export function useUserPlan(): UserPlanState {
           setState({
             plan: 'free',
             isPro: false,
+            purchasedModules: [],
             isLoading: false,
             error: 'Could not load your subscription status.',
           });
           return;
         }
 
-        const plan = (profile.plan as Plan) ?? 'free';
-        setState({ plan, isPro: plan === 'pro', isLoading: false, error: null });
+        const modules: string[] = (profile.purchased_modules as string[]) ?? [];
+        const isPro = hasAllModules(modules);
+        const plan: Plan = isPro ? 'pro' : 'free';
+
+        setState({ plan, isPro, purchasedModules: modules, isLoading: false, error: null });
       } catch {
         setState({
           plan: 'free',
           isPro: false,
+          purchasedModules: [],
           isLoading: false,
           error: 'Could not load your subscription status.',
         });
@@ -90,5 +98,10 @@ export function useUserPlan(): UserPlanState {
     };
   }, []);
 
-  return state;
+  const hasModule = useCallback(
+    (moduleId: string) => hasModuleAccess(state.purchasedModules, moduleId),
+    [state.purchasedModules],
+  );
+
+  return { ...state, hasModule };
 }

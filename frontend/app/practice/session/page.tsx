@@ -20,11 +20,11 @@ import {
 } from '@/lib/utils';
 import { usePracticeSession } from '@/hooks/usePracticeSession';
 import { useUserPlan } from '@/hooks/useUserPlan';
-import { PLAN_LIMITS } from '@/lib/plans';
+import { PLAN_LIMITS, hasModuleAccess } from '@/lib/plans';
 import { createClient } from '@/lib/supabase/client';
 import PaywallBanner from '@/components/ui/PaywallBanner';
 
-function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: boolean }) {
+function PracticeSessionStage({ questions, isPro, purchasedModules }: { questions: MCQ[]; isPro: boolean; purchasedModules: string[] }) {
   const router = useRouter();
   const [savedFlashcardIds, setSavedFlashcardIds] = useState<Set<string>>(
     () => new Set()
@@ -307,7 +307,7 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
         </div>
         <div className="w-full bg-border rounded-full h-1.5">
           <div
-            className="h-1.5 bg-accent rounded-full transition-all duration-300"
+            className="h-1.5 gradient-accent rounded-full transition-all duration-500"
             style={{
               width: `${((session.currentIndex + 1) / session.questions.length) * 100}%`,
             }}
@@ -316,7 +316,7 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
       </div>
 
       {/* Question Card */}
-      <div className="bg-bg-surface border border-border rounded-lg p-5 md:p-6 mb-6">
+      <div className="bg-bg-surface border border-border rounded-xl p-5 md:p-6 mb-6">
         <p className="text-text-primary text-lg leading-relaxed font-medium">
           {currentQuestion.statement}
         </p>
@@ -356,7 +356,7 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
               key={key}
               onClick={() => selectAnswer(key)}
               disabled={hasAnswered}
-              className={`w-full p-4 rounded-lg border text-left transition-all duration-150 min-h-[48px] flex items-start gap-3 ${optionStyle} ${
+              className={`w-full p-4 rounded-xl border text-left transition-all duration-200 min-h-[48px] flex items-start gap-3 ${optionStyle} ${
                 !hasAnswered ? 'cursor-pointer' : 'cursor-default'
               }`}
             >
@@ -477,7 +477,7 @@ function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: b
 
 function PracticeSessionContent() {
   const searchParams = useSearchParams();
-  const { isPro, isLoading: planLoading } = useUserPlan();
+  const { isPro, purchasedModules, isLoading: planLoading } = useUserPlan();
 
   const subjectsParam = searchParams.get('subjects') || 'all';
   const difficultyParam = searchParams.get('difficulty') || 'all';
@@ -494,9 +494,35 @@ function PracticeSessionContent() {
     });
 
     const shuffled = shuffleArray(filtered);
-    const limit = isPro ? countParam : Math.min(countParam, PLAN_LIMITS.free.mcqsPerSubject);
-    return shuffled.slice(0, limit);
-  }, [subjectsParam, difficultyParam, moduleParam, countParam, isPro]);
+
+    if (isPro) {
+      return shuffled.slice(0, countParam);
+    }
+
+    // Per-module limits: purchased modules get unlimited, others get 5 per subject
+    const result: MCQ[] = [];
+    const subjectCounts = new Map<string, number>();
+
+    for (const q of shuffled) {
+      const moduleOwned = q.module ? hasModuleAccess(purchasedModules, q.module) : false;
+
+      if (moduleOwned) {
+        // Unlimited for owned modules
+        result.push(q);
+      } else {
+        // Cap at 5 per subject for unowned modules
+        const count = subjectCounts.get(q.subject) ?? 0;
+        if (count < PLAN_LIMITS.free.mcqsPerSubject) {
+          result.push(q);
+          subjectCounts.set(q.subject, count + 1);
+        }
+      }
+
+      if (result.length >= countParam) break;
+    }
+
+    return result;
+  }, [subjectsParam, difficultyParam, moduleParam, countParam, isPro, purchasedModules]);
 
   const sessionKey = useMemo(
     () => questions.map((question) => question.id).join('|'),
@@ -512,7 +538,7 @@ function PracticeSessionContent() {
     );
   }
 
-  return <PracticeSessionStage key={sessionKey} questions={questions} isPro={isPro} />;
+  return <PracticeSessionStage key={sessionKey} questions={questions} isPro={isPro} purchasedModules={purchasedModules} />;
 }
 
 export default function PracticeSessionPage() {

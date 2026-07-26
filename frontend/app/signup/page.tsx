@@ -268,7 +268,7 @@ export default function SignupPage() {
       </div>
 
       <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-[480px]">
-        <div className="bg-bg-surface border border-border px-4 py-8 shadow-sm sm:rounded-xl sm:px-12 relative overflow-hidden">
+        <div className="bg-bg-surface border border-border px-4 py-8 shadow-lg shadow-black/5 sm:rounded-2xl sm:px-12 relative overflow-hidden">
           <div className="absolute top-0 left-0 w-full h-1 bg-border">
             <div
               className="h-full bg-accent transition-all duration-500 ease-out"

@@ -5,24 +5,23 @@ export default function TrustBar() {
     { value: 'High Yield', label: 'Notes' },
   ];
 
-  const badges = [
-    { name: 'UHS', available: true },
-    { name: 'NUMS', available: false },
-    { name: 'AKU', available: false },
-  ];
-
   return (
-    <section className="py-10 bg-bg-surface border-y border-border" aria-labelledby="trust-heading">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="py-8 md:py-10 border-y border-border relative overflow-hidden" aria-labelledby="trust-heading">
+      {/* Subtle gradient background */}
+      <div className="absolute inset-0 bg-gradient-to-r from-bg-primary via-bg-surface to-bg-primary" />
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <h2 id="trust-heading" className="sr-only">Trusted by students</h2>
-        {/* Metrics */}
-        <div className="flex flex-wrap items-center justify-center gap-8 md:gap-16">
-          {metrics.map((metric) => (
-            <div key={metric.label} className="text-center">
-              <p className="text-2xl md:text-3xl font-heading font-bold text-text-primary">
+        <div className="flex items-center justify-center gap-6 sm:gap-12 md:gap-20">
+          {metrics.map((metric, i) => (
+            <div key={metric.label} className="text-center group">
+              <p className="text-xl sm:text-2xl md:text-3xl font-heading font-bold text-text-primary group-hover:text-accent transition-colors duration-300">
                 {metric.value}
               </p>
-              <p className="text-sm text-text-secondary mt-1">{metric.label}</p>
+              <p className="text-xs sm:text-sm text-text-secondary mt-0.5">{metric.label}</p>
+              {i < metrics.length - 1 && (
+                <div className="hidden" />
+              )}
             </div>
           ))}
         </div>

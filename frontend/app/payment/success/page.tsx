@@ -18,12 +18,12 @@ export default function PaymentSuccessPage() {
       </h1>
 
       <p className="text-text-secondary mb-8">
-        You now have Pro access. Unlimited MCQs across all subjects are unlocked.
+        Your modules have been unlocked. Enjoy unlimited MCQs in your purchased modules.
       </p>
 
       <Link
         href="/dashboard"
-        className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-accent hover:bg-accent-hover text-white font-semibold transition-colors"
+        className="inline-flex items-center gap-2 px-6 py-3 rounded-xl gradient-accent hover:opacity-90 text-white font-semibold transition-all duration-200 shadow-md shadow-accent/20"
       >
         Go to Dashboard
         <ArrowRight className="w-4 h-4" />

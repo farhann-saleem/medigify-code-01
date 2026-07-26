@@ -89,7 +89,7 @@ export default function PracticePage() {
               <button
                 key={diff.name}
                 onClick={() => toggle(selectedDifficulties, diff.name, setSelectedDifficulties)}
-                className={`px-5 py-2.5 rounded-full border text-sm font-medium transition-all duration-150 min-h-[48px] ${
+                className={`px-5 py-2.5 rounded-full border text-sm font-medium transition-all duration-200 min-h-[44px] ${
                   isSelected
                     ? `${dc.border} ${dc.bg} ${dc.text}`
                     : 'border-border bg-bg-surface hover:bg-bg-surface-hover text-text-secondary'
@@ -123,7 +123,7 @@ export default function PracticePage() {
               <button
                 key={mod.name}
                 onClick={() => toggle(selectedModules, mod.name, setSelectedModules)}
-                className={`relative p-4 rounded-lg border text-left transition-all duration-150 min-h-[48px] ${
+                className={`relative p-4 rounded-lg border text-left transition-all duration-200 min-h-[44px] ${
                   isSelected
                     ? 'border-accent bg-accent/10 ring-1 ring-accent'
                     : 'border-border bg-bg-surface hover:bg-bg-surface-hover hover:border-accent/30'
@@ -164,7 +164,7 @@ export default function PracticePage() {
               <button
                 key={subject.name}
                 onClick={() => toggle(selectedSubjects, subject.name, setSelectedSubjects)}
-                className={`relative p-4 rounded-lg border text-left transition-all duration-150 min-h-[48px] ${
+                className={`relative p-4 rounded-lg border text-left transition-all duration-200 min-h-[44px] ${
                   isSelected
                     ? 'border-accent bg-accent/10 ring-1 ring-accent'
                     : 'border-border bg-bg-surface hover:bg-bg-surface-hover hover:border-accent/30'
@@ -211,7 +211,7 @@ export default function PracticePage() {
               key={size}
               onClick={() => setBlockSize(size)}
               disabled={size > availableCount}
-              className={`px-5 py-2.5 rounded-full border text-sm font-medium transition-all duration-150 min-h-[48px] ${
+              className={`px-5 py-2.5 rounded-full border text-sm font-medium transition-all duration-200 min-h-[44px] ${
                 blockSize === size
                   ? 'bg-accent text-white border-accent'
                   : size > availableCount
@@ -224,7 +224,7 @@ export default function PracticePage() {
           ))}
           <button
             onClick={() => setBlockSize('all')}
-            className={`px-5 py-2.5 rounded-full border text-sm font-medium transition-all duration-150 min-h-[48px] ${
+            className={`px-5 py-2.5 rounded-full border text-sm font-medium transition-all duration-200 min-h-[44px] ${
               blockSize === 'all'
                 ? 'bg-accent text-white border-accent'
                 : 'border-border text-text-secondary hover:border-accent/30 hover:text-text-primary'

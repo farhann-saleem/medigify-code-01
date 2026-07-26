@@ -24,19 +24,19 @@ export default function PaywallBanner({ questionsRemaining }: PaywallBannerProps
           You've reached your free limit
         </h2>
         <p className="text-text-secondary text-sm md:text-base mb-6 max-w-sm mx-auto leading-relaxed">
-          Free accounts get <span className="font-semibold text-text-primary">5 MCQs per subject</span>. Upgrade to{' '}
-          <span className="font-semibold text-accent">Medigify Pro</span> to unlock unlimited practice across all subjects.
+          Free accounts get <span className="font-semibold text-text-primary">5 MCQs per subject</span>.
+          Unlock modules starting from <span className="font-semibold text-accent">Rs 199/module</span> for unlimited practice.
         </p>
 
         {/* Feature list */}
         <ul className="inline-flex flex-col items-start gap-2 mb-6 text-sm text-text-secondary">
           <li className="flex items-center gap-2">
             <Zap className="w-4 h-4 text-accent shrink-0" />
-            Unlimited MCQs across all 7 subjects
+            Unlimited MCQs in unlocked modules
           </li>
           <li className="flex items-center gap-2">
             <Zap className="w-4 h-4 text-accent shrink-0" />
-            Full question bank (10,000+ questions)
+            Pick only the modules you need
           </li>
           <li className="flex items-center gap-2">
             <Zap className="w-4 h-4 text-accent shrink-0" />
@@ -44,7 +44,7 @@ export default function PaywallBanner({ questionsRemaining }: PaywallBannerProps
           </li>
           <li className="flex items-center gap-2">
             <Zap className="w-4 h-4 text-accent shrink-0" />
-            Mock test mode (coming soon)
+            Early bird pricing available now
           </li>
         </ul>
 
@@ -52,7 +52,7 @@ export default function PaywallBanner({ questionsRemaining }: PaywallBannerProps
           <Link href="/pricing">
             <Button variant="filled" size="lg">
               <Zap className="w-4 h-4 mr-2" />
-              Upgrade to Pro
+              Unlock Modules
             </Button>
           </Link>
           <Link href="/practice">

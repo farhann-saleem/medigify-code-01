@@ -1,5 +1,5 @@
 import { Search, BookOpen, Brain } from 'lucide-react';
-import Card from '@/components/ui/Card';
+import Reveal from '@/components/ui/Reveal';
 
 export default function HowItWorks() {
   const steps = [
@@ -8,6 +8,8 @@ export default function HowItWorks() {
       icon: Search,
       title: 'Pick Your Subject',
       description: 'Filter by your year, your examining body, your weak spots.',
+      gradient: 'from-blue-500/20 to-cyan-500/20',
+      iconColor: 'text-blue-400',
     },
     {
       number: '02',
@@ -15,6 +17,8 @@ export default function HowItWorks() {
       title: 'Practice or Test',
       description:
         'Low-pressure practice with instant answers, or timed mock exams that simulate the real thing.',
+      gradient: 'from-purple-500/20 to-pink-500/20',
+      iconColor: 'text-purple-400',
     },
     {
       number: '03',
@@ -22,6 +26,8 @@ export default function HowItWorks() {
       title: 'Remember Everything',
       description:
         'Turn any question into a flashcard. Spaced repetition makes it stick.',
+      gradient: 'from-emerald-500/20 to-teal-500/20',
+      iconColor: 'text-emerald-400',
     },
   ];
 
@@ -34,28 +40,34 @@ export default function HowItWorks() {
         >
           How It Works
         </h2>
-        <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 relative">
+        <p className="text-text-secondary text-center mt-3 max-w-md mx-auto">
+          Three steps to better exam results
+        </p>
+        <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 relative">
           {/* Connection line (desktop only) */}
-          <div className="hidden md:block absolute top-1/2 left-0 right-0 h-0.5 bg-border -translate-y-1/2 z-0" />
-          {steps.map((step) => {
+          <div className="hidden md:block absolute top-[72px] left-[16.5%] right-[16.5%] h-px bg-gradient-to-r from-transparent via-border to-transparent z-0" />
+
+          {steps.map((step, i) => {
             const Icon = step.icon;
             return (
-              <Card key={step.number} className="relative z-10 text-center">
-                <span className="text-4xl font-heading font-bold text-accent/20">
-                  {step.number}
-                </span>
-                <div className="mt-4 flex justify-center">
-                  <div className="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center">
-                    <Icon className="w-6 h-6 text-accent" />
+              <Reveal key={step.number} delay={i * 150}>
+                <div className="relative z-10 text-center bg-bg-surface border border-border rounded-xl p-6 card-hover">
+                  <span className="text-4xl font-heading font-bold gradient-text opacity-40">
+                    {step.number}
+                  </span>
+                  <div className="mt-4 flex justify-center">
+                    <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${step.gradient} flex items-center justify-center`}>
+                      <Icon className={`w-6 h-6 ${step.iconColor}`} />
+                    </div>
                   </div>
+                  <h3 className="mt-4 font-heading text-xl font-semibold text-text-primary">
+                    {step.title}
+                  </h3>
+                  <p className="mt-2 text-text-secondary leading-relaxed text-sm">
+                    {step.description}
+                  </p>
                 </div>
-                <h3 className="mt-4 font-heading text-xl font-semibold text-text-primary">
-                  {step.title}
-                </h3>
-                <p className="mt-2 text-text-secondary leading-relaxed">
-                  {step.description}
-                </p>
-              </Card>
+              </Reveal>
             );
           })}
         </div>

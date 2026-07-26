@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createHmac } from 'crypto';
 import { createAdminClient } from '@/lib/supabase/admin';
+import { ALL_MODULE_IDS } from '@/lib/pricing';
 
 /**
  * Swich payment gateway callback handler.
@@ -24,7 +25,7 @@ export async function GET(request: NextRequest) {
     );
   }
 
-  // Verify checksum using SecretKey (NOT client_secret)
+  // Verify checksum
   const secretKey = process.env.SWICH_SECRET_KEY;
   if (!secretKey) {
     console.error('SWICH_SECRET_KEY not configured');
@@ -34,7 +35,6 @@ export async function GET(request: NextRequest) {
     );
   }
 
-  // Formula from docs: SWCallback:CustomerTransactionId:OrderId:Amount:Status
   const payload = `SWCallback:${customerTransactionId}:${orderId}:${amount}:${status}`;
   const expectedChecksum = createHmac('sha256', secretKey)
     .update(payload)
@@ -52,48 +52,101 @@ export async function GET(request: NextRequest) {
     );
   }
 
-  // customerTransactionId format: "medigify_<userId>_<timestamp>"
-  const parts = customerTransactionId.split('_');
-  if (parts.length < 3 || parts[0] !== 'medigify') {
-    console.error('Invalid customerTransactionId format', {
-      customerTransactionId,
-    });
+  const supabase = createAdminClient();
+
+  // Lookup purchase record by customer_transaction_id
+  const { data: purchase, error: lookupError } = await supabase
+    .from('purchases')
+    .select('*')
+    .eq('customer_transaction_id', customerTransactionId)
+    .single();
+
+  if (lookupError || !purchase) {
+    console.error('Purchase record not found', { customerTransactionId, lookupError });
     return NextResponse.json(
-      { status: 'error', message: 'Invalid transaction ID format' },
+      { status: 'error', message: 'Purchase record not found' },
       { status: 400 },
     );
   }
 
-  // UUID contains hyphens not underscores, so middle segment is the full UUID
-  // Format: medigify_<uuid>_<timestamp>
-  const timestamp = parts[parts.length - 1];
-  const userId = customerTransactionId
-    .replace('medigify_', '')
-    .replace(`_${timestamp}`, '');
-
-  const supabase = createAdminClient();
+  // Verify amount matches
+  if (String(purchase.total_amount) !== amount) {
+    console.error('Amount mismatch', {
+      expected: purchase.total_amount,
+      received: amount,
+    });
+    return NextResponse.json(
+      { status: 'error', message: 'Amount mismatch' },
+      { status: 400 },
+    );
+  }
 
   if (status.toLowerCase() === 'success') {
-    const { error } = await supabase
+    // Get current modules for merge
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('purchased_modules')
+      .eq('id', purchase.user_id)
+      .single();
+
+    const existingModules: string[] = (profile?.purchased_modules as string[]) ?? [];
+    const newModules = purchase.modules as string[];
+
+    // SET union for idempotency
+    const mergedModules = [...new Set([...existingModules, ...newModules])];
+
+    // Derive plan status
+    const isPro = ALL_MODULE_IDS.every((id) => mergedModules.includes(id));
+
+    const { error: updateError } = await supabase
       .from('profiles')
       .update({
-        plan: 'pro',
+        purchased_modules: mergedModules,
+        plan: isPro ? 'pro' : 'free',
         plan_updated_at: new Date().toISOString(),
         swich_order_id: orderId,
       })
-      .eq('id', userId);
+      .eq('id', purchase.user_id);
 
-    if (error) {
-      console.error('Failed to upgrade user plan', { userId, error });
+    if (updateError) {
+      console.error('Failed to update user profile', { userId: purchase.user_id, updateError });
       return NextResponse.json(
         { status: 'error', message: 'Database update failed' },
         { status: 500 },
       );
     }
 
-    console.log('User upgraded to pro', { userId, orderId, amount });
+    // Mark purchase completed
+    await supabase
+      .from('purchases')
+      .update({
+        status: 'completed',
+        swich_order_id: orderId,
+        completed_at: new Date().toISOString(),
+      })
+      .eq('id', purchase.id);
+
+    console.log('Modules unlocked', {
+      userId: purchase.user_id,
+      modules: newModules,
+      orderId,
+      amount,
+    });
   } else {
-    console.log('Payment not successful', { userId, status, orderId });
+    // Mark purchase failed
+    await supabase
+      .from('purchases')
+      .update({
+        status: 'failed',
+        swich_order_id: orderId,
+      })
+      .eq('id', purchase.id);
+
+    console.log('Payment not successful', {
+      userId: purchase.user_id,
+      status,
+      orderId,
+    });
   }
 
   // Swich expects this exact response

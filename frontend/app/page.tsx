@@ -9,22 +9,20 @@ import FinalCTA from '@/components/landing/FinalCTA';
 export default function HomePage() {
   return (
     <>
-      <Reveal>
-        <Hero />
-      </Reveal>
+      <Hero />
       <Reveal>
         <TrustBar />
       </Reveal>
-      <Reveal>
+      <Reveal delay={50}>
         <HowItWorks />
       </Reveal>
-      <Reveal>
+      <Reveal delay={50}>
         <Features />
       </Reveal>
-      <Reveal>
+      <Reveal delay={50}>
         <FAQ />
       </Reveal>
-      <Reveal>
+      <Reveal delay={50}>
         <FinalCTA />
       </Reveal>
 

@@ -13,9 +13,9 @@ export default function Card({
 }: CardProps) {
   return (
     <div
-      className={`bg-bg-surface border border-border rounded-lg p-6 ${
+      className={`bg-bg-surface border border-border rounded-xl p-6 ${
         hoverable
-          ? 'transition-colors duration-150 hover:bg-bg-surface-hover hover:border-accent/30'
+          ? 'card-hover gradient-border hover:border-transparent'
           : ''
       } ${className}`}
     >

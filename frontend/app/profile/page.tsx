@@ -26,7 +26,7 @@ interface ProfileData {
 
 export default function ProfilePage() {
   const router = useRouter();
-  const { isPro, error: planError } = useUserPlan();
+  const { isPro, purchasedModules, error: planError } = useUserPlan();
 
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
@@ -418,25 +418,44 @@ export default function ProfilePage() {
         </section>
 
         {/* ── Subscription ── */}
-        <section className={`rounded-xl p-6 border ${isPro ? 'bg-accent/5 border-accent/20' : 'bg-bg-surface border-border'}`}>
+        <section className={`rounded-xl p-6 border ${isPro ? 'bg-accent/5 border-accent/20' : purchasedModules.length > 0 ? 'bg-accent/5 border-accent/20' : 'bg-bg-surface border-border'}`}>
           <div className="flex items-center justify-between">
             <div>
               <h2 className="font-heading text-base font-semibold text-text-primary flex items-center gap-2">
-                <Zap className={`w-4 h-4 ${isPro ? 'text-accent' : 'text-text-secondary'}`} />
-                {isPro ? 'Pro Plan' : 'Free Plan'}
+                <Zap className={`w-4 h-4 ${isPro || purchasedModules.length > 0 ? 'text-accent' : 'text-text-secondary'}`} />
+                {isPro ? 'All Modules Unlocked' : purchasedModules.length > 0 ? `${purchasedModules.length}/5 Modules` : 'Free Plan'}
               </h2>
               <p className="text-sm text-text-secondary mt-0.5">
                 {isPro
                   ? 'Unlimited MCQs across all subjects.'
+                  : purchasedModules.length > 0
+                  ? 'Unlimited MCQs in your purchased modules.'
                   : '5 MCQs per subject per session.'}
               </p>
             </div>
             {!isPro && (
               <Link href="/pricing">
-                <Button variant="filled" size="sm">Upgrade to Pro</Button>
+                <Button variant="filled" size="sm">
+                  {purchasedModules.length > 0 ? 'Get More Modules' : 'Unlock Modules'}
+                </Button>
               </Link>
             )}
           </div>
+          {purchasedModules.length > 0 && (
+            <div className="mt-4 pt-4 border-t border-border/50">
+              <p className="text-xs font-medium text-text-secondary uppercase tracking-wider mb-2">Owned Modules</p>
+              <div className="flex flex-wrap gap-2">
+                {purchasedModules.map((mod) => (
+                  <span
+                    key={mod}
+                    className="text-xs font-medium px-2.5 py-1 rounded-full bg-accent/10 text-accent border border-accent/20"
+                  >
+                    {mod.replace(' Module', '')}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
         </section>
 
       </div>

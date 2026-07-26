@@ -94,7 +94,7 @@ function getGreeting(): string {
 
 export default function DashboardPage() {
   const router  = useRouter();
-  const { isPro, plan, error: planError } = useUserPlan();
+  const { isPro, plan, purchasedModules, error: planError } = useUserPlan();
 
   const [profile,      setProfile]      = useState<Profile | null>(null);
   const [stats,        setStats]        = useState<Stats>({ total: 0, correct: 0, accuracy: 0, streak: 0, uniqueAttempted: 0 });
@@ -252,9 +252,11 @@ export default function DashboardPage() {
             <span className={`text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider border ${
               isPro
                 ? 'bg-accent/10 text-accent border-accent/30'
+                : purchasedModules.length > 0
+                ? 'bg-accent/10 text-accent border-accent/30'
                 : 'bg-border/60 text-text-secondary border-border'
             }`}>
-              {plan}
+              {isPro ? 'All Modules' : purchasedModules.length > 0 ? `${purchasedModules.length}/5 Modules` : 'Free'}
             </span>
           </div>
           {profileDetails.length > 0 && (
@@ -316,9 +318,9 @@ export default function DashboardPage() {
             empty: stats.total === 0,
           },
         ].map(({ label, icon: Icon, color, bg, hoverBorder, value, suffix, empty }) => (
-          <div key={label} className={`bg-bg-surface border border-border rounded-xl p-5 relative overflow-hidden group ${hoverBorder} transition-colors duration-200`}>
+          <div key={label} className={`bg-bg-surface border border-border rounded-xl p-5 relative overflow-hidden group ${hoverBorder} transition-all duration-200 card-hover`}>
             <div className="flex items-center gap-2 mb-3">
-              <div className={`p-1.5 ${bg} rounded-lg`}>
+              <div className={`p-1.5 ${bg} rounded-xl`}>
                 <Icon className={`w-4 h-4 ${color}`} />
               </div>
               <span className="text-xs font-medium text-text-secondary uppercase tracking-wider">{label}</span>
@@ -437,17 +439,21 @@ export default function DashboardPage() {
             </div>
           </div>
 
-          {/* Pro upgrade card for free users */}
+          {/* Module upgrade card for users without all modules */}
           {!isPro && (
             <div className="relative overflow-hidden rounded-xl border border-accent/25 bg-gradient-to-br from-accent/10 to-bg-surface p-5">
               <div className="absolute -top-6 -right-6 w-24 h-24 bg-accent/15 rounded-full blur-2xl" />
               <div className="relative">
                 <Zap className="w-6 h-6 text-accent mb-2" />
-                <h3 className="font-heading font-semibold text-text-primary mb-1">Unlock Pro</h3>
-                <p className="text-xs text-text-secondary mb-3">Unlimited MCQs across all 7 subjects</p>
+                <h3 className="font-heading font-semibold text-text-primary mb-1">Unlock Modules</h3>
+                <p className="text-xs text-text-secondary mb-3">
+                  {purchasedModules.length > 0
+                    ? `You have ${purchasedModules.length}/5 modules. Get the rest!`
+                    : 'Starting from Rs 199/module'}
+                </p>
                 <Link href="/pricing">
                   <Button variant="filled" size="sm" className="w-full justify-center text-xs">
-                    View Plans
+                    View Modules
                   </Button>
                 </Link>
               </div>
@@ -473,7 +479,7 @@ export default function DashboardPage() {
           </div>
           <div className="w-full bg-border rounded-full h-2 mb-2">
             <div
-              className="h-2 bg-success rounded-full transition-all duration-700"
+              className="h-2 gradient-accent rounded-full transition-all duration-700"
               style={{ width: `${Math.max(progressPct, 0.2)}%` }}
             />
           </div>

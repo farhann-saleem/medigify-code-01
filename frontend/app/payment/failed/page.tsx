@@ -23,7 +23,7 @@ export default function PaymentFailedPage() {
 
       <Link
         href="/pricing"
-        className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-accent hover:bg-accent-hover text-white font-semibold transition-colors"
+        className="inline-flex items-center gap-2 px-6 py-3 rounded-xl gradient-accent hover:opacity-90 text-white font-semibold transition-all duration-200 shadow-md shadow-accent/20"
       >
         Try Again
         <ArrowRight className="w-4 h-4" />
