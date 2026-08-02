@@ -11,6 +11,7 @@ import Link from 'next/link';
 import Button from '@/components/ui/Button';
 import { createClient } from '@/lib/supabase/client';
 import { useUserPlan } from '@/hooks/useUserPlan';
+import { getDaysRemaining } from '@/lib/pricing';
 import { mapAuthErrorMessage, normalizeText } from '@/lib/auth';
 
 const ACADEMIC_YEARS = [1, 2, 3, 4, 5];
@@ -26,7 +27,7 @@ interface ProfileData {
 
 export default function ProfilePage() {
   const router = useRouter();
-  const { isPro, purchasedModules, error: planError } = useUserPlan();
+  const { isPro, purchasedModules, modulesExpiry, error: planError } = useUserPlan();
 
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
@@ -445,14 +446,23 @@ export default function ProfilePage() {
             <div className="mt-4 pt-4 border-t border-border/50">
               <p className="text-xs font-medium text-text-secondary uppercase tracking-wider mb-2">Owned Modules</p>
               <div className="flex flex-wrap gap-2">
-                {purchasedModules.map((mod) => (
-                  <span
-                    key={mod}
-                    className="text-xs font-medium px-2.5 py-1 rounded-full bg-accent/10 text-accent border border-accent/20"
-                  >
-                    {mod.replace(' Module', '')}
-                  </span>
-                ))}
+                {purchasedModules.map((mod) => {
+                  const expiryDate = modulesExpiry[mod];
+                  const daysLeft = expiryDate ? getDaysRemaining(expiryDate) : null;
+                  return (
+                    <span
+                      key={mod}
+                      className="text-xs font-medium px-2.5 py-1 rounded-full bg-accent/10 text-accent border border-accent/20"
+                    >
+                      {mod.replace(' Module', '')}
+                      {daysLeft !== null && (
+                        <span className={`ml-1.5 ${daysLeft <= 30 ? 'text-warning' : 'text-text-secondary'}`}>
+                          ({daysLeft}d)
+                        </span>
+                      )}
+                    </span>
+                  );
+                })}
               </div>
             </div>
           )}

@@ -132,7 +132,7 @@ export default function FlashcardsPage() {
             Flashcards
           </h1>
           <p className="text-text-secondary mt-2 max-w-2xl">
-            Review the questions you saved from practice. This page is using your live Supabase flashcards table, not placeholder data.
+            Questions you saved during practice for later review.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-3 min-w-[220px]">

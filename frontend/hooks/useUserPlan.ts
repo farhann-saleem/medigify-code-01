@@ -4,11 +4,13 @@ import { useState, useEffect, useCallback } from 'react';
 import { createClient } from '@/lib/supabase/client';
 import type { Plan } from '@/lib/plans';
 import { hasAllModules, hasModuleAccess } from '@/lib/plans';
+import type { ModuleExpiry } from '@/lib/pricing';
 
 interface UserPlanState {
   plan: Plan;
   isPro: boolean;
   purchasedModules: string[];
+  modulesExpiry: ModuleExpiry;
   isLoading: boolean;
   error: string | null;
   hasModule: (moduleId: string) => boolean;
@@ -19,6 +21,7 @@ export function useUserPlan(): UserPlanState {
     plan: 'free',
     isPro: false,
     purchasedModules: [],
+    modulesExpiry: {},
     isLoading: true,
     error: null,
   });
@@ -31,7 +34,7 @@ export function useUserPlan(): UserPlanState {
         process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
 
       if (isMockMode) {
-        setState({ plan: 'free', isPro: false, purchasedModules: [], isLoading: false, error: null });
+        setState({ plan: 'free', isPro: false, purchasedModules: [], modulesExpiry: {}, isLoading: false, error: null });
         return;
       }
 
@@ -41,13 +44,13 @@ export function useUserPlan(): UserPlanState {
         } = await supabase.auth.getUser();
 
         if (!user) {
-          setState({ plan: 'free', isPro: false, purchasedModules: [], isLoading: false, error: null });
+          setState({ plan: 'free', isPro: false, purchasedModules: [], modulesExpiry: {}, isLoading: false, error: null });
           return;
         }
 
         const { data: profile, error } = await supabase
           .from('profiles')
-          .select('plan, purchased_modules')
+          .select('plan, purchased_modules, modules_expiry')
           .eq('id', user.id)
           .single();
 
@@ -56,6 +59,7 @@ export function useUserPlan(): UserPlanState {
             plan: 'free',
             isPro: false,
             purchasedModules: [],
+            modulesExpiry: {},
             isLoading: false,
             error: 'Could not load your subscription status.',
           });
@@ -63,15 +67,17 @@ export function useUserPlan(): UserPlanState {
         }
 
         const modules: string[] = (profile.purchased_modules as string[]) ?? [];
+        const expiry: ModuleExpiry = (profile.modules_expiry as ModuleExpiry) ?? {};
         const isPro = hasAllModules(modules);
         const plan: Plan = isPro ? 'pro' : 'free';
 
-        setState({ plan, isPro, purchasedModules: modules, isLoading: false, error: null });
+        setState({ plan, isPro, purchasedModules: modules, modulesExpiry: expiry, isLoading: false, error: null });
       } catch {
         setState({
           plan: 'free',
           isPro: false,
           purchasedModules: [],
+          modulesExpiry: {},
           isLoading: false,
           error: 'Could not load your subscription status.',
         });

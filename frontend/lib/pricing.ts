@@ -15,6 +15,7 @@ export const PRICES = {
 } as const;
 
 export const EARLY_BIRD_DEADLINE = new Date('2026-08-15T23:59:59+05:00');
+export const MODULE_VALIDITY_DAYS = 365;
 
 const PROMO_CODES: Record<string, { discount: 'institutional' | 'ambassador'; label: string }> = {
   SHALAMAR2026: { discount: 'institutional', label: 'Shalamar Institutional' },
@@ -53,6 +54,18 @@ export function getEffectivePrice(promoCode?: string): {
   }
 
   return { price: PRICES.base, appliedDiscount: 'base', label: 'Standard' };
+}
+
+/** Expiry map: module_id -> ISO date string */
+export type ModuleExpiry = Record<string, string>;
+
+export function getDaysRemaining(expiresAt: string): number {
+  const diff = new Date(expiresAt).getTime() - Date.now();
+  return Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24)));
+}
+
+export function isModuleExpired(expiresAt: string): boolean {
+  return getDaysRemaining(expiresAt) <= 0;
 }
 
 export function calculateTotal(

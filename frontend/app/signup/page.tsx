@@ -18,6 +18,7 @@ import {
   Eye,
   EyeOff,
   Building2,
+  Phone,
 } from 'lucide-react';
 
 import Button from '@/components/ui/Button';
@@ -52,6 +53,7 @@ export default function SignupPage() {
   const [usernameAvailable, setUsernameAvailable] = useState<boolean | null>(null);
   const [usernameMessage, setUsernameMessage] = useState<string | null>(null);
   const [checkingUsername, setCheckingUsername] = useState(false);
+  const [phone, setPhone] = useState('');
   const [examiningBody, setExaminingBody] = useState('');
   const [college, setCollege] = useState('');
   const [academicYear, setAcademicYear] = useState('');
@@ -190,6 +192,13 @@ export default function SignupPage() {
       return;
     }
 
+    const trimmedPhone = phone.trim();
+    if (!trimmedPhone || trimmedPhone.length < 10) {
+      setError('Valid phone number is required.');
+      setLoading(false);
+      return;
+    }
+
     const isMockMode =
       process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
 
@@ -211,6 +220,7 @@ export default function SignupPage() {
             first_name: normalizedFirstName,
             last_name: normalizedLastName,
             username: normalizedUsernameValue,
+            phone: trimmedPhone,
             examining_body_id: examiningBody,
             college_id: normalizedCollege,
             academic_year: Number.parseInt(academicYear, 10),
@@ -507,6 +517,25 @@ export default function SignupPage() {
                       onChange={(e) => setCollege(e.target.value)}
                       className="block w-full rounded-md border-0 py-2.5 pl-10 pr-3 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm"
                       placeholder="King Edward Medical University"
+                    />
+                  </div>
+                </div>
+
+                <div>
+                  <label className="block text-sm font-medium leading-6 text-text-primary">
+                    Phone Number
+                  </label>
+                  <div className="relative mt-2">
+                    <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+                      <Phone className="h-5 w-5 text-text-secondary" />
+                    </div>
+                    <input
+                      type="tel"
+                      required
+                      value={phone}
+                      onChange={(e) => setPhone(e.target.value)}
+                      className="block w-full rounded-md border-0 py-2.5 pl-10 pr-3 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm"
+                      placeholder="03001234567"
                     />
                   </div>
                 </div>

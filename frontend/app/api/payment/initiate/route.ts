@@ -52,7 +52,7 @@ export async function POST(request: NextRequest) {
   // Check already-owned modules
   const { data: profile } = await supabase
     .from('profiles')
-    .select('plan, first_name, last_name, purchased_modules')
+    .select('plan, first_name, last_name, purchased_modules, phone')
     .eq('id', user.id)
     .single();
 
@@ -130,7 +130,7 @@ export async function POST(request: NextRequest) {
     description: `Medigify Module Purchase (${label})`,
     PayeeName: payeeName,
     Email: user.email || '',
-    MSISDN: '03000000000',
+    MSISDN: (profile?.phone as string) || '03000000000',
     currency: 'PKR',
     checksum,
     successRedirectUrl: 'https://medigify.com/payment/success',

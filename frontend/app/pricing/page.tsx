@@ -6,7 +6,7 @@ import {
   Check, Shield, FlaskConical, BarChart3,
   Tag, Loader2, Sparkles, ShoppingCart,
 } from 'lucide-react';
-import { MODULES, PRICES, isEarlyBird, getEffectivePrice, calculateTotal } from '@/lib/pricing';
+import { MODULES, PRICES, isEarlyBird, getEffectivePrice, calculateTotal, getDaysRemaining } from '@/lib/pricing';
 import { useUserPlan } from '@/hooks/useUserPlan';
 import SubscribeButton from './SubscribeButton';
 
@@ -19,7 +19,7 @@ const MODULE_ICONS: Record<string, string> = {
 };
 
 export default function PricingPage() {
-  const { purchasedModules, isLoading } = useUserPlan();
+  const { purchasedModules, modulesExpiry, isLoading } = useUserPlan();
   const [selected, setSelected] = useState<Set<string>>(new Set());
   const [promoInput, setPromoInput] = useState('');
   const [appliedPromo, setAppliedPromo] = useState<string | undefined>();
@@ -142,6 +142,8 @@ export default function PricingPage() {
               const owned = purchasedModules.includes(mod.id);
               const isSelected = selected.has(mod.id);
               const icon = MODULE_ICONS[mod.id] || '';
+              const expiryDate = modulesExpiry[mod.id];
+              const daysLeft = expiryDate ? getDaysRemaining(expiryDate) : null;
 
               return (
                 <button
@@ -170,11 +172,15 @@ export default function PricingPage() {
                   <h3 className="font-heading font-semibold text-text-primary text-sm">
                     {mod.label}
                   </h3>
-                  {!owned && (
+                  {owned && daysLeft !== null ? (
+                    <p className={`text-xs mt-1 ${daysLeft <= 30 ? 'text-warning font-medium' : 'text-text-secondary'}`}>
+                      {daysLeft} days remaining
+                    </p>
+                  ) : !owned ? (
                     <p className="text-xs text-text-secondary mt-1">
                       Rs {effectivePrice}
                     </p>
-                  )}
+                  ) : null}
                 </button>
               );
             })}

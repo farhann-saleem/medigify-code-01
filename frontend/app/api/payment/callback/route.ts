@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createHmac } from 'crypto';
 import { createAdminClient } from '@/lib/supabase/admin';
-import { ALL_MODULE_IDS } from '@/lib/pricing';
+import { ALL_MODULE_IDS, MODULE_VALIDITY_DAYS } from '@/lib/pricing';
+import type { ModuleExpiry } from '@/lib/pricing';
 
 /**
  * Swich payment gateway callback handler.
@@ -82,18 +83,29 @@ export async function GET(request: NextRequest) {
   }
 
   if (status.toLowerCase() === 'success') {
-    // Get current modules for merge
+    // Get current modules + expiry for merge
     const { data: profile } = await supabase
       .from('profiles')
-      .select('purchased_modules')
+      .select('purchased_modules, modules_expiry')
       .eq('id', purchase.user_id)
       .single();
 
     const existingModules: string[] = (profile?.purchased_modules as string[]) ?? [];
+    const existingExpiry: ModuleExpiry = (profile?.modules_expiry as ModuleExpiry) ?? {};
     const newModules = purchase.modules as string[];
 
     // SET union for idempotency
     const mergedModules = [...new Set([...existingModules, ...newModules])];
+
+    // Set expiry: 1 year from now for newly purchased modules
+    const expiryDate = new Date();
+    expiryDate.setDate(expiryDate.getDate() + MODULE_VALIDITY_DAYS);
+    const expiryIso = expiryDate.toISOString();
+
+    const mergedExpiry = { ...existingExpiry };
+    for (const mod of newModules) {
+      mergedExpiry[mod] = expiryIso;
+    }
 
     // Derive plan status
     const isPro = ALL_MODULE_IDS.every((id) => mergedModules.includes(id));
@@ -102,6 +114,7 @@ export async function GET(request: NextRequest) {
       .from('profiles')
       .update({
         purchased_modules: mergedModules,
+        modules_expiry: mergedExpiry,
         plan: isPro ? 'pro' : 'free',
         plan_updated_at: new Date().toISOString(),
         swich_order_id: orderId,
