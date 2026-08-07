@@ -94,7 +94,7 @@ function getGreeting(): string {
 
 export default function DashboardPage() {
   const router  = useRouter();
-  const { isPro, plan, purchasedModules, error: planError } = useUserPlan();
+  const { isPro, isPremium, plan, purchasedModules, error: planError } = useUserPlan();
 
   const [profile,      setProfile]      = useState<Profile | null>(null);
   const [stats,        setStats]        = useState<Stats>({ total: 0, correct: 0, accuracy: 0, streak: 0, uniqueAttempted: 0 });
@@ -256,7 +256,7 @@ export default function DashboardPage() {
                 ? 'bg-accent/10 text-accent border-accent/30'
                 : 'bg-border/60 text-text-secondary border-border'
             }`}>
-              {isPro ? 'All Modules' : purchasedModules.length > 0 ? `${purchasedModules.length}/5 Modules` : 'Free'}
+              {isPro ? (isPremium ? 'Premium' : 'Pro') : 'Free'}
             </span>
           </div>
           {profileDetails.length > 0 && (
@@ -376,7 +376,7 @@ export default function DashboardPage() {
                       <div className="flex items-center gap-2">
                         <span className={`w-2 h-2 rounded-full ${color}/60 border ${border}`} />
                         <span className="text-sm font-medium text-text-primary">{name}</span>
-                        {!isPro && <Lock className="w-3 h-3 text-text-secondary/40" />}
+                        {purchasedModules.length === 0 && <Lock className="w-3 h-3 text-text-secondary/40" />}
                       </div>
                       <span className="text-xs text-text-secondary">
                         {attempted > 0
@@ -440,14 +440,16 @@ export default function DashboardPage() {
           </div>
 
           {/* Module upgrade card for users without all modules */}
-          {!isPro && (
+          {!isPremium && (
             <div className="relative overflow-hidden rounded-xl border border-accent/25 bg-gradient-to-br from-accent/10 to-bg-surface p-5">
               <div className="absolute -top-6 -right-6 w-24 h-24 bg-accent/15 rounded-full blur-2xl" />
               <div className="relative">
                 <Zap className="w-6 h-6 text-accent mb-2" />
-                <h3 className="font-heading font-semibold text-text-primary mb-1">Unlock Modules</h3>
+                <h3 className="font-heading font-semibold text-text-primary mb-1">
+                  {isPro ? 'Get Premium' : 'Unlock Modules'}
+                </h3>
                 <p className="text-xs text-text-secondary mb-3">
-                  {purchasedModules.length > 0
+                  {isPro
                     ? `You have ${purchasedModules.length}/5 modules. Get the rest!`
                     : 'Starting from Rs 199/module'}
                 </p>

@@ -9,7 +9,12 @@ export const PLAN_LIMITS = {
   pro: {
     mcqsPerSubject: Infinity,
     label: 'Pro',
-    description: 'Unlimited MCQs across all subjects',
+    description: 'Unlimited MCQs in purchased modules',
+  },
+  premium: {
+    mcqsPerSubject: Infinity,
+    label: 'Premium',
+    description: 'Unlimited MCQs across all modules',
   },
 } as const;
 
@@ -20,9 +25,16 @@ export function hasModuleAccess(purchasedModules: string[], moduleId: string): b
   return purchasedModules.includes(moduleId);
 }
 
-/** Check if user owns all 5 modules (equivalent to old "pro") */
+/** Check if user owns all 5 modules */
 export function hasAllModules(purchasedModules: string[]): boolean {
   return ALL_MODULE_IDS.every((id) => purchasedModules.includes(id));
+}
+
+/** Derive plan from purchased modules */
+export function derivePlan(purchasedModules: string[]): Plan {
+  if (hasAllModules(purchasedModules)) return 'premium';
+  if (purchasedModules.length > 0) return 'pro';
+  return 'free';
 }
 
 /** Get MCQ limit for a given module based on ownership */

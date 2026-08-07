@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createHmac } from 'crypto';
 import { createAdminClient } from '@/lib/supabase/admin';
-import { ALL_MODULE_IDS, MODULE_VALIDITY_DAYS } from '@/lib/pricing';
+import { MODULE_VALIDITY_DAYS } from '@/lib/pricing';
+import { derivePlan } from '@/lib/plans';
 import type { ModuleExpiry } from '@/lib/pricing';
 
 /**
@@ -19,21 +20,18 @@ export async function GET(request: NextRequest) {
   const checksum = params.get('Checksum');
   const amount = params.get('Amount');
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://medigify.com';
+
   if (!status || !orderId || !customerTransactionId || !checksum || !amount) {
-    return NextResponse.json(
-      { status: 'error', message: 'Missing required parameters' },
-      { status: 400 },
-    );
+    console.error('Payment callback missing params', { status, orderId, customerTransactionId, amount });
+    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
   // Verify checksum
   const secretKey = process.env.SWICH_SECRET_KEY;
   if (!secretKey) {
     console.error('SWICH_SECRET_KEY not configured');
-    return NextResponse.json(
-      { status: 'error', message: 'Server configuration error' },
-      { status: 500 },
-    );
+    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
   const payload = `SWCallback:${customerTransactionId}:${orderId}:${amount}:${status}`;
@@ -47,10 +45,7 @@ export async function GET(request: NextRequest) {
       expected: expectedChecksum,
       received: checksum,
     });
-    return NextResponse.json(
-      { status: 'error', message: 'Invalid checksum' },
-      { status: 403 },
-    );
+    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
   const supabase = createAdminClient();
@@ -64,10 +59,7 @@ export async function GET(request: NextRequest) {
 
   if (lookupError || !purchase) {
     console.error('Purchase record not found', { customerTransactionId, lookupError });
-    return NextResponse.json(
-      { status: 'error', message: 'Purchase record not found' },
-      { status: 400 },
-    );
+    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
   // Verify amount matches
@@ -76,10 +68,7 @@ export async function GET(request: NextRequest) {
       expected: purchase.total_amount,
       received: amount,
     });
-    return NextResponse.json(
-      { status: 'error', message: 'Amount mismatch' },
-      { status: 400 },
-    );
+    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
   if (status.toLowerCase() === 'success') {
@@ -108,14 +97,14 @@ export async function GET(request: NextRequest) {
     }
 
     // Derive plan status
-    const isPro = ALL_MODULE_IDS.every((id) => mergedModules.includes(id));
+    const plan = derivePlan(mergedModules);
 
     const { error: updateError } = await supabase
       .from('profiles')
       .update({
         purchased_modules: mergedModules,
         modules_expiry: mergedExpiry,
-        plan: isPro ? 'pro' : 'free',
+        plan,
         plan_updated_at: new Date().toISOString(),
         swich_order_id: orderId,
       })
@@ -123,10 +112,7 @@ export async function GET(request: NextRequest) {
 
     if (updateError) {
       console.error('Failed to update user profile', { userId: purchase.user_id, updateError });
-      return NextResponse.json(
-        { status: 'error', message: 'Database update failed' },
-        { status: 500 },
-      );
+      return NextResponse.redirect(`${baseUrl}/payment/failed`);
     }
 
     // Mark purchase completed
@@ -160,8 +146,10 @@ export async function GET(request: NextRequest) {
       status,
       orderId,
     });
+
+    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
-  // Swich expects this exact response
-  return NextResponse.json({ status: 'success' });
+  // Redirect user to success page after processing
+  return NextResponse.redirect(`${baseUrl}/payment/success`);
 }

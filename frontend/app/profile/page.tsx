@@ -27,7 +27,7 @@ interface ProfileData {
 
 export default function ProfilePage() {
   const router = useRouter();
-  const { isPro, purchasedModules, modulesExpiry, error: planError } = useUserPlan();
+  const { isPro, isPremium, purchasedModules, modulesExpiry, error: planError } = useUserPlan();
 
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
@@ -249,7 +249,7 @@ export default function ProfilePage() {
           <div className="shrink-0">
             {isPro ? (
               <span className="flex items-center gap-1.5 text-xs font-bold px-3 py-1.5 rounded-full bg-accent/10 text-accent border border-accent/25">
-                <Zap className="w-3.5 h-3.5" /> PRO
+                <Zap className="w-3.5 h-3.5" /> {isPremium ? 'PREMIUM' : 'PRO'}
               </span>
             ) : (
               <Link href="/pricing">
@@ -424,20 +424,20 @@ export default function ProfilePage() {
             <div>
               <h2 className="font-heading text-base font-semibold text-text-primary flex items-center gap-2">
                 <Zap className={`w-4 h-4 ${isPro || purchasedModules.length > 0 ? 'text-accent' : 'text-text-secondary'}`} />
-                {isPro ? 'All Modules Unlocked' : purchasedModules.length > 0 ? `${purchasedModules.length}/5 Modules` : 'Free Plan'}
+                {isPremium ? 'Premium — All Modules Unlocked' : isPro ? `Pro — ${purchasedModules.length}/5 Modules` : 'Free Plan'}
               </h2>
               <p className="text-sm text-text-secondary mt-0.5">
-                {isPro
+                {isPremium
                   ? 'Unlimited MCQs across all subjects.'
-                  : purchasedModules.length > 0
+                  : isPro
                   ? 'Unlimited MCQs in your purchased modules.'
                   : '5 MCQs per subject per session.'}
               </p>
             </div>
-            {!isPro && (
+            {!isPremium && (
               <Link href="/pricing">
                 <Button variant="filled" size="sm">
-                  {purchasedModules.length > 0 ? 'Get More Modules' : 'Unlock Modules'}
+                  {isPro ? 'Get More Modules' : 'Unlock Modules'}
                 </Button>
               </Link>
             )}

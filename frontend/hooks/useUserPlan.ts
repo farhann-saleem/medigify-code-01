@@ -3,12 +3,13 @@
 import { useState, useEffect, useCallback } from 'react';
 import { createClient } from '@/lib/supabase/client';
 import type { Plan } from '@/lib/plans';
-import { hasAllModules, hasModuleAccess } from '@/lib/plans';
+import { derivePlan, hasModuleAccess } from '@/lib/plans';
 import type { ModuleExpiry } from '@/lib/pricing';
 
 interface UserPlanState {
   plan: Plan;
   isPro: boolean;
+  isPremium: boolean;
   purchasedModules: string[];
   modulesExpiry: ModuleExpiry;
   isLoading: boolean;
@@ -20,6 +21,7 @@ export function useUserPlan(): UserPlanState {
   const [state, setState] = useState<Omit<UserPlanState, 'hasModule'>>({
     plan: 'free',
     isPro: false,
+    isPremium: false,
     purchasedModules: [],
     modulesExpiry: {},
     isLoading: true,
@@ -34,7 +36,7 @@ export function useUserPlan(): UserPlanState {
         process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
 
       if (isMockMode) {
-        setState({ plan: 'free', isPro: false, purchasedModules: [], modulesExpiry: {}, isLoading: false, error: null });
+        setState({ plan: 'free', isPro: false, isPremium: false, purchasedModules: [], modulesExpiry: {}, isLoading: false, error: null });
         return;
       }
 
@@ -44,7 +46,7 @@ export function useUserPlan(): UserPlanState {
         } = await supabase.auth.getUser();
 
         if (!user) {
-          setState({ plan: 'free', isPro: false, purchasedModules: [], modulesExpiry: {}, isLoading: false, error: null });
+          setState({ plan: 'free', isPro: false, isPremium: false, purchasedModules: [], modulesExpiry: {}, isLoading: false, error: null });
           return;
         }
 
@@ -58,6 +60,7 @@ export function useUserPlan(): UserPlanState {
           setState({
             plan: 'free',
             isPro: false,
+            isPremium: false,
             purchasedModules: [],
             modulesExpiry: {},
             isLoading: false,
@@ -68,14 +71,16 @@ export function useUserPlan(): UserPlanState {
 
         const modules: string[] = (profile.purchased_modules as string[]) ?? [];
         const expiry: ModuleExpiry = (profile.modules_expiry as ModuleExpiry) ?? {};
-        const isPro = hasAllModules(modules);
-        const plan: Plan = isPro ? 'pro' : 'free';
+        const plan: Plan = derivePlan(modules);
+        const isPro = plan === 'pro' || plan === 'premium';
+        const isPremium = plan === 'premium';
 
-        setState({ plan, isPro, purchasedModules: modules, modulesExpiry: expiry, isLoading: false, error: null });
+        setState({ plan, isPro, isPremium, purchasedModules: modules, modulesExpiry: expiry, isLoading: false, error: null });
       } catch {
         setState({
           plan: 'free',
           isPro: false,
+          isPremium: false,
           purchasedModules: [],
           modulesExpiry: {},
           isLoading: false,

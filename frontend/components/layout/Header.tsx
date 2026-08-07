@@ -25,7 +25,7 @@ export default function Header() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [userInitial, setUserInitial] = useState('');
   const [scrolled, setScrolled] = useState(false);
-  const { isPro } = useUserPlan();
+  const { isPro, isPremium } = useUserPlan();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 10);
@@ -127,10 +127,10 @@ export default function Header() {
                 <CreditCard className="w-4 h-4" />
                 Pricing
               </Link>
-              {!isPro && (
+              {!isPremium && (
                 <Link href="/pricing" className="text-accent hover:text-accent-hover transition-colors duration-200 text-sm font-medium flex items-center gap-1.5">
                   <Zap className="w-4 h-4" />
-                  Upgrade
+                  {isPro ? 'Get Premium' : 'Upgrade'}
                 </Link>
               )}
             </nav>
@@ -143,7 +143,7 @@ export default function Header() {
               <div className="flex items-center gap-2">
                 {isPro && (
                   <span className="hidden lg:flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-full gradient-accent text-white tracking-widest uppercase">
-                    <Zap className="w-3 h-3" /> Pro
+                    <Zap className="w-3 h-3" /> {isPremium ? 'Premium' : 'Pro'}
                   </span>
                 )}
                 <Link href="/profile">
@@ -210,10 +210,10 @@ export default function Header() {
                   <CreditCard className="w-4 h-4" />
                   Pricing
                 </Link>
-                {!isPro && (
+                {!isPremium && (
                   <Link href="/pricing" onClick={() => setMobileMenuOpen(false)} className="flex items-center gap-3 py-3 px-3 rounded-lg text-accent font-medium">
                     <Zap className="w-4 h-4" />
-                    Upgrade to Pro
+                    {isPro ? 'Get Premium' : 'Upgrade to Pro'}
                   </Link>
                 )}
                 <div className="pt-2 mt-2 border-t border-border">

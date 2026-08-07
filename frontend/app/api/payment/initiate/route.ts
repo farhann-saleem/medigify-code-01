@@ -133,7 +133,7 @@ export async function POST(request: NextRequest) {
     MSISDN: (profile?.phone as string) || '03000000000',
     currency: 'PKR',
     checksum,
-    successRedirectUrl: 'https://medigify.com/payment/success',
+    successRedirectUrl: 'https://medigify.com/api/payment/callback',
   });
 
   const paymentUrl = `${SWICH_PWA_URL}?${params.toString()}`;
