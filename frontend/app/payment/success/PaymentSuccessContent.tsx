@@ -1,36 +1,57 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { CheckCircle, Loader2, ArrowRight } from 'lucide-react';
 import { useUserPlan } from '@/hooks/useUserPlan';
 
 export default function PaymentSuccessContent() {
-  const { isPro, purchasedModules, isLoading } = useUserPlan();
+  const { purchasedModules, isLoading } = useUserPlan();
   const [pollCount, setPollCount] = useState(0);
   const [unlocked, setUnlocked] = useState(false);
+  const [verifyAttempted, setVerifyAttempted] = useState(false);
+  const initialModulesRef = useRef<number | null>(null);
 
-  // Poll every 3s until modules appear (max 10 tries = 30s)
+  // Capture initial module count on first load
+  useEffect(() => {
+    if (!isLoading && initialModulesRef.current === null) {
+      initialModulesRef.current = purchasedModules.length;
+    }
+  }, [isLoading, purchasedModules]);
+
+  // Detect new modules appearing (compare to initial count)
+  useEffect(() => {
+    if (isLoading || initialModulesRef.current === null) return;
+    if (purchasedModules.length > initialModulesRef.current) {
+      setUnlocked(true);
+    }
+  }, [purchasedModules, isLoading]);
+
+  // Poll: first wait for callback (polls 1-4), then call verify API as fallback (poll 5+)
   useEffect(() => {
     if (unlocked || isLoading) return;
+    if (pollCount >= 15) return;
 
-    if (purchasedModules.length > 0) {
-      setUnlocked(true);
-      return;
-    }
+    const timer = setTimeout(async () => {
+      // After poll 5 (~15s), call verify endpoint to force-process pending purchases
+      if (pollCount >= 4 && !verifyAttempted) {
+        try {
+          await fetch('/api/payment/verify', { method: 'POST' });
+          setVerifyAttempted(true);
+        } catch {
+          // ignore, will retry on next poll
+        }
+      }
 
-    if (pollCount >= 10) return;
-
-    const timer = setTimeout(() => {
       setPollCount((c) => c + 1);
-      // Force re-fetch by triggering visibility change
+      // Trigger useUserPlan re-fetch
       window.dispatchEvent(new Event('visibilitychange'));
     }, 3000);
 
     return () => clearTimeout(timer);
-  }, [pollCount, purchasedModules, isLoading, unlocked]);
+  }, [pollCount, isLoading, unlocked, verifyAttempted]);
 
-  const timedOut = pollCount >= 10 && !unlocked;
+  const timedOut = pollCount >= 15 && !unlocked;
 
   return (
     <div className="max-w-lg mx-auto px-4 py-24 text-center">

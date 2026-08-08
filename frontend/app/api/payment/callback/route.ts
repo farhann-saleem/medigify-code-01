@@ -68,13 +68,13 @@ export async function GET(request: NextRequest) {
   }
 
   // Skip if already processed (idempotency for Swich retries)
-  if (purchase.status === 'completed') {
-    console.log('Purchase already completed, skipping', { customerTransactionId });
+  if (purchase.status === 'completed' || purchase.status === 'failed') {
+    console.log('Purchase already processed, skipping', { customerTransactionId, purchaseStatus: purchase.status });
     return NextResponse.json({ status: 'success' });
   }
 
-  // Verify amount matches
-  if (String(purchase.total_amount) !== amount) {
+  // Verify amount matches (compare as numbers — Swich sends decimal like "199.0000", we store integer 199)
+  if (parseFloat(String(purchase.total_amount)) !== parseFloat(amount)) {
     console.error('Amount mismatch', {
       expected: purchase.total_amount,
       received: amount,
@@ -84,11 +84,16 @@ export async function GET(request: NextRequest) {
 
   if (status.toLowerCase() === 'success') {
     // Get current modules + expiry for merge
-    const { data: profile } = await supabase
+    const { data: profile, error: profileError } = await supabase
       .from('profiles')
       .select('purchased_modules, modules_expiry')
       .eq('id', purchase.user_id)
       .single();
+
+    if (profileError) {
+      console.error('Profile not found for user', { userId: purchase.user_id, profileError });
+      return NextResponse.json({ status: 'error', message: 'Profile not found' }, { status: 500 });
+    }
 
     const existingModules: string[] = (profile?.purchased_modules as string[]) ?? [];
     const existingExpiry: ModuleExpiry = (profile?.modules_expiry as ModuleExpiry) ?? {};
