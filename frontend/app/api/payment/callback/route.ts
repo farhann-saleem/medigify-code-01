@@ -7,7 +7,9 @@ import type { ModuleExpiry } from '@/lib/pricing';
 
 /**
  * Swich payment gateway callback handler.
- * Swich sends HTTP GET with query params after payment completes.
+ * Swich sends server-to-server HTTP GET with query params after payment completes.
+ * Must return { "status": "success" } JSON — Swich retries 5x if no 2xx response.
+ *
  * Callback params: PaymentType, Status, OrderId, CustomerTransactionId, Amount, Checksum
  * Checksum formula: SWCallback:CustomerTransactionId:OrderId:Amount:Status
  */
@@ -20,18 +22,21 @@ export async function GET(request: NextRequest) {
   const checksum = params.get('Checksum');
   const amount = params.get('Amount');
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://medigify.com';
+  // Debug: log ALL params Swich sends
+  const allParams: Record<string, string> = {};
+  params.forEach((value, key) => { allParams[key] = value; });
+  console.log('Swich callback raw params:', JSON.stringify(allParams));
 
   if (!status || !orderId || !customerTransactionId || !checksum || !amount) {
     console.error('Payment callback missing params', { status, orderId, customerTransactionId, amount });
-    return NextResponse.redirect(`${baseUrl}/payment/failed`);
+    return NextResponse.json({ status: 'error', message: 'Missing required parameters' }, { status: 400 });
   }
 
   // Verify checksum
   const secretKey = process.env.SWICH_SECRET_KEY;
   if (!secretKey) {
     console.error('SWICH_SECRET_KEY not configured');
-    return NextResponse.redirect(`${baseUrl}/payment/failed`);
+    return NextResponse.json({ status: 'error', message: 'Server configuration error' }, { status: 500 });
   }
 
   const payload = `SWCallback:${customerTransactionId}:${orderId}:${amount}:${status}`;
@@ -45,7 +50,7 @@ export async function GET(request: NextRequest) {
       expected: expectedChecksum,
       received: checksum,
     });
-    return NextResponse.redirect(`${baseUrl}/payment/failed`);
+    return NextResponse.json({ status: 'error', message: 'Invalid checksum' }, { status: 403 });
   }
 
   const supabase = createAdminClient();
@@ -59,7 +64,13 @@ export async function GET(request: NextRequest) {
 
   if (lookupError || !purchase) {
     console.error('Purchase record not found', { customerTransactionId, lookupError });
-    return NextResponse.redirect(`${baseUrl}/payment/failed`);
+    return NextResponse.json({ status: 'error', message: 'Purchase record not found' }, { status: 400 });
+  }
+
+  // Skip if already processed (idempotency for Swich retries)
+  if (purchase.status === 'completed') {
+    console.log('Purchase already completed, skipping', { customerTransactionId });
+    return NextResponse.json({ status: 'success' });
   }
 
   // Verify amount matches
@@ -68,7 +79,7 @@ export async function GET(request: NextRequest) {
       expected: purchase.total_amount,
       received: amount,
     });
-    return NextResponse.redirect(`${baseUrl}/payment/failed`);
+    return NextResponse.json({ status: 'error', message: 'Amount mismatch' }, { status: 400 });
   }
 
   if (status.toLowerCase() === 'success') {
@@ -112,7 +123,7 @@ export async function GET(request: NextRequest) {
 
     if (updateError) {
       console.error('Failed to update user profile', { userId: purchase.user_id, updateError });
-      return NextResponse.redirect(`${baseUrl}/payment/failed`);
+      return NextResponse.json({ status: 'error', message: 'Database update failed' }, { status: 500 });
     }
 
     // Mark purchase completed
@@ -128,6 +139,7 @@ export async function GET(request: NextRequest) {
     console.log('Modules unlocked', {
       userId: purchase.user_id,
       modules: newModules,
+      plan,
       orderId,
       amount,
     });
@@ -146,10 +158,8 @@ export async function GET(request: NextRequest) {
       status,
       orderId,
     });
-
-    return NextResponse.redirect(`${baseUrl}/payment/failed`);
   }
 
-  // Redirect user to success page after processing
-  return NextResponse.redirect(`${baseUrl}/payment/success`);
+  // Swich expects this exact response
+  return NextResponse.json({ status: 'success' });
 }
